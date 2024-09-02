@@ -14,6 +14,9 @@ async function scrapeLinksAndSaveHTML(folderPath) {
     const linksJsonFilePath = path.join(folderPath, 'links.json');
     const linksData = JSON.parse(fs.readFileSync(linksJsonFilePath, 'utf-8'));
 
+    // Array to hold links that result in errors or unknown cards
+    const errorLinks = [];
+
     for (const link of linksData) {
         try {
             await page.goto(link, { waitUntil: 'networkidle2' });
@@ -40,7 +43,6 @@ async function scrapeLinksAndSaveHTML(folderPath) {
                 if (nextButton) {
                     await page.waitForSelector('tbody');
                     await nextButton.click();
-                    // await page.waitForTimeout(3000); // Adding a delay to wait for the page to load completely
                     await page.waitForSelector('tbody'); // Wait for the page to load
                 } else {
                     hasNextPage = false;
@@ -58,9 +60,23 @@ async function scrapeLinksAndSaveHTML(folderPath) {
             fs.writeFileSync(htmlFilePath, consolidatedHTML, 'utf-8');
 
             console.log(`Consolidated HTML content for ${cardName} saved to ${htmlFilePath}`);
+
+            // Add to error links if the card name is 'unknown_card'
+            //if (cardName === 'unknown_card') {
+            //    errorLinks.push(link);
+            //}
         } catch (e) {
             console.log(`Could not extract content from ${link}: ${e}`);
+            // Add to error links if an error occurs
+            errorLinks.push(link);
         }
+    }
+
+    // Write the error links to a JSON file
+    if (errorLinks.length > 0) {
+        const errorLinksFilePath = path.join(folderPath, 'error_links.json');
+        fs.writeFileSync(errorLinksFilePath, JSON.stringify(errorLinks, null, 2), 'utf-8');
+        console.log(`Error links saved to ${errorLinksFilePath}`);
     }
 
     await browser.close();
@@ -86,3 +102,4 @@ async function processAllFolders(basePath) {
 // Usage
 const basePath = __dirname; // Assuming this script is in the same directory as the Set_1, Set_2, ... folders
 processAllFolders(basePath);
+
