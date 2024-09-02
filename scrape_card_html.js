@@ -84,7 +84,16 @@ async function scrapeLinksAndSaveHTML(folderPath) {
 }
 
 async function processAllFolders(basePath) {
-    const folderNames = fs.readdirSync(basePath).filter(name => fs.lstatSync(path.join(basePath, name)).isDirectory());
+    const folderNames = fs.readdirSync(basePath).filter(name => {
+        if (fs.lstatSync(path.join(basePath, name)).isDirectory()) {
+            const match = name.match(/^Set_(\d+)$/);
+            if (match) {
+                const setNumber = parseInt(match[1], 10);
+                return setNumber >= 13 && setNumber <= 20;
+            }
+        }
+        return false;
+    });
 
     for (const folderName of folderNames) {
         const folderPath = path.join(basePath, folderName);
