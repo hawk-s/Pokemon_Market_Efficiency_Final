@@ -17,13 +17,14 @@ async function scrapeLinksAndSaveHTML(folderPath) {
     for (const link of linksData) {
         try {
             await page.goto(link, { waitUntil: 'networkidle2' });
+            await page.waitForSelector('tbody');
 
             // Check if the select element exists and set the number of observations per page to 250 if possible
             const selectExists = await page.$('select[name="itemResults_length"]');
             if (selectExists) {
-                await page.waitForSelector('table');
+                await page.waitForSelector('tbody');
                 await page.select('select[name="itemResults_length"]', '250');
-                await page.waitForSelector('table'); // Wait for the page to load
+                await page.waitForSelector('tbody'); // Wait for the page to load
             }
 
             let consolidatedHTML = '';
@@ -37,10 +38,10 @@ async function scrapeLinksAndSaveHTML(folderPath) {
                 // Check if there is a next page and navigate to it
                 const nextButton = await page.$('a#itemResults_next:not(.disabled)');
                 if (nextButton) {
-                    await page.waitForSelector('table');
+                    await page.waitForSelector('tbody');
                     await nextButton.click();
                     // await page.waitForTimeout(3000); // Adding a delay to wait for the page to load completely
-                    await page.waitForSelector('table'); // Wait for the page to load
+                    await page.waitForSelector('tbody'); // Wait for the page to load
                 } else {
                     hasNextPage = false;
                 }
