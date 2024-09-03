@@ -49,6 +49,10 @@ async function scrapeLinksAndSaveHTML(folderPath) {
                 }
             }
 
+            // Final page capture
+            const finalPageContent = await page.evaluate(() => document.documentElement.outerHTML);
+            consolidatedHTML += finalPageContent;
+
             // Extract the card name from the consolidated HTML
             const cardName = await page.evaluate(() => {
                 const cardNameElement = document.querySelector('h1.text-xlarge.text-semibold');
@@ -89,7 +93,7 @@ async function processAllFolders(basePath) {
             const match = name.match(/^Set_(\d+)$/);
             if (match) {
                 const setNumber = parseInt(match[1], 10);
-                return setNumber >= 13 && setNumber <= 20;
+                return setNumber >= 1 && setNumber <= 151;
             }
         }
         return false;
