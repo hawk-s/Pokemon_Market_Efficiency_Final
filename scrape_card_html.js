@@ -49,6 +49,8 @@ async function scrapeLinksAndSaveHTML(folderPath) {
                 }
             }
 
+            await page.waitForSelector('tbody');
+
             // Final page capture
             const finalPageContent = await page.evaluate(() => document.documentElement.outerHTML);
             consolidatedHTML += finalPageContent;
