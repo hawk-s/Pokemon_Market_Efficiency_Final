@@ -109,7 +109,7 @@ async function processAllFolders(basePath) {
             console.log(`Processing folder: ${folderPath}`);
             await scrapeLinksAndSaveHTML(folderPath);
         } else {
-            console.log(`No links.json found in folder: ${folderPath}`);
+            console.log(`No error_links.json found in folder: ${folderPath}`);
         }
     }
 }
