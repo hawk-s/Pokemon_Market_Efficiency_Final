@@ -49,7 +49,7 @@ async function scrapeLinksAndSaveHTML(folderPath) {
                 }
             }
 
-            // await page.waitForSelector('tbody');
+            await page.waitForSelector('tbody');
 
             // Final page capture
             const finalPageContent = await page.evaluate(() => document.documentElement.outerHTML);
@@ -95,7 +95,7 @@ async function processAllFolders(basePath) {
             const match = name.match(/^Set_(\d+)$/);
             if (match) {
                 const setNumber = parseInt(match[1], 10);
-                return setNumber >= 1 && setNumber <= 151;
+                return setNumber >= 131 && setNumber <= 151;
             }
         }
         return false;
