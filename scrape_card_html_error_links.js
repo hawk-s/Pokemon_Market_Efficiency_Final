@@ -11,7 +11,7 @@ async function scrapeLinksAndSaveHTML(folderPath) {
     const page = await browser.newPage();
     
     // Read the links from the JSON file
-    const linksJsonFilePath = path.join(folderPath, 'links.json');
+    const linksJsonFilePath = path.join(folderPath, 'error_links.json');
     const linksData = JSON.parse(fs.readFileSync(linksJsonFilePath, 'utf-8'));
 
     // Array to hold links that result in errors or unknown cards
@@ -80,7 +80,7 @@ async function scrapeLinksAndSaveHTML(folderPath) {
 
     // Write the error links to a JSON file
     if (errorLinks.length > 0) {
-        const errorLinksFilePath = path.join(folderPath, 'error_links.json');
+        const errorLinksFilePath = path.join(folderPath, 'error_links2.json');
         fs.writeFileSync(errorLinksFilePath, JSON.stringify(errorLinks, null, 2), 'utf-8');
         console.log(`Error links saved to ${errorLinksFilePath}`);
     }
