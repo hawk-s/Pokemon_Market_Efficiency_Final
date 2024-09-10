@@ -11,7 +11,7 @@ async function scrapeCardData() {
     const page = await browser.newPage();
 
     // Visit the URL
-    await page.goto('https://www.psacard.com/auctionprices/non-sport-cards/1997-pokemon-japanese-topsun/charizard/values/2021515', { waitUntil: 'networkidle2' });
+    await page.goto("https://www.psacard.com/auctionprices/tcg-cards/2016-pokemon-xy-evolutions/charizard-holo/values/2354697", { waitUntil: 'networkidle2' });
 
     // Wait for the table body to load
     await page.waitForSelector('tbody');
@@ -46,7 +46,7 @@ async function scrapeCardData() {
     }
 
     // Save the HTML content to a file
-    fs.writeFileSync('charizard-blue-back.html', fullHtml);
+    fs.writeFileSync('charizard-xy-evolutions.html', fullHtml);
 
     await browser.close();
 }
