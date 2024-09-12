@@ -38,12 +38,20 @@ async function scrapeLinksAndSaveHTML(folderPath) {
                 const pageContent = await page.evaluate(() => document.documentElement.outerHTML);
                 consolidatedHTML += pageContent;
 
+
+                await new Promise(resolve => setTimeout(resolve, 1000));  // Pauses for 2 seconds
+                await page.waitForSelector('table');
+                await page.waitForSelector('tbody');
+
                 // Check if there is a next page and navigate to it
                 const nextButton = await page.$('a#itemResults_next:not(.disabled)');
                 if (nextButton) {
                     await page.waitForSelector('table');
-                    await page.waitForSelector('tbody');
-                    //await page.waitForTimeout(2000);
+                    //await page.waitForSelector('thead');
+                    //await new Promise(resolve => setTimeout(resolve, 1000));  // Pauses for 2 seconds
+                    await page.waitForSelector('tbody');                                                                                                                                                                                                       await page.waitForSelector('a#itemResults_next', { visible: true });
+
+                    
                     await nextButton.click();
                     
                     await page.waitForSelector('tbody'); // Wait for the page to load
