@@ -1,0 +1,68 @@
+[
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/6026533985465917067/images/1.jpg",
+        "date": "4/20/2023",
+        "price": "$11.00",
+        "grade": "8",
+        "lot_number": "4009",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "auction_type": "Auction",
+        "cert_number": "72609150"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3437554383771490215/-402962427805166468.jpg",
+        "date": "1/25/2023",
+        "price": "$47.59",
+        "grade": "9",
+        "lot_number": "266085417092",
+        "auction_house": "eBay",
+        "auction_seller": "pokehut",
+        "auction_type": "Auction",
+        "cert_number": "57849353"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2306869264478150896/2250825238185422088.jpg",
+        "date": "1/15/2023",
+        "price": "$16.00",
+        "grade": "8",
+        "lot_number": "225339319681",
+        "auction_house": "eBay",
+        "auction_seller": "alexhogenson",
+        "auction_type": "Auction",
+        "cert_number": "66632880"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/6026533985465917067/images/1.jpg",
+        "date": "4/20/2023",
+        "price": "$11.00",
+        "grade": "8",
+        "lot_number": "4009",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "auction_type": "Auction",
+        "cert_number": "72609150"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3437554383771490215/-402962427805166468.jpg",
+        "date": "1/25/2023",
+        "price": "$47.59",
+        "grade": "9",
+        "lot_number": "266085417092",
+        "auction_house": "eBay",
+        "auction_seller": "pokehut",
+        "auction_type": "Auction",
+        "cert_number": "57849353"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2306869264478150896/2250825238185422088.jpg",
+        "date": "1/15/2023",
+        "price": "$16.00",
+        "grade": "8",
+        "lot_number": "225339319681",
+        "auction_house": "eBay",
+        "auction_seller": "alexhogenson",
+        "auction_type": "Auction",
+        "cert_number": "66632880"
+    }
+]

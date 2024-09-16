@@ -1,0 +1,90 @@
+[
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6608454649298971802/6560806344158871598/images/1.jpg",
+        "date": "6/1/2023",
+        "price": "$11.00",
+        "grade": "8",
+        "lot_number": "5626",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction May 23 - Jun 1",
+        "auction_type": "Auction",
+        "cert_number": "75112139"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-147235852305480737/-3100956739939393959.jpg",
+        "date": "5/29/2020",
+        "price": "$19.99",
+        "grade": "10",
+        "lot_number": "112630976651",
+        "auction_house": "eBay",
+        "auction_seller": "pokemon_revolution",
+        "auction_type": "Best Offer",
+        "cert_number": "27937388"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/306123483163160347/-1614360240090904606.jpg",
+        "date": "6/6/2018",
+        "price": "$11.35",
+        "grade": "10",
+        "lot_number": "142811259439",
+        "auction_house": "eBay",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "cert_number": "40771405"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7817556691701109193/6093449776407765390.jpg",
+        "date": "10/10/2017",
+        "price": "$7.10",
+        "grade": "10",
+        "lot_number": "372094809453",
+        "auction_house": "eBay",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "27868397"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6608454649298971802/6560806344158871598/images/1.jpg",
+        "date": "6/1/2023",
+        "price": "$11.00",
+        "grade": "8",
+        "lot_number": "5626",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction May 23 - Jun 1",
+        "auction_type": "Auction",
+        "cert_number": "75112139"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-147235852305480737/-3100956739939393959.jpg",
+        "date": "5/29/2020",
+        "price": "$19.99",
+        "grade": "10",
+        "lot_number": "112630976651",
+        "auction_house": "eBay",
+        "auction_seller": "pokemon_revolution",
+        "auction_type": "Best Offer",
+        "cert_number": "27937388"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/306123483163160347/-1614360240090904606.jpg",
+        "date": "6/6/2018",
+        "price": "$11.35",
+        "grade": "10",
+        "lot_number": "142811259439",
+        "auction_house": "eBay",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "cert_number": "40771405"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7817556691701109193/6093449776407765390.jpg",
+        "date": "10/10/2017",
+        "price": "$7.10",
+        "grade": "10",
+        "lot_number": "372094809453",
+        "auction_house": "eBay",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "27868397"
+    }
+]

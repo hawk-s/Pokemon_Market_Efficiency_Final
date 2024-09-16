@@ -1,0 +1,68 @@
+[
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/6840051497477776429/images/1.jpg",
+        "date": "5/11/2023",
+        "price": "$12.00",
+        "grade": "6",
+        "lot_number": "4807",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "auction_type": "Auction",
+        "cert_number": "71339317"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1106967658500939552/6082208425937545482.jpg",
+        "date": "6/12/2021",
+        "price": "$14.50",
+        "grade": "8",
+        "lot_number": "154480788847",
+        "auction_house": "eBay",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "cert_number": "47558581"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/212270102642729394/-6877769399416316722.jpg",
+        "date": "6/5/2020",
+        "price": "$24.99",
+        "grade": "9",
+        "lot_number": "283446223116",
+        "auction_house": "eBay",
+        "auction_seller": "cooltrainerryan",
+        "auction_type": "Best Offer",
+        "cert_number": "42734603"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/6840051497477776429/images/1.jpg",
+        "date": "5/11/2023",
+        "price": "$12.00",
+        "grade": "6",
+        "lot_number": "4807",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "auction_type": "Auction",
+        "cert_number": "71339317"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1106967658500939552/6082208425937545482.jpg",
+        "date": "6/12/2021",
+        "price": "$14.50",
+        "grade": "8",
+        "lot_number": "154480788847",
+        "auction_house": "eBay",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "cert_number": "47558581"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/212270102642729394/-6877769399416316722.jpg",
+        "date": "6/5/2020",
+        "price": "$24.99",
+        "grade": "9",
+        "lot_number": "283446223116",
+        "auction_house": "eBay",
+        "auction_seller": "cooltrainerryan",
+        "auction_type": "Best Offer",
+        "cert_number": "42734603"
+    }
+]

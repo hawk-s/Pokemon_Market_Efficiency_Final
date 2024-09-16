@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/4554665159320743903/images/1.jpg",
+        "date": "5/11/2023",
+        "price": "$18.00",
+        "grade": "8",
+        "lot_number": "4764",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "auction_type": "Auction",
+        "cert_number": "71339319"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/842418765838250035/1077367227812159017.jpg",
+        "date": "4/18/2023",
+        "price": "$13.72",
+        "grade": "9",
+        "lot_number": "115766095716",
+        "auction_house": "eBay",
+        "auction_seller": "tannah12",
+        "auction_type": "Auction",
+        "cert_number": "60764594"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/4554665159320743903/images/1.jpg",
+        "date": "5/11/2023",
+        "price": "$18.00",
+        "grade": "8",
+        "lot_number": "4764",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "auction_type": "Auction",
+        "cert_number": "71339319"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/842418765838250035/1077367227812159017.jpg",
+        "date": "4/18/2023",
+        "price": "$13.72",
+        "grade": "9",
+        "lot_number": "115766095716",
+        "auction_house": "eBay",
+        "auction_seller": "tannah12",
+        "auction_type": "Auction",
+        "cert_number": "60764594"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3694134278498413845/-3611746034973448443/images/1.jpg",
+        "date": "6/14/2023",
+        "price": "$570,000.00",
+        "grade": "8.5",
+        "lot_number": "10",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Goldin 100: Part 1",
+        "auction_type": "Auction",
+        "cert_number": "74502045"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/1639087525137970781/-6841947720907267100/images/1.jpg",
+        "date": "10/6/2022",
+        "price": "$480,000.00",
+        "grade": "8",
+        "lot_number": "1",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "2022 September Goldin Trading Card Game Exclusive ",
+        "auction_type": "Auction",
+        "cert_number": "54200518"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1105402165238228327/-7354116367389188861.jpg",
+        "date": "2/28/2021",
+        "price": "$375,000.00",
+        "grade": "7",
+        "lot_number": "143951978697",
+        "auction_house": "eBay",
+        "auction_seller": "pwcc_auctions",
+        "auction_type": "Auction",
+        "cert_number": "53241600"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3694134278498413845/-3611746034973448443/images/1.jpg",
+        "date": "6/14/2023",
+        "price": "$570,000.00",
+        "grade": "8.5",
+        "lot_number": "10",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Goldin 100: Part 1",
+        "auction_type": "Auction",
+        "cert_number": "74502045"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/1639087525137970781/-6841947720907267100/images/1.jpg",
+        "date": "10/6/2022",
+        "price": "$480,000.00",
+        "grade": "8",
+        "lot_number": "1",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "2022 September Goldin Trading Card Game Exclusive ",
+        "auction_type": "Auction",
+        "cert_number": "54200518"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1105402165238228327/-7354116367389188861.jpg",
+        "date": "2/28/2021",
+        "price": "$375,000.00",
+        "grade": "7",
+        "lot_number": "143951978697",
+        "auction_house": "eBay",
+        "auction_seller": "pwcc_auctions",
+        "auction_type": "Auction",
+        "cert_number": "53241600"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-8138273203768040981/-728197722204502253/images/1.jpg",
+        "date": "2/9/2023",
+        "price": "$25.00",
+        "grade": "9",
+        "lot_number": "2339",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Jan 31 - Feb 9",
+        "auction_type": "Auction",
+        "cert_number": "70015050"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2696978617372380256/7212717348924755965.jpg",
+        "date": "1/12/2023",
+        "price": "$21.03",
+        "grade": "8",
+        "lot_number": "185717343569",
+        "auction_house": "eBay",
+        "auction_seller": "marro-4916",
+        "auction_type": "Auction",
+        "cert_number": "68661241"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1381724222142836253/-239122295065941185.jpg",
+        "date": "9/13/2022",
+        "price": "$16.18",
+        "grade": "6",
+        "lot_number": "155149805065",
+        "auction_house": "eBay",
+        "auction_seller": "tannah12",
+        "auction_type": "Auction",
+        "cert_number": "60216446"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8260105108867608434/-7442484481841153834.jpg",
+        "date": "2/12/2021",
+        "price": "$100.00",
+        "grade": "9",
+        "lot_number": "353383908129",
+        "auction_house": "eBay",
+        "auction_seller": "rdtarr",
+        "auction_type": "Best Offer",
+        "cert_number": "45601772"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8161309042789851341/-4952183401051965334.jpg",
+        "date": "10/12/2020",
+        "price": "$13.50",
+        "grade": "7",
+        "lot_number": "254740357500",
+        "auction_house": "eBay",
+        "auction_seller": "danktron",
+        "auction_type": "Auction",
+        "cert_number": "46517610"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-8138273203768040981/-728197722204502253/images/1.jpg",
+        "date": "2/9/2023",
+        "price": "$25.00",
+        "grade": "9",
+        "lot_number": "2339",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Jan 31 - Feb 9",
+        "auction_type": "Auction",
+        "cert_number": "70015050"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2696978617372380256/7212717348924755965.jpg",
+        "date": "1/12/2023",
+        "price": "$21.03",
+        "grade": "8",
+        "lot_number": "185717343569",
+        "auction_house": "eBay",
+        "auction_seller": "marro-4916",
+        "auction_type": "Auction",
+        "cert_number": "68661241"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1381724222142836253/-239122295065941185.jpg",
+        "date": "9/13/2022",
+        "price": "$16.18",
+        "grade": "6",
+        "lot_number": "155149805065",
+        "auction_house": "eBay",
+        "auction_seller": "tannah12",
+        "auction_type": "Auction",
+        "cert_number": "60216446"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8260105108867608434/-7442484481841153834.jpg",
+        "date": "2/12/2021",
+        "price": "$100.00",
+        "grade": "9",
+        "lot_number": "353383908129",
+        "auction_house": "eBay",
+        "auction_seller": "rdtarr",
+        "auction_type": "Best Offer",
+        "cert_number": "45601772"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8161309042789851341/-4952183401051965334.jpg",
+        "date": "10/12/2020",
+        "price": "$13.50",
+        "grade": "7",
+        "lot_number": "254740357500",
+        "auction_house": "eBay",
+        "auction_seller": "danktron",
+        "auction_type": "Auction",
+        "cert_number": "46517610"
+    }
+]
