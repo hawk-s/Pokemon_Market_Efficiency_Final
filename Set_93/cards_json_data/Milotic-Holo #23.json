@@ -1,0 +1,200 @@
+[
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6017128071725520029/9221514466012249536/images/1.jpg",
+        "date": "5/25/2023",
+        "price": "$6.00",
+        "grade": "7",
+        "lot_number": "4816",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction May 16 - May 25",
+        "auction_type": "Auction",
+        "cert_number": "75490494"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7893058002280575264/9154216388162587379.jpg",
+        "date": "1/13/2023",
+        "price": "$7.99",
+        "grade": "7",
+        "lot_number": "255909936393",
+        "auction_house": "eBay",
+        "auction_seller": "onepizza",
+        "auction_type": "Auction",
+        "cert_number": "59843100"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4774979620823243024/5188407416424452275.jpg",
+        "date": "12/13/2022",
+        "price": "$12.50",
+        "grade": "9",
+        "lot_number": "255865532566",
+        "auction_house": "eBay",
+        "auction_seller": "onepizza",
+        "auction_type": "Auction",
+        "cert_number": "59798497"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8173041872709824041/2296782345668727153.jpg",
+        "date": "11/30/2021",
+        "price": "$13.00",
+        "grade": "9",
+        "lot_number": "133942880914",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "auction_type": "Auction",
+        "cert_number": "49315865"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-981436564289269320/2296782345668727153.jpg",
+        "date": "11/15/2021",
+        "price": "$41.00",
+        "grade": "9",
+        "lot_number": "133927992583",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "auction_type": "Auction",
+        "cert_number": "49315865"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7905941116723409628/4951223554188034424.jpg",
+        "date": "10/10/2021",
+        "price": "$20.50",
+        "grade": "9",
+        "lot_number": "133893595075",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "auction_type": "Auction",
+        "cert_number": "50313069"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8926159598119393534/-4139915541680564290.jpg",
+        "date": "8/1/2021",
+        "price": "$65.00",
+        "grade": "9 (MC)",
+        "lot_number": "224544128318",
+        "auction_house": "eBay",
+        "auction_seller": "springcreek",
+        "auction_type": "Auction",
+        "cert_number": "26304408"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-31906486360943035/2261123859690435549.jpg",
+        "date": "9/9/2018",
+        "price": "$1.49",
+        "grade": "8",
+        "lot_number": "292708336100",
+        "auction_house": "eBay",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "cert_number": "41090665"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-1636217316784913625/3584138630811268995.jpg",
+        "date": "6/9/2017",
+        "price": "$7.00",
+        "grade": "9",
+        "lot_number": "252722336678",
+        "auction_house": "eBay",
+        "auction_seller": "ultracards",
+        "auction_type": "Buy It Now",
+        "cert_number": "24808869"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6017128071725520029/9221514466012249536/images/1.jpg",
+        "date": "5/25/2023",
+        "price": "$6.00",
+        "grade": "7",
+        "lot_number": "4816",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction May 16 - May 25",
+        "auction_type": "Auction",
+        "cert_number": "75490494"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7893058002280575264/9154216388162587379.jpg",
+        "date": "1/13/2023",
+        "price": "$7.99",
+        "grade": "7",
+        "lot_number": "255909936393",
+        "auction_house": "eBay",
+        "auction_seller": "onepizza",
+        "auction_type": "Auction",
+        "cert_number": "59843100"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4774979620823243024/5188407416424452275.jpg",
+        "date": "12/13/2022",
+        "price": "$12.50",
+        "grade": "9",
+        "lot_number": "255865532566",
+        "auction_house": "eBay",
+        "auction_seller": "onepizza",
+        "auction_type": "Auction",
+        "cert_number": "59798497"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8173041872709824041/2296782345668727153.jpg",
+        "date": "11/30/2021",
+        "price": "$13.00",
+        "grade": "9",
+        "lot_number": "133942880914",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "auction_type": "Auction",
+        "cert_number": "49315865"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-981436564289269320/2296782345668727153.jpg",
+        "date": "11/15/2021",
+        "price": "$41.00",
+        "grade": "9",
+        "lot_number": "133927992583",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "auction_type": "Auction",
+        "cert_number": "49315865"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7905941116723409628/4951223554188034424.jpg",
+        "date": "10/10/2021",
+        "price": "$20.50",
+        "grade": "9",
+        "lot_number": "133893595075",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "auction_type": "Auction",
+        "cert_number": "50313069"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8926159598119393534/-4139915541680564290.jpg",
+        "date": "8/1/2021",
+        "price": "$65.00",
+        "grade": "9 (MC)",
+        "lot_number": "224544128318",
+        "auction_house": "eBay",
+        "auction_seller": "springcreek",
+        "auction_type": "Auction",
+        "cert_number": "26304408"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-31906486360943035/2261123859690435549.jpg",
+        "date": "9/9/2018",
+        "price": "$1.49",
+        "grade": "8",
+        "lot_number": "292708336100",
+        "auction_house": "eBay",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "cert_number": "41090665"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-1636217316784913625/3584138630811268995.jpg",
+        "date": "6/9/2017",
+        "price": "$7.00",
+        "grade": "9",
+        "lot_number": "252722336678",
+        "auction_house": "eBay",
+        "auction_seller": "ultracards",
+        "auction_type": "Buy It Now",
+        "cert_number": "24808869"
+    }
+]
