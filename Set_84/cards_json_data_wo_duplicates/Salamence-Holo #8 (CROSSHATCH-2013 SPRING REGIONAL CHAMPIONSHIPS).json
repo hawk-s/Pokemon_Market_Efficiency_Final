@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "225436307441",
+        "date": "3/5/2023",
+        "price": "$31.14",
+        "cert_number": "66128553",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8352735051382917398/-4956596156234507742.jpg",
+        "auction_seller": "playskapegames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$102.82",
+        "date": "7/7/2023",
+        "cert_number": "66128553",
+        "auction_seller": "lynz19862012",
+        "grade": "9",
+        "lot_number": "115847743046",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-341892565653341162/1513890856818424699.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-807451336536327631/-46893975340706615.jpg",
+        "lot_number": "324868468030",
+        "cert_number": "50181149",
+        "date": "11/16/2021",
+        "auction_seller": "amayaryn90",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$71.00"
+    }
+]

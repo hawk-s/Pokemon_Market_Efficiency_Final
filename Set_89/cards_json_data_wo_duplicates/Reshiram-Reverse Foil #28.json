@@ -1,0 +1,46 @@
+[
+    {
+        "date": "9/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6278230425588744830/643171074863187927.jpg",
+        "lot_number": "135209999498",
+        "auction_seller": "kingst4rscre4m209",
+        "auction_type": "Auction",
+        "cert_number": "94766264",
+        "auction_house": "eBay",
+        "price": "$140.00",
+        "grade": "10"
+    },
+    {
+        "cert_number": "56813896",
+        "price": "$10.50",
+        "grade": "8",
+        "lot_number": "386933214707",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8047638968183624874/-4203302068000158799.jpg",
+        "auction_type": "Auction",
+        "date": "4/25/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$8.05",
+        "cert_number": "56813897",
+        "grade": "8",
+        "lot_number": "386933197119",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/25/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9179631140397007804/7269738746335415875.jpg"
+    },
+    {
+        "auction_seller": "tannah12",
+        "lot_number": "155429284400",
+        "date": "3/6/2023",
+        "grade": "9",
+        "cert_number": "59404393",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4759128711077562351/7959988779844124507.jpg",
+        "price": "$20.23",
+        "auction_house": "eBay"
+    }
+]

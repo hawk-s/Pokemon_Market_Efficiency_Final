@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "zano009",
+        "cert_number": "28364199",
+        "price": "$6.99",
+        "date": "4/18/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9012238037736123632/-1210961705651708738.jpg",
+        "lot_number": "183172370086",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "zano009",
+        "cert_number": "28364198",
+        "grade": "9",
+        "date": "4/18/2018",
+        "auction_type": "Auction",
+        "lot_number": "183172370753",
+        "auction_house": "eBay",
+        "price": "$5.05",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7123327405488564401/8389507646913811827.jpg"
+    },
+    {
+        "price": "$3.30",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/261253644519749316/4160010893522071432.jpg",
+        "auction_seller": "zano009",
+        "grade": "8",
+        "date": "4/18/2018",
+        "lot_number": "183172371266",
+        "auction_type": "Auction",
+        "cert_number": "28516297",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$11.60",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-554396049014561894/-8639302823991967714.jpg",
+        "auction_seller": "zano009",
+        "cert_number": "28364198",
+        "date": "1/20/2018",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "183018670936"
+    }
+]

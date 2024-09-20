@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "ultracards",
+        "price": "$15.00",
+        "auction_type": "Best Offer",
+        "cert_number": "24343911",
+        "lot_number": "264546340263",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1995437937259478340/4590714426429206910.jpg",
+        "auction_house": "eBay",
+        "date": "4/29/2020",
+        "grade": "10"
+    },
+    {
+        "lot_number": "293982147675",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6814916144031571382/6214748197048674681.jpg",
+        "price": "$57.43",
+        "auction_seller": "dragon_mon_z",
+        "date": "2/7/2021",
+        "auction_type": "Auction",
+        "cert_number": "24343912",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "ultracards",
+        "price": "$15.00",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7296296808196794793/6736399436531620459.jpg",
+        "auction_house": "eBay",
+        "cert_number": "24343912",
+        "date": "4/29/2020",
+        "lot_number": "264546143555",
+        "grade": "10"
+    }
+]

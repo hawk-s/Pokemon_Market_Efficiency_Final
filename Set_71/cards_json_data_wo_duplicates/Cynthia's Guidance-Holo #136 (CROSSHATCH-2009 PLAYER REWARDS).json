@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "cheeses-treasures-llc",
+        "cert_number": "69001804",
+        "price": "$13.00",
+        "date": "2/11/2023",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "155392030767",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2720186837395166903/-8795638511156821324.jpg"
+    },
+    {
+        "price": "$60.00",
+        "lot_number": "195860170480",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3997908203604395165/387562461152651466.jpg",
+        "date": "7/8/2023",
+        "auction_seller": "matbo-2621",
+        "cert_number": "57784345",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/25/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5846100794973207147/-6880246119293076725.jpg",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "43537905",
+        "lot_number": "352790502414",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "lot_number": "192344778222",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-5651402577045246922/-1966618598905919036.jpg",
+        "auction_type": "Buy It Now",
+        "cert_number": "27836754",
+        "price": "$19.99",
+        "auction_seller": "my_honolulu_blue",
+        "date": "11/26/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2994551896124735192/3099280395051895043.jpg",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "42225769",
+        "date": "5/28/2019",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "401769461466"
+    }
+]

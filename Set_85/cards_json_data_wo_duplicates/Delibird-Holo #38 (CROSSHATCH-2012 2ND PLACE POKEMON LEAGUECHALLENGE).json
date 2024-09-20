@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$20.00",
+        "auction_type": "Buy It Now",
+        "date": "6/30/2020",
+        "grade": "9",
+        "auction_seller": "ocgrphz",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8873645820667709820/-6899861434329031893.jpg",
+        "cert_number": "27113501",
+        "lot_number": "293189352287",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "85411661",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6335522472837907559/-4949117614167313053.jpg",
+        "price": "$22.07",
+        "grade": "8",
+        "lot_number": "135042567205",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/12/2024"
+    }
+]

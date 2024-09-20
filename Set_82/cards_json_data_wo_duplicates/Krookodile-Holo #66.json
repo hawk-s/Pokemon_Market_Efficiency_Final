@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$11.00",
+        "date": "7/8/2024",
+        "grade": "9",
+        "auction_seller": "pokeking_auz",
+        "lot_number": "226204154446",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2916215980441168927/-8142765783104561606.jpg",
+        "cert_number": "81534619"
+    },
+    {
+        "cert_number": "73138358",
+        "lot_number": "285319086687",
+        "auction_seller": "zandgemporium",
+        "price": "$53.99",
+        "grade": "AUTHENTIC",
+        "date": "6/18/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1149766236176415691/9221246203523122678.jpg"
+    },
+    {
+        "date": "1/30/2023",
+        "lot_number": "204219990340",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5757835175890792805/-2881665907919341056.jpg",
+        "cert_number": "67866671",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "winglescards",
+        "price": "$15.55"
+    }
+]

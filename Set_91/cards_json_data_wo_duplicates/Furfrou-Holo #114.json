@@ -1,0 +1,24 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "cert_number": "27553861",
+        "price": "$19.99",
+        "lot_number": "112505397403",
+        "date": "8/5/2017",
+        "auction_seller": "my_honolulu_blue",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1078076621556424690/-4132069299678493353.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "ultracards",
+        "lot_number": "252722321019",
+        "auction_type": "Buy It Now",
+        "date": "8/3/2017",
+        "price": "$7.00",
+        "grade": "9",
+        "cert_number": "23522248",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7973915263664686476/-7669445774512332093.jpg",
+        "auction_house": "eBay"
+    }
+]

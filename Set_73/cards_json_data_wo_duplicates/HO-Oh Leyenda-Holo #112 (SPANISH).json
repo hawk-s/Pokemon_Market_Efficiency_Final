@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "poke.prof3",
+        "cert_number": "71659050",
+        "price": "$9.50",
+        "lot_number": "225477897552",
+        "grade": "8",
+        "date": "3/21/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/635850415768878637/7660199138664542382.jpg"
+    },
+    {
+        "auction_seller": "pokeraffle",
+        "date": "4/29/2023",
+        "price": "$109.35",
+        "cert_number": "72437839",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1934463092964568642/3764489059894249561.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "125897804624"
+    },
+    {
+        "lot_number": "384681935599",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5404260393507193799/7301508817895741357.jpg",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_seller": "trainersal",
+        "date": "1/24/2022",
+        "auction_house": "eBay",
+        "cert_number": "54801075"
+    }
+]

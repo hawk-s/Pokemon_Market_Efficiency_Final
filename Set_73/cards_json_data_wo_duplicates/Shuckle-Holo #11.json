@@ -1,0 +1,101 @@
+[
+    {
+        "auction_seller": "omegacollectiblesllc",
+        "grade": "8",
+        "price": "$18.52",
+        "date": "9/4/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8571891002035692286/7387565307095665980.jpg",
+        "auction_house": "eBay",
+        "lot_number": "186055288329",
+        "cert_number": "72548699"
+    },
+    {
+        "price": "$26.00",
+        "lot_number": "385597975275",
+        "auction_seller": "habbyshobbies",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8160540384503791172/-1707865089245345675.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "5/14/2023",
+        "auction_house": "eBay",
+        "cert_number": "50684687"
+    },
+    {
+        "date": "9/30/2017",
+        "price": "$14.99",
+        "auction_type": "Buy It Now",
+        "grade": "9",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1577438383259741657/-4104015656336995985.jpg",
+        "lot_number": "282544684458",
+        "auction_seller": "cardhouse_eu",
+        "auction_house": "eBay",
+        "cert_number": "27205371"
+    },
+    {
+        "date": "6/14/2020",
+        "cert_number": "42987038",
+        "grade": "9",
+        "price": "$6.50",
+        "lot_number": "193504323358",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8847680149608253470/-8457215636022802206.jpg",
+        "auction_seller": "el_kanon",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/29/2019",
+        "price": "$15.00",
+        "grade": "9",
+        "cert_number": "43052704",
+        "auction_seller": "nath-pain",
+        "auction_type": "Auction",
+        "lot_number": "273859156427",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6124451588240281972/1133470286130035560.jpg"
+    },
+    {
+        "cert_number": "69066267",
+        "date": "1/16/2023",
+        "price": "$18.02",
+        "grade": "8",
+        "auction_seller": "gonzzocollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8470484415686971007/4750602836723653925.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364104330941"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "tannah12",
+        "price": "$16.42",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6607089567648607891/3266087682698389734.jpg",
+        "lot_number": "115564186054",
+        "cert_number": "60226373",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/23/2022"
+    },
+    {
+        "date": "12/11/2023",
+        "cert_number": "42987038",
+        "grade": "9",
+        "auction_seller": "jwgeagle07",
+        "price": "$15.52",
+        "lot_number": "266547861927",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2286968047703829092/-8854869024096863647.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6102477106775088088/7233976151515807451.jpg",
+        "price": "$27.50",
+        "date": "3/23/2024",
+        "cert_number": "67192399",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles",
+        "lot_number": "335309218545"
+    }
+]

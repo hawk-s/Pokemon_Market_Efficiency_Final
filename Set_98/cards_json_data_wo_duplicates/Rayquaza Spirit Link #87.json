@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "353207558060",
+        "auction_seller": "pwcc_auctions",
+        "price": "$13.50",
+        "date": "9/29/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5575543944268656171/7759683490743592673.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "24395506"
+    },
+    {
+        "price": "$13.50",
+        "auction_seller": "rayquazatcg",
+        "date": "5/2/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4008405238852379681/-250915732130466501.jpg",
+        "grade": "8",
+        "lot_number": "254956181308",
+        "auction_type": "Auction",
+        "cert_number": "48175406",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4930856632742746820/2581616818216788063.jpg",
+        "lot_number": "353207558059",
+        "auction_seller": "pwcc_auctions",
+        "date": "9/29/2020",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "cert_number": "24395505"
+    },
+    {
+        "lot_number": "133551046024",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "auction_seller": "theluckycorner",
+        "date": "10/23/2020",
+        "price": "$9.00",
+        "auction_house": "eBay",
+        "cert_number": "24395505",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9031006416970487091/6876614865988781222.jpg"
+    },
+    {
+        "cert_number": "48175405",
+        "price": "$17.19",
+        "auction_seller": "rayquazatcg",
+        "date": "5/2/2021",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "265137706675",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/688094631764332707/-8789427765657412759.jpg"
+    }
+]

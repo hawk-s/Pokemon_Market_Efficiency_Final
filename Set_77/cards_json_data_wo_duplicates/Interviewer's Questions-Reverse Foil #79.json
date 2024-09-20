@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "goodsoddities",
+        "date": "1/31/2022",
+        "cert_number": "51980804",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8692785405452523969/-5974537474066687973.jpg",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "lot_number": "325012647282"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "auction_seller": "jsanan_50",
+        "grade": "9",
+        "lot_number": "312804111721",
+        "date": "11/11/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6605912605671112992/3139188661166941737.jpg",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "cert_number": "42245049"
+    },
+    {
+        "price": "$4.45",
+        "date": "5/31/2019",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5154125510855481344/4839686060370272754.jpg",
+        "auction_house": "eBay",
+        "cert_number": "42245049",
+        "lot_number": "254242764629"
+    }
+]

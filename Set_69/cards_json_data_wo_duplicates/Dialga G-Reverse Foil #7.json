@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "69969893",
+        "lot_number": "1872",
+        "date": "2/2/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/7503092376615393076/images/1.jpg",
+        "grade": "9",
+        "price": "$23.00",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "price": "$39.99",
+        "grade": "8",
+        "date": "3/13/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4836281914182506366/894276447685808326.jpg",
+        "lot_number": "394497887519",
+        "auction_type": "Auction",
+        "auction_seller": "moonman86",
+        "auction_house": "eBay",
+        "cert_number": "60221442"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-996411690376892128/2380899533418592502.jpg",
+        "auction_seller": "tannah12",
+        "lot_number": "115573622076",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/30/2022",
+        "price": "$20.25",
+        "cert_number": "60221442"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "date": "1/6/2021",
+        "auction_seller": "austiobrie-28",
+        "price": "$26.00",
+        "lot_number": "274630142723",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1364025550904177354/-393259955988261295.jpg",
+        "cert_number": "51843810"
+    },
+    {
+        "date": "7/18/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-422693269230188299/-4337465257663929127.jpg",
+        "auction_seller": "amtsupply",
+        "price": "$64.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "293644774208",
+        "grade": "10",
+        "cert_number": "46748012"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$13.50",
+        "lot_number": "384597459685",
+        "auction_seller": "4_sharp_corners",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53779223",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7151904904475704459/1914249990922044462.jpg",
+        "date": "12/27/2021"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6017128071725520029/7323440653912389946/images/1.jpg",
+        "date": "5/25/2023",
+        "lot_number": "4809",
+        "grade": "8",
+        "price": "$6.00",
+        "cert_number": "74551978",
+        "auction_type": "Auction",
+        "auction_seller": "Weekly Auction May 16 - May 25",
+        "auction_house": "Goldin Auctions"
+    }
+]

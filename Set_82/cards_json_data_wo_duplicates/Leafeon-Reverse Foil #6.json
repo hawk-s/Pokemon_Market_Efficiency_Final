@@ -1,0 +1,46 @@
+[
+    {
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "price": "$74.00",
+        "cert_number": "68797307",
+        "auction_type": "Auction",
+        "lot_number": "4832",
+        "auction_house": "Goldin Auctions",
+        "grade": "10",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/5786447211517622565/images/1.jpg"
+    },
+    {
+        "date": "5/31/2024",
+        "cert_number": "68282107",
+        "price": "$74.00",
+        "grade": "9",
+        "lot_number": "176387789018",
+        "auction_seller": "ab_sportscards_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1399184020067066841/-3169747957729715548.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-559381175874389415/-4905461667426683055.jpg",
+        "auction_seller": "tannah12",
+        "date": "2/26/2023",
+        "grade": "9",
+        "lot_number": "115710504287",
+        "auction_type": "Auction",
+        "price": "$28.10",
+        "cert_number": "59998535",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "74727397",
+        "lot_number": "285392490828",
+        "date": "7/30/2023",
+        "grade": "9",
+        "auction_seller": "chibicollectablesuk",
+        "auction_type": "Auction",
+        "price": "$26.19",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4887457675689878285/3013347671253281449.jpg"
+    }
+]

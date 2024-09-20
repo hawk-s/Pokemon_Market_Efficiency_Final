@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "71225454",
+        "grade": "7",
+        "date": "3/5/2023",
+        "lot_number": "285158032566",
+        "price": "$15.50",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2721074291635094026/-5192761041287626620.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3758453574257117162/-882672825613796010.jpg",
+        "auction_seller": "egoboy706",
+        "cert_number": "56678902",
+        "grade": "9",
+        "price": "$14.00",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "325947116097"
+    },
+    {
+        "cert_number": "60221584",
+        "auction_seller": "tannah12",
+        "price": "$22.99",
+        "grade": "9",
+        "date": "10/25/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6820521582963885941/-4261883383823312519.jpg",
+        "lot_number": "155211547794"
+    },
+    {
+        "price": "$13.00",
+        "date": "3/25/2018",
+        "auction_seller": "pokemasterab",
+        "auction_type": "Best Offer",
+        "lot_number": "152937168755",
+        "cert_number": "27998983",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6241277977921293784/-4642139836325101131.jpg"
+    },
+    {
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3800641025730712512/-6445544933098054965.jpg",
+        "cert_number": "63421028",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "375286079765",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "date": "3/12/2024"
+    },
+    {
+        "lot_number": "265510610750",
+        "date": "1/27/2022",
+        "cert_number": "48719129",
+        "auction_seller": "markcardssupplystore",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7359266499921932626/11010312069529707.jpg",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7049034693727234640/8535552955980030565.jpg",
+        "date": "9/14/2020",
+        "cert_number": "43157829",
+        "lot_number": "114390764727",
+        "auction_seller": "cdn-cards",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$15.54",
+        "auction_house": "eBay"
+    }
+]

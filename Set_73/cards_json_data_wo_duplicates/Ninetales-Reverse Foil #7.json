@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "flareon33833",
+        "lot_number": "394586092283",
+        "grade": "7",
+        "price": "$20.00",
+        "cert_number": "66513223",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/367089886340697738/695094615109476769.jpg",
+        "date": "5/1/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4438674789093660110/-232373453873440634.jpg",
+        "grade": "7",
+        "lot_number": "275816207188",
+        "cert_number": "73288452",
+        "price": "$15.52",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/5/2023"
+    },
+    {
+        "lot_number": "285453106332",
+        "grade": "7",
+        "price": "$13.50",
+        "date": "9/10/2023",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5070474644441379378/-4138043504733876375.jpg",
+        "cert_number": "78249886",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

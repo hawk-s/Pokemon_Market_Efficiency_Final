@@ -1,0 +1,24 @@
+[
+    {
+        "date": "3/11/2023",
+        "price": "$21.78",
+        "lot_number": "185799820392",
+        "cert_number": "68797320",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8190195713030187822/273577754041172796.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "68797320",
+        "date": "2/1/2023",
+        "price": "$16.00",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2535901272282974415/343498237233005986.jpg",
+        "lot_number": "185746983382"
+    }
+]

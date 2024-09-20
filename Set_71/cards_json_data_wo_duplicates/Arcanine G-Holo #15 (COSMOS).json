@@ -1,0 +1,57 @@
+[
+    {
+        "date": "8/26/2024",
+        "grade": "7",
+        "auction_seller": "danle-97",
+        "price": "$8.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1059487694455272909/6025861586925868784.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "186622351349",
+        "cert_number": "68819677"
+    },
+    {
+        "cert_number": "58602187",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8188582233421288077/-3986512715794183055.jpg",
+        "lot_number": "275660745846",
+        "grade": "8",
+        "auction_seller": "wonderland_retro",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$34.80",
+        "date": "2/9/2023"
+    },
+    {
+        "cert_number": "88175054",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7926875959265551335/-6927499578706841992.jpg",
+        "price": "$10.50",
+        "grade": "8",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "lot_number": "276398894936",
+        "auction_house": "eBay",
+        "auction_seller": "1patrickshea1"
+    },
+    {
+        "cert_number": "72609223",
+        "price": "$13.00",
+        "grade": "6",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/8393365002545833545/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "lot_number": "4005",
+        "date": "4/20/2023"
+    },
+    {
+        "auction_seller": "venusaur_island",
+        "lot_number": "256006140974",
+        "grade": "8",
+        "date": "3/13/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6902280250045695270/-1238304653099970867.jpg",
+        "price": "$30.40",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "71084458"
+    }
+]

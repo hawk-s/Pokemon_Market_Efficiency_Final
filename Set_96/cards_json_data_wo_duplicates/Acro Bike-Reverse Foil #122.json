@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$1.99",
+        "lot_number": "204756815332",
+        "grade": "8",
+        "auction_seller": "thepokestadium",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8856795070469516814/111985064405722934.jpg",
+        "auction_house": "eBay",
+        "cert_number": "88697223",
+        "date": "4/28/2024"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/8778723218139563344/6619257933726845134.jpg",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "lot_number": "292214222558",
+        "cert_number": "27502920",
+        "date": "8/26/2017",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "stokjockey",
+        "price": "$9.50",
+        "date": "2/11/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8099981130498046257/2978269006619895222.jpg",
+        "cert_number": "27502920",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "125756629017",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7649299542578262830/-7484304267669585610.jpg",
+        "cert_number": "27502920",
+        "price": "$46.99",
+        "date": "1/30/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "284158440153",
+        "grade": "10",
+        "auction_seller": "jakrot5"
+    }
+]

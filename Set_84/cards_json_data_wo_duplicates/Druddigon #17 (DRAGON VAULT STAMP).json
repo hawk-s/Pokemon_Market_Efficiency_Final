@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "143571592654",
+        "cert_number": "42574367",
+        "auction_type": "Best Offer",
+        "auction_seller": "paurio-64",
+        "date": "6/4/2020",
+        "grade": "9",
+        "price": "$19.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6974512115617178432/7598114019753141675.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6924017481305425877/-6511148557673205057.jpg",
+        "cert_number": "83425508",
+        "grade": "8",
+        "date": "8/19/2024",
+        "lot_number": "196557512536",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "sh-807224"
+    },
+    {
+        "auction_seller": "thomaashfiel_8",
+        "cert_number": "88033712",
+        "date": "3/29/2024",
+        "price": "$30.32",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4137339504831231299/-2049764738585187586.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "404877690449"
+    },
+    {
+        "date": "8/26/2021",
+        "lot_number": "154575029353",
+        "auction_seller": "tanismtz",
+        "grade": "8",
+        "cert_number": "49329256",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4280933314337331424/-4843595208892275949.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$33.00"
+    }
+]

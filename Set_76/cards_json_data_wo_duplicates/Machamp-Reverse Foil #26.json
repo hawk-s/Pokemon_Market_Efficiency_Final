@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "slab-town",
+        "date": "12/1/2021",
+        "grade": "9",
+        "cert_number": "53007601",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "324904052838",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6875651938851698883/-5720390083109315690.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7280734635628348321/-2934458425597204161.jpg",
+        "auction_seller": "galactic_tcg",
+        "date": "10/27/2023",
+        "grade": "8",
+        "price": "$9.99",
+        "cert_number": "80428375",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "314894586917"
+    },
+    {
+        "lot_number": "313276138679",
+        "price": "$46.00",
+        "auction_seller": "77luka",
+        "date": "11/4/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "43928069",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5009728468273246202/5450307976933738230.jpg"
+    }
+]

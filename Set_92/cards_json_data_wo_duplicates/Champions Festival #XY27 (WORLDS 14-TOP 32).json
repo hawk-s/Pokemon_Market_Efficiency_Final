@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "53550996",
+        "date": "10/14/2022",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7351925294401036757/2776386461147647318.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$521.00",
+        "lot_number": "385153421007"
+    },
+    {
+        "price": "$202.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1100891401833313824/188934658054174844.jpg",
+        "date": "5/27/2024",
+        "auction_seller": "ketchumallcollectibles",
+        "cert_number": "59166573",
+        "grade": "8",
+        "lot_number": "204793623875",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2121793587432863818/-7213838002794736357.jpg",
+        "date": "5/6/2020",
+        "auction_type": "Buy It Now",
+        "price": "$110.00",
+        "grade": "8",
+        "cert_number": "43780760",
+        "lot_number": "333278995759",
+        "auction_seller": "collectorscache",
+        "auction_house": "eBay"
+    }
+]

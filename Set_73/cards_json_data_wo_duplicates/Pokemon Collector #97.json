@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "tinyfam-19",
+        "cert_number": "92197527",
+        "price": "$20.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8040438962977948892/-6459286946552972586.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/20/2024",
+        "lot_number": "365062689649"
+    },
+    {
+        "lot_number": "387064405466",
+        "price": "$10.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3413804859620609291/1382824600064104016.jpg",
+        "auction_type": "Auction",
+        "cert_number": "67175775",
+        "auction_house": "eBay",
+        "date": "6/14/2024",
+        "auction_seller": "poke-fied"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1998984316007541215/2698486295976677187.jpg",
+        "cert_number": "62815635",
+        "date": "12/4/2023",
+        "price": "$10.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "lot_number": "276172602136"
+    },
+    {
+        "date": "9/8/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4820264110720385898/8159872252394662328.jpg",
+        "lot_number": "335011666789",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "67175775",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "onepizza",
+        "lot_number": "255857345240",
+        "date": "12/9/2022",
+        "grade": "8",
+        "cert_number": "59798542",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1297349053430188287/-120897472786092314.jpg",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/4/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1668215685429539340/4423221735574787517.jpg",
+        "lot_number": "383882138136",
+        "auction_seller": "xprimox",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "23841664"
+    },
+    {
+        "price": "$15.00",
+        "auction_type": "Best Offer",
+        "cert_number": "24808870",
+        "lot_number": "313046001366",
+        "date": "4/22/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3797195959842943628/-9006892496355845359.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "rlprodu-77",
+        "grade": "10"
+    },
+    {
+        "price": "$15.50",
+        "lot_number": "133894372169",
+        "cert_number": "49315864",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1676224019054167217/-3511698823173436772.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "date": "10/11/2021"
+    }
+]

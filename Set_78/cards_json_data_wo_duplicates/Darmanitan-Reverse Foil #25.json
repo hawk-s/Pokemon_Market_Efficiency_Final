@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1839209225178259187/2940030744048578747.jpg",
+        "date": "1/30/2023",
+        "auction_seller": "alpr-754",
+        "lot_number": "295488502100",
+        "cert_number": "69052335",
+        "grade": "8",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8905295488954863171/-1627418097386095571.jpg",
+        "cert_number": "68606442",
+        "price": "$13.94",
+        "date": "2/1/2023",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "lot_number": "185747019048",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "alpr-754",
+        "lot_number": "295453804392",
+        "date": "1/15/2023",
+        "cert_number": "69052335",
+        "grade": "8",
+        "price": "$1.75",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/525082170488482232/2940030744048578747.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

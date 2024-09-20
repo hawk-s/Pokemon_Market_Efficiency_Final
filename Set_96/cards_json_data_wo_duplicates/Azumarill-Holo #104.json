@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/317601419474140961/7454947706152341975.jpg",
+        "cert_number": "69487388",
+        "lot_number": "266369797451",
+        "price": "$37.00",
+        "auction_seller": "tca_gaming",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/21/2023",
+        "grade": "10"
+    },
+    {
+        "lot_number": "192470585050",
+        "cert_number": "28755622",
+        "price": "$4.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3871093900278962382/-283642222188223122.jpg",
+        "date": "3/14/2018",
+        "grade": "9",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/9/2021",
+        "auction_seller": "bg.cardboard",
+        "price": "$49.99",
+        "lot_number": "353332901463",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/587902207688376432/4571391369233390837.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "40934017"
+    }
+]

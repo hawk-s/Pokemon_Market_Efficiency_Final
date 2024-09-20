@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$20.52",
+        "auction_seller": "dndstreasures",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5680131967201521378/-6167623642435428708.jpg",
+        "lot_number": "314296997984",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "cert_number": "68213094",
+        "date": "1/6/2023"
+    },
+    {
+        "price": "$16.61",
+        "cert_number": "44680008",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5039792981429666008/619538243083039587.jpg",
+        "auction_type": "Best Offer",
+        "date": "5/13/2020",
+        "auction_seller": "sasukevssora1",
+        "grade": "9",
+        "lot_number": "223762404522",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "price": "$18.02",
+        "cert_number": "66392653",
+        "date": "12/11/2022",
+        "auction_seller": "zandgemporium",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1179055686095550340/4947514517698512113.jpg",
+        "auction_house": "eBay",
+        "lot_number": "285057073864"
+    },
+    {
+        "lot_number": "355091660946",
+        "price": "$141.28",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3081520143944072438/3924345173898946810.jpg",
+        "auction_seller": "dedizzle24",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "56873526",
+        "date": "10/16/2023"
+    },
+    {
+        "date": "12/14/2022",
+        "auction_seller": "venusaur_island",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6881084099991875075/1006796680536642767.jpg",
+        "cert_number": "68827800",
+        "grade": "9",
+        "price": "$43.42",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255872548592"
+    }
+]

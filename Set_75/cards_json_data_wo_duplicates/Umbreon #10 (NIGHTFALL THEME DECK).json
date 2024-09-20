@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "175620994795",
+        "cert_number": "58390802",
+        "date": "2/27/2023",
+        "grade": "9",
+        "auction_seller": "pattontradingco",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4944497998146796418/-7182130816191118720.jpg"
+    },
+    {
+        "cert_number": "61184688",
+        "price": "$28.00",
+        "auction_seller": "scottsretro",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2310915637835328103/3145658526701216702.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/30/2022",
+        "lot_number": "134297828986"
+    },
+    {
+        "grade": "7",
+        "cert_number": "93713767",
+        "date": "7/29/2024",
+        "auction_seller": "pokeproshop",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/98225788367912582/3512271706721831717.jpg",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "355881715627"
+    },
+    {
+        "date": "7/7/2023",
+        "price": "$699.99",
+        "grade": "10",
+        "cert_number": "55246525",
+        "lot_number": "145168772349",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3908506406936347215/6885225542695506199.jpg",
+        "auction_seller": "hckymaniac"
+    },
+    {
+        "price": "$185.50",
+        "lot_number": "294762628307",
+        "cert_number": "55513389",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4536304423591443710/2317239893037837351.jpg",
+        "auction_house": "eBay",
+        "date": "1/30/2022"
+    },
+    {
+        "date": "5/27/2024",
+        "lot_number": "285862676881",
+        "price": "$104.49",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1605396746501160055/-1406825939922144451.jpg",
+        "auction_seller": "zandgemporium",
+        "auction_type": "Auction",
+        "cert_number": "88956673",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "auction_seller": "poke-martcollectibles",
+        "lot_number": "275663687796",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1841333530586446553/4510419147785660592.jpg",
+        "cert_number": "67962590",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/9/2023"
+    }
+]

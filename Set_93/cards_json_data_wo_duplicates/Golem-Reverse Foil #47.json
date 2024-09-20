@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$7.50",
+        "lot_number": "255819528156",
+        "auction_seller": "onepizza",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8000739833360073191/-8241967017145486237.jpg",
+        "cert_number": "59798478",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/21/2022"
+    },
+    {
+        "auction_seller": "onepizza",
+        "grade": "8",
+        "date": "12/10/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2648677468632205369/-1475361915239296611.jpg",
+        "lot_number": "255859082734",
+        "cert_number": "59331658",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$8.52"
+    },
+    {
+        "date": "12/31/2021",
+        "lot_number": "284583938149",
+        "grade": "7",
+        "auction_seller": "stunad620",
+        "cert_number": "53987972",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1631188765644813944/-1224972995050937567.jpg",
+        "auction_type": "Auction",
+        "price": "$32.00"
+    }
+]

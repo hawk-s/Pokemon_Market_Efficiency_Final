@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "165898570337",
+        "grade": "7",
+        "price": "$13.59",
+        "auction_seller": "pokesales--92",
+        "date": "1/28/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2186571553934446621/1599383419213769183.jpg",
+        "auction_type": "Auction",
+        "cert_number": "69096090",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "lot_number": "285007773967",
+        "grade": "8",
+        "price": "$32.51",
+        "cert_number": "65683692",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6196872551881655441/1244446929405847196.jpg"
+    },
+    {
+        "auction_seller": "jubilifetv",
+        "date": "5/15/2023",
+        "price": "$13.31",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8275525606012097943/6203422692771985892.jpg",
+        "cert_number": "68164910",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "235002579524",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "flower_city_cards",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7526884634229327612/-1858907083030404159.jpg",
+        "date": "12/30/2022",
+        "auction_type": "Auction",
+        "lot_number": "165847584235",
+        "auction_house": "eBay",
+        "cert_number": "67393205",
+        "price": "$16.50"
+    }
+]

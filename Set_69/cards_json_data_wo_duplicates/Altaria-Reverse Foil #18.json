@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2658590257587696591/4816839302823109770.jpg",
+        "price": "$15.51",
+        "cert_number": "68667832",
+        "auction_seller": "latiasvro",
+        "lot_number": "275724391343",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/10/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5884676104266237670/5544345880702689896.jpg",
+        "auction_seller": "tannah12",
+        "price": "$11.43",
+        "grade": "8",
+        "cert_number": "60221453",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "auction_house": "eBay",
+        "lot_number": "155216588099"
+    },
+    {
+        "date": "2/25/2023",
+        "grade": "7",
+        "lot_number": "394469443962",
+        "price": "$18.52",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7944612488069517924/-4621114065805092652.jpg",
+        "auction_seller": "ejbgames_pcs_collectibles_etc",
+        "auction_type": "Auction",
+        "cert_number": "68783572",
+        "auction_house": "eBay"
+    }
+]

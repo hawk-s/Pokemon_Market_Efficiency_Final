@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "62815642",
+        "date": "12/4/2023",
+        "lot_number": "266513067246",
+        "grade": "9",
+        "price": "$10.52",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6884517668100210162/8579550187334324610.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "cert_number": "62815642",
+        "date": "7/23/2024",
+        "price": "$10.50",
+        "lot_number": "375539416614",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6367202908225927117/7761359038398488198.jpg"
+    },
+    {
+        "date": "1/27/2024",
+        "lot_number": "335216705601",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1527798774205218673/9020126354013215544.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles",
+        "cert_number": "67164943"
+    }
+]

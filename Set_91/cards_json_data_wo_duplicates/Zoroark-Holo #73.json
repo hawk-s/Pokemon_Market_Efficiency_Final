@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "the_charizard_cartel",
+        "cert_number": "74495126",
+        "price": "$19.00",
+        "date": "4/29/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "326101447240",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1612190151802068858/2628150100973760370.jpg"
+    },
+    {
+        "date": "1/16/2023",
+        "lot_number": "285100696895",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "cert_number": "66986369",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2908779124162679766/-5811961530527462034.jpg"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5337400962794079892/8615628830727406393.jpg",
+        "price": "$34.99",
+        "lot_number": "112495648220",
+        "cert_number": "27553864",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/1/2017",
+        "grade": "10"
+    }
+]

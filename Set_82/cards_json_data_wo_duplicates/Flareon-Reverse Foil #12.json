@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "date": "2/26/2023",
+        "grade": "8",
+        "price": "$34.28",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1965529961515870053/8864346645775548359.jpg",
+        "lot_number": "155415939893",
+        "cert_number": "59998537",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "285392490832",
+        "cert_number": "74727398",
+        "price": "$141.97",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7454937746414380200/7403016723881384332.jpg",
+        "date": "7/30/2023",
+        "auction_seller": "chibicollectablesuk",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8886517537682514461/-7389459218243802015.jpg",
+        "price": "$9.25",
+        "cert_number": "63366313",
+        "auction_seller": "probstein123",
+        "lot_number": "374322507321",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/3/2022"
+    }
+]

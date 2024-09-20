@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "254080826038",
+        "price": "$6.99",
+        "date": "1/25/2019",
+        "grade": "9",
+        "auction_seller": "nemesis.301",
+        "cert_number": "40689426",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7095835901979754833/-4516720681345810845.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "26003565",
+        "auction_type": "Best Offer",
+        "lot_number": "373364550975",
+        "price": "$75.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6630695868070524727/7550066634866556770.jpg",
+        "auction_seller": "adschw_4794",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/25/2020"
+    },
+    {
+        "date": "7/11/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5682198494194079027/189460003454841885.jpg",
+        "grade": "9",
+        "cert_number": "92024922",
+        "lot_number": "305651102150",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$10.10",
+        "auction_seller": "psa"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1321411468086684886/9105373085838113330.jpg",
+        "price": "$61.00",
+        "date": "1/27/2021",
+        "grade": "9",
+        "auction_seller": "thesoutherncardcompany",
+        "cert_number": "40689426",
+        "lot_number": "313388711306",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ultracards",
+        "date": "12/13/2017",
+        "auction_type": "Buy It Now",
+        "cert_number": "24343937",
+        "lot_number": "262805620581",
+        "price": "$7.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-271467320640564748/-4461587472461368436.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8216258509831160653/5517845074844242252.jpg",
+        "cert_number": "26003565",
+        "date": "9/25/2020",
+        "lot_number": "363110020380",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

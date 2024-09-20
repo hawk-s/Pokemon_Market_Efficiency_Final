@@ -1,0 +1,24 @@
+[
+    {
+        "grade": "7",
+        "price": "$10.50",
+        "auction_seller": "pokeblt",
+        "lot_number": "255304415778",
+        "cert_number": "54320550",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3457397576444859143/-4753854206551514367.jpg",
+        "date": "1/6/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "lot_number": "115568354876",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3178551084510572190/-1692879330914951258.jpg",
+        "date": "10/25/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.67",
+        "cert_number": "60226278"
+    }
+]

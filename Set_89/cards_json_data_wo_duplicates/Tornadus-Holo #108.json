@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/19/2022",
+        "lot_number": "266029799080",
+        "price": "$167.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5782625669688969521/2916372657030816461.jpg",
+        "auction_type": "Auction",
+        "cert_number": "57991685",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "date": "3/17/2023",
+        "cert_number": "48185161",
+        "auction_seller": "zurljul",
+        "lot_number": "385475785212",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2128318651612771395/3538603376691405555.jpg",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8164856388150274141/5972121819170058013.jpg",
+        "cert_number": "48786484",
+        "grade": "9",
+        "lot_number": "133848022814",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "price": "$25.02",
+        "date": "8/21/2021"
+    },
+    {
+        "price": "$17.61",
+        "lot_number": "314553421186",
+        "auction_seller": "bidoveru",
+        "cert_number": "71871917",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2284108934286258833/-4409718733957202778.jpg",
+        "date": "5/4/2023"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "cert_number": "48185161",
+        "lot_number": "384032598861",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5627852135629152965/-2791303735566266491.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "date": "3/22/2021"
+    }
+]

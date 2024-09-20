@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "79606436",
+        "auction_seller": "paddyinus",
+        "lot_number": "155847305018",
+        "grade": "8",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/31/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5676676432501206783/8075785715405393110.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-313496628907443595/5991313237393712019.jpg",
+        "cert_number": "28996699",
+        "auction_seller": "shawncroftmanor",
+        "grade": "9",
+        "date": "11/22/2020",
+        "auction_type": "Auction",
+        "price": "$54.34",
+        "auction_house": "eBay",
+        "lot_number": "193750899155"
+    },
+    {
+        "price": "$6.56",
+        "auction_seller": "numismaticsgmc",
+        "date": "5/6/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-213268706520661978/-2970767216221859730.jpg",
+        "cert_number": "28996699",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "273188892810",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "74981829",
+        "grade": "7",
+        "auction_seller": "scc_consignments",
+        "price": "$20.50",
+        "date": "4/1/2024",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4813336527745537353/-5644220418239309774.jpg",
+        "lot_number": "305471168860"
+    },
+    {
+        "price": "$356.82",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4980362783130733867/8872816012176322106.jpg",
+        "auction_type": "Best Offer",
+        "lot_number": "114702488487",
+        "date": "3/9/2021",
+        "auction_seller": "legendary_cardstore",
+        "cert_number": "43578599",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/547143108504025870/4661066675013381595.jpg",
+        "price": "$35.03",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68664063",
+        "lot_number": "185756256925",
+        "date": "2/9/2023"
+    },
+    {
+        "price": "$20.00",
+        "auction_seller": "pokemasterab",
+        "auction_type": "Best Offer",
+        "date": "12/1/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-5810251917439748408/-7861118904064487042.jpg",
+        "lot_number": "152790335789",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27998982"
+    }
+]

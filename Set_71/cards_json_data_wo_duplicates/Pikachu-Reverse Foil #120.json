@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "55829922",
+        "auction_seller": "extremecard",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-297544406059118079/-7420548292569157694.jpg",
+        "lot_number": "185563944895",
+        "date": "9/8/2022",
+        "auction_type": "Auction",
+        "price": "$26.50",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "116290576168",
+        "price": "$20.31",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8503196923532612805/3639387662831545069.jpg",
+        "grade": "8",
+        "cert_number": "72587848",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "lunacardsau",
+        "date": "8/22/2024"
+    },
+    {
+        "lot_number": "175691812874",
+        "grade": "8",
+        "auction_seller": "trevs_kingdom",
+        "cert_number": "72587848",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8224683016284671970/-9160660879363934672.jpg",
+        "date": "4/24/2023",
+        "auction_type": "Auction",
+        "price": "$32.00"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8442668134586137628/-5238108318717888227.jpg",
+        "date": "4/15/2024",
+        "price": "$14.50",
+        "cert_number": "88149509",
+        "auction_type": "Auction",
+        "lot_number": "186376666058",
+        "auction_house": "eBay"
+    }
+]

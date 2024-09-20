@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "233339736415",
+        "date": "4/23/2020",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7323588405933596334/8363397067379374095.jpg",
+        "grade": "8",
+        "price": "$149.99",
+        "cert_number": "43780762",
+        "auction_seller": "collectorscache",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/15/2023",
+        "grade": "6",
+        "auction_seller": "juan_7441",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1339968502904069704/6378493904776697117.jpg",
+        "auction_type": "Auction",
+        "cert_number": "64544615",
+        "lot_number": "334692344704",
+        "price": "$423.00"
+    },
+    {
+        "lot_number": "223662081163",
+        "auction_type": "Best Offer",
+        "date": "11/6/2019",
+        "grade": "8",
+        "price": "$164.99",
+        "cert_number": "43780763",
+        "auction_house": "eBay",
+        "auction_seller": "collectorscache",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5667294847144029262/-5797209939497505328.jpg"
+    },
+    {
+        "auction_seller": "crazycollector25",
+        "lot_number": "326062495817",
+        "grade": "8",
+        "date": "4/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4993025169031735795/8271738162685988230.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$407.00",
+        "cert_number": "83860593"
+    },
+    {
+        "lot_number": "226149756723",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1978670587859495896/-2901876693786309080.jpg",
+        "date": "5/27/2024",
+        "auction_seller": "ketchumallcollectibles",
+        "price": "$310.00",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "59166572"
+    },
+    {
+        "lot_number": "204796884664",
+        "date": "5/27/2024",
+        "auction_seller": "ketchumallcollectibles",
+        "cert_number": "79976526",
+        "grade": "8",
+        "price": "$306.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3543654301022541625/-4667045597980401018.jpg",
+        "auction_house": "eBay"
+    }
+]

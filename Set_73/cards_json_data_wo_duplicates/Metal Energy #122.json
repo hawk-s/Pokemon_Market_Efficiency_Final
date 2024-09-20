@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3197690653470856736/3811702659806942713.jpg",
+        "grade": "9",
+        "price": "$15.47",
+        "cert_number": "60226407",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/23/2022",
+        "lot_number": "115564214033"
+    },
+    {
+        "auction_seller": "itsnotaphasemomcollectibles",
+        "price": "$10.50",
+        "lot_number": "256242540077",
+        "date": "10/15/2023",
+        "cert_number": "76856411",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5441139376619439406/6776543539829914233.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "334876027757",
+        "price": "$18.62",
+        "auction_seller": "hl-products",
+        "date": "5/23/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8972410116245109616/-5173774668120801314.jpg",
+        "cert_number": "70648997",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "itsnotaphasemomcollectibles",
+        "date": "9/10/2023",
+        "cert_number": "76856409",
+        "grade": "9",
+        "price": "$8.55",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "256202688367",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5564423242257411735/3502085582319640020.jpg"
+    }
+]

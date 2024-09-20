@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "46642186",
+        "lot_number": "114305579537",
+        "auction_seller": "card_secret",
+        "grade": "9",
+        "date": "7/26/2020",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5563892589403073084/-7000543196836553942.jpg",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/112535111856406983/-7831053840284553581.jpg",
+        "lot_number": "201690457250",
+        "date": "10/20/2016",
+        "grade": "8",
+        "cert_number": "26276967",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$2.61"
+    },
+    {
+        "grade": "7",
+        "date": "1/2/2022",
+        "cert_number": "60236631",
+        "auction_seller": "sellers_sportscards",
+        "lot_number": "255297344272",
+        "price": "$11.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4831257759215019880/-567184681949188184.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/22/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6486916316082776449/-3722867093827314096.jpg",
+        "cert_number": "61348285",
+        "price": "$15.50",
+        "lot_number": "265405938816",
+        "auction_seller": "sellers_sportscards",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

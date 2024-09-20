@@ -1,0 +1,90 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-755833558689553305/-6998537196946673856.jpg",
+        "date": "12/4/2023",
+        "price": "$15.50",
+        "cert_number": "62815614",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "266513067241",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "auction_seller": "itsnotaphasemomcollectibles",
+        "lot_number": "256202686496",
+        "price": "$10.55",
+        "date": "9/10/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7038120581128944142/-679507678002727988.jpg",
+        "cert_number": "76856406",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "293911096123",
+        "auction_type": "Best Offer",
+        "auction_seller": "apspeeze",
+        "cert_number": "47230965",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1053120274361843484/-2853984549783937492.jpg",
+        "grade": "9",
+        "price": "$40.00",
+        "auction_house": "eBay",
+        "date": "2/23/2021"
+    },
+    {
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6287609211443274126/-8714503982390514799.jpg",
+        "grade": "9",
+        "price": "$12.94",
+        "auction_type": "Auction",
+        "cert_number": "60226400",
+        "lot_number": "155207518699",
+        "auction_house": "eBay",
+        "date": "10/23/2022"
+    },
+    {
+        "price": "$37.60",
+        "date": "11/25/2019",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6205874158859313282/5929333647757536938.jpg",
+        "auction_seller": "pokehut",
+        "cert_number": "44217819",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "264537864446"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4964359992495890700/-1443010650564639855.jpg",
+        "auction_seller": "rikki_thunder_pkmncards",
+        "date": "9/2/2024",
+        "grade": "9",
+        "cert_number": "76856408",
+        "price": "$22.34",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "226315772909"
+    },
+    {
+        "auction_seller": "itsnotaphasemomcollectibles",
+        "price": "$7.50",
+        "lot_number": "256371342344",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4103773039513981189/9005136955440112797.jpg",
+        "date": "1/21/2024",
+        "grade": "9",
+        "cert_number": "76856408",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "76856407",
+        "auction_seller": "itsnotaphasemomcollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7388510531273082073/-9073019840396308474.jpg",
+        "date": "10/15/2023",
+        "lot_number": "256242536093",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

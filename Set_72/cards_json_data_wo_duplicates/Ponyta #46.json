@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$12.01",
+        "auction_seller": "tannah12",
+        "cert_number": "60226304",
+        "date": "10/27/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6174916933957283301/-4686975737960555387.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115571249153"
+    },
+    {
+        "date": "1/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4750757529307202963/5046125863549284434.jpg",
+        "lot_number": "225361883776",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_seller": "svnaded",
+        "auction_house": "eBay",
+        "cert_number": "60523233",
+        "grade": "10"
+    }
+]

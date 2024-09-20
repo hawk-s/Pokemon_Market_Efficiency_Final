@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$30.00",
+        "auction_seller": "alpha_zard_trading",
+        "lot_number": "315069180825",
+        "grade": "9",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8877377873133012977/-1485955767106150655.jpg",
+        "cert_number": "80138016"
+    },
+    {
+        "auction_seller": "pokemon_sphere",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1427644220757121833/9068528499216139184.jpg",
+        "cert_number": "50991573",
+        "auction_type": "Auction",
+        "lot_number": "325015929516",
+        "auction_house": "eBay",
+        "date": "2/1/2022",
+        "price": "$233.45"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3541578189875704804/-4593798978845563375.jpg",
+        "lot_number": "155433669753",
+        "date": "3/9/2023",
+        "auction_seller": "tannah12",
+        "grade": "6",
+        "price": "$13.55",
+        "cert_number": "59404295",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/5/2023",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2887234175879196193/-8282192780336104965.jpg",
+        "grade": "6",
+        "price": "$39.73",
+        "auction_type": "Auction",
+        "lot_number": "115716483948",
+        "auction_house": "eBay",
+        "cert_number": "59404296"
+    },
+    {
+        "lot_number": "333499160291",
+        "price": "$10.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4029660949631081313/2317796113864472559.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pdmgncollecters",
+        "date": "2/5/2020",
+        "cert_number": "43548678"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2939871510941915056/-5966499052876957950.jpg",
+        "date": "11/19/2017",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "182896006316",
+        "auction_house": "eBay",
+        "cert_number": "28220876",
+        "price": "$10.01"
+    }
+]

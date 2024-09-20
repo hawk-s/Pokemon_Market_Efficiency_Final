@@ -1,0 +1,35 @@
+[
+    {
+        "date": "4/21/2024",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3619308976916324934/-2320881243305963760.jpg",
+        "cert_number": "85411660",
+        "lot_number": "135014216414",
+        "price": "$40.00",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4146659738724355863/9216233647655513210.jpg",
+        "price": "$11.55",
+        "lot_number": "266443527087",
+        "auction_seller": "pokejal",
+        "auction_type": "Auction",
+        "cert_number": "70743484",
+        "auction_house": "eBay",
+        "date": "10/9/2023"
+    },
+    {
+        "price": "$4.26",
+        "date": "6/11/2018",
+        "cert_number": "27113500",
+        "grade": "9",
+        "auction_seller": "ocgrphz",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4981447321235124902/-5854944570861384893.jpg",
+        "lot_number": "292594123243"
+    }
+]

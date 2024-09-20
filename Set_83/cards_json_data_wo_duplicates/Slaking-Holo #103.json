@@ -1,0 +1,112 @@
+[
+    {
+        "price": "$11.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8264243970679177542/-2650086426177187010.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "6/27/2024",
+        "auction_type": "Auction",
+        "cert_number": "65441979",
+        "auction_house": "eBay",
+        "lot_number": "364959567428"
+    },
+    {
+        "cert_number": "50622298",
+        "price": "$10.50",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1348704109124083110/9064438653505872054.jpg",
+        "lot_number": "363688349814",
+        "auction_seller": "matterandmotiongames",
+        "date": "1/19/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2594260345263742897/8771853587354771949.jpg",
+        "price": "$15.50",
+        "date": "12/7/2022",
+        "cert_number": "57991680",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "lot_number": "314247666152"
+    },
+    {
+        "auction_seller": "ultracards",
+        "auction_type": "Buy It Now",
+        "price": "$7.00",
+        "date": "6/26/2017",
+        "grade": "9",
+        "lot_number": "252722351181",
+        "cert_number": "24343959",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6538184831303800399/-5553595661929161417.jpg"
+    },
+    {
+        "date": "8/5/2023",
+        "auction_seller": "pokesales--92",
+        "cert_number": "67679644",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7122878168565626740/-6724423747204323093.jpg",
+        "price": "$78.05",
+        "auction_type": "Auction",
+        "lot_number": "166252085273",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$9.01",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "387207039750",
+        "auction_type": "Auction",
+        "cert_number": "65441979",
+        "auction_house": "eBay",
+        "date": "7/24/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6423381672527682870/-2650086426177187010.jpg"
+    },
+    {
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5697595705603599210/-255271433632103612.jpg",
+        "cert_number": "55300388",
+        "price": "$6.50",
+        "date": "5/5/2024",
+        "auction_seller": "ausdai_535",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "375400610840"
+    },
+    {
+        "auction_seller": "ultracards",
+        "lot_number": "262134435300",
+        "date": "10/31/2017",
+        "price": "$20.00",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4578697176121384292/438498710863099939.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "24343960"
+    },
+    {
+        "cert_number": "50622299",
+        "date": "10/1/2023",
+        "price": "$19.00",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6454283629182637330/4740212129454090050.jpg",
+        "auction_house": "eBay",
+        "lot_number": "364501016096"
+    },
+    {
+        "cert_number": "69435112",
+        "date": "1/16/2023",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285100880791",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5570506740456047054/-4014471239301565390.jpg"
+    }
+]

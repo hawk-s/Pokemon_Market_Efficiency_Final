@@ -1,0 +1,24 @@
+[
+    {
+        "cert_number": "42422582",
+        "date": "2/8/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4940285940623456604/-7239312919943807132.jpg",
+        "grade": "9",
+        "auction_seller": "thesoutherncardcompany",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "lot_number": "313402630754",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2002766629178804326/5606922852660053944.jpg",
+        "price": "$93.00",
+        "date": "6/13/2021",
+        "lot_number": "294213395794",
+        "auction_seller": "martin-903",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "55424491"
+    }
+]

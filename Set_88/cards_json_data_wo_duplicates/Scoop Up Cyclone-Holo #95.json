@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "203970866407",
+        "cert_number": "48254188",
+        "auction_seller": "pnwtco",
+        "price": "$9.95",
+        "date": "6/5/2022",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/300017965940100290/-3653518946480354431.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/9/2023",
+        "auction_seller": "tannah12",
+        "price": "$15.37",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5975508621695146442/6077495529616113816.jpg",
+        "auction_type": "Auction",
+        "cert_number": "59404349",
+        "auction_house": "eBay",
+        "lot_number": "115719786634"
+    },
+    {
+        "price": "$26.00",
+        "date": "5/15/2024",
+        "grade": "9",
+        "auction_seller": "joeytcomplex",
+        "lot_number": "145764451783",
+        "auction_type": "Auction",
+        "cert_number": "49601023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6283607280374623507/8442247475251324586.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "date": "4/28/2018",
+        "lot_number": "273172237460",
+        "price": "$3.85",
+        "auction_seller": "pokejuice",
+        "auction_type": "Auction",
+        "cert_number": "28922360",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3788022134888316693/6118129515048849740.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6858971620995396120/1969573411280100580.jpg",
+        "auction_type": "Buy It Now",
+        "lot_number": "253829378238",
+        "grade": "9",
+        "cert_number": "25903809",
+        "price": "$19.99",
+        "auction_seller": "gama1",
+        "date": "8/27/2018",
+        "auction_house": "eBay"
+    }
+]

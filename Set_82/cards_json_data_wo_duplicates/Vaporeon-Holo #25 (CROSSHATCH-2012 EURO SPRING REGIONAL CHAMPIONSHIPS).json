@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$30.00",
+        "date": "11/21/2021",
+        "cert_number": "52634007",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1368422097034858483/4142006113395737913.jpg",
+        "grade": "8",
+        "lot_number": "284533994083",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7956919046971262048/-3113638847907875277.jpg",
+        "cert_number": "65535769",
+        "lot_number": "225542489725",
+        "auction_seller": "playskapegames",
+        "grade": "9",
+        "price": "$128.20",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/30/2023"
+    },
+    {
+        "auction_seller": "pokeproshop",
+        "date": "6/10/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3426095362633389784/5513865911994259801.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "91012085",
+        "price": "$48.50",
+        "lot_number": "355759770538"
+    },
+    {
+        "cert_number": "66128543",
+        "date": "1/1/2023",
+        "lot_number": "225317394099",
+        "auction_seller": "playskapegames",
+        "price": "$123.58",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-648134022989589450/-4310256136074461077.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/5/2023",
+        "lot_number": "225434347227",
+        "auction_seller": "playskapegames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "66128544",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1052993815545937791/-1683624426401828990.jpg",
+        "price": "$98.21"
+    },
+    {
+        "auction_seller": "playskapegames",
+        "lot_number": "225708476328",
+        "grade": "9",
+        "price": "$58.55",
+        "cert_number": "65535770",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-934457524723799562/3985729155804409028.jpg",
+        "date": "8/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$170.00",
+        "cert_number": "43072005",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "lot_number": "224213736146",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4475338020833802101/3052579759984266957.jpg",
+        "auction_seller": "pokedavey",
+        "auction_house": "eBay",
+        "date": "1/13/2021"
+    }
+]

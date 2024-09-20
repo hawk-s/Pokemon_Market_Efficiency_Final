@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "poke-martcollectibles",
+        "lot_number": "275558701572",
+        "cert_number": "68321414",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8224645958687813562/5503368181050007993.jpg",
+        "grade": "9",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/5/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3491016755867857063/7302292054492917782.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "44799472",
+        "grade": "9",
+        "lot_number": "153815937230",
+        "date": "4/24/2020",
+        "auction_seller": "pokefeensdotc0m",
+        "auction_house": "eBay",
+        "price": "$28.88"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "tannah12",
+        "date": "9/13/2022",
+        "price": "$23.27",
+        "lot_number": "155149808571",
+        "cert_number": "60216451",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3705844134652054819/-1882736932606313141.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_type": "Best Offer",
+        "auction_seller": "apspeeze",
+        "cert_number": "28984279",
+        "date": "2/26/2021",
+        "auction_house": "eBay",
+        "lot_number": "293911025572",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9051565725750405163/-3143649505310525649.jpg",
+        "grade": "10",
+        "price": "$455.00"
+    },
+    {
+        "lot_number": "155149790268",
+        "date": "9/13/2022",
+        "auction_seller": "tannah12",
+        "grade": "6",
+        "price": "$13.08",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1554454663629220912/-5774081790227176015.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "60216433"
+    }
+]

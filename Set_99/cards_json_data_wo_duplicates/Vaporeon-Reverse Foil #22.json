@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6605499683291782313/3352970321072278459.jpg",
+        "date": "3/1/2023",
+        "cert_number": "59404609",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$28.28",
+        "auction_type": "Auction",
+        "lot_number": "115713005663"
+    },
+    {
+        "lot_number": "134376355891",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8874494087936173242/1954340207088726179.jpg",
+        "date": "12/28/2022",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_seller": "prospectsincorperated",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "63702654"
+    },
+    {
+        "lot_number": "195684574948",
+        "date": "4/3/2023",
+        "auction_seller": "tziekscards",
+        "price": "$15.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4734348048380532473/-7471108610595281356.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "71255604"
+    },
+    {
+        "auction_seller": "tannah12",
+        "cert_number": "59404609",
+        "lot_number": "115729702516",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2731417708940252627/3352970321072278459.jpg",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "price": "$34.09"
+    },
+    {
+        "date": "3/17/2023",
+        "price": "$20.00",
+        "auction_seller": "tziekscards",
+        "grade": "9",
+        "lot_number": "195652390123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6672426883508116719/-7471108610595281356.jpg",
+        "cert_number": "71255604"
+    }
+]

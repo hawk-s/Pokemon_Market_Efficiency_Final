@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "d2_pokeshop",
+        "date": "3/10/2023",
+        "grade": "8",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5183107992070653447/-729856398724183172.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "404187699647",
+        "cert_number": "70015193"
+    },
+    {
+        "price": "$41.00",
+        "grade": "9",
+        "lot_number": "224793217828",
+        "auction_type": "Auction",
+        "auction_seller": "trainersal",
+        "date": "1/24/2022",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5646914778046971870/-5323041030384800550.jpg",
+        "cert_number": "54801074"
+    }
+]

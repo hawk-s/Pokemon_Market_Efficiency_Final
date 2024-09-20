@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1695517712522379814/8695154385815229960.jpg",
+        "auction_seller": "zandgemporium",
+        "cert_number": "61168437",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/30/2023",
+        "lot_number": "285247240552"
+    },
+    {
+        "date": "12/12/2022",
+        "auction_seller": "goats-n-pros",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3979633490162194253/-4412674995052220128.jpg",
+        "grade": "8",
+        "cert_number": "68934711",
+        "lot_number": "334653475029",
+        "price": "$11.61",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$20.00",
+        "lot_number": "305723739810",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1583919152445969648/7491882512673006380.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/20/2024",
+        "auction_seller": "psa",
+        "cert_number": "92316390"
+    }
+]

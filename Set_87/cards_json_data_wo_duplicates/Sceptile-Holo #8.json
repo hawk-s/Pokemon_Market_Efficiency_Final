@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$21.99",
+        "grade": "7",
+        "lot_number": "143672460747",
+        "auction_type": "Best Offer",
+        "auction_seller": "whatupglipglop",
+        "date": "11/2/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1029144343356789881/2920754079941193222.jpg",
+        "auction_house": "eBay",
+        "cert_number": "46121198"
+    },
+    {
+        "cert_number": "92268171",
+        "lot_number": "116263465518",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-531094702123972417/1917986974182031943.jpg",
+        "auction_seller": "tcgtower",
+        "date": "7/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "cert_number": "94338975",
+        "lot_number": "305742425667",
+        "date": "9/2/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8064230976780234436/1085276522801456762.jpg",
+        "grade": "8",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    }
+]

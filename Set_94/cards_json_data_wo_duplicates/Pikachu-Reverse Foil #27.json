@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "45869845",
+        "price": "$61.00",
+        "date": "2/18/2021",
+        "auction_seller": "rdtarr",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "lot_number": "333885896003",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1627148034287513037/-3436096447379360806.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1021901219317775804/4377673334612407254.jpg",
+        "price": "$31.77",
+        "auction_seller": "tcgmarket",
+        "lot_number": "402349402980",
+        "date": "8/15/2020",
+        "auction_type": "Auction",
+        "cert_number": "26337637",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8104120472306987256/-1517190568360859775.jpg",
+        "date": "8/29/2024",
+        "grade": "9",
+        "lot_number": "305740545219",
+        "cert_number": "94283454",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "lot_number": "395560130360",
+        "grade": "8",
+        "date": "8/4/2024",
+        "cert_number": "93822788",
+        "auction_type": "Auction",
+        "auction_seller": "pitch_2873",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2093034943954178969/-9051140183295384581.jpg"
+    },
+    {
+        "cert_number": "45869843",
+        "price": "$61.00",
+        "auction_seller": "pwcc_vault",
+        "grade": "9",
+        "date": "1/17/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/548190329563014121/5023421918163002916.jpg",
+        "lot_number": "224315692581"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6807004491125008024/-2293648876869093101.jpg",
+        "price": "$10.50",
+        "cert_number": "70480255",
+        "grade": "9",
+        "date": "1/20/2024",
+        "auction_seller": "adorableamy",
+        "auction_type": "Auction",
+        "lot_number": "285655475943",
+        "auction_house": "eBay"
+    }
+]

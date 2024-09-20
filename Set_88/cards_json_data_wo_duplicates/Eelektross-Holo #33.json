@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$13.50",
+        "date": "12/4/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4497820243607012538/-320615073614783896.jpg",
+        "auction_type": "Auction",
+        "lot_number": "314967207470",
+        "cert_number": "61383512",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1207422394461258333/3239912457876216102.jpg",
+        "auction_seller": "arkcollectibles",
+        "grade": "9",
+        "price": "$21.50",
+        "date": "9/17/2022",
+        "auction_type": "Auction",
+        "cert_number": "56817673",
+        "auction_house": "eBay",
+        "lot_number": "255722208658"
+    },
+    {
+        "date": "1/19/2023",
+        "auction_seller": "pokemoncj1994",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5495194911607288225/-1763587184417449174.jpg",
+        "price": "$16.70",
+        "grade": "8",
+        "cert_number": "69081519",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "134410399499"
+    },
+    {
+        "date": "4/28/2021",
+        "lot_number": "144012096450",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "26273124",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1203062945097880718/1726410555675092493.jpg",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/1/2023",
+        "grade": "9",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "cert_number": "68821094",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5799431221835756803/-8270241839283133592.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "mantis_toboggan8",
+        "lot_number": "275648210308"
+    },
+    {
+        "cert_number": "62878654",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3054736131059610643/-475640574433348968.jpg",
+        "grade": "9",
+        "price": "$19.95",
+        "date": "9/13/2023",
+        "auction_type": "Auction",
+        "auction_seller": "danies-pokemon-cave",
+        "auction_house": "eBay",
+        "lot_number": "186076412128"
+    },
+    {
+        "auction_seller": "canadiancards2015",
+        "cert_number": "40934021",
+        "date": "12/13/2020",
+        "price": "$45.42",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "lot_number": "323582163111",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7378334546175801107/5308690938329440427.jpg",
+        "auction_house": "eBay"
+    }
+]

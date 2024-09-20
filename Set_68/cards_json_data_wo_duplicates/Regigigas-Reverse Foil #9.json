@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "5",
+        "price": "$9.30",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5750137389791774413/-1930742559996329533.jpg",
+        "auction_seller": "tannah12",
+        "cert_number": "60754745",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115706799867",
+        "date": "2/22/2023"
+    },
+    {
+        "auction_seller": "pokelyfe",
+        "lot_number": "254540848389",
+        "grade": "9",
+        "cert_number": "41388515",
+        "date": "3/21/2020",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9207522689038422011/6286852724577350877.jpg",
+        "auction_house": "eBay",
+        "price": "$4.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-355857315158808718/2331798462090189151.jpg",
+        "price": "$45.00",
+        "grade": "9",
+        "cert_number": "41388515",
+        "auction_type": "Auction",
+        "date": "12/12/2020",
+        "auction_house": "eBay",
+        "lot_number": "303801823231",
+        "auction_seller": "classquicksales"
+    }
+]

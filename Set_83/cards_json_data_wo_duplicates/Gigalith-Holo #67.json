@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$4.26",
+        "cert_number": "27836815",
+        "date": "6/21/2018",
+        "lot_number": "372335464714",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4132700279452982148/-732333939428264801.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "24343932",
+        "lot_number": "123795650640",
+        "grade": "9",
+        "price": "$37.00",
+        "date": "6/14/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "criticalcareparamedic25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1785837643289323116/-4204081472916466536.jpg"
+    },
+    {
+        "auction_seller": "ultracards",
+        "lot_number": "252722346235",
+        "auction_type": "Buy It Now",
+        "cert_number": "24343932",
+        "price": "$7.00",
+        "date": "7/15/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5177110914722124777/-8482570462949777033.jpg",
+        "grade": "9",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ultracards",
+        "cert_number": "24343931",
+        "auction_type": "Buy It Now",
+        "price": "$16.00",
+        "lot_number": "262134446954",
+        "date": "4/23/2018",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8327419904937246147/5383526741313519245.jpg"
+    },
+    {
+        "price": "$100.99",
+        "lot_number": "353879596495",
+        "auction_seller": "thepocketinvestor",
+        "cert_number": "43196853",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7107960804165960191/-1372062025491190860.jpg",
+        "auction_type": "Auction",
+        "date": "2/7/2022",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "poketomspokemon",
+        "auction_type": "Best Offer",
+        "cert_number": "43196853",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7042495282790242636/9205639173100911599.jpg",
+        "lot_number": "283698289256",
+        "price": "$40.00",
+        "date": "10/18/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

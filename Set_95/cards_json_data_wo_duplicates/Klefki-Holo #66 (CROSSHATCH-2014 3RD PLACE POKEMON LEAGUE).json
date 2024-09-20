@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "jeannietate1954",
+        "cert_number": "26700615",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3020982418207094567/-7565037740188478154.jpg",
+        "date": "1/30/2018",
+        "lot_number": "253386081459",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "135033754364",
+        "price": "$18.84",
+        "grade": "9",
+        "date": "5/5/2024",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2718507376097558062/-3132913298640984797.jpg",
+        "auction_house": "eBay",
+        "cert_number": "85411674"
+    },
+    {
+        "cert_number": "26700615",
+        "date": "8/16/2017",
+        "auction_type": "Best Offer",
+        "lot_number": "332255179252",
+        "auction_seller": "deriumspokemon",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/8133048167283077352/8871758796420017678.jpg",
+        "price": "$23.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

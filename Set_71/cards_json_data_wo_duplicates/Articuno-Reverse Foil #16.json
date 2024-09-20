@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1389223791729066908/6125102632821971321.jpg",
+        "date": "10/24/2022",
+        "lot_number": "155210420858",
+        "grade": "6",
+        "price": "$20.84",
+        "cert_number": "60226241",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/30/2024",
+        "lot_number": "235621665835",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7583582051038164462/-1294140836776215190.jpg",
+        "auction_seller": "hugojoss",
+        "auction_type": "Auction",
+        "cert_number": "80543654",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$147.99"
+    },
+    {
+        "auction_seller": "d2_pokeshop",
+        "price": "$52.00",
+        "cert_number": "69483504",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6933071309465791934/5438227007553789845.jpg",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_house": "eBay",
+        "lot_number": "404189788849"
+    },
+    {
+        "auction_seller": "d2_pokeshop",
+        "price": "$51.10",
+        "lot_number": "404173943792",
+        "date": "3/1/2023",
+        "cert_number": "69483504",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3842681257698916673/5438227007553789845.jpg"
+    },
+    {
+        "date": "1/9/2024",
+        "price": "$117.57",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5720227666496701240/9202536808354040742.jpg",
+        "lot_number": "235370167521",
+        "auction_seller": "hugojoss",
+        "auction_type": "Auction",
+        "cert_number": "80543654",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "7/28/2024",
+        "lot_number": "186584249662",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4016418693656813377/1701667499404359140.jpg",
+        "auction_type": "Auction",
+        "cert_number": "58886714",
+        "price": "$405.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "fallingsunset"
+    },
+    {
+        "auction_seller": "d2_pokeshop",
+        "lot_number": "404207725281",
+        "date": "3/25/2023",
+        "cert_number": "69483504",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3702752973849019086/5438227007553789845.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$25.49"
+    }
+]

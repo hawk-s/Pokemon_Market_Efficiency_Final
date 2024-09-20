@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$10.50",
+        "date": "1/5/2024",
+        "cert_number": "55533970",
+        "grade": "6",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3521469266003327999/-5744537849318596315.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "386519610080"
+    },
+    {
+        "cert_number": "68596989",
+        "lot_number": "295372258964",
+        "auction_seller": "wilber10littlest",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2879194041673281752/3751552185857680025.jpg",
+        "auction_house": "eBay",
+        "date": "12/5/2022"
+    }
+]

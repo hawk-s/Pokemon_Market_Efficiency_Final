@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "226149757826",
+        "cert_number": "59166570",
+        "date": "5/27/2024",
+        "auction_seller": "ketchumallcollectibles",
+        "price": "$766.69",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5533113541988613357/2761918071554734311.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/22/2020",
+        "price": "$806.00",
+        "cert_number": "44577604",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "lot_number": "363220477319",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2613813052974037193/6483507044777705059.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9136841467310603908/-1048586559456958103.jpg",
+        "price": "$999.99",
+        "cert_number": "44785858",
+        "auction_type": "Buy It Now",
+        "lot_number": "353052361275",
+        "grade": "8",
+        "auction_seller": "dulceadventures",
+        "date": "4/24/2020",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "283866224971",
+        "cert_number": "43056848",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4700038877602500884/-2553669868094981228.jpg",
+        "date": "5/10/2020",
+        "price": "$228.26",
+        "grade": "6",
+        "auction_seller": "blue02spazcrackers",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ustom-qy2ag4or",
+        "cert_number": "44785858",
+        "date": "3/10/2020",
+        "lot_number": "174117466844",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4145481249097104368/26105232308929201.jpg",
+        "price": "$379.97",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5991745355145611059/-4952117030579031608.jpg",
+        "price": "$4.25",
+        "lot_number": "264454267049",
+        "grade": "9",
+        "cert_number": "43177889",
+        "auction_seller": "egarza661",
+        "auction_type": "Auction",
+        "date": "9/12/2019",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "wesl-nguy",
+        "date": "11/8/2021",
+        "grade": "9",
+        "lot_number": "255207090071",
+        "cert_number": "50785334",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3954139119015583045/-1140520990659936792.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/331999345153794495/7479165443905082199.jpg",
+        "date": "10/28/2017",
+        "auction_type": "Buy It Now",
+        "cert_number": "27836852",
+        "price": "$19.99",
+        "auction_seller": "my_honolulu_blue",
+        "lot_number": "192344691551",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/22/2022",
+        "auction_seller": "wesl-nguy",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7984497752638216179/-1140520990659936792.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "cert_number": "50785334",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255332478971"
+    },
+    {
+        "price": "$11.00",
+        "date": "1/14/2022",
+        "auction_seller": "goats-n-pros",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "54856384",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2577839008510510788/2414112908658134851.jpg",
+        "lot_number": "334284045690"
+    },
+    {
+        "price": "$30.00",
+        "date": "12/1/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7330790086078599770/5180219406552910784.jpg",
+        "lot_number": "303776210448",
+        "auction_seller": "nicks_kicks01",
+        "auction_type": "Best Offer",
+        "cert_number": "47415417",
+        "grade": "9",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "123876118635",
+        "cert_number": "43328739",
+        "date": "8/20/2019",
+        "auction_seller": "kencope",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7891611471389975974/-4059224755405970152.jpg",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

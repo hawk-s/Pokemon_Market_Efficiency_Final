@@ -1,0 +1,68 @@
+[
+    {
+        "date": "12/31/2021",
+        "lot_number": "363666337778",
+        "grade": "8",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tntnorthnj",
+        "cert_number": "53648202",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4303737955346010927/-2432533378269245944.jpg"
+    },
+    {
+        "lot_number": "387113409463",
+        "auction_seller": "habbyshobbies",
+        "cert_number": "89203760",
+        "date": "7/1/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8082780056311111379/4833551165459804724.jpg",
+        "auction_house": "eBay",
+        "price": "$14.62"
+    },
+    {
+        "auction_seller": "dbundy13",
+        "lot_number": "364064298423",
+        "cert_number": "66647149",
+        "date": "12/7/2022",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3725051866973605646/-6050356366192526656.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "date": "6/12/2024",
+        "price": "$9.50",
+        "auction_seller": "bidoveru",
+        "cert_number": "72366300",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "315416150614",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9089321837858724684/-457938327529249772.jpg"
+    },
+    {
+        "cert_number": "28320848",
+        "auction_type": "Best Offer",
+        "price": "$39.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6614169280987942033/7391455264879117298.jpg",
+        "date": "11/2/2020",
+        "grade": "9",
+        "lot_number": "362288598594",
+        "auction_house": "eBay",
+        "auction_seller": "sportschampioncards"
+    },
+    {
+        "date": "3/23/2023",
+        "cert_number": "58710305",
+        "lot_number": "155456060761",
+        "auction_seller": "tannah12",
+        "price": "$17.38",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4925590400855794726/2785478672856553036.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

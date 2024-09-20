@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$7.50",
+        "cert_number": "41984089",
+        "lot_number": "192649513678",
+        "auction_seller": "indigo_league_japan",
+        "date": "9/9/2018",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7021351214844425788/116952268523192991.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/8/2021",
+        "grade": "6",
+        "lot_number": "403121505764",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3711390723058126052/7649624172585778113.jpg",
+        "auction_seller": "camla_7238",
+        "auction_type": "Auction",
+        "price": "$21.52",
+        "cert_number": "50115196",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4593627419313714213/-5953505625886256703.jpg",
+        "date": "9/8/2021",
+        "grade": "6",
+        "auction_seller": "camla_7238",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "cert_number": "50115196",
+        "lot_number": "403121476863",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/14/2024",
+        "cert_number": "72853988",
+        "auction_seller": "mrcoolguy28",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7843764069643338992/-654993998120380204.jpg",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "364829102493"
+    }
+]

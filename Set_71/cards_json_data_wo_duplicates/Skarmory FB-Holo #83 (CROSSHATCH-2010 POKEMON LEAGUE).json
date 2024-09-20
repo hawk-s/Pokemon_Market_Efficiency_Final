@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "poke_friends",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4420810538578031571/-512871689459898324.jpg",
+        "date": "3/13/2019",
+        "price": "$15.50",
+        "lot_number": "163586165452",
+        "grade": "8",
+        "cert_number": "27900668",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "226025138014",
+        "date": "3/11/2024",
+        "grade": "9",
+        "price": "$19.99",
+        "cert_number": "64622861",
+        "auction_seller": "tndcollectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3335035801598669682/-4510184324139140069.jpg"
+    },
+    {
+        "cert_number": "66392644",
+        "date": "12/11/2022",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "lot_number": "285057052217",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4833972683387359473/-4198192001268153790.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/27/2024",
+        "cert_number": "79451005",
+        "auction_seller": "jorza09",
+        "lot_number": "256450019166",
+        "grade": "9",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7321514727310015673/-2478466997264553259.jpg"
+    }
+]

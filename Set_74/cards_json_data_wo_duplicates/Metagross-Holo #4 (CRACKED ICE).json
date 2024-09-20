@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "41984020",
+        "auction_seller": "j.ice02",
+        "date": "7/10/2020",
+        "auction_type": "Buy It Now",
+        "price": "$40.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8566022886809807288/5210582416645356985.jpg",
+        "lot_number": "353107121711",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "355131617231",
+        "cert_number": "52081345",
+        "price": "$20.06",
+        "auction_seller": "tcg_stockpile",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2825367131489252321/5115721306602015969.jpg",
+        "auction_type": "Auction",
+        "date": "10/29/2023"
+    },
+    {
+        "date": "11/17/2020",
+        "cert_number": "41984020",
+        "auction_seller": "jeftrub-0",
+        "price": "$97.00",
+        "lot_number": "203178639539",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2617215803949299929/-5573922597165930505.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2136065129582958152/1600271203753543406.jpg",
+        "lot_number": "386917825363",
+        "price": "$13.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "66668766",
+        "auction_house": "eBay",
+        "date": "4/17/2024"
+    }
+]

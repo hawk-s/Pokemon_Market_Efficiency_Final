@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "83714929",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1818111331905493260/5868298250048703390.jpg",
+        "auction_seller": "zandgemporium",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$13.06",
+        "lot_number": "285630464673"
+    },
+    {
+        "lot_number": "115710499055",
+        "auction_seller": "tannah12",
+        "cert_number": "59998546",
+        "date": "2/26/2023",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$25.63",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-297950585660242986/6100996863303219111.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/16/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8827548993291710471/-3079528675633706995.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68870960",
+        "price": "$15.55",
+        "auction_seller": "cheeses-treasures-llc",
+        "lot_number": "155299606823"
+    }
+]

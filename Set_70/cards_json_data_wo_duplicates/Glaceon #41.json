@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/21/2019",
+        "auction_seller": "pokehut",
+        "grade": "9",
+        "cert_number": "44936531",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8572306178026589620/-1989351416073751014.jpg",
+        "lot_number": "264566773690",
+        "price": "$29.99"
+    },
+    {
+        "auction_seller": "latiasvro",
+        "price": "$15.50",
+        "grade": "9",
+        "cert_number": "68680324",
+        "date": "2/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275651346815",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2914885956358256651/-2058509463767255142.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7930821129267622712/-1989351416073751014.jpg",
+        "auction_seller": "pokehut",
+        "grade": "9",
+        "cert_number": "44936531",
+        "date": "12/8/2019",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "264553112129"
+    },
+    {
+        "date": "2/6/2023",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6369995591275454670/7838776155172939069.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$18.83",
+        "auction_house": "eBay",
+        "cert_number": "57088498",
+        "lot_number": "115688976267"
+    },
+    {
+        "grade": "5",
+        "date": "9/5/2018",
+        "lot_number": "292698835590",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2903916363402024771/-2484957457456676996.jpg",
+        "cert_number": "41072352",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$1.25"
+    }
+]

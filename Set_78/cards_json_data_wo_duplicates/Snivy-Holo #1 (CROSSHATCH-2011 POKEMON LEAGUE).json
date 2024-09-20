@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "rock_mountain_tcg",
+        "cert_number": "69147257",
+        "price": "$31.00",
+        "lot_number": "315023282445",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/92929325857343990/2380337649951015015.jpg"
+    },
+    {
+        "auction_seller": "hl-products",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2038516316970497228/6512056849800759415.jpg",
+        "grade": "8",
+        "date": "3/10/2024",
+        "lot_number": "335281167978",
+        "cert_number": "83778312",
+        "price": "$8.37",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1768866238178286965/2206734067618777054.jpg",
+        "date": "12/13/2021",
+        "auction_seller": "tjsmintyfreshcards",
+        "price": "$32.50",
+        "lot_number": "255264199872",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "53240286"
+    }
+]

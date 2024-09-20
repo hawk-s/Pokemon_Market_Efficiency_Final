@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$5.97",
+        "date": "5/24/2024",
+        "auction_seller": "thomaashfiel_8",
+        "cert_number": "88961072",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "404983309283",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6949425504086573808/-2233003921689212540.jpg"
+    },
+    {
+        "auction_seller": "ultracards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7178803400636208104/2950731850714292775.jpg",
+        "auction_type": "Best Offer",
+        "date": "5/10/2020",
+        "lot_number": "254571438069",
+        "price": "$6.00",
+        "grade": "9",
+        "cert_number": "23778742",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pocket_monsters_for_sale",
+        "price": "$34.99",
+        "auction_type": "Best Offer",
+        "cert_number": "45456015",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9044523977371454341/-5839638981119830632.jpg",
+        "auction_house": "eBay",
+        "date": "12/11/2020",
+        "lot_number": "363084620399"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5429128852298328655/-2233003921689212540.jpg",
+        "auction_seller": "thomaashfiel_8",
+        "lot_number": "404958044169",
+        "cert_number": "88961072",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/11/2024",
+        "price": "$11.26"
+    },
+    {
+        "cert_number": "44086393",
+        "auction_seller": "poketomspokemon",
+        "auction_type": "Best Offer",
+        "date": "2/25/2020",
+        "price": "$28.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2624581828969225431/-2021957299862077903.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "283670321003"
+    }
+]

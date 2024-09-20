@@ -1,0 +1,35 @@
+[
+    {
+        "date": "2/6/2023",
+        "cert_number": "68371043",
+        "price": "$10.50",
+        "lot_number": "134429631447",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7174391311164890374/-2571242060256307895.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "cert_number": "40848370",
+        "date": "12/18/2018",
+        "auction_seller": "tennisfun5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5409463029288118758/6258798738016408268.jpg",
+        "auction_type": "Auction",
+        "lot_number": "223283470617",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5637724480532812827/-3524127511797149732.jpg",
+        "auction_seller": "marro-4916",
+        "lot_number": "185806594048",
+        "grade": "9",
+        "price": "$52.23",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/15/2023",
+        "cert_number": "70364592"
+    }
+]

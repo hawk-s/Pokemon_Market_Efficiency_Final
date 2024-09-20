@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "59404348",
+        "price": "$18.21",
+        "auction_seller": "tannah12",
+        "date": "3/6/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4571645657769082897/5917241952834449201.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115717503011"
+    },
+    {
+        "cert_number": "41463088",
+        "auction_type": "Best Offer",
+        "date": "8/29/2020",
+        "auction_seller": "kantos_finest",
+        "grade": "9",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "313179089042",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7286962846192904556/5776883166715915436.jpg"
+    },
+    {
+        "lot_number": "313518220651",
+        "price": "$48.00",
+        "auction_seller": "andulagucards",
+        "grade": "8",
+        "date": "5/12/2021",
+        "cert_number": "46337427",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1098001332466929684/-7003911637771899698.jpg"
+    },
+    {
+        "cert_number": "59404348",
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "lot_number": "115744542438",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5867284148839952549/5917241952834449201.jpg",
+        "auction_type": "Auction",
+        "date": "4/2/2023",
+        "auction_house": "eBay",
+        "price": "$20.76"
+    },
+    {
+        "price": "$67.00",
+        "auction_type": "Best Offer",
+        "lot_number": "253319213381",
+        "auction_seller": "28greenthumb",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4712837225060045356/4186144594850247201.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27235926",
+        "date": "1/15/2018"
+    },
+    {
+        "grade": "5",
+        "price": "$10.50",
+        "lot_number": "134639978915",
+        "cert_number": "70266255",
+        "date": "7/10/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1344572517369952080/-4198504952487307127.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "cenv-53"
+    },
+    {
+        "lot_number": "165974910227",
+        "auction_seller": "lkar24",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1144995206209544231/-5132766530866636486.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/16/2023",
+        "cert_number": "70710075",
+        "price": "$16.50"
+    }
+]

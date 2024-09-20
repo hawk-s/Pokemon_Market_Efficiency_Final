@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "364098799423",
+        "cert_number": "68219485",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5427293223058195411/1203464077378890940.jpg",
+        "grade": "8",
+        "price": "$5.50",
+        "auction_seller": "matterandmotiongames",
+        "date": "1/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6238951110585621079/-479253640001430038.jpg",
+        "price": "$2.25",
+        "lot_number": "364098798231",
+        "cert_number": "68219486",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "date": "1/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "arkcollectibles",
+        "price": "$9.99",
+        "grade": "9",
+        "date": "9/17/2022",
+        "lot_number": "255722167344",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "61410757",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3582830992905173207/5027841890048442405.jpg"
+    },
+    {
+        "cert_number": "27836915",
+        "date": "6/21/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7560602990164166935/-8155705678863452626.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$3.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "372335458032"
+    }
+]

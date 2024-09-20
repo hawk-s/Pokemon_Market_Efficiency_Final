@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "59843073",
+        "price": "$7.50",
+        "auction_seller": "onepizza",
+        "grade": "9",
+        "date": "2/28/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255983147892",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1563272510971649042/-530202360008863191.jpg"
+    },
+    {
+        "auction_seller": "onepizza",
+        "lot_number": "255864182749",
+        "price": "$5.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6341196585999069013/4297590850146884730.jpg",
+        "cert_number": "59843074",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/13/2022"
+    },
+    {
+        "auction_seller": "onepizza",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3449887275762862102/-4072222153308318570.jpg",
+        "cert_number": "59843075",
+        "date": "4/21/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "256040776724"
+    },
+    {
+        "price": "$7.50",
+        "auction_seller": "onepizza",
+        "grade": "8",
+        "cert_number": "59843077",
+        "date": "1/20/2023",
+        "lot_number": "255914917754",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/794329171344860590/3711610749415104277.jpg"
+    },
+    {
+        "date": "12/27/2022",
+        "auction_seller": "onepizza",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6876622044977194097/2667221104162869600.jpg",
+        "cert_number": "59843076",
+        "lot_number": "255886721345",
+        "price": "$6.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "onepizza",
+        "price": "$7.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/413748685485491123/-530202360008863191.jpg",
+        "grade": "9",
+        "lot_number": "256006416854",
+        "date": "3/18/2023",
+        "auction_type": "Auction",
+        "cert_number": "59843073",
+        "auction_house": "eBay"
+    }
+]

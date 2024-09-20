@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$4.99",
+        "lot_number": "292716890204",
+        "date": "9/12/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1871485682289734689/3367945207339591403.jpg",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "cert_number": "41072381",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "125940016678",
+        "cert_number": "73895467",
+        "grade": "8",
+        "date": "5/24/2023",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2639874064586644312/8657013670995397188.jpg"
+    },
+    {
+        "lot_number": "294762653364",
+        "cert_number": "55513369",
+        "price": "$48.00",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/30/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2111691010988970938/-5742016536982015680.jpg"
+    },
+    {
+        "date": "9/15/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6260138019883082026/-4745904308024475755.jpg",
+        "price": "$14.99",
+        "cert_number": "41072380",
+        "lot_number": "292719761631",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "price": "$10.50",
+        "grade": "9",
+        "date": "10/29/2022",
+        "lot_number": "385189251054",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/943449704693107307/-5578899534709086949.jpg",
+        "auction_type": "Auction",
+        "cert_number": "62406957",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/6/2023",
+        "auction_seller": "tannah12",
+        "lot_number": "155383754968",
+        "grade": "8",
+        "price": "$25.11",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6291503610989189318/1361787097752425169.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57088552"
+    }
+]

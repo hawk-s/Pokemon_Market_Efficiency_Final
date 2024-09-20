@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "355122118628",
+        "grade": "9",
+        "auction_seller": "dedizzle24",
+        "price": "$39.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2216116715546698296/-5240321323903294181.jpg",
+        "auction_type": "Auction",
+        "cert_number": "68213092",
+        "date": "10/28/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/14/2022",
+        "cert_number": "68827772",
+        "lot_number": "255872536734",
+        "auction_seller": "venusaur_island",
+        "price": "$51.24",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5063330523284894942/1514545909324175388.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "68213093",
+        "date": "10/14/2023",
+        "price": "$6.50",
+        "grade": "9",
+        "lot_number": "355085076845",
+        "auction_seller": "dedizzle24",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2462402595542300162/-641096824610325345.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "75293738",
+        "date": "5/18/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/2398050866127930985/images/1.jpg",
+        "price": "$20.00",
+        "lot_number": "4842",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6620569935160154671/-2126342073787110461.jpg",
+        "auction_seller": "tcg_addicts",
+        "lot_number": "324148960727",
+        "auction_type": "Buy It Now",
+        "price": "$300.00",
+        "date": "7/13/2020",
+        "cert_number": "28984255",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "birwilts_0",
+        "cert_number": "68985452",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1288935893676220816/-5325146452126051585.jpg",
+        "grade": "6",
+        "price": "$6.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285101641450",
+        "date": "1/14/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4889787010046272677/-5221188787220878479.jpg",
+        "cert_number": "68213093",
+        "date": "7/2/2024",
+        "lot_number": "364968879714",
+        "price": "$27.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

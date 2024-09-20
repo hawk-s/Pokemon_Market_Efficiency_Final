@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "66128550",
+        "date": "1/1/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3639596474779149761/5327449688279510111.jpg",
+        "price": "$121.21",
+        "auction_seller": "playskapegames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "225317394079",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3100887933073293909/-7007051620377865868.jpg",
+        "date": "3/5/2023",
+        "lot_number": "225436307439",
+        "cert_number": "66128552",
+        "auction_seller": "playskapegames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$108.99"
+    },
+    {
+        "lot_number": "124053068918",
+        "auction_seller": "japan-international-trade",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7019531018513436404/-8952127038788055266.jpg",
+        "cert_number": "43617799",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "date": "1/26/2020"
+    }
+]

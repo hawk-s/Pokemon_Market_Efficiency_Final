@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$23.03",
+        "lot_number": "155213097635",
+        "auction_seller": "tannah12",
+        "cert_number": "60226358",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2346717113228323226/7887968504956387001.jpg",
+        "date": "10/26/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "bobcatgolfer24",
+        "lot_number": "266122152669",
+        "price": "$46.02",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "2/15/2023",
+        "auction_house": "eBay",
+        "cert_number": "68877698",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4028872008462048641/-7782236539649627550.jpg"
+    }
+]

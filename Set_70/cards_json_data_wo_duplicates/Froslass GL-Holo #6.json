@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "8.5",
+        "price": "$17.00",
+        "cert_number": "73574311",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/3676887496318889077/images/1.jpg",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "5/11/2023",
+        "lot_number": "4741"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3356225867844024059/3895644630841408830.jpg",
+        "price": "$9.52",
+        "auction_seller": "wenzel_tcg",
+        "grade": "8",
+        "cert_number": "74170517",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364653084204"
+    },
+    {
+        "cert_number": "68371025",
+        "date": "2/6/2023",
+        "price": "$15.50",
+        "grade": "8",
+        "lot_number": "134429649588",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1765228378844289797/1794704828640838988.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "cert_number": "40851223",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3337300394048713984/-8050733803606425398.jpg",
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143471143761",
+        "grade": "9",
+        "price": "$7.28",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "cert_number": "46557226",
+        "grade": "9",
+        "date": "1/22/2021",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "lot_number": "274640582877",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7488908106394194915/3759678484255264951.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6640414217750336738/-7471505787671188647.jpg",
+        "grade": "8.5",
+        "cert_number": "47611616",
+        "lot_number": "155440356497",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$25.00",
+        "date": "3/16/2023",
+        "auction_seller": "jon2592"
+    }
+]

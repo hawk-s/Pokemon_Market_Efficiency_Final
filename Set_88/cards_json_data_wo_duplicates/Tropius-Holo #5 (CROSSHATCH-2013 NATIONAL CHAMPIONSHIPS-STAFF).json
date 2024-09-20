@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "134677712213",
+        "cert_number": "68821466",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2757303931182336617/8523207435162346518.jpg",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "date": "8/13/2023",
+        "auction_type": "Auction",
+        "price": "$33.07",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "225396073605",
+        "date": "2/19/2023",
+        "grade": "9",
+        "auction_seller": "pokeking_auz",
+        "cert_number": "54392091",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5264450196796039531/1252049483653328044.jpg",
+        "auction_house": "eBay",
+        "price": "$71.00"
+    },
+    {
+        "lot_number": "274594694969",
+        "price": "$61.30",
+        "cert_number": "43116801",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1861340080357736660/2849287554118660061.jpg",
+        "grade": "8",
+        "auction_seller": "globalnostalgia",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/6/2020"
+    },
+    {
+        "date": "2/5/2023",
+        "price": "$45.02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1711488111125715148/6970114302689938630.jpg",
+        "grade": "8",
+        "auction_seller": "pokeking_auz",
+        "cert_number": "54392094",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "225358678376"
+    },
+    {
+        "price": "$42.00",
+        "date": "5/25/2023",
+        "cert_number": "67386688",
+        "grade": "9",
+        "lot_number": "4826",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6017128071725520029/-7670612219509296765/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "Weekly Auction May 16 - May 25",
+        "auction_house": "Goldin Auctions"
+    },
+    {
+        "price": "$42.69",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2988639113094371392/1751144702325748379.jpg",
+        "date": "2/19/2023",
+        "cert_number": "54392095",
+        "auction_seller": "pokeking_auz",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "225396066600"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1254278748379831435/-3324301469273959764.jpg",
+        "price": "$36.55",
+        "cert_number": "54392092",
+        "date": "9/2/2024",
+        "grade": "9",
+        "auction_seller": "pokeking_auz",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "226304603786"
+    }
+]

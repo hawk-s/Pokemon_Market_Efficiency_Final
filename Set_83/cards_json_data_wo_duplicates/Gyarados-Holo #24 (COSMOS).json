@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "50408726",
+        "grade": "8",
+        "date": "5/14/2021",
+        "auction_seller": "probstein123",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "384149482369",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/658262068387170380/-3072867647412802086.jpg"
+    },
+    {
+        "grade": "8",
+        "date": "5/14/2021",
+        "cert_number": "50408728",
+        "auction_seller": "probstein123",
+        "price": "$36.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-329140772397413048/-4197715110500454243.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "373569877502"
+    },
+    {
+        "date": "8/20/2021",
+        "grade": "8",
+        "cert_number": "50408727",
+        "auction_seller": "probstein123",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "384326086482",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4350509288730668354/8439443459109500215.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5943475350201614013/1062921852293038608.jpg",
+        "grade": "8",
+        "lot_number": "384149485845",
+        "date": "5/14/2021",
+        "cert_number": "50408727",
+        "auction_seller": "probstein123",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5320418357504639341/-2083176634761767051.jpg",
+        "date": "12/20/2021",
+        "price": "$45.00",
+        "lot_number": "185212198558",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "48828813",
+        "auction_house": "eBay",
+        "auction_seller": "extremecards_collectibles"
+    },
+    {
+        "price": "$2.25",
+        "grade": "7",
+        "lot_number": "186399580660",
+        "cert_number": "88256974",
+        "auction_seller": "esolano3",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7980522853890247250/-6119289684954306953.jpg",
+        "date": "4/25/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/10/2021",
+        "price": "$49.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7390781381429395508/8439443459109500215.jpg",
+        "grade": "8",
+        "cert_number": "50408727",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "384367584561"
+    },
+    {
+        "date": "2/1/2021",
+        "cert_number": "46647429",
+        "lot_number": "184635617326",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$355.00",
+        "auction_seller": "extremecards_collectibles",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8049237039002100257/425936575891512017.jpg"
+    }
+]

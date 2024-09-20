@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "slab-town",
+        "date": "12/1/2021",
+        "lot_number": "324904060027",
+        "price": "$41.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2121805152517717535/3173816171697653194.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53007649"
+    },
+    {
+        "date": "12/26/2022",
+        "price": "$13.50",
+        "auction_seller": "pawnline",
+        "grade": "6",
+        "lot_number": "134373323168",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7999294051379579985/-3861617262093523725.jpg",
+        "auction_house": "eBay",
+        "cert_number": "69095186"
+    },
+    {
+        "grade": "5",
+        "cert_number": "60226335",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-465628575061936793/-8286715029848711490.jpg",
+        "auction_seller": "tannah12",
+        "date": "10/26/2022",
+        "lot_number": "155212890041",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.93"
+    }
+]

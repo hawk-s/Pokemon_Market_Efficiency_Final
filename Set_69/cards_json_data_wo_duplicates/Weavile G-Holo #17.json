@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "43766413",
+        "lot_number": "164155370490",
+        "auction_type": "Buy It Now",
+        "price": "$40.00",
+        "auction_seller": "colddinosaur",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7135188519312735825/-703326350409727103.jpg",
+        "date": "4/28/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5630946122466457410/-2322773723666171646.jpg",
+        "auction_seller": "flower_city_cards",
+        "cert_number": "67393204",
+        "lot_number": "165847568840",
+        "grade": "9",
+        "date": "12/30/2022",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$32.00"
+    },
+    {
+        "date": "12/5/2022",
+        "auction_seller": "zandgemporium",
+        "cert_number": "57464779",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4129306919402773448/-6734567615900853693.jpg",
+        "price": "$33.00",
+        "lot_number": "285049776296"
+    }
+]

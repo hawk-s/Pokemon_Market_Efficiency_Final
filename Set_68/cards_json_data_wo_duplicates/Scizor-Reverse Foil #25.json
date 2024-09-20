@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "the_charizard_cartel",
+        "lot_number": "225927620215",
+        "grade": "8",
+        "date": "12/28/2023",
+        "auction_type": "Auction",
+        "cert_number": "74392506",
+        "auction_house": "eBay",
+        "price": "$21.33",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2405663205358441469/-5144744023018193913.jpg"
+    },
+    {
+        "lot_number": "276534655253",
+        "grade": "7",
+        "price": "$10.50",
+        "cert_number": "92465779",
+        "date": "7/12/2024",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4448388706987549944/-5550818654517149123.jpg"
+    },
+    {
+        "date": "3/13/2023",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_house": "eBay",
+        "lot_number": "175640238370",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6899774770305648718/-2903215258421885728.jpg",
+        "auction_seller": "jscottyson",
+        "cert_number": "68213628"
+    },
+    {
+        "grade": "7",
+        "cert_number": "60754761",
+        "auction_seller": "tannah12",
+        "price": "$22.05",
+        "auction_type": "Auction",
+        "lot_number": "155409096383",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7730751953967258350/-6390930705561081334.jpg",
+        "auction_house": "eBay",
+        "date": "2/22/2023"
+    }
+]

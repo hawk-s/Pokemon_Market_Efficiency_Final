@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "9 (OC)",
+        "date": "2/13/2023",
+        "cert_number": "44413215",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4202203718173172778/-5910474357217725218.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "lot_number": "275663030738"
+    },
+    {
+        "date": "1/7/2020",
+        "cert_number": "44413216",
+        "grade": "9 (OC)",
+        "auction_seller": "tetris10101",
+        "lot_number": "184107085791",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9131553153103614985/-2683463107023863199.jpg",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5831269020113951305/-6892242472087329911.jpg",
+        "cert_number": "48786496",
+        "lot_number": "133848021249",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "date": "8/21/2021"
+    }
+]

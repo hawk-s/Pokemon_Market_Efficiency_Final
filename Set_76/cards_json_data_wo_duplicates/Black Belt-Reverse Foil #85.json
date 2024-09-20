@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "91503459",
+        "auction_seller": "tinyfam-19",
+        "date": "6/4/2024",
+        "lot_number": "364916021186",
+        "price": "$27.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6246242779872495171/7479577742044648116.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "68797306",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5486658265072609242/514351676026582121.jpg",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$12.02",
+        "auction_type": "Auction",
+        "lot_number": "185795203882",
+        "date": "3/7/2023"
+    },
+    {
+        "price": "$15.51",
+        "lot_number": "402857450449",
+        "grade": "8.5",
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "cert_number": "48258546",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9212612207142369318/-2736868585794313731.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

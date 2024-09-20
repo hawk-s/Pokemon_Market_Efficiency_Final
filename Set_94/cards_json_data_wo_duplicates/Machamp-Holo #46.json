@@ -1,0 +1,35 @@
+[
+    {
+        "date": "9/19/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4659445770012044763/-1745652043479569884.jpg",
+        "price": "$15.56",
+        "cert_number": "45862103",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "124330595543",
+        "auction_house": "eBay",
+        "auction_seller": "raijinfujin"
+    },
+    {
+        "auction_seller": "collector_guy*",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8978562904714654580/971438646406138084.jpg",
+        "date": "12/7/2022",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "lot_number": "225275767534",
+        "auction_house": "eBay",
+        "cert_number": "65696692"
+    },
+    {
+        "lot_number": "235580350992",
+        "auction_seller": "ironsideentertainment",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8782559686025197265/-1843715703579408568.jpg",
+        "price": "$41.00",
+        "date": "5/30/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "91288049"
+    }
+]

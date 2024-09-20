@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$16.83",
+        "cert_number": "89096827",
+        "date": "6/2/2024",
+        "lot_number": "135072345909",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1408957171193370988/8668714166793565255.jpg",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "mickymuse53",
+        "auction_type": "Buy It Now",
+        "cert_number": "42833651",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4004784985963277063/3890013468903348154.jpg",
+        "grade": "9",
+        "date": "6/12/2020",
+        "price": "$19.99",
+        "auction_house": "eBay",
+        "lot_number": "264689924738"
+    }
+]

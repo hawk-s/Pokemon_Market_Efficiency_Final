@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "7",
+        "auction_seller": "nicepull",
+        "cert_number": "66661738",
+        "lot_number": "334757488846",
+        "date": "2/28/2023",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/675024320546705865/5512257742015205680.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "395433946064",
+        "date": "6/4/2024",
+        "cert_number": "85232601",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6726088933012437842/7840935249120805190.jpg",
+        "grade": "8",
+        "price": "$24.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "all_thingz_pokemon"
+    },
+    {
+        "grade": "5",
+        "lot_number": "235064291639",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/89951173867732810/9117583628138824168.jpg",
+        "price": "$10.00",
+        "cert_number": "71072693",
+        "auction_seller": "lukethacollector",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/2/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5804040771578237137/-2967289988374334506.jpg",
+        "grade": "7",
+        "cert_number": "64632725",
+        "price": "$15.50",
+        "lot_number": "276047282287",
+        "auction_type": "Auction",
+        "auction_seller": "smz47337",
+        "auction_house": "eBay",
+        "date": "10/2/2023"
+    },
+    {
+        "price": "$15.02",
+        "grade": "7",
+        "date": "9/10/2021",
+        "lot_number": "274921636830",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2707762972700745242/863673595076702691.jpg",
+        "cert_number": "51157952",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2255991448868421111/8770196243255864393.jpg",
+        "auction_seller": "kyaa_9242",
+        "cert_number": "85232601",
+        "lot_number": "395540607465",
+        "price": "$12.62",
+        "grade": "8",
+        "date": "7/25/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$38.00",
+        "lot_number": "5304",
+        "grade": "8",
+        "cert_number": "75917767",
+        "date": "6/15/2023",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/6718831551348325913/images/1.jpg"
+    },
+    {
+        "cert_number": "69942171",
+        "date": "5/12/2023",
+        "lot_number": "385592267067",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-299557982564584298/-2681209433259000839.jpg",
+        "auction_seller": "norcalsportscards",
+        "auction_type": "Auction",
+        "price": "$63.00",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "166850154038",
+        "cert_number": "83181047",
+        "grade": "8",
+        "auction_seller": "smisnitsua",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1352473660186913855/5734104261360189906.jpg",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/9/2024"
+    }
+]

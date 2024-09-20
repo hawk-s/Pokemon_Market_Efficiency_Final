@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "25856450",
+        "price": "$102.50",
+        "grade": "10",
+        "auction_seller": "pokehut",
+        "date": "12/3/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2582409568589848218/2987404841432626802.jpg",
+        "auction_house": "eBay",
+        "lot_number": "266003770325"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2577344035849632864/3256851971405150612.jpg",
+        "grade": "7",
+        "auction_seller": "tannah12",
+        "date": "3/6/2023",
+        "lot_number": "155429286544",
+        "cert_number": "59404397",
+        "auction_type": "Auction",
+        "price": "$19.56",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "25856450",
+        "date": "9/25/2020",
+        "lot_number": "363110009474",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2088571866193515348/-5034731196685917692.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "price": "$15.51",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5286397110336944733/2252166911452111292.jpg",
+        "cert_number": "57991578",
+        "grade": "9",
+        "lot_number": "266008841418",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "12/6/2022",
+        "auction_seller": "tca_gaming"
+    }
+]

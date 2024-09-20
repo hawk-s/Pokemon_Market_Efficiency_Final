@@ -1,0 +1,134 @@
+[
+    {
+        "date": "9/10/2023",
+        "auction_seller": "09mansfield",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "cert_number": "55522955",
+        "auction_house": "eBay",
+        "lot_number": "256206428039",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8344492759291939599/7390695559896735792.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9087517434468266261/5351438775663761273.jpg",
+        "lot_number": "395461256517",
+        "date": "6/18/2024",
+        "grade": "9",
+        "price": "$44.00",
+        "auction_seller": "winic_95",
+        "cert_number": "76433753",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$39.55",
+        "lot_number": "395483772900",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1308095093405071168/5351438775663761273.jpg",
+        "grade": "9",
+        "auction_seller": "winic_95",
+        "cert_number": "76433753",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/29/2024"
+    },
+    {
+        "date": "9/22/2021",
+        "lot_number": "265320705501",
+        "grade": "9",
+        "auction_seller": "brendens1990",
+        "price": "$75.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7627168438602863566/-4156257891082189754.jpg",
+        "auction_house": "eBay",
+        "cert_number": "48554965"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "cert_number": "53172009",
+        "lot_number": "144044902248",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4114288653007816084/-833047970455196385.jpg",
+        "grade": "9",
+        "price": "$47.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$59.00",
+        "auction_seller": "texas_tamugirl",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-981106393752876395/7850708385102874920.jpg",
+        "date": "1/12/2020",
+        "auction_type": "Auction",
+        "cert_number": "27391595",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "283729384281"
+    },
+    {
+        "date": "7/20/2024",
+        "price": "$54.50",
+        "lot_number": "395528979511",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1292009958989123701/5351438775663761273.jpg",
+        "grade": "9",
+        "auction_seller": "winic_95",
+        "cert_number": "76433753",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "82276829",
+        "price": "$26.00",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/17152344605613715/6909182438004825651.jpg",
+        "auction_seller": "winic_95",
+        "lot_number": "395026456902",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/5/2023"
+    },
+    {
+        "price": "$23.46",
+        "lot_number": "354694585013",
+        "cert_number": "72758716",
+        "grade": "9",
+        "date": "5/1/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5815092840754391581/339809118617937667.jpg",
+        "auction_seller": "ollieshops",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$13.50",
+        "auction_seller": "zandgemporium",
+        "date": "9/24/2023",
+        "grade": "8",
+        "lot_number": "285472580592",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2944784948503802569/420858423268543198.jpg",
+        "auction_house": "eBay",
+        "cert_number": "73471453"
+    },
+    {
+        "lot_number": "285175511159",
+        "date": "3/19/2023",
+        "auction_seller": "zandgemporium",
+        "cert_number": "71017385",
+        "price": "$26.90",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2810706917051640254/5058046258227105912.jpg"
+    },
+    {
+        "lot_number": "314483227065",
+        "cert_number": "68116795",
+        "date": "4/1/2023",
+        "auction_seller": "gemminttom",
+        "price": "$147.78",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1307867336091430443/-9056733157632348574.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

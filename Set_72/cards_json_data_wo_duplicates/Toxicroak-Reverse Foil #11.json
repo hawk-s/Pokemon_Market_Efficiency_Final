@@ -1,0 +1,24 @@
+[
+    {
+        "grade": "7",
+        "price": "$13.11",
+        "auction_seller": "tannah12",
+        "lot_number": "115569912529",
+        "cert_number": "60226338",
+        "date": "10/26/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8379324518296079215/-2188598020864517743.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "slab-town",
+        "date": "12/1/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5368821103953978016/3209601635696365597.jpg",
+        "grade": "9",
+        "cert_number": "53007827",
+        "auction_type": "Auction",
+        "lot_number": "324904063736",
+        "auction_house": "eBay",
+        "price": "$33.00"
+    }
+]

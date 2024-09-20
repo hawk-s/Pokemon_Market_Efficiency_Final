@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "72768169",
+        "date": "7/4/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6221218312175022486/-8406138496603186888.jpg",
+        "auction_seller": "winic_95",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "394705887258",
+        "price": "$16.50"
+    },
+    {
+        "lot_number": "394841139922",
+        "cert_number": "72768169",
+        "price": "$9.50",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2495513893567985224/-3938811095045649626.jpg",
+        "auction_seller": "winic_95",
+        "date": "9/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-104795300105556177/3431118379060172415.jpg",
+        "cert_number": "72768172",
+        "lot_number": "394923473959",
+        "grade": "9",
+        "auction_seller": "winic_95",
+        "auction_type": "Auction",
+        "date": "10/16/2023",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-531155752288776146/3431118379060172415.jpg",
+        "cert_number": "72768172",
+        "grade": "9",
+        "lot_number": "395026411959",
+        "auction_seller": "winic_95",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/5/2023",
+        "price": "$14.05"
+    },
+    {
+        "cert_number": "72768169",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7728935377669034824/-3938811095045649626.jpg",
+        "date": "9/16/2023",
+        "grade": "8",
+        "lot_number": "394867101491",
+        "auction_seller": "winic_95",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

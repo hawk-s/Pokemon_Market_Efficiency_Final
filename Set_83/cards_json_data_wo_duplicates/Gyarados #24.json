@@ -1,0 +1,35 @@
+[
+    {
+        "date": "6/22/2024",
+        "price": "$10.50",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6757851876267432831/-6690024577145103018.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "74642244",
+        "auction_seller": "nothingbutthebestforme",
+        "lot_number": "326162386441"
+    },
+    {
+        "lot_number": "253011519395",
+        "date": "7/2/2017",
+        "grade": "8",
+        "auction_seller": "tjsmintyfreshcards",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-1795974540845213348/6018129861623653694.jpg",
+        "cert_number": "24939807",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$1.25"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1689057982750912106/-8216796670141709632.jpg",
+        "grade": "8",
+        "lot_number": "326109396194",
+        "date": "5/8/2024",
+        "price": "$5.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "74642244",
+        "auction_seller": "nothingbutthebestforme"
+    }
+]

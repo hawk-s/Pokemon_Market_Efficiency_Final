@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "64879854",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8695111228145456998/489526438606113544.jpg",
+        "date": "10/26/2022",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$32.00",
+        "grade": "10",
+        "lot_number": "385178865267"
+    },
+    {
+        "lot_number": "355942231027",
+        "auction_seller": "pokeproshop",
+        "grade": "9",
+        "cert_number": "93713762",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6369156209271912805/3129125387016020972.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-838699589894467977/-343894794960150654.jpg",
+        "cert_number": "89787402",
+        "date": "7/14/2024",
+        "grade": "9",
+        "lot_number": "305658241325",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "date": "5/27/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2576177687808345662/5889246804225877529.jpg",
+        "cert_number": "88956669",
+        "lot_number": "285862676883",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "price": "$27.75",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "305687692974",
+        "grade": "9",
+        "date": "7/31/2024",
+        "cert_number": "92932820",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/715486362642707010/-2004442380037707617.jpg"
+    },
+    {
+        "price": "$30.00",
+        "auction_seller": "yingandyang88",
+        "lot_number": "184475294991",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5094817882697424637/-6934423129519852546.jpg",
+        "cert_number": "47324823",
+        "auction_house": "eBay",
+        "date": "10/27/2020"
+    },
+    {
+        "lot_number": "294762629177",
+        "cert_number": "55513390",
+        "price": "$50.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-707376953488499386/2326785296435601503.jpg",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/30/2022"
+    }
+]

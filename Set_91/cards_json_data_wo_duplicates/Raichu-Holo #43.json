@@ -1,0 +1,35 @@
+[
+    {
+        "date": "3/23/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3096065220174379761/-3565134055170075537.jpg",
+        "price": "$25.09",
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "lot_number": "115732104751",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "58710238"
+    },
+    {
+        "lot_number": "153381689772",
+        "price": "$24.99",
+        "grade": "9",
+        "date": "2/23/2019",
+        "auction_seller": "100heroes",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6710693709710347451/5350001607150986349.jpg",
+        "auction_house": "eBay",
+        "cert_number": "42979205"
+    },
+    {
+        "lot_number": "314173103459",
+        "price": "$2.47",
+        "cert_number": "61566665",
+        "grade": "6",
+        "auction_seller": "vaultedhobby",
+        "auction_type": "Auction",
+        "date": "10/10/2022",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4730921437385187415/-7950028224180845034.jpg"
+    }
+]

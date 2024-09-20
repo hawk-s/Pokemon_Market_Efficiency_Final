@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "fielder4mvp",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5780967041090203433/-4291907643234241948.jpg",
+        "date": "11/2/2021",
+        "lot_number": "165148898836",
+        "price": "$50.00",
+        "grade": "9",
+        "cert_number": "51249980",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/27/2023",
+        "auction_seller": "habbyshobbies",
+        "grade": "8",
+        "cert_number": "66466644",
+        "price": "$9.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6967494380037625987/2957766684374442496.jpg",
+        "lot_number": "385483581216",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$26.00",
+        "grade": "9",
+        "auction_seller": "zandgemporium-0",
+        "cert_number": "23622816",
+        "date": "12/6/2021",
+        "lot_number": "284544764109",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2423141828935975092/4238393846496251165.jpg"
+    },
+    {
+        "date": "9/25/2019",
+        "price": "$7.50",
+        "cert_number": "43232686",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "401884892222",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-628505757122418089/-2539889873676674825.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "284565137763",
+        "date": "12/20/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2882300234674389253/4238393846496251165.jpg",
+        "price": "$41.00",
+        "grade": "9",
+        "auction_seller": "zandgemporium-0",
+        "cert_number": "23622816",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

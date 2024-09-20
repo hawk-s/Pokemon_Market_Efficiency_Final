@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "8 (OC)",
+        "auction_seller": "zandgemporium",
+        "cert_number": "70796525",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1204657349923682674/-8020984124118085763.jpg",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_house": "eBay",
+        "lot_number": "285169098009",
+        "price": "$66.00"
+    },
+    {
+        "lot_number": "264353669726",
+        "auction_type": "Best Offer",
+        "cert_number": "43033041",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6237269891232720354/-4072279581034306906.jpg",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "auction_seller": "thetradingcarder",
+        "date": "8/15/2019"
+    },
+    {
+        "lot_number": "204420977997",
+        "auction_seller": "ketchumallcollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-411086794084792385/-9001392499425004115.jpg",
+        "date": "8/14/2023",
+        "cert_number": "69002072",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$74.50",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$18.23",
+        "grade": "7",
+        "date": "10/10/2023",
+        "auction_seller": "craftycardsetc",
+        "cert_number": "78193933",
+        "lot_number": "394914241866",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3160348792328022874/-1584601300620867387.jpg"
+    },
+    {
+        "cert_number": "59404303",
+        "price": "$24.95",
+        "date": "3/5/2023",
+        "auction_seller": "tannah12",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2228727624592161123/8328108162449197755.jpg",
+        "auction_type": "Auction",
+        "lot_number": "155426762420",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6876257843279088840/-3384658296514696199.jpg",
+        "lot_number": "283315034769",
+        "auction_type": "Buy It Now",
+        "cert_number": "40682667",
+        "date": "1/26/2019",
+        "price": "$39.46",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "jaccamero93"
+    }
+]

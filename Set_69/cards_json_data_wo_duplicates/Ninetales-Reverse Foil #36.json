@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "pokemonworldwide",
+        "lot_number": "145034209547",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5583765299039656768/-8529685403462610497.jpg",
+        "grade": "9",
+        "cert_number": "71984137",
+        "auction_type": "Auction",
+        "price": "$19.92",
+        "auction_house": "eBay",
+        "date": "4/20/2023"
+    },
+    {
+        "auction_seller": "marro-4916",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1843552295513138943/5125413197676940449.jpg",
+        "grade": "9",
+        "price": "$26.03",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/4/2023",
+        "cert_number": "69004157",
+        "lot_number": "185832061835"
+    },
+    {
+        "auction_seller": "eon_collect",
+        "date": "7/3/2023",
+        "lot_number": "364316873380",
+        "grade": "8",
+        "price": "$14.31",
+        "cert_number": "73863636",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3915433041307862209/4984005696178134676.jpg"
+    },
+    {
+        "price": "$17.62",
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7894094208539062665/6493511742702779254.jpg",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "cert_number": "60221471",
+        "auction_house": "eBay",
+        "lot_number": "155218808071"
+    }
+]

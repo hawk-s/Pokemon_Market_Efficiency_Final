@@ -1,0 +1,57 @@
+[
+    {
+        "date": "5/17/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7509477916982525121/-7124659719732715824.jpg",
+        "grade": "9",
+        "price": "$19.99",
+        "cert_number": "56739357",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "lot_number": "284809045770",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3628881632585814592/-4114370715465824601.jpg",
+        "auction_seller": "tanismtz",
+        "cert_number": "49329253",
+        "grade": "9",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "date": "8/25/2021",
+        "auction_house": "eBay",
+        "lot_number": "165025604647"
+    },
+    {
+        "date": "1/30/2023",
+        "price": "$15.00",
+        "cert_number": "68786281",
+        "auction_seller": "mandalorianbabysitter",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/775686163889708069/-3907032445324682357.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364120116738"
+    },
+    {
+        "auction_seller": "thomaashfiel_8",
+        "grade": "8",
+        "auction_type": "Auction",
+        "date": "4/28/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8174025037845779184/-344912503559661190.jpg",
+        "auction_house": "eBay",
+        "lot_number": "404935970790",
+        "cert_number": "88961082",
+        "price": "$9.35"
+    },
+    {
+        "date": "12/9/2022",
+        "auction_seller": "marro-4916",
+        "cert_number": "66781379",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1442277487644199086/-9152436513740889676.jpg",
+        "grade": "9",
+        "lot_number": "185681770753",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$15.87"
+    }
+]

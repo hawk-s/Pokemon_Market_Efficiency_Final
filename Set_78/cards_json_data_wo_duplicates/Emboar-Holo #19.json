@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "carriescards",
+        "cert_number": "70960262",
+        "lot_number": "334732742523",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-914788668587129160/4706903881104668992.jpg",
+        "price": "$19.50",
+        "date": "2/12/2023"
+    },
+    {
+        "cert_number": "57991639",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2402178039846674557/4907602520042608877.jpg",
+        "auction_seller": "carriescards",
+        "price": "$115.50",
+        "lot_number": "334784887989",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/16/2023",
+        "grade": "10"
+    },
+    {
+        "lot_number": "256106596118",
+        "auction_seller": "titan1726",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6109057563746260809/5173669814026608453.jpg",
+        "cert_number": "73229155",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$2.51",
+        "auction_house": "eBay",
+        "date": "6/26/2023"
+    },
+    {
+        "auction_seller": "carriescards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8019813645381715146/-6787057057833614792.jpg",
+        "cert_number": "70960263",
+        "grade": "9",
+        "lot_number": "334732743304",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50",
+        "date": "2/12/2023"
+    },
+    {
+        "cert_number": "57991639",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7717488698802914947/-1717700562096231935.jpg",
+        "price": "$276.51",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/6/2022",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "lot_number": "266008996180"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5643284999935439361/-3252895616709695411.jpg",
+        "lot_number": "394824375811",
+        "date": "8/26/2023",
+        "grade": "8",
+        "price": "$5.50",
+        "auction_seller": "winic_95",
+        "cert_number": "75215569",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

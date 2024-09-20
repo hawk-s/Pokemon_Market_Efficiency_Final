@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "Weekly Auction 13 Jun - 22 Jun",
+        "cert_number": "75343413",
+        "price": "$16.00",
+        "grade": "8",
+        "lot_number": "5466",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/3815309888501543544/-1485177877936670447/images/1.jpg",
+        "date": "6/26/2023"
+    },
+    {
+        "price": "$15.39",
+        "cert_number": "56524111",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7134249801815589866/1063415555194580907.jpg",
+        "grade": "8",
+        "auction_seller": "ronnyberry1",
+        "auction_type": "Auction",
+        "lot_number": "275443588840",
+        "auction_house": "eBay",
+        "date": "9/9/2022"
+    },
+    {
+        "date": "10/10/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5724777373467237726/-2961561202216980704.jpg",
+        "auction_seller": "amtsupply",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "cert_number": "51069656",
+        "auction_house": "eBay",
+        "lot_number": "294441517993",
+        "grade": "10"
+    },
+    {
+        "lot_number": "292254696407",
+        "cert_number": "27737409",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2990379439571152544/-1994416012257336929.jpg",
+        "price": "$24.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tnolan0816",
+        "date": "9/21/2017",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6257175398725455037/8108087787363933038.jpg",
+        "grade": "8",
+        "price": "$14.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "63366283",
+        "date": "11/3/2022",
+        "lot_number": "385195239563"
+    }
+]

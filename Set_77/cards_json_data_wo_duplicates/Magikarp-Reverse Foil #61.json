@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "71928389",
+        "lot_number": "156239024932",
+        "auction_seller": "sgbwill2",
+        "grade": "9",
+        "date": "6/9/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2609265753914158384/5496440679375326408.jpg",
+        "auction_type": "Auction",
+        "price": "$26.72",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/618315852116662074/-339339686425585433.jpg",
+        "auction_seller": "tcg_sales132",
+        "date": "3/17/2023",
+        "cert_number": "68661274",
+        "lot_number": "175645990362",
+        "grade": "9",
+        "price": "$26.03",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/5/2023",
+        "price": "$18.58",
+        "cert_number": "68661274",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7098586449101588966/5916833550691054721.jpg",
+        "lot_number": "185752762964",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3103462314604968748/8344160277473221438.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$39.99",
+        "date": "3/5/2020",
+        "cert_number": "41149664",
+        "lot_number": "123789626508",
+        "auction_seller": "dh2523",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

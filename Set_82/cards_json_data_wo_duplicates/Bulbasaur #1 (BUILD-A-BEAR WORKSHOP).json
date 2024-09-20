@@ -1,0 +1,57 @@
+[
+    {
+        "auction_type": "Best Offer",
+        "date": "1/19/2021",
+        "auction_seller": "gamefreak96",
+        "cert_number": "41993744",
+        "lot_number": "164651582971",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5222108415361797273/-2552692688444925996.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$130.00"
+    },
+    {
+        "price": "$55.00",
+        "lot_number": "392758849499",
+        "auction_seller": "imakuniscloset",
+        "auction_type": "Buy It Now",
+        "cert_number": "41175625",
+        "date": "5/3/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-454890089908202197/3959425174349621895.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/16/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4210846812491567650/-4378516316435674616.jpg",
+        "lot_number": "333473596335",
+        "auction_seller": "egop-70",
+        "cert_number": "41175625",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$60.00",
+        "lot_number": "254795370579",
+        "auction_type": "Best Offer",
+        "cert_number": "41034574",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8906307855391138490/-9201889091172427855.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "autographs-for-sale",
+        "date": "12/6/2020",
+        "grade": "10"
+    },
+    {
+        "lot_number": "315007936295",
+        "grade": "8",
+        "auction_seller": "tcgandmore1",
+        "date": "12/14/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6619670967804849634/-6230201727028402244.jpg",
+        "price": "$6.50",
+        "cert_number": "82374915",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

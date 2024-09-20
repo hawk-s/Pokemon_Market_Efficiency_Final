@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "226060259764",
+        "price": "$20.99",
+        "grade": "9",
+        "cert_number": "61744466",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-44122960646867026/3243057068409192017.jpg",
+        "auction_seller": "easybake0ven"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-3991723975217227429/2333540022373142382.jpg",
+        "cert_number": "23314657",
+        "auction_seller": "antiherocomics",
+        "lot_number": "222472101043",
+        "price": "$10.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/19/2017"
+    },
+    {
+        "cert_number": "68669184",
+        "auction_seller": "latiasvro",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9086139665621042873/3400970347253534157.jpg",
+        "grade": "9",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275724323296",
+        "date": "3/10/2023"
+    }
+]

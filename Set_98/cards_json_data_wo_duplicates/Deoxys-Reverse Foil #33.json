@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$19.12",
+        "date": "4/9/2023",
+        "lot_number": "134507609210",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "65201832",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8116445792879951740/5758012470695662483.jpg"
+    },
+    {
+        "cert_number": "77504934",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "lot_number": "285494867834",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/8/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4419426722026058775/-4087146637966503199.jpg"
+    },
+    {
+        "lot_number": "176337181072",
+        "cert_number": "67515468",
+        "price": "$29.75",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8671903281337188049/3147704434787385371.jpg",
+        "grade": "9",
+        "date": "4/27/2024",
+        "auction_seller": "ab_sportscards_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

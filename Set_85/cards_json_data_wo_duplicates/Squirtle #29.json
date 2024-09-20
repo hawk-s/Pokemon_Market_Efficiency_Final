@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$4.99",
+        "cert_number": "41090497",
+        "lot_number": "292709739820",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3831085384280239411/72388710049585336.jpg",
+        "date": "9/10/2018"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5169407276886660073/-8197045807042097293.jpg",
+        "grade": "8",
+        "date": "2/10/2019",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41090498",
+        "lot_number": "292946172470",
+        "price": "$1.25"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2906894412521259403/-1956491123561264983.jpg",
+        "lot_number": "285630464620",
+        "cert_number": "83714795",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "price": "$5.51",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$2.49",
+        "grade": "8",
+        "date": "9/9/2018",
+        "auction_seller": "amtsupply",
+        "cert_number": "41090496",
+        "auction_type": "Auction",
+        "lot_number": "292708308114",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8564042048610208235/-2370954608524773439.jpg"
+    },
+    {
+        "auction_seller": "charlotteewingate",
+        "lot_number": "194807220376",
+        "grade": "9",
+        "price": "$31.00",
+        "cert_number": "54308877",
+        "auction_type": "Auction",
+        "date": "2/15/2022",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7122527803585179699/-3375628874870231249.jpg"
+    },
+    {
+        "grade": "7",
+        "date": "3/4/2023",
+        "lot_number": "204252650355",
+        "cert_number": "61308686",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$4.00",
+        "auction_seller": "ihaveloveforthegame",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3402709537676787930/6930368456713903934.jpg"
+    },
+    {
+        "lot_number": "393810328562",
+        "price": "$61.00",
+        "auction_seller": "pokestop34",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1530267032830201491/-2324151557210953679.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "47800907",
+        "auction_house": "eBay",
+        "date": "12/27/2021"
+    }
+]

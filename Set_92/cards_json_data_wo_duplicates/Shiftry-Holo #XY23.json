@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1489040762301593609/-5787434803186765720.jpg",
+        "lot_number": "222982992634",
+        "date": "5/25/2018",
+        "auction_seller": "blasturtle",
+        "price": "$9.95",
+        "cert_number": "28702080",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27553118",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9086203072197522248/-3907292789873428031.jpg",
+        "grade": "9",
+        "auction_seller": "my_honolulu_blue",
+        "price": "$7.99",
+        "date": "4/23/2018",
+        "auction_house": "eBay",
+        "lot_number": "192375146870"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4044157560717559061/7044355010341330298.jpg",
+        "price": "$2.25",
+        "date": "3/25/2023",
+        "lot_number": "234937836463",
+        "grade": "6",
+        "auction_seller": "kurt302de",
+        "cert_number": "48415985",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "27553118",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7276811949771719142/-3907292789873428031.jpg",
+        "grade": "9",
+        "lot_number": "112566134410",
+        "auction_seller": "my_honolulu_blue",
+        "price": "$1.36",
+        "auction_type": "Auction",
+        "date": "9/23/2017",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "date": "3/3/2021",
+        "cert_number": "41117479",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6675615778946685801/4703214028483215560.jpg",
+        "auction_type": "Auction",
+        "lot_number": "265042937069",
+        "auction_house": "eBay",
+        "auction_seller": "khazam_store",
+        "price": "$117.50"
+    },
+    {
+        "price": "$375.00",
+        "lot_number": "294179581936",
+        "cert_number": "49289826",
+        "date": "5/23/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/565338516622362749/9146155867662962512.jpg",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "196562744210",
+        "grade": "9",
+        "auction_seller": "fearcory",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "86452349",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7731940819755911808/-8617207475752917480.jpg",
+        "price": "$22.04",
+        "date": "8/22/2024"
+    }
+]

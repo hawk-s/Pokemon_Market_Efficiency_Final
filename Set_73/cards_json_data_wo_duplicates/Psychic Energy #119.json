@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "7",
+        "lot_number": "155207521901",
+        "cert_number": "60226404",
+        "auction_seller": "tannah12",
+        "price": "$18.31",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/23/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3374656022493205647/8531665967641477686.jpg"
+    },
+    {
+        "auction_seller": "itsnotaphasemomcollectibles",
+        "date": "9/10/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3280207202836794416/2276081619018891830.jpg",
+        "lot_number": "256202692808",
+        "grade": "9",
+        "price": "$15.35",
+        "cert_number": "76856414",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$78.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1148346371145872974/7752795132606641360.jpg",
+        "cert_number": "56309546",
+        "auction_seller": "apmerchant02",
+        "date": "12/3/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185668533311",
+        "grade": "10"
+    },
+    {
+        "price": "$58.63",
+        "date": "2/13/2023",
+        "cert_number": "68851207",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3298448181263742106/4547214861596043055.jpg",
+        "auction_type": "Auction",
+        "lot_number": "325524439724",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "lot_number": "223743116880",
+        "auction_seller": "pokeduck_pokemon_cards_games_and_more",
+        "auction_type": "Best Offer",
+        "cert_number": "44494584",
+        "date": "6/9/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-80295246477266830/5249579606110563204.jpg",
+        "price": "$39.89",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/8/2021",
+        "cert_number": "46406946",
+        "price": "$46.00",
+        "auction_seller": "poke_place",
+        "lot_number": "233880005107",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8781141577261343939/-9053432662699585153.jpg"
+    }
+]

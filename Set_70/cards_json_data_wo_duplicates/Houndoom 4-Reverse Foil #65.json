@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5850994642883735687/-994243675658905169.jpg",
+        "price": "$25.15",
+        "cert_number": "60221580",
+        "date": "10/31/2022",
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115577222899"
+    },
+    {
+        "price": "$69.99",
+        "date": "6/13/2020",
+        "auction_seller": "poketomspokemon",
+        "auction_type": "Buy It Now",
+        "lot_number": "283636558852",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4079173369298505462/-2359952199690080014.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "44086025"
+    },
+    {
+        "lot_number": "264784963011",
+        "auction_type": "Buy It Now",
+        "price": "$74.99",
+        "date": "7/5/2020",
+        "auction_seller": "coffeecorp",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "44086025",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4007154779936765007/-5499501021607956728.jpg"
+    }
+]

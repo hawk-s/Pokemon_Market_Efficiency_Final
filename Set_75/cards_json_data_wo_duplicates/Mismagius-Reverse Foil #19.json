@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$9.50",
+        "auction_seller": "zandgemporium",
+        "cert_number": "60814005",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4029931571702869262/-3539828195855361608.jpg",
+        "lot_number": "285200299828",
+        "auction_type": "Auction",
+        "date": "4/2/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/30/2023",
+        "cert_number": "68664073",
+        "lot_number": "185743773103",
+        "grade": "8",
+        "auction_seller": "marro-4916",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4391695285580939868/4772279831990342942.jpg",
+        "auction_house": "eBay",
+        "price": "$10.88"
+    }
+]

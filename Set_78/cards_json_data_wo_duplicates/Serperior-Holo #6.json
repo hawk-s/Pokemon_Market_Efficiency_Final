@@ -1,0 +1,101 @@
+[
+    {
+        "auction_seller": "carriescards",
+        "cert_number": "65695833",
+        "price": "$92.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/16/2023",
+        "grade": "10",
+        "lot_number": "334784891306",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5091456573477501651/4504282448421059011.jpg"
+    },
+    {
+        "date": "3/10/2023",
+        "auction_seller": "carriescards",
+        "cert_number": "70960291",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2526016196372532436/3008679983900976968.jpg",
+        "lot_number": "334775679608",
+        "price": "$163.61",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "286013730035",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6988034143977422896/-6233335563411494868.jpg",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "cert_number": "19939254"
+    },
+    {
+        "cert_number": "50816637",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1939154279181258929/-5965708996360401889.jpg",
+        "date": "12/29/2021",
+        "lot_number": "313802648699",
+        "auction_seller": "impossiblegames",
+        "price": "$65.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "8",
+        "lot_number": "305750087210",
+        "price": "$10.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5862129278524886618/-7523203089605385987.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "9/4/2024",
+        "cert_number": "94384351",
+        "auction_seller": "psa"
+    },
+    {
+        "lot_number": "305703572675",
+        "price": "$13.50",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5138665062172266936/-7541020402806720749.jpg",
+        "auction_type": "Auction",
+        "date": "8/9/2024",
+        "auction_house": "eBay",
+        "cert_number": "94384351",
+        "auction_seller": "psa"
+    },
+    {
+        "date": "3/27/2023",
+        "auction_seller": "carriescards",
+        "cert_number": "70960291",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3863883229744619259/3008679983900976968.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$66.55",
+        "grade": "10",
+        "lot_number": "334798225838"
+    },
+    {
+        "cert_number": "92037392",
+        "auction_seller": "tayboun",
+        "lot_number": "126544230609",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8306676502224907943/-7572411504387472802.jpg",
+        "price": "$1.50",
+        "grade": "6",
+        "date": "7/1/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "50816637",
+        "date": "1/8/2022",
+        "lot_number": "313815041625",
+        "auction_seller": "impossiblegames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2444823959252141653/-5965708996360401889.jpg",
+        "price": "$18.50"
+    }
+]

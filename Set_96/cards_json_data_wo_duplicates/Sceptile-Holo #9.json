@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7375146545348352947/-2959929064895853194.jpg",
+        "grade": "8",
+        "cert_number": "47709536",
+        "auction_seller": "thriftnkicks",
+        "date": "3/18/2021",
+        "price": "$31.00",
+        "lot_number": "164748819453",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "70514086",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1448527100457082779/4807684068500808479.jpg",
+        "price": "$13.52",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "lot_number": "275667798172",
+        "auction_house": "eBay",
+        "date": "2/24/2023"
+    },
+    {
+        "price": "$15.00",
+        "cert_number": "70159062",
+        "date": "2/3/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6906638990959436752/8017364399883027595.jpg",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "lot_number": "275624695169",
+        "auction_house": "eBay"
+    }
+]

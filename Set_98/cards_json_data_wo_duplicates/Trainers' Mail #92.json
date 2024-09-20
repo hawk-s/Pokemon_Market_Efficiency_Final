@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "otisme123",
+        "lot_number": "303899487322",
+        "date": "3/4/2021",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2329371961445374000/5010286844095479136.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$33.00",
+        "cert_number": "43210345"
+    },
+    {
+        "price": "$9.50",
+        "cert_number": "43210357",
+        "grade": "9",
+        "date": "5/31/2021",
+        "auction_house": "eBay",
+        "lot_number": "144046130695",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8372001714310950103/1839258435093000089.jpg",
+        "auction_seller": "evcards"
+    },
+    {
+        "auction_seller": "intriguing0ne",
+        "cert_number": "43210359",
+        "grade": "10",
+        "date": "9/22/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1738935656275602695/5235372029876010443.jpg",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "164385097808"
+    }
+]

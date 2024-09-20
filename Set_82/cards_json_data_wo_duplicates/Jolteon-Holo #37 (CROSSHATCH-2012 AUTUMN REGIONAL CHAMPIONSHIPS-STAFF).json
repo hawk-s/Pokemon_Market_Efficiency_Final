@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6498791449546642029/2162591594700672084.jpg",
+        "date": "12/11/2023",
+        "price": "$147.50",
+        "grade": "9",
+        "cert_number": "67701633",
+        "auction_type": "Auction",
+        "lot_number": "315000911355",
+        "auction_house": "eBay",
+        "auction_seller": "club-collectibles"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-290515467609378234/5779545986345292660.jpg",
+        "cert_number": "68420383",
+        "lot_number": "314762135543",
+        "grade": "9",
+        "auction_seller": "tca_gaming",
+        "auction_type": "Auction",
+        "price": "$205.50",
+        "auction_house": "eBay",
+        "date": "8/21/2023"
+    },
+    {
+        "cert_number": "40916010",
+        "date": "7/3/2023",
+        "grade": "9",
+        "auction_seller": "pokeking_auz",
+        "price": "$222.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2869328206637606958/-1685662547900821480.jpg",
+        "lot_number": "225632941914"
+    },
+    {
+        "cert_number": "73726676",
+        "lot_number": "185854931923",
+        "price": "$200.00",
+        "auction_seller": "pleasestoptaking",
+        "grade": "8",
+        "auction_type": "Auction",
+        "date": "4/24/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9046869687246272481/6563033941878536510.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1419535887604383831/-361772639597690176.jpg",
+        "date": "1/1/2023",
+        "price": "$244.79",
+        "cert_number": "67235318",
+        "auction_seller": "playskapegames",
+        "grade": "9",
+        "lot_number": "225317394092",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

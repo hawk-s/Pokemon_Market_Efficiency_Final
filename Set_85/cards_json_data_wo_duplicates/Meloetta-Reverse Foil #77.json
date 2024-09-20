@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "collectorsworld-va",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2583720169628255884/-8132404991107028477.jpg",
+        "date": "12/17/2017",
+        "grade": "9",
+        "cert_number": "28478664",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "173024142713",
+        "price": "$4.00"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4718407621266649228/6376109004388096096.jpg",
+        "price": "$3.25",
+        "date": "9/9/2018",
+        "lot_number": "173511280876",
+        "grade": "9",
+        "cert_number": "28478664",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "254281441815",
+        "date": "7/28/2019",
+        "auction_type": "Buy It Now",
+        "auction_seller": "selling_the_earth",
+        "grade": "9",
+        "cert_number": "28478664",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3237897663889732576/7514914080797807737.jpg",
+        "auction_house": "eBay",
+        "price": "$17.99"
+    }
+]

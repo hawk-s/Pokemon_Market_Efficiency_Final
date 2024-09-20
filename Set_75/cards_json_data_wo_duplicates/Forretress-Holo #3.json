@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "81534609",
+        "price": "$10.50",
+        "lot_number": "226204045476",
+        "grade": "8",
+        "auction_seller": "pokeking_auz",
+        "date": "7/7/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4867488029829900961/3820359903960561960.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "324226432041",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "date": "11/3/2020",
+        "auction_seller": "416.rare.cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6364069556979477860/9111842754823323756.jpg",
+        "cert_number": "45839674",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2343824678180709109/-5301577005688558914.jpg",
+        "cert_number": "61168200",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$24.00",
+        "auction_house": "eBay",
+        "lot_number": "115733669496"
+    },
+    {
+        "auction_seller": "eltorr6",
+        "cert_number": "44755749",
+        "price": "$85.00",
+        "auction_type": "Best Offer",
+        "date": "10/28/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7483117152195359746/2250879809889369370.jpg",
+        "lot_number": "284027024937",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

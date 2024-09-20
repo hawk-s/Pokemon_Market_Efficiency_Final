@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "373650979559",
+        "price": "$102.50",
+        "date": "7/23/2021",
+        "auction_seller": "probstein123",
+        "cert_number": "48216505",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9027386887198145213/8713029673540932262.jpg"
+    },
+    {
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/185435423016339678/1417864670397174205.jpg",
+        "lot_number": "266513067237",
+        "date": "12/3/2023",
+        "grade": "9",
+        "cert_number": "57991682",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "auction_seller": "ultracards",
+        "auction_type": "Buy It Now",
+        "cert_number": "24343955",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7416469093477668791/8795810653870483975.jpg",
+        "price": "$7.00",
+        "lot_number": "252722350543",
+        "grade": "9",
+        "date": "1/21/2018",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-110128508374393620/5428953715187573599.jpg",
+        "auction_seller": "4thetcg",
+        "lot_number": "285614785763",
+        "date": "12/24/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$62.00",
+        "cert_number": "62191430"
+    },
+    {
+        "price": "$79.75",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5743617476361541748/6835204185312992329.jpg",
+        "auction_seller": "pokesales--92",
+        "lot_number": "166725427760",
+        "auction_type": "Auction",
+        "cert_number": "74766122",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/28/2024"
+    }
+]

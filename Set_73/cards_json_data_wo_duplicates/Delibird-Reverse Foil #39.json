@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3558835400253265869/-5887664588730027742.jpg",
+        "lot_number": "285948975861",
+        "cert_number": "92174226",
+        "date": "7/12/2024",
+        "grade": "9",
+        "price": "$0.67",
+        "auction_seller": "sakuracache",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "24823091",
+        "price": "$14.99",
+        "date": "5/28/2017",
+        "auction_type": "Buy It Now",
+        "lot_number": "361890305456",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7549650437919214423/-7599678319299644982.jpg",
+        "auction_seller": "4_sharp_corners",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "10/2/2017",
+        "lot_number": "253178548975",
+        "auction_seller": "matt-cru",
+        "cert_number": "24823093",
+        "price": "$5.50",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4783272218038065095/-2280487483905234238.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

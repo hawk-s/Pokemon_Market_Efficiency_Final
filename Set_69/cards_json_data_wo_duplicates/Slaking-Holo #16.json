@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "chameleon.comics",
+        "price": "$15.98",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6919584693622224501/1132560780515223017.jpg",
+        "cert_number": "72855814",
+        "grade": "9",
+        "date": "8/14/2024",
+        "lot_number": "226284177088",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8311294163063572925/7682055971423512298.jpg",
+        "lot_number": "364141118105",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "69088065",
+        "date": "2/17/2023",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "tannah12",
+        "price": "$17.73",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115707849300",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/881357814478240804/-4796105750975589348.jpg",
+        "date": "2/23/2023",
+        "cert_number": "60754792"
+    }
+]

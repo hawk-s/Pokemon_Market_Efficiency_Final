@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "7",
+        "price": "$17.00",
+        "date": "8/14/2024",
+        "cert_number": "86393576",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9131846831171704784/3342875483701393012.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "lot_number": "305707772690"
+    },
+    {
+        "lot_number": "155308352496",
+        "cert_number": "56612932",
+        "date": "12/21/2022",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6065440040991216510/8185186445614617538.jpg",
+        "price": "$13.74",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "28958631",
+        "date": "3/29/2018",
+        "price": "$24.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2750959797737793443/4080246624755275362.jpg",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "112886344248",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5362794382604241347/7500381504748270534.jpg",
+        "date": "8/24/2021",
+        "grade": "9",
+        "price": "$47.00",
+        "auction_seller": "poke_place",
+        "auction_type": "Auction",
+        "lot_number": "234143276615",
+        "auction_house": "eBay",
+        "cert_number": "49197146"
+    },
+    {
+        "date": "8/14/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1721098100981484460/-1841695383585547144.jpg",
+        "auction_type": "Best Offer",
+        "grade": "10",
+        "price": "$23.00",
+        "auction_seller": "arcadiatradingcardstore",
+        "auction_house": "eBay",
+        "lot_number": "253782411937",
+        "cert_number": "40796291"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9017220375161396260/2797801512353875122.jpg",
+        "date": "10/19/2023",
+        "cert_number": "81599308",
+        "auction_type": "Auction",
+        "auction_seller": "geeps77",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "lot_number": "175959201134"
+    }
+]

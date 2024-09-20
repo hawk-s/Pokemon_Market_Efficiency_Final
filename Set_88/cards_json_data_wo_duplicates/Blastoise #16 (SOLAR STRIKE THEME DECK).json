@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "174951372882",
+        "grade": "7",
+        "date": "10/1/2021",
+        "auction_seller": "rainydaycards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4370042949643635809/4691191748298528050.jpg",
+        "cert_number": "49907906",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "57849413",
+        "lot_number": "266165627197",
+        "auction_seller": "pokehut",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "price": "$33.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4975480637752711537/-5951605407488165012.jpg"
+    },
+    {
+        "price": "$18.55",
+        "lot_number": "266137741475",
+        "date": "3/1/2023",
+        "auction_seller": "pokehut",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/291495525132032555/-2333412250185519685.jpg",
+        "auction_type": "Auction",
+        "cert_number": "48123840",
+        "auction_house": "eBay"
+    }
+]

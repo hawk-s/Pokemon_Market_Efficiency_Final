@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "niteanddaysports",
+        "cert_number": "48564566",
+        "date": "8/7/2024",
+        "price": "$17.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "355912924289",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7332797646514700047/7674482088964736566.jpg"
+    },
+    {
+        "lot_number": "155304109654",
+        "date": "12/18/2022",
+        "price": "$31.36",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-429724948980687362/4745416312600733770.jpg",
+        "cert_number": "68565997",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokichloecards"
+    },
+    {
+        "cert_number": "69373733",
+        "date": "1/18/2023",
+        "grade": "9",
+        "price": "$17.68",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5348189708985244349/-4928059070462408697.jpg",
+        "lot_number": "175574664989",
+        "auction_seller": "po.ukemon",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

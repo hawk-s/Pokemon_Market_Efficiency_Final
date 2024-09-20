@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "ultracards",
+        "price": "$15.00",
+        "date": "1/5/2020",
+        "cert_number": "24343951",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7287963466956884135/205506499867950985.jpg",
+        "lot_number": "264546249210",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$15.99",
+        "cert_number": "75507481",
+        "date": "10/21/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3502771356762707774/7405758772547619668.jpg",
+        "auction_type": "Auction",
+        "lot_number": "404549862741",
+        "auction_house": "eBay",
+        "auction_seller": "dragon_secrets"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$3.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6521685234570253029/3178114914723544698.jpg",
+        "grade": "8",
+        "date": "7/5/2024",
+        "lot_number": "375484090884",
+        "auction_type": "Auction",
+        "auction_seller": "209hitz",
+        "cert_number": "88999154",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/22/2020",
+        "price": "$24.95",
+        "auction_seller": "gemmintpokemon",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "lot_number": "174204488156",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2940321568984966891/3604691035752032634.jpg",
+        "auction_house": "eBay",
+        "cert_number": "43850091"
+    },
+    {
+        "cert_number": "27487208",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4637149863183244227/6114772059251233687.jpg",
+        "price": "$15.50",
+        "date": "9/16/2022",
+        "auction_seller": "arkcollectibles",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255722060179"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5456097269487357039/4166391373649713295.jpg",
+        "lot_number": "405173617103",
+        "date": "8/24/2024",
+        "cert_number": "84688724",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$10.51",
+        "auction_house": "eBay",
+        "auction_seller": "adebs18"
+    }
+]

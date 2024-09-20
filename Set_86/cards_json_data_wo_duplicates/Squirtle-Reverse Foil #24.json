@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "73922061",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3673086760599740590/617103479059498135.jpg",
+        "grade": "9",
+        "date": "7/7/2024",
+        "auction_type": "Auction",
+        "price": "$26.87",
+        "auction_house": "eBay",
+        "auction_seller": "pokedreammarket",
+        "lot_number": "186502950654"
+    },
+    {
+        "price": "$30.81",
+        "date": "3/9/2023",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "cert_number": "59404281",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3418404459834935156/-4286383239727135481.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "155433657818"
+    },
+    {
+        "date": "1/6/2020",
+        "lot_number": "292724876256",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1520952624268127220/7203560691446471824.jpg",
+        "grade": "9",
+        "price": "$49.99",
+        "auction_seller": "amtsupply",
+        "auction_house": "eBay",
+        "cert_number": "41090585"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$42.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8671380033933969551/5342500289427836892.jpg",
+        "date": "8/19/2024",
+        "lot_number": "305728820630",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "mytcgshopsd",
+        "cert_number": "93090735",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "60216380",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3369738802211219278/-6367010436901109851.jpg",
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "lot_number": "155147134650",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$25.31",
+        "date": "9/12/2022"
+    },
+    {
+        "price": "$46.04",
+        "lot_number": "174606214946",
+        "date": "2/1/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7969604813802263845/8672826644997504675.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "milidd-38",
+        "cert_number": "46585168"
+    },
+    {
+        "price": "$68.34",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1826274419235031759/8672826644997504675.jpg",
+        "grade": "9",
+        "date": "1/22/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "174592759536",
+        "auction_seller": "milidd-38",
+        "cert_number": "46585168"
+    }
+]

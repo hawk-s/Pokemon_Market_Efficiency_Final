@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "kantos_finest",
+        "grade": "9",
+        "date": "12/20/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1237777600731455652/-1719169345050780289.jpg",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "cert_number": "77712876",
+        "lot_number": "315032130290"
+    },
+    {
+        "price": "$12.00",
+        "cert_number": "41677213",
+        "auction_type": "Buy It Now",
+        "lot_number": "223524766671",
+        "date": "6/3/2019",
+        "grade": "9",
+        "auction_seller": "lostmachete",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8942799409669041738/-5882750363212568781.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$45.00",
+        "cert_number": "41463877",
+        "date": "3/1/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8119628972317388485/-6359694853303770287.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255987835399",
+        "grade": "10",
+        "auction_seller": "metrostarsrule"
+    },
+    {
+        "date": "3/8/2023",
+        "cert_number": "70670749",
+        "grade": "8",
+        "price": "$6.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "364165211245",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5625775253247311002/1096860927003075574.jpg"
+    },
+    {
+        "auction_seller": "ultracards",
+        "lot_number": "264702421925",
+        "cert_number": "23778748",
+        "auction_type": "Best Offer",
+        "date": "5/22/2020",
+        "price": "$6.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2581661611970503737/8751053561574449853.jpg",
+        "auction_house": "eBay"
+    }
+]

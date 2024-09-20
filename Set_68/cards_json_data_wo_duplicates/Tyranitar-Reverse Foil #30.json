@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/152340439035316111/-1035583693408657174.jpg",
+        "grade": "8",
+        "date": "1/23/2023",
+        "cert_number": "67202185",
+        "auction_seller": "wolffy_collects",
+        "lot_number": "325492071880",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$23.52"
+    },
+    {
+        "date": "12/13/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2314356060268059348/-742372492745743748.jpg",
+        "cert_number": "53409159",
+        "grade": "8",
+        "price": "$46.00",
+        "auction_type": "Auction",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay",
+        "lot_number": "313781930475"
+    },
+    {
+        "price": "$3.25",
+        "lot_number": "362358389910",
+        "date": "6/25/2018",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "28958632",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5632205451714828254/-396175611952420738.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5916698058733859195/-2240580652301937487.jpg",
+        "cert_number": "66669732",
+        "grade": "9",
+        "lot_number": "375360984533",
+        "auction_seller": "probstein123",
+        "price": "$39.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/16/2024"
+    },
+    {
+        "cert_number": "41157466",
+        "auction_type": "Buy It Now",
+        "price": "$39.99",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4095421831827128170/-2914455491675666246.jpg",
+        "lot_number": "292810233871",
+        "auction_house": "eBay",
+        "date": "3/26/2020"
+    }
+]

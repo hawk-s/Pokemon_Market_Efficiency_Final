@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$4.26",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-131266104628460986/628109318816660704.jpg",
+        "grade": "6",
+        "cert_number": "85053292",
+        "auction_type": "Auction",
+        "date": "5/10/2024",
+        "auction_seller": "tntnorthnj",
+        "auction_house": "eBay",
+        "lot_number": "204774469151"
+    },
+    {
+        "auction_seller": "smrcollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4394076630688415683/3719906825449196184.jpg",
+        "date": "12/4/2023",
+        "grade": "6",
+        "cert_number": "85053292",
+        "price": "$274.99",
+        "lot_number": "225892744234",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "48786617",
+        "lot_number": "133848021063",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3669972146207542171/1468370369983087720.jpg",
+        "price": "$20.02",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "date": "8/21/2021"
+    }
+]

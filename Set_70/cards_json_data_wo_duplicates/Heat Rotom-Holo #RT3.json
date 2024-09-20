@@ -1,0 +1,101 @@
+[
+    {
+        "grade": "7",
+        "cert_number": "86530712",
+        "lot_number": "156138827744",
+        "price": "$10.00",
+        "date": "4/2/2024",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9008600686602189942/1247498832776129883.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/27/2023",
+        "price": "$10.55",
+        "auction_seller": "habbyshobbies",
+        "lot_number": "385483535424",
+        "cert_number": "66466617",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4739145121455793708/-8573641987540967271.jpg"
+    },
+    {
+        "auction_seller": "sizzlinshibe",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4339624436063238249/-2231391888956148311.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "46882417",
+        "lot_number": "333665631621",
+        "date": "9/30/2020",
+        "grade": "9",
+        "price": "$220.00",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/2/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1318737346865516012/-5995391657477131750.jpg",
+        "auction_type": "Best Offer",
+        "price": "$24.99",
+        "grade": "9",
+        "cert_number": "45281248",
+        "lot_number": "283740498113",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "78839194",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4219153552650394983/90894957568566067.jpg",
+        "price": "$7.50",
+        "auction_seller": "kolelonghorn",
+        "lot_number": "387296344220",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/26/2024"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "cert_number": "28117848",
+        "lot_number": "182861970377",
+        "date": "11/5/2017",
+        "price": "$4.25",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1489103278661401155/8415420920454966083.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$11.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7981107647847854263/7880508533466888770.jpg",
+        "lot_number": "176434818572",
+        "grade": "8",
+        "date": "7/1/2024",
+        "cert_number": "91447307",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "jscottyson"
+    },
+    {
+        "lot_number": "186113992891",
+        "cert_number": "76031050",
+        "price": "$13.50",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7610794105238633697/-7679777535597247785.jpg",
+        "auction_seller": "nostalgiahigh02",
+        "date": "10/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "poke_friends",
+        "price": "$15.00",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "lot_number": "163480884512",
+        "cert_number": "42088656",
+        "date": "1/30/2019",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-753211794417211186/-7391123864202484413.jpg"
+    }
+]

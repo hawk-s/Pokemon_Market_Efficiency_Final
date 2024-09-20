@@ -1,0 +1,101 @@
+[
+    {
+        "auction_seller": "crazycollector25",
+        "lot_number": "325922396322",
+        "grade": "9",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4718692830193252014/-5431664118392456734.jpg",
+        "auction_house": "eBay",
+        "cert_number": "26890488",
+        "price": "$18.50"
+    },
+    {
+        "cert_number": "25701927",
+        "lot_number": "324247368687",
+        "auction_seller": "crazycollector25",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "price": "$59.99",
+        "auction_house": "eBay",
+        "date": "12/11/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-428186567366981074/6691864060721737004.jpg"
+    },
+    {
+        "auction_seller": "magpies2014",
+        "cert_number": "25701927",
+        "date": "7/10/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6325922339446489186/-3435643643470798049.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "113806315190",
+        "price": "$18.00"
+    },
+    {
+        "date": "6/21/2018",
+        "lot_number": "382490914047",
+        "auction_seller": "probstein123",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3821463413183561689/6939918815416048468.jpg",
+        "cert_number": "27835849",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27262360",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1917008792352408797/-3741586238547887546.jpg",
+        "date": "9/12/2021",
+        "lot_number": "274935103605",
+        "auction_seller": "globalnostalgia",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$66.92"
+    },
+    {
+        "cert_number": "27262360",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4030250859227632273/-3741586238547887546.jpg",
+        "auction_seller": "globalnostalgia",
+        "lot_number": "274925356970",
+        "auction_type": "Auction",
+        "price": "$65.01",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    },
+    {
+        "cert_number": "27262360",
+        "date": "9/26/2021",
+        "lot_number": "274953451024",
+        "auction_seller": "globalnostalgia",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5388845720747845492/-3741586238547887546.jpg",
+        "price": "$91.63",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/25/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5542961097374238598/-8051886781217475458.jpg",
+        "lot_number": "363109768851",
+        "price": "$31.00",
+        "auction_seller": "probstein123",
+        "cert_number": "27835849",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27262360",
+        "price": "$61.00",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "353577847330",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/29/2021",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3855643011348454547/-8571344687819886511.jpg"
+    }
+]

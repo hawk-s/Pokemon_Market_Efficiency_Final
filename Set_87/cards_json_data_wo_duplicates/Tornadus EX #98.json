@@ -1,0 +1,68 @@
+[
+    {
+        "date": "5/9/2021",
+        "grade": "9",
+        "cert_number": "48792313",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "133747888840",
+        "auction_seller": "dggamer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3481313038310888365/-4513056220761343410.jpg",
+        "price": "$25.02"
+    },
+    {
+        "date": "7/28/2019",
+        "auction_seller": "tgenterprisellc",
+        "lot_number": "163682898593",
+        "auction_type": "Best Offer",
+        "cert_number": "41308596",
+        "price": "$5.00",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7008977183663138923/-8850173547737436668.jpg"
+    },
+    {
+        "lot_number": "162524519585",
+        "date": "5/28/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/3513215412965749068/8753269430776578358.jpg",
+        "auction_seller": "jessdream2016",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$13.15",
+        "cert_number": "27132991",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8784272903789144835/-6585836004721854671.jpg",
+        "cert_number": "61807749",
+        "date": "11/12/2022",
+        "auction_seller": "pokefunkomania",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "115598586241"
+    },
+    {
+        "price": "$14.14",
+        "date": "3/5/2023",
+        "lot_number": "155427401374",
+        "auction_seller": "tannah12",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "59404322",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8998171485468631257/4363497864715115658.jpg"
+    },
+    {
+        "date": "1/11/2021",
+        "auction_type": "Best Offer",
+        "cert_number": "42763410",
+        "grade": "9",
+        "lot_number": "303084680710",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8011383797712775765/5656350581260294044.jpg",
+        "auction_seller": "cabalcoffers"
+    }
+]

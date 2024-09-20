@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "7",
+        "auction_seller": "tayboun",
+        "lot_number": "126558171445",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7550305358665640505/-3533084889220848999.jpg",
+        "cert_number": "92037373",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/9/2024"
+    },
+    {
+        "price": "$20.00",
+        "lot_number": "355929608771",
+        "auction_seller": "smitt-5189",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7724494419920819665/-7116845602435074487.jpg",
+        "date": "8/10/2024",
+        "auction_type": "Auction",
+        "cert_number": "83694606",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "67460361",
+        "grade": "9",
+        "lot_number": "145822342849",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "bettbro_30",
+        "date": "6/16/2024",
+        "price": "$29.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2053475786332672145/8748719386285239508.jpg"
+    },
+    {
+        "price": "$50.98",
+        "cert_number": "70364590",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "185806592712",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-81559023216031497/-2292096270196330981.jpg",
+        "auction_house": "eBay",
+        "date": "3/15/2023"
+    }
+]

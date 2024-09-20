@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "374277073473",
+        "price": "$13.00",
+        "date": "10/5/2022",
+        "grade": "6",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-934019255517020989/-6275049900070911969.jpg",
+        "auction_type": "Auction",
+        "cert_number": "57740582",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ketchumallcollectibles",
+        "cert_number": "66850125",
+        "date": "8/14/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6926194421383877466/-7313238914483603826.jpg",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "lot_number": "225713007489"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "lot_number": "285049759576",
+        "cert_number": "57464760",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1476554265247110793/1879478960262489848.jpg",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "date": "12/5/2022"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1246023854053746000/-5033311711230391425.jpg",
+        "date": "12/17/2017",
+        "price": "$16.49",
+        "lot_number": "182952582643",
+        "cert_number": "28478665",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4514606933574570936/-1325322078002326106.jpg",
+        "date": "1/18/2023",
+        "grade": "8",
+        "auction_seller": "nostalgiahigh02",
+        "price": "$19.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70160071",
+        "lot_number": "185732911372"
+    },
+    {
+        "price": "$10.50",
+        "cert_number": "54843080",
+        "grade": "6",
+        "auction_seller": "probstein123",
+        "lot_number": "384712649003",
+        "auction_type": "Auction",
+        "date": "2/10/2022",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7978849514347578771/-6383767972200639058.jpg"
+    }
+]

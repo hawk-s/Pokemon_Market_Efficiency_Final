@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4595401712241804032/-3782585830217173815.jpg",
+        "cert_number": "84482800",
+        "lot_number": "204602747422",
+        "grade": "8",
+        "price": "$16.00",
+        "date": "1/13/2024",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "84482800",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "date": "8/19/2024",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8587513258246562329/-2020937405673828688.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "286001762729"
+    },
+    {
+        "lot_number": "185879333225",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4388980979610942529/2731613037680959610.jpg",
+        "auction_seller": "marro-4916",
+        "cert_number": "68797292",
+        "grade": "9",
+        "price": "$22.28",
+        "auction_type": "Auction",
+        "date": "5/10/2023",
+        "auction_house": "eBay"
+    }
+]

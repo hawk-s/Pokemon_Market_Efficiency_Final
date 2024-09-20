@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$45.01",
+        "auction_seller": "ketchumallcollectibles",
+        "cert_number": "56817618",
+        "date": "8/14/2023",
+        "lot_number": "204420971871",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2135700652390351694/-6291694930909941169.jpg"
+    },
+    {
+        "cert_number": "27487190",
+        "price": "$10.50",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5317156313503158670/1481769766227074333.jpg",
+        "date": "9/3/2017",
+        "auction_seller": "jessdream2016",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "162648665415"
+    },
+    {
+        "price": "$2.25",
+        "date": "7/30/2024",
+        "lot_number": "355885824827",
+        "auction_seller": "locleancollectables",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4368492856669477116/-5806928455104927507.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "49245926"
+    }
+]

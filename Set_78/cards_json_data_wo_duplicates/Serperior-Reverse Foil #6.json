@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "5",
+        "price": "$15.00",
+        "cert_number": "67515298",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7654274033000182074/6340253098623355207.jpg",
+        "date": "9/6/2023",
+        "auction_seller": "ab_sportscards_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "256198408112"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2286950525143615394/3362127112157995509.jpg",
+        "date": "4/7/2024",
+        "lot_number": "364819084558",
+        "grade": "8",
+        "auction_seller": "bestcardsmarket",
+        "price": "$4.02",
+        "auction_type": "Auction",
+        "cert_number": "79917252",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "79917252",
+        "date": "4/20/2024",
+        "grade": "8",
+        "price": "$9.38",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8380555098490142369/2195062976968308486.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "tcghazardous",
+        "auction_house": "eBay",
+        "lot_number": "186387812661"
+    },
+    {
+        "date": "1/26/2024",
+        "grade": "8",
+        "auction_seller": "bestcardsmarket",
+        "lot_number": "364686937587",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2688764354285751734/6501418539324274901.jpg",
+        "auction_type": "Auction",
+        "cert_number": "79917252",
+        "auction_house": "eBay",
+        "price": "$21.30"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "lot_number": "5342",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun",
+        "date": "6/15/2023",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "cert_number": "69004174",
+        "auction_house": "Goldin Auctions",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/2018559722399714956/images/1.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "tannah12",
+        "price": "$10.40",
+        "grade": "8",
+        "cert_number": "60221568",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7050566637651135831/-7003053050326762878.jpg",
+        "auction_type": "Auction",
+        "lot_number": "155219571398",
+        "auction_house": "eBay",
+        "date": "10/31/2022"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$100.99",
+        "date": "6/13/2021",
+        "cert_number": "48786489",
+        "lot_number": "133781884924",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/398033658281267963/-3345816958711955954.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "grade": "10"
+    },
+    {
+        "price": "$21.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/691916479965640589/4383641789795734230.jpg",
+        "auction_seller": "anthem_cards",
+        "cert_number": "89042335",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/25/2024",
+        "lot_number": "196344795798"
+    },
+    {
+        "lot_number": "134644830439",
+        "price": "$122.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/283712612240469391/7295617927002302059.jpg",
+        "date": "7/14/2023",
+        "auction_seller": "scottsretro",
+        "cert_number": "48786489",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "27029830",
+        "grade": "7",
+        "price": "$65.55",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1590923885712005029/-5900952654213046653.jpg",
+        "lot_number": "163638917783",
+        "auction_seller": "pdxcollex",
+        "date": "9/15/2020",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "142875043453",
+        "cert_number": "27029830",
+        "grade": "7",
+        "auction_seller": "pwcc_auctions",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6878096525384905803/-8846709646697046483.jpg",
+        "date": "7/29/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$78.00",
+        "cert_number": "27029830",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9203248620571406488/-1917678798807351112.jpg",
+        "date": "7/15/2024",
+        "lot_number": "266875754456",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    }
+]

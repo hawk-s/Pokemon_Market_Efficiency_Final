@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "48438008",
+        "lot_number": "265204955792",
+        "date": "6/30/2021",
+        "auction_seller": "pokehut",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4944653725694426780/-2376356547990426802.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00"
+    },
+    {
+        "auction_seller": "ek_modernw",
+        "price": "$185.00",
+        "cert_number": "40987128",
+        "auction_type": "Best Offer",
+        "date": "1/10/2021",
+        "lot_number": "154284907457",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/592954699643349963/-6997349391068709791.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/28/2021",
+        "lot_number": "402797736804",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "25064440",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7846002777547231666/7955306755817320309.jpg",
+        "auction_house": "eBay",
+        "price": "$45.88"
+    },
+    {
+        "lot_number": "233365060563",
+        "cert_number": "43270856",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_seller": "tcgers",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5558654483135789901/-5310572440569777157.jpg",
+        "date": "10/16/2019"
+    },
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4064030121353707481/7007306638490432756.jpg",
+        "grade": "9",
+        "lot_number": "401884892308",
+        "auction_type": "Auction",
+        "price": "$5.51",
+        "auction_house": "eBay",
+        "cert_number": "43232704"
+    }
+]

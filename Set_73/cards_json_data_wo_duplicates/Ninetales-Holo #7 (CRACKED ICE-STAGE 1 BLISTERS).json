@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "7",
+        "lot_number": "286013868611",
+        "auction_seller": "zandgemporium",
+        "price": "$9.01",
+        "date": "8/25/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4155120085069591212/6031000773851410088.jpg",
+        "auction_house": "eBay",
+        "cert_number": "70702714"
+    },
+    {
+        "price": "$170.00",
+        "cert_number": "28942492",
+        "auction_type": "Best Offer",
+        "auction_seller": "yo_jac0",
+        "date": "4/3/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2279088342875352794/-2207144516217253639.jpg",
+        "lot_number": "253735071889",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "7",
+        "lot_number": "284595124875",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5640775323360243938/-1234426786351339561.jpg",
+        "price": "$34.75",
+        "date": "1/10/2022",
+        "cert_number": "53987932",
+        "auction_type": "Auction",
+        "auction_seller": "stunad620",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$51.01",
+        "auction_seller": "card_shack_cards",
+        "cert_number": "54009424",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/20/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5488982977567166113/-4646507367425376639.jpg",
+        "lot_number": "325570132762"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285595143487",
+        "price": "$31.00",
+        "date": "12/17/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6091451707517795207/2022412587303812718.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "82216820"
+    }
+]

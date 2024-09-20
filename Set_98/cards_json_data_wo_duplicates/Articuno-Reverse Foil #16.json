@@ -1,0 +1,68 @@
+[
+    {
+        "date": "1/16/2024",
+        "price": "$9.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "75659502",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2166417465849189703/-3307686252208459262.jpg",
+        "auction_house": "eBay",
+        "lot_number": "375175471185"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9143867879619275277/2804916536668021775.jpg",
+        "auction_seller": "cardzdirect",
+        "grade": "8",
+        "lot_number": "266159668403",
+        "price": "$8.50",
+        "cert_number": "67913174",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "67515470",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-815201038935951544/2996438056558449028.jpg",
+        "price": "$12.00",
+        "grade": "8",
+        "lot_number": "256019309050",
+        "date": "3/30/2023",
+        "auction_seller": "ab_sportscards_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "date": "6/14/2020",
+        "lot_number": "223667781914",
+        "auction_type": "Buy It Now",
+        "auction_seller": "growlithe58",
+        "grade": "9",
+        "cert_number": "28377316",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7094880769083269551/-1231785111408928696.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "155430487901",
+        "price": "$14.14",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1040442400835781431/-5769564883700919327.jpg",
+        "auction_seller": "tannah12",
+        "cert_number": "59404558",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/7/2023"
+    },
+    {
+        "date": "6/23/2024",
+        "lot_number": "166827260410",
+        "auction_seller": "rookiespot238",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3915477075000355451/-1458480433510736752.jpg",
+        "cert_number": "62089190"
+    }
+]

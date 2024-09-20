@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "bigeri_ses13",
+        "auction_type": "Buy It Now",
+        "cert_number": "44294521",
+        "grade": "8",
+        "date": "3/30/2020",
+        "lot_number": "383112013341",
+        "price": "$9.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/590499612324507784/-5174012543834410384.jpg"
+    },
+    {
+        "date": "9/4/2021",
+        "grade": "9",
+        "lot_number": "294363225470",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6781955955510449314/-9105542387354199118.jpg",
+        "auction_house": "eBay",
+        "cert_number": "26406870",
+        "price": "$33.00",
+        "auction_seller": "meck2553"
+    },
+    {
+        "date": "1/16/2023",
+        "auction_seller": "mandalorianbabysitter",
+        "cert_number": "69691975",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3554840801459036873/-9042981158516066357.jpg",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "lot_number": "364104428873"
+    },
+    {
+        "lot_number": "262733263947",
+        "date": "12/1/2016",
+        "price": "$6.00",
+        "grade": "9",
+        "auction_seller": "headcharizardtcg",
+        "auction_type": "Auction",
+        "cert_number": "25251947",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8488708248269061619/468554053182151744.jpg",
+        "auction_house": "eBay"
+    }
+]

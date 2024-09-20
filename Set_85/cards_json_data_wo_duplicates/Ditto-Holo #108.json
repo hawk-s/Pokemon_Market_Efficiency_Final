@@ -1,0 +1,79 @@
+[
+    {
+        "date": "7/23/2021",
+        "auction_seller": "shadowreaper_force",
+        "lot_number": "234099983711",
+        "price": "$50.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3695948977313176858/5144074627048739624.jpg",
+        "auction_type": "Auction",
+        "cert_number": "47725557",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5628236872966487624/-6905797697301957833.jpg",
+        "date": "5/2/2020",
+        "grade": "10",
+        "cert_number": "41090513",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$35.99",
+        "lot_number": "293559222888"
+    },
+    {
+        "grade": "7",
+        "lot_number": "305730681450",
+        "price": "$6.00",
+        "cert_number": "94048621",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1610765311020320106/8892586796972268619.jpg",
+        "date": "8/26/2024",
+        "auction_seller": "psa"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6280061284835856047/-5220944525470039156.jpg",
+        "date": "5/11/2020",
+        "auction_seller": "gemmintpokemon",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "price": "$14.95",
+        "cert_number": "43850090",
+        "auction_house": "eBay",
+        "lot_number": "184189144333"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6240531334808342550/1707008708820679373.jpg",
+        "grade": "8.5",
+        "lot_number": "384357740334",
+        "price": "$45.00",
+        "auction_seller": "parskeit.zkbrslr",
+        "date": "9/5/2021",
+        "cert_number": "48045062",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/22/2024",
+        "price": "$6.51",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4339123786537225001/847130455838630909.jpg",
+        "cert_number": "88999157",
+        "lot_number": "375484319008",
+        "auction_seller": "209hitz",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "48731490",
+        "date": "5/1/2024",
+        "price": "$50.00",
+        "lot_number": "335364043805",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5787999679202196027/-5944458848899224998.jpg",
+        "grade": "10",
+        "auction_seller": "setho-8376"
+    }
+]

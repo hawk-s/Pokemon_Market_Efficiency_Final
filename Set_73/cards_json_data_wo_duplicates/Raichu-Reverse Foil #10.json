@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "202899631274",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/777208336227713102/8818749465648178991.jpg",
+        "cert_number": "42987037",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "date": "6/29/2020",
+        "grade": "10",
+        "auction_seller": "one7cast"
+    },
+    {
+        "grade": "7",
+        "date": "12/26/2022",
+        "price": "$18.02",
+        "auction_seller": "pawnline",
+        "cert_number": "69095387",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2043348667856984948/-2132310216125794819.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "134373269842"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1967091680384922878/-3321755857445517894.jpg",
+        "lot_number": "195610741099",
+        "cert_number": "70506719",
+        "date": "2/27/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tonyd171",
+        "price": "$23.52"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6444341938007619611/8662659905835931217.jpg",
+        "cert_number": "41388497",
+        "lot_number": "254168650373",
+        "price": "$26.00",
+        "auction_seller": "pokelyfe",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "4/11/2019"
+    }
+]

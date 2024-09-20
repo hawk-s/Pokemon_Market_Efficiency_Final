@@ -1,0 +1,79 @@
+[
+    {
+        "date": "10/5/2020",
+        "lot_number": "274520315292",
+        "price": "$13.00",
+        "auction_type": "Best Offer",
+        "cert_number": "45641945",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7587550764677593358/-1341427012487208647.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "256206564916",
+        "date": "9/11/2023",
+        "cert_number": "74612212",
+        "auction_seller": "frog-hours",
+        "grade": "8",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2010293097744760140/6243158553777662089.jpg"
+    },
+    {
+        "date": "8/28/2021",
+        "auction_seller": "cardboardkrackshack",
+        "price": "$16.00",
+        "lot_number": "133855240645",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1448277568896363532/-323037939912260421.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "49826743"
+    },
+    {
+        "date": "5/10/2018",
+        "cert_number": "28462819",
+        "price": "$10.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8517036181987071337/-8895600314147400638.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "192530084123",
+        "auction_seller": "middleclassgold",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "frog-hours",
+        "price": "$15.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5820325930741962828/9099138518673598818.jpg",
+        "cert_number": "75942758",
+        "lot_number": "256208268628",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/14/2023"
+    },
+    {
+        "date": "9/7/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1934872575526367604/-1341427012487208647.jpg",
+        "cert_number": "45641945",
+        "grade": "8",
+        "price": "$10.00",
+        "lot_number": "274468645558",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$42.00",
+        "date": "5/5/2022",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7314168908900780292/156851189780079825.jpg",
+        "lot_number": "284796526246",
+        "auction_type": "Auction",
+        "auction_seller": "stunad620",
+        "cert_number": "53987944",
+        "auction_house": "eBay"
+    }
+]

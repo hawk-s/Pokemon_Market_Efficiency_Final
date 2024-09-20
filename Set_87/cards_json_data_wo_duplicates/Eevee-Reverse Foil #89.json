@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "49422220",
+        "auction_seller": "welcome_stranger_collectibles",
+        "price": "$43.91",
+        "auction_type": "Auction",
+        "date": "1/24/2022",
+        "auction_house": "eBay",
+        "lot_number": "133997031958",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1770630693203086789/-5259598209001274219.jpg"
+    },
+    {
+        "auction_seller": "dw1013",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7597905046067435226/8081688254936500761.jpg",
+        "price": "$45.00",
+        "lot_number": "203002991036",
+        "cert_number": "43548676",
+        "auction_type": "Auction",
+        "date": "5/31/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "333488906692",
+        "price": "$10.00",
+        "cert_number": "43548676",
+        "date": "1/29/2020",
+        "auction_type": "Auction",
+        "auction_seller": "pdmgncollecters",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4824656249472539035/-7926602831808014726.jpg"
+    },
+    {
+        "grade": "7",
+        "date": "3/5/2023",
+        "cert_number": "59404307",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1173348173983066072/-6519733594063096367.jpg",
+        "price": "$17.51",
+        "lot_number": "155427395672",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "8",
+        "cert_number": "62878630",
+        "lot_number": "285465697816",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4472080935742374707/-3945276138381394658.jpg",
+        "auction_seller": "thecollector237_2",
+        "date": "9/13/2023",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$18.64"
+    },
+    {
+        "auction_seller": "slab-town",
+        "price": "$78.00",
+        "cert_number": "53007602",
+        "lot_number": "324904598789",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-968063522669231091/-4796082091597098092.jpg",
+        "date": "12/2/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "133975850226",
+        "auction_seller": "mastertrainer_red",
+        "grade": "9",
+        "date": "1/3/2022",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6885772783067025809/-3562045807971655059.jpg",
+        "cert_number": "47542365"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2739303646502664217/5624586886740893891.jpg",
+        "lot_number": "115567184109",
+        "grade": "7",
+        "price": "$16.10",
+        "auction_seller": "tannah12",
+        "date": "10/24/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "60226273"
+    }
+]

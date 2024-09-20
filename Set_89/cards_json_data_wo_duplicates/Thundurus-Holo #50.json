@@ -1,0 +1,46 @@
+[
+    {
+        "date": "7/24/2021",
+        "cert_number": "49910319",
+        "auction_seller": "donottoscardsandcollectables",
+        "grade": "9",
+        "price": "$29.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4959312332291596633/6703578645082114534.jpg",
+        "auction_type": "Auction",
+        "lot_number": "164964695679",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "334744142656",
+        "price": "$16.05",
+        "cert_number": "68801034",
+        "date": "2/26/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8215204593240077774/-501644098659210512.jpg",
+        "grade": "9",
+        "auction_seller": "juan_7441",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "82878970",
+        "lot_number": "285619958095",
+        "grade": "7",
+        "date": "1/1/2024",
+        "auction_seller": "zandgemporium",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1688211131551149457/202322139644783955.jpg"
+    },
+    {
+        "price": "$5.55",
+        "lot_number": "285619958884",
+        "auction_seller": "zandgemporium",
+        "cert_number": "82878980",
+        "grade": "8",
+        "date": "12/31/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4563297428929814437/-4130674569898467704.jpg"
+    }
+]

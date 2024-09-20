@@ -1,0 +1,24 @@
+[
+    {
+        "date": "6/9/2019",
+        "price": "$5.50",
+        "grade": "9",
+        "lot_number": "254251593119",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-936794098842873393/5791451579193870162.jpg",
+        "cert_number": "42245053",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "264962875643",
+        "cert_number": "40745074",
+        "price": "$49.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2445761949286824215/8297152111463667215.jpg",
+        "date": "12/10/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "stecc3"
+    }
+]

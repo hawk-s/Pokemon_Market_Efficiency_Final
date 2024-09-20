@@ -1,0 +1,90 @@
+[
+    {
+        "grade": "7",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-223114014031647688/2307981099472956961.jpg",
+        "cert_number": "59834171",
+        "date": "1/10/2023",
+        "lot_number": "155339817734",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "cheeses-treasures-llc"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "24328164",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2432589411451146930/-5926285675009310460.jpg",
+        "grade": "9",
+        "date": "1/28/2021",
+        "lot_number": "353357452780",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6489752724223444701/3774233738371098201.jpg",
+        "cert_number": "27520565",
+        "grade": "8",
+        "auction_seller": "l_lawliet_0",
+        "price": "$5.50",
+        "date": "8/5/2017",
+        "lot_number": "222597210420",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "55997516",
+        "date": "11/12/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9139186636135410262/6675528929871517659.jpg",
+        "auction_seller": "collector-paradise-llc",
+        "grade": "9",
+        "price": "$20.90",
+        "lot_number": "364041305752",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/23/2023",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3502966727186300464/6440034802623825058.jpg",
+        "grade": "8",
+        "cert_number": "58710336",
+        "price": "$22.13",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115732185210"
+    },
+    {
+        "price": "$10.50",
+        "auction_seller": "l_lawliet_0",
+        "grade": "9",
+        "lot_number": "222597222032",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2430119118616525507/-9083806069893534837.jpg",
+        "cert_number": "27520557",
+        "auction_house": "eBay",
+        "date": "8/9/2017"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9168259613919890299/-458816195931399371.jpg",
+        "cert_number": "66601593",
+        "price": "$33.39",
+        "grade": "8",
+        "auction_seller": "marro-4916",
+        "auction_type": "Auction",
+        "lot_number": "185732181479",
+        "auction_house": "eBay",
+        "date": "1/22/2023"
+    },
+    {
+        "lot_number": "375129478809",
+        "date": "12/29/2023",
+        "price": "$15.50",
+        "grade": "8",
+        "cert_number": "82434092",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8520023889181746012/7717476242819019037.jpg",
+        "auction_house": "eBay"
+    }
+]

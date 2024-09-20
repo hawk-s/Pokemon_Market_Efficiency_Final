@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "sgbwill2",
+        "cert_number": "69004172",
+        "lot_number": "156239007425",
+        "price": "$12.72",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6777703426975065439/7784042176526350983.jpg",
+        "grade": "9",
+        "date": "6/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6576652333771092331/-5021165649703357445.jpg",
+        "grade": "8",
+        "lot_number": "155219566087",
+        "auction_type": "Auction",
+        "cert_number": "60221562",
+        "auction_house": "eBay",
+        "price": "$22.21",
+        "date": "10/31/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7068116958395861639/7784042176526350983.jpg",
+        "auction_seller": "sgbwill2",
+        "cert_number": "69004172",
+        "price": "$12.67",
+        "lot_number": "156249351818",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/16/2024"
+    }
+]

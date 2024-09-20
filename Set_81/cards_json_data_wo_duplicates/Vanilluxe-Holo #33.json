@@ -1,0 +1,35 @@
+[
+    {
+        "date": "1/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4164994631901674696/3766541401224456825.jpg",
+        "lot_number": "204219990342",
+        "price": "$15.50",
+        "cert_number": "67866676",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ketchumallcollectibles",
+        "grade": "8",
+        "date": "8/14/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5507505831750718460/2428943930715436706.jpg",
+        "lot_number": "204420978008",
+        "cert_number": "56817625",
+        "auction_type": "Auction",
+        "price": "$10.51",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "40874380",
+        "auction_type": "Buy It Now",
+        "price": "$13.49",
+        "date": "8/18/2018",
+        "lot_number": "113172918004",
+        "auction_seller": "my_honolulu_blue",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-792632427064720836/-8451138105495893130.jpg",
+        "grade": "10"
+    }
+]

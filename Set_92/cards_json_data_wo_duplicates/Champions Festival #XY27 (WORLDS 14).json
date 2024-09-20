@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$135.50",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4359922771009827759/1737288915023716790.jpg",
+        "auction_seller": "stfgaming",
+        "auction_type": "Auction",
+        "cert_number": "59540994",
+        "date": "5/20/2024",
+        "auction_house": "eBay",
+        "lot_number": "276455973422"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "date": "6/23/2020",
+        "lot_number": "223871352280",
+        "grade": "8",
+        "auction_seller": "philspullz",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7824039545895609331/7046044089627111786.jpg",
+        "auction_house": "eBay",
+        "price": "$95.00",
+        "cert_number": "44922101"
+    },
+    {
+        "cert_number": "94359141",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-833789867039854158/1239555223231972163.jpg",
+        "auction_seller": "opitticus",
+        "date": "8/7/2024",
+        "grade": "8",
+        "price": "$127.51",
+        "auction_type": "Auction",
+        "lot_number": "204914008220",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/23/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1510766569228218561/-7379434082922276129.jpg",
+        "cert_number": "74345672",
+        "grade": "8",
+        "auction_seller": "dcsports87",
+        "lot_number": "375379562146",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$119.37"
+    },
+    {
+        "auction_seller": "collectpokemonuk",
+        "date": "11/2/2022",
+        "grade": "7",
+        "cert_number": "57045540",
+        "price": "$110.37",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-481514475439197422/3041373905654124137.jpg",
+        "lot_number": "354352280231",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ketchumallcollectibles",
+        "cert_number": "74345672",
+        "lot_number": "204420975286",
+        "grade": "8",
+        "date": "8/14/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2212481360396220010/4188722906554430124.jpg",
+        "price": "$203.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "403073251281",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-480294294233629837/7217277054567952443.jpg",
+        "date": "8/20/2021",
+        "grade": "8",
+        "auction_seller": "sebastiatige_0",
+        "cert_number": "45414855",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$259.99"
+    }
+]

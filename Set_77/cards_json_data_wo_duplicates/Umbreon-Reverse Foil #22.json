@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$122.50",
+        "lot_number": "374382851147",
+        "date": "12/9/2022",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1459444662157106079/-5955861794800692957.jpg",
+        "cert_number": "65472158"
+    },
+    {
+        "lot_number": "254824185686",
+        "date": "1/10/2021",
+        "cert_number": "45601792",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1204314308332080608/-1393977838085550140.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "joshushepar3",
+        "auction_house": "eBay",
+        "price": "$102.50"
+    },
+    {
+        "grade": "5",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4785328821799069846/89404107156443125.jpg",
+        "date": "9/13/2022",
+        "lot_number": "115516669033",
+        "price": "$35.12",
+        "cert_number": "60216456",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "nikki7934",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3344504681533927758/-6909616574912390539.jpg",
+        "lot_number": "184976353771",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "52104933",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "date": "8/9/2021"
+    },
+    {
+        "cert_number": "28192977",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2905840961173965053/-6899080298167751236.jpg",
+        "date": "1/16/2021",
+        "price": "$76.00",
+        "grade": "9",
+        "lot_number": "154283501621",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "etheltheexiguousechidna"
+    },
+    {
+        "date": "12/13/2023",
+        "cert_number": "68842221",
+        "auction_seller": "winic_95",
+        "price": "$798.00",
+        "auction_type": "Auction",
+        "lot_number": "395045164809",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1232279127368756337/1952106985977326241.jpg"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "403180971268",
+        "price": "$25.25",
+        "date": "9/29/2021",
+        "grade": "9",
+        "cert_number": "50115190",
+        "auction_seller": "camla_7238",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6515752537389905848/4576204992626136369.jpg"
+    },
+    {
+        "cert_number": "60226346",
+        "grade": "8",
+        "date": "8/10/2023",
+        "lot_number": "275969147969",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-991137882957974243/130253099384115205.jpg",
+        "price": "$19.59",
+        "auction_seller": "sonofhercules"
+    },
+    {
+        "cert_number": "69053191",
+        "lot_number": "185825649492",
+        "price": "$20.40",
+        "auction_seller": "marro-4916",
+        "date": "3/31/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3170906264312924172/7268410617641698271.jpg"
+    }
+]

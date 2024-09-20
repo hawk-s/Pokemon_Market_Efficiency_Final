@@ -1,0 +1,57 @@
+[
+    {
+        "date": "4/21/2024",
+        "cert_number": "85411634",
+        "grade": "8",
+        "lot_number": "135014216378",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8709011680002266909/-2368146330823457195.jpg",
+        "price": "$15.47",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "70978800",
+        "date": "3/13/2023",
+        "grade": "9",
+        "auction_seller": "alexhogenson",
+        "lot_number": "225466451495",
+        "price": "$40.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8682600988673079014/7076113249779361025.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "date": "4/21/2024",
+        "cert_number": "85411636",
+        "auction_seller": "slapauction",
+        "price": "$11.20",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "135014216444",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1878057050586717994/-6994586485629151980.jpg"
+    },
+    {
+        "price": "$26.00",
+        "cert_number": "49866365",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8794875973747200645/4778466114828643398.jpg",
+        "date": "12/15/2021",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "284566325652"
+    },
+    {
+        "cert_number": "46468282",
+        "date": "12/2/2023",
+        "auction_seller": "angdago18",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6383224429519859800/4118901136293599591.jpg",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "235314101332"
+    }
+]

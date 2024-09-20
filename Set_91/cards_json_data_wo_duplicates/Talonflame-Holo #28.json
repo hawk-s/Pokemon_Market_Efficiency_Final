@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$12.75",
+        "grade": "8",
+        "date": "7/25/2024",
+        "cert_number": "66116828",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4110757228002438894/-741363556081697147.jpg",
+        "auction_seller": "ab_sportscards_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "176472046742"
+    },
+    {
+        "auction_seller": "ultracards",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5800266219850634956/4264849561565383908.jpg",
+        "cert_number": "23522238",
+        "lot_number": "262805588317",
+        "price": "$7.00",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "2/17/2018"
+    },
+    {
+        "cert_number": "66116830",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3231885130672347463/-4017986568208183305.jpg",
+        "grade": "9",
+        "auction_seller": "ab_sportscards_collectibles",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "175799766980",
+        "date": "7/9/2023"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$6.05",
+        "date": "7/8/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8604733698719956294/-1244600532861721047.jpg",
+        "lot_number": "226206050971",
+        "cert_number": "81534597",
+        "grade": "9",
+        "auction_seller": "pokeking_auz",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3048628729534534425/-8016225104251004960.jpg",
+        "lot_number": "285619958152",
+        "date": "1/1/2024",
+        "cert_number": "82879023",
+        "auction_seller": "zandgemporium",
+        "price": "$7.58",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

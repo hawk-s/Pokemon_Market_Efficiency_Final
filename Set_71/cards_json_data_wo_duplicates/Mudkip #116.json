@@ -1,0 +1,68 @@
+[
+    {
+        "date": "2/6/2023",
+        "grade": "7",
+        "lot_number": "115688979076",
+        "cert_number": "57088509",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2854148902044491932/-690960732250245146.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$18.14"
+    },
+    {
+        "cert_number": "57088509",
+        "grade": "7",
+        "lot_number": "115705323116",
+        "date": "2/20/2023",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7298749527785808767/-690960732250245146.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$20.56"
+    },
+    {
+        "lot_number": "115717688401",
+        "cert_number": "57088509",
+        "grade": "7",
+        "auction_seller": "tannah12",
+        "date": "3/6/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5975222450101665125/-690960732250245146.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$8.42"
+    },
+    {
+        "auction_seller": "venusaur_island",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4312078618132012602/4919506929494157298.jpg",
+        "lot_number": "256326478459",
+        "price": "$30.57",
+        "grade": "9",
+        "date": "12/6/2023",
+        "auction_type": "Auction",
+        "cert_number": "80132436",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "335054504692",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8394075813524253075/1351043996791040490.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles",
+        "cert_number": "68798418",
+        "date": "10/8/2023"
+    },
+    {
+        "price": "$12.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/638757271506570115/-8099143831948259195.jpg",
+        "lot_number": "115698215605",
+        "cert_number": "69177554",
+        "auction_seller": "ccg_collectibles",
+        "grade": "9",
+        "date": "2/14/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

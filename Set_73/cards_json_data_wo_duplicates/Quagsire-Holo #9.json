@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "7",
+        "price": "$9.79",
+        "auction_seller": "tannah12",
+        "cert_number": "60226371",
+        "lot_number": "155207491418",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4968926724210051894/89269224976335985.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/23/2022"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2332317809053149018/3182731486421494286.jpg",
+        "date": "12/4/2023",
+        "grade": "8",
+        "cert_number": "78195153",
+        "lot_number": "186178538290",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "cert_number": "45708463",
+        "grade": "9",
+        "lot_number": "144044900630",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1195352052947325170/3690021973568225177.jpg"
+    },
+    {
+        "lot_number": "275651348534",
+        "auction_seller": "latiasvro",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2434273869518199667/-1224401968469783664.jpg",
+        "price": "$20.50",
+        "date": "2/4/2023",
+        "auction_type": "Auction",
+        "cert_number": "68669858",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "275724412379",
+        "auction_seller": "latiasvro",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6169980886235356968/-1224401968469783664.jpg",
+        "auction_type": "Auction",
+        "cert_number": "68669858",
+        "auction_house": "eBay",
+        "date": "3/10/2023",
+        "price": "$16.50"
+    }
+]

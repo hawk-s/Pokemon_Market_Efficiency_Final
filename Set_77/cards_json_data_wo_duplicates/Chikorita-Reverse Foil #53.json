@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6394478891801794596/679831998997729745.jpg",
+        "price": "$16.38",
+        "grade": "8",
+        "date": "3/3/2023",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70778587",
+        "lot_number": "275680928938"
+    },
+    {
+        "cert_number": "60216467",
+        "auction_seller": "tannah12",
+        "date": "9/13/2022",
+        "price": "$12.05",
+        "grade": "6",
+        "lot_number": "115516673028",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6961568199912602386/984495368256614465.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4534764830655845547/-3798432378641960850.jpg",
+        "cert_number": "40745065",
+        "date": "11/13/2021",
+        "lot_number": "363611756796",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_seller": "theelyzianspartancollection",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

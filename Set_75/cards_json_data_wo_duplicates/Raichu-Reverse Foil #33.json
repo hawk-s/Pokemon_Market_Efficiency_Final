@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$30.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8970382394471469555/-3513439641629495376.jpg",
+        "auction_type": "Auction",
+        "lot_number": "364938712447",
+        "auction_house": "eBay",
+        "cert_number": "92161434",
+        "date": "6/17/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1625736082564009254/53277001964037642.jpg",
+        "grade": "8",
+        "auction_seller": "kantopacks",
+        "date": "10/14/2023",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "cert_number": "66484771",
+        "auction_house": "eBay",
+        "lot_number": "196017871897"
+    },
+    {
+        "price": "$42.20",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6898102376420436533/-3741218473088435699.jpg",
+        "grade": "8",
+        "lot_number": "155385225374",
+        "date": "2/7/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57088572"
+    }
+]

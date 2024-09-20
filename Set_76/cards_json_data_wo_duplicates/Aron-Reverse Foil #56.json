@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "dapper-tradesmith",
+        "cert_number": "68037531",
+        "grade": "9",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1044940178365118190/-3630103921634170695.jpg",
+        "auction_type": "Auction",
+        "lot_number": "204377783715",
+        "auction_house": "eBay",
+        "date": "7/2/2023"
+    },
+    {
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6185054868271507720/-1331078183563052811.jpg",
+        "grade": "8",
+        "cert_number": "94722699",
+        "auction_type": "Auction",
+        "lot_number": "305727936080",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "date": "8/23/2024"
+    }
+]

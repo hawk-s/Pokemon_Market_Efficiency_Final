@@ -1,0 +1,57 @@
+[
+    {
+        "date": "4/26/2023",
+        "lot_number": "266219813356",
+        "price": "$86.00",
+        "cert_number": "57991641",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2831461379470292303/5838850760440225943.jpg"
+    },
+    {
+        "lot_number": "404981227290",
+        "date": "5/26/2024",
+        "price": "$3.83",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8175009374266712249/-5838151010442380304.jpg",
+        "cert_number": "90803004",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "wavy.collects",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/19/2022",
+        "cert_number": "65138203",
+        "auction_seller": "parkerspokemon",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3347681351266765366/2367228136060812446.jpg",
+        "lot_number": "314268637669",
+        "auction_house": "eBay",
+        "price": "$15.01"
+    },
+    {
+        "cert_number": "82879033",
+        "auction_seller": "zandgemporium",
+        "date": "12/31/2023",
+        "grade": "9",
+        "lot_number": "285619944246",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3250301741994032954/-7888502471333294639.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5219523111103090473/3910104391902566131.jpg",
+        "cert_number": "65695836",
+        "auction_seller": "carriescards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/16/2023",
+        "grade": "10",
+        "lot_number": "334784894630",
+        "price": "$123.94"
+    }
+]

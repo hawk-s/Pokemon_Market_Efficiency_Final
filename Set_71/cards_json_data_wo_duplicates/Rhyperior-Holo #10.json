@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/18/2022",
+        "price": "$260.00",
+        "auction_seller": "nieskgaming",
+        "cert_number": "68870844",
+        "lot_number": "394378013668",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2744332174868741217/9004484834997691545.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/6/2023",
+        "grade": "8.5",
+        "auction_seller": "mewshideout",
+        "cert_number": "48415725",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8846155953103157567/34835968440598551.jpg",
+        "auction_type": "Auction",
+        "lot_number": "285126678390",
+        "auction_house": "eBay",
+        "price": "$11.01"
+    },
+    {
+        "price": "$19.50",
+        "auction_seller": "titan1726",
+        "cert_number": "73229122",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7118000833586843048/-7330497689129245732.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/26/2023",
+        "lot_number": "256106573253"
+    },
+    {
+        "auction_seller": "slab-town",
+        "lot_number": "324911127866",
+        "price": "$41.00",
+        "grade": "9",
+        "cert_number": "53007650",
+        "date": "12/6/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7462700887730791483/1959093900175391867.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "price": "$9.50",
+        "lot_number": "387216032651",
+        "cert_number": "75640298",
+        "auction_seller": "probstein123",
+        "date": "7/26/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8089595648383801999/5225111905038975189.jpg"
+    }
+]

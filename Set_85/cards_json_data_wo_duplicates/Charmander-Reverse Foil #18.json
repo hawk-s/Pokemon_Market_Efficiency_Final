@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "goodsoddities",
+        "price": "$61.00",
+        "lot_number": "325556067086",
+        "cert_number": "68376874",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3582678843345626191/-1142140819219889053.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "3/7/2023"
+    },
+    {
+        "auction_seller": "goodsoddities",
+        "cert_number": "68521373",
+        "lot_number": "325631692600",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7758924452124334403/2388303906401225064.jpg",
+        "grade": "9",
+        "date": "5/1/2023",
+        "auction_type": "Auction",
+        "price": "$42.11",
+        "auction_house": "eBay"
+    }
+]

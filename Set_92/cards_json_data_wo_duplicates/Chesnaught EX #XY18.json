@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "7",
+        "price": "$4.25",
+        "auction_seller": "einsteinsauctionhouse",
+        "cert_number": "24210336",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7107679458801350620/5498341922431093394.jpg",
+        "date": "1/18/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "163482894798"
+    },
+    {
+        "lot_number": "234293234053",
+        "date": "11/21/2021",
+        "price": "$12.00",
+        "auction_seller": "artelementals",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2940625044300988954/-4323615615266347831.jpg",
+        "auction_house": "eBay",
+        "cert_number": "52983953"
+    },
+    {
+        "price": "$30.00",
+        "cert_number": "24843518",
+        "auction_type": "Best Offer",
+        "date": "3/16/2021",
+        "grade": "9",
+        "auction_seller": "lubr9601",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1536757071585558087/5793460208192029011.jpg",
+        "auction_house": "eBay",
+        "lot_number": "393173426124"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1390165044148128573/-6739224571220096588.jpg",
+        "auction_seller": "zandgemporium",
+        "cert_number": "82216537",
+        "grade": "9",
+        "lot_number": "285595448027",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$8.52"
+    }
+]

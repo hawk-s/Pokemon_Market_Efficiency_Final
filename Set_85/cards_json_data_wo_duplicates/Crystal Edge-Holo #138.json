@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$10.50",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "lot_number": "285630523438",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "83715029",
+        "date": "1/8/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6133110624988868463/54852784765524221.jpg"
+    },
+    {
+        "date": "4/14/2018",
+        "price": "$4.95",
+        "cert_number": "28922358",
+        "grade": "9",
+        "auction_seller": "pokejuice",
+        "lot_number": "273147866696",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4166025875651877602/108096282245367210.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_type": "Best Offer",
+        "price": "$39.99",
+        "auction_seller": "ttm_collectibles",
+        "grade": "8",
+        "cert_number": "48254161",
+        "lot_number": "184761937123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8886953948467247854/6492032697204873098.jpg",
+        "auction_house": "eBay",
+        "date": "4/14/2021"
+    }
+]

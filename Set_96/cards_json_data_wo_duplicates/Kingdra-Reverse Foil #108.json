@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$31.83",
+        "auction_seller": "tannah12",
+        "cert_number": "55485195",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "155279443457",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2221603778413880658/-7334040016260242969.jpg",
+        "date": "12/5/2022"
+    },
+    {
+        "price": "$11.00",
+        "date": "5/25/2023",
+        "grade": "8",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6017128071725520029/4881908925217669040/images/1.jpg",
+        "lot_number": "4807",
+        "cert_number": "74551976",
+        "auction_type": "Auction",
+        "auction_seller": "Weekly Auction May 16 - May 25",
+        "auction_house": "Goldin Auctions"
+    }
+]

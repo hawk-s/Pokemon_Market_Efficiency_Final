@@ -1,0 +1,46 @@
+[
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "114277487629",
+        "auction_seller": "cdn-cards",
+        "cert_number": "43157839",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4284982271196472947/-1063619756068553545.jpg",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "7/20/2020",
+        "price": "$23.88"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8702756601877647678/-2090872049576709005.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$70.00",
+        "lot_number": "202868807120",
+        "date": "6/25/2020",
+        "auction_seller": "kgvapes402-1",
+        "cert_number": "41202447",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4843346667084953245/2478822253742995162.jpg",
+        "lot_number": "285049760797",
+        "price": "$31.55",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "cert_number": "57464761",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/5/2022"
+    },
+    {
+        "date": "12/26/2022",
+        "grade": "9",
+        "price": "$34.00",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "cert_number": "68473515",
+        "lot_number": "285083918358",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1401621486355990218/-462404637451934960.jpg"
+    }
+]

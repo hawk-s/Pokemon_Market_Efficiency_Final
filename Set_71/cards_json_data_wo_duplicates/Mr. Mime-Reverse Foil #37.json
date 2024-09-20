@@ -1,0 +1,24 @@
+[
+    {
+        "grade": "4",
+        "cert_number": "60226262",
+        "price": "$9.79",
+        "auction_seller": "tannah12",
+        "date": "10/24/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9168333526399587945/115318135167613319.jpg",
+        "auction_type": "Auction",
+        "lot_number": "115567165257",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/15/2020",
+        "lot_number": "162417722343",
+        "auction_type": "Best Offer",
+        "cert_number": "25590354",
+        "grade": "9",
+        "auction_seller": "alexsabor",
+        "price": "$49.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6861429338567446474/-4212666660322268390.jpg",
+        "auction_house": "eBay"
+    }
+]

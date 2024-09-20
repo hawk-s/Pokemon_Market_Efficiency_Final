@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "einsteinsauctionhouse",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2503463996303959734/2543874837845666428.jpg",
+        "cert_number": "24210348",
+        "price": "$2.00",
+        "grade": "8",
+        "lot_number": "163482829493",
+        "date": "1/18/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8659991890908562896/4532353513583978256.jpg",
+        "date": "9/25/2020",
+        "auction_seller": "probstein123",
+        "lot_number": "373217599429",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "26003580"
+    },
+    {
+        "cert_number": "85042627",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "price": "$3.75",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2428567316841369298/-6234939269717713368.jpg",
+        "auction_type": "Auction",
+        "date": "4/8/2024",
+        "auction_house": "eBay",
+        "lot_number": "285789688582"
+    },
+    {
+        "auction_seller": "ultracards",
+        "auction_type": "Best Offer",
+        "price": "$7.00",
+        "grade": "9",
+        "cert_number": "23778733",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5697176175684383704/7819165638026603804.jpg",
+        "auction_house": "eBay",
+        "lot_number": "264546343323",
+        "date": "4/15/2020"
+    }
+]

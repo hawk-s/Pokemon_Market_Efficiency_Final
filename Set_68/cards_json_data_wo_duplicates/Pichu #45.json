@@ -1,0 +1,79 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4054493545691218575/-5266829684039325588.jpg",
+        "lot_number": "334600165053",
+        "price": "$43.00",
+        "date": "10/29/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles",
+        "grade": "10",
+        "cert_number": "59925974"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5964220122381723338/-2985666861007762082.jpg",
+        "grade": "7",
+        "auction_seller": "203records",
+        "cert_number": "87114874",
+        "date": "9/2/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "305748961367",
+        "price": "$17.89"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7449607405101723019/4757287034804254812.jpg",
+        "cert_number": "41157484",
+        "price": "$4.99",
+        "date": "12/3/2018",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "lot_number": "292830302738",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5448941942560077129/2419587168913169904.jpg",
+        "auction_seller": "tannah12",
+        "cert_number": "60754718",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.74",
+        "lot_number": "115706798371",
+        "date": "2/22/2023"
+    },
+    {
+        "lot_number": "292944916079",
+        "cert_number": "41157482",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3692472939037180378/8502427285641562219.jpg",
+        "date": "2/9/2019",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$1.25"
+    },
+    {
+        "price": "$24.78",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7502298339541870130/2419587168913169904.jpg",
+        "lot_number": "115722928442",
+        "auction_seller": "tannah12",
+        "cert_number": "60754718",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/29/2018",
+        "price": "$24.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7679320916814137251/-1879783227809024153.jpg",
+        "cert_number": "28958630",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "112886344338",
+        "grade": "10"
+    }
+]

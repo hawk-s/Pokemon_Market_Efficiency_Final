@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$74.48",
+        "date": "12/12/2021",
+        "grade": "9",
+        "cert_number": "50596467",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6271156290551703125/-5065286744562482448.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185171394194",
+        "auction_seller": "pokemoncollectorgermany"
+    },
+    {
+        "auction_seller": "collectorbirch",
+        "lot_number": "265500407711",
+        "price": "$89.88",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7697750154546203152/9103577660513905100.jpg",
+        "cert_number": "50596467",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/30/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4958013930488305058/3659574752761780347.jpg",
+        "price": "$165.21",
+        "cert_number": "50596466",
+        "lot_number": "234289842631",
+        "grade": "9",
+        "auction_seller": "frieillb",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/28/2021"
+    },
+    {
+        "price": "$256.00",
+        "lot_number": "166759069566",
+        "date": "5/21/2024",
+        "auction_type": "Auction",
+        "cert_number": "83420517",
+        "auction_seller": "flakemedley",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6582368059726011015/-4737515212512291734.jpg"
+    }
+]

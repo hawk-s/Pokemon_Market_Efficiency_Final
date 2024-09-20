@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "thomaashfiel_8",
+        "lot_number": "404957561518",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-765327969628290616/4009648388005645147.jpg",
+        "price": "$11.88",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "88961104",
+        "date": "5/11/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6736855361755574162/165532684886816336.jpg",
+        "grade": "7",
+        "auction_type": "Best Offer",
+        "cert_number": "45263233",
+        "price": "$24.99",
+        "auction_seller": "scheffiesgoods",
+        "auction_house": "eBay",
+        "date": "3/17/2021",
+        "lot_number": "193742799477"
+    },
+    {
+        "auction_seller": "thomaashfiel_8",
+        "price": "$13.90",
+        "date": "3/29/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "88033719",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1556469368092333742/-3661456123295943503.jpg",
+        "lot_number": "404877756745"
+    },
+    {
+        "lot_number": "253804390728",
+        "price": "$13.00",
+        "date": "3/28/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7251064143642801381/-150999425855292818.jpg",
+        "auction_type": "Buy It Now",
+        "grade": "9",
+        "cert_number": "40954968",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/24/2024",
+        "auction_seller": "thomaashfiel_8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1468690786174922200/4009648388005645147.jpg",
+        "price": "$10.80",
+        "lot_number": "404983308697",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "88961104"
+    },
+    {
+        "auction_seller": "thomaashfiel_8",
+        "price": "$10.78",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7987146665823477463/-5461815683539904514.jpg",
+        "cert_number": "88033707",
+        "auction_type": "Auction",
+        "lot_number": "405037863495",
+        "auction_house": "eBay",
+        "date": "6/21/2024"
+    }
+]

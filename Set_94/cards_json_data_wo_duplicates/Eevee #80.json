@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "lot_number": "115746430644",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2815027707232203370/-7112916879823855715.jpg",
+        "price": "$21.03",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "4/4/2023",
+        "cert_number": "58710278"
+    },
+    {
+        "cert_number": "74797135",
+        "auction_seller": "cman20132019",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8739607795098166728/-5360236552968363168.jpg",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "145554290644",
+        "date": "1/22/2024"
+    },
+    {
+        "cert_number": "56952437",
+        "date": "7/18/2024",
+        "price": "$6.50",
+        "grade": "9",
+        "lot_number": "335481781978",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4177830860205186184/-8652313253578524737.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "kk_sportscards9",
+        "auction_house": "eBay"
+    }
+]

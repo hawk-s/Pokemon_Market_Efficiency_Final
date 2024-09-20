@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "poke.prof3",
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8575122490474699623/-6088059411967245195.jpg",
+        "grade": "9",
+        "cert_number": "71659051",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/12/2023",
+        "lot_number": "225463002916"
+    },
+    {
+        "auction_seller": "poke.prof3",
+        "price": "$12.00",
+        "date": "3/19/2023",
+        "grade": "9",
+        "cert_number": "71659051",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3515059794233630187/-6088059411967245195.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "225476191780"
+    }
+]

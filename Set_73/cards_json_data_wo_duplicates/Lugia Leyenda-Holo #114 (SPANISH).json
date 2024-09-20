@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8279354934981463047/4340357220074784034.jpg",
+        "date": "9/10/2022",
+        "grade": "9",
+        "lot_number": "225142280895",
+        "cert_number": "48081970",
+        "auction_type": "Auction",
+        "price": "$132.50",
+        "auction_house": "eBay",
+        "auction_seller": "alltcgaming"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5778336737178940024/-778750519677502972.jpg",
+        "date": "1/26/2024",
+        "price": "$72.99",
+        "auction_seller": "galactic_tcg",
+        "grade": "8",
+        "lot_number": "315100817009",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "82558616"
+    },
+    {
+        "cert_number": "54801076",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2461690476090911313/3835463793246327304.jpg",
+        "lot_number": "224793217810",
+        "grade": "9",
+        "price": "$51.07",
+        "auction_type": "Auction",
+        "auction_seller": "trainersal",
+        "date": "1/24/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$24.28",
+        "grade": "9",
+        "cert_number": "68353620",
+        "date": "3/18/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7649417407038920753/2206043233175576568.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "darkshadeoriginal",
+        "lot_number": "285179336906"
+    }
+]

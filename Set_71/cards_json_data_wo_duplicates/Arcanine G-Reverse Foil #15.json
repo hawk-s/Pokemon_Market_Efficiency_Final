@@ -1,0 +1,35 @@
+[
+    {
+        "date": "12/12/2022",
+        "grade": "7",
+        "price": "$18.02",
+        "lot_number": "234807382043",
+        "auction_seller": "goats-n-pros",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2947053845758973490/6358988279170103100.jpg",
+        "cert_number": "68934645",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1619300590432677940/7016173500096355594.jpg",
+        "cert_number": "75215568",
+        "grade": "8",
+        "lot_number": "394827066443",
+        "auction_seller": "winic_95",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "tannah12",
+        "date": "10/24/2022",
+        "grade": "8",
+        "cert_number": "60226240",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3699505945498297719/-432107879613555325.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "155210401633",
+        "price": "$23.05"
+    }
+]

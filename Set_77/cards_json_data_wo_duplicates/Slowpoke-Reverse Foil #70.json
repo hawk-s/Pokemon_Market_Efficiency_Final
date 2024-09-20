@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "southst9",
+        "lot_number": "385320497419",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6207464412997308881/4708404703622372792.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "48332498",
+        "date": "1/6/2023",
+        "price": "$19.50"
+    },
+    {
+        "date": "2/5/2023",
+        "price": "$16.83",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6304930383495286544/8013088232478446855.jpg",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "cert_number": "68661267",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185752774327"
+    },
+    {
+        "date": "10/1/2023",
+        "price": "$12.52",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7846338376644720001/-146107749414022867.jpg",
+        "auction_house": "eBay",
+        "lot_number": "285484861754",
+        "cert_number": "69600232"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "315540571947",
+        "date": "7/22/2024",
+        "grade": "9",
+        "cert_number": "63396716",
+        "price": "$79.88",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2901205417039513483/8116953260456396086.jpg",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "date": "11/2/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8233577354928068410/-4683631376576673278.jpg",
+        "grade": "9",
+        "price": "$98.00",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "cert_number": "52633673",
+        "auction_house": "eBay",
+        "lot_number": "285018639824"
+    },
+    {
+        "cert_number": "43928081",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-931828429674271201/3638087284788818954.jpg",
+        "date": "11/4/2020",
+        "auction_house": "eBay",
+        "auction_seller": "77luka",
+        "auction_type": "Auction",
+        "lot_number": "313276161436",
+        "price": "$33.00"
+    },
+    {
+        "cert_number": "46281219",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4968291667014256378/46790499729632610.jpg",
+        "auction_seller": "zandgemporium-0",
+        "date": "12/6/2021",
+        "auction_type": "Auction",
+        "lot_number": "284545386967",
+        "auction_house": "eBay",
+        "price": "$81.00"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "cb-hobby",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7907319432474330235/-8086289398988745898.jpg",
+        "lot_number": "235512922205",
+        "auction_type": "Auction",
+        "price": "$36.99",
+        "cert_number": "75729027",
+        "auction_house": "eBay",
+        "date": "4/16/2024"
+    }
+]

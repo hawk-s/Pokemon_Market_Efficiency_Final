@@ -1,0 +1,35 @@
+[
+    {
+        "date": "3/10/2023",
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1234014442215676167/4332982089045750764.jpg",
+        "cert_number": "71386643",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364170764646"
+    },
+    {
+        "cert_number": "70054343",
+        "lot_number": "125826013568",
+        "grade": "6",
+        "date": "3/22/2023",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "price": "$3.55",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5353466695860609655/4573748471767908712.jpg"
+    },
+    {
+        "lot_number": "364508901745",
+        "price": "$20.00",
+        "cert_number": "69017345",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4384367703442656616/865068837129090225.jpg",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/12/2023"
+    }
+]

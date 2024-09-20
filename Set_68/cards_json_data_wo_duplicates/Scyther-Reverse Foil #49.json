@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "92465782",
+        "grade": "7",
+        "lot_number": "276534658667",
+        "price": "$10.50",
+        "date": "7/12/2024",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7827197295217400568/-870432771013638156.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "292869014850",
+        "cert_number": "41157459",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/24/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-169193538139823475/4507020241985081294.jpg"
+    },
+    {
+        "lot_number": "254628319121",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6568912690488401944/1176607679595625328.jpg",
+        "cert_number": "25590380",
+        "grade": "9",
+        "price": "$35.00",
+        "auction_house": "eBay",
+        "date": "7/16/2020",
+        "auction_seller": "fuzzyy41"
+    }
+]

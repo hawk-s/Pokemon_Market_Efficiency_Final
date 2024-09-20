@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "54801073",
+        "lot_number": "384704415985",
+        "price": "$46.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3230040370042586568/8983111224973909691.jpg",
+        "auction_type": "Auction",
+        "date": "2/5/2022",
+        "auction_seller": "trainersal",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "54801073",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9092461873366710153/8983111224973909691.jpg",
+        "grade": "9",
+        "price": "$40.00",
+        "lot_number": "224793217807",
+        "auction_type": "Auction",
+        "auction_seller": "trainersal",
+        "date": "1/24/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "d2_pokeshop",
+        "grade": "7",
+        "price": "$21.00",
+        "cert_number": "70015192",
+        "lot_number": "404187699085",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8544274934972715432/-8781607138578653098.jpg",
+        "date": "3/10/2023"
+    }
+]

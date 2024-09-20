@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$181.50",
+        "auction_seller": "brie_nass",
+        "date": "9/30/2020",
+        "lot_number": "143751046119",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2316791790568149229/-922919439733846885.jpg",
+        "cert_number": "46336274",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "135190427076",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7831380156009341258/-2538072830999462237.jpg",
+        "price": "$11.54",
+        "grade": "8",
+        "cert_number": "73803779",
+        "date": "8/19/2024",
+        "auction_type": "Auction",
+        "auction_seller": "decot-55",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.50",
+        "grade": "7",
+        "cert_number": "55127732",
+        "lot_number": "374549138454",
+        "date": "3/13/2023",
+        "auction_seller": "cardboardempires",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-865182144044799431/-6771030111777999626.jpg"
+    },
+    {
+        "price": "$13.50",
+        "date": "3/8/2023",
+        "cert_number": "65436132",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2517065702944703073/4056684426079697746.jpg",
+        "auction_seller": "cman20132019",
+        "grade": "9",
+        "lot_number": "144967478403",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

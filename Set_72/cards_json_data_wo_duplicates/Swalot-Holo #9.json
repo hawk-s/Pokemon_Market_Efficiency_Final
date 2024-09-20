@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "66669205",
+        "price": "$10.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "386916341941",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4182323929237711825/634413412819939054.jpg",
+        "auction_house": "eBay",
+        "date": "4/16/2024"
+    },
+    {
+        "lot_number": "255720506920",
+        "auction_seller": "arkcollectibles",
+        "date": "9/16/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4983659641247226627/1703912112442419429.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "52544327",
+        "price": "$29.02"
+    },
+    {
+        "date": "5/11/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2177894878636814617/1270606850704526365.jpg",
+        "auction_seller": "apmerchant02",
+        "cert_number": "56309632",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185408567638",
+        "price": "$23.52"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3854682120599950822/47755491720887299.jpg",
+        "date": "2/5/2023",
+        "cert_number": "60531413",
+        "grade": "9",
+        "lot_number": "225372979236",
+        "auction_type": "Auction",
+        "auction_seller": "svnaded",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "lot_number": "115569290212",
+        "date": "10/26/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7164671221166370418/-3031363867241593931.jpg",
+        "auction_house": "eBay",
+        "price": "$10.56",
+        "cert_number": "60226290"
+    },
+    {
+        "price": "$30.00",
+        "cert_number": "28502135",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1352365633618858011/6128158703151437589.jpg",
+        "auction_type": "Buy It Now",
+        "auction_seller": "colddinosaur",
+        "date": "4/22/2020",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "164155373239"
+    }
+]

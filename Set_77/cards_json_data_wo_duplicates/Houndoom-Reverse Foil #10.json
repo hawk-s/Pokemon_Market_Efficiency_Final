@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "60216444",
+        "grade": "7",
+        "auction_seller": "tannah12",
+        "date": "9/13/2022",
+        "lot_number": "115516661488",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/766945187291100613/8431958467177581004.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$23.76"
+    },
+    {
+        "auction_seller": "poke-martcollectibles",
+        "lot_number": "275558748585",
+        "grade": "9",
+        "cert_number": "68321404",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6659691005019180630/7912468290810878902.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "12/6/2022",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5956937630675777395/-8000402358008012079.jpg",
+        "date": "1/31/2022",
+        "auction_seller": "habbyshobbies",
+        "price": "$15.50",
+        "grade": "8",
+        "cert_number": "51336482",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "384685274002"
+    },
+    {
+        "lot_number": "3271",
+        "price": "$17.00",
+        "date": "3/2/2023",
+        "cert_number": "69969969",
+        "grade": "9",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-4514791708511354210/-1305790242450441855/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Feb 21 - March 2"
+    }
+]

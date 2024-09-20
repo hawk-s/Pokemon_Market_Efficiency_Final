@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-264265843541889836/7976983744283744977.jpg",
+        "lot_number": "393131086921",
+        "date": "2/20/2021",
+        "grade": "9",
+        "price": "$31.00",
+        "cert_number": "42763459",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "chrifle50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-102495256973844708/7970409353502254020.jpg",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "lot_number": "292992844831",
+        "price": "$40.00",
+        "date": "11/22/2020",
+        "cert_number": "42763459",
+        "auction_house": "eBay",
+        "auction_seller": "cabalcoffers"
+    },
+    {
+        "date": "3/5/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4857624765221975500/6093367455252465111.jpg",
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "lot_number": "115716042854",
+        "auction_type": "Auction",
+        "cert_number": "59404275",
+        "auction_house": "eBay",
+        "price": "$7.74"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7121172163847318900/-816541558163825186.jpg",
+        "price": "$8.09",
+        "date": "1/30/2020",
+        "cert_number": "44279504",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "124054069383",
+        "auction_seller": "raijinfujin"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5321205821172559165/5000614246480737546.jpg",
+        "price": "$9.50",
+        "auction_seller": "liquidatememedia",
+        "grade": "9",
+        "lot_number": "124322724423",
+        "date": "9/8/2020",
+        "auction_type": "Auction",
+        "cert_number": "45870708",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/21/2024",
+        "cert_number": "24344054",
+        "lot_number": "156359127451",
+        "price": "$6.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5802480800095745474/1719225441653172714.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "star7756",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "48792303",
+        "grade": "7",
+        "lot_number": "133747888548",
+        "date": "5/9/2021",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7090941467150719472/-8309125708283518517.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer"
+    },
+    {
+        "date": "6/19/2023",
+        "grade": "7",
+        "cert_number": "73611992",
+        "lot_number": "125973195017",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5220171438142033913/-2507570270107986428.jpg",
+        "price": "$2.35",
+        "auction_seller": "mrgandee"
+    }
+]

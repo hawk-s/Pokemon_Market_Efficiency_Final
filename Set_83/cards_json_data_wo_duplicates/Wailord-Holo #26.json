@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "68164517",
+        "auction_seller": "mavs_cards",
+        "lot_number": "314459970612",
+        "date": "3/19/2023",
+        "price": "$203.85",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5747271830767326171/-3029323098335225489.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "266830530456",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/52384988904019424/-1746431772761395528.jpg",
+        "grade": "9 (OC)",
+        "auction_seller": "bluesaunarobe",
+        "cert_number": "89815706",
+        "date": "5/30/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$33.00"
+    },
+    {
+        "lot_number": "153806809870",
+        "cert_number": "42417200",
+        "price": "$12.00",
+        "auction_seller": "tanismtz",
+        "date": "1/30/2020",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8772846862770509575/292280248897939726.jpg"
+    },
+    {
+        "auction_seller": "sean_sells-stuff",
+        "date": "1/4/2024",
+        "lot_number": "155974822469",
+        "cert_number": "60398523",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7650097063239771118/-180232634228494348.jpg",
+        "auction_type": "Auction",
+        "price": "$3.99",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.51",
+        "date": "6/8/2024",
+        "grade": "9 (OC)",
+        "auction_seller": "bluesaunarobe",
+        "auction_type": "Auction",
+        "lot_number": "266843641243",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/75411553563778195/-1746431772761395528.jpg",
+        "auction_house": "eBay",
+        "cert_number": "89815706"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$3.25",
+        "cert_number": "81534654",
+        "grade": "8",
+        "lot_number": "226044176906",
+        "auction_seller": "pokeking_auz",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1076502516526760647/-929642431618072737.jpg",
+        "date": "4/1/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "68913823",
+        "price": "$16.00",
+        "lot_number": "195639893573",
+        "date": "3/13/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2785552932482956366/-2527201620799429364.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tonyd171"
+    },
+    {
+        "price": "$7.50",
+        "date": "7/8/2024",
+        "cert_number": "81534671",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9077902331365050813/-1985633850649049099.jpg",
+        "lot_number": "226204158861",
+        "auction_seller": "pokeking_auz",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "sprys",
+        "lot_number": "125100294177",
+        "cert_number": "54307129",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1000960200404006056/3851436470453502913.jpg",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$71.00"
+    },
+    {
+        "cert_number": "68913823",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8686860807716332022/-2527201620799429364.jpg",
+        "lot_number": "195683097998",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$17.50",
+        "auction_type": "Auction",
+        "date": "4/4/2023",
+        "auction_seller": "tonyd171"
+    }
+]

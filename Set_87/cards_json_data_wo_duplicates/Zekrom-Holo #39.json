@@ -1,0 +1,57 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "cert_number": "27641558",
+        "lot_number": "112581789920",
+        "auction_seller": "my_honolulu_blue",
+        "date": "2/6/2018",
+        "price": "$29.74",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7138868616637382648/1192649418761892698.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2722752135997525410/-3892654435383250411.jpg",
+        "lot_number": "124440373368",
+        "price": "$69.00",
+        "cert_number": "27641558",
+        "date": "11/22/2020",
+        "auction_type": "Auction",
+        "auction_seller": "burnsflyer2010",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "363110016729",
+        "date": "9/25/2020",
+        "price": "$41.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "41953141",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7383458809767346761/8009249350714931387.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$16.83",
+        "lot_number": "115716059289",
+        "cert_number": "59404317",
+        "date": "3/5/2023",
+        "auction_seller": "tannah12",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6601276205132998099/6381936582654040435.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "204420971886",
+        "price": "$13.25",
+        "auction_seller": "ketchumallcollectibles",
+        "cert_number": "56817663",
+        "grade": "8",
+        "date": "8/14/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2657093962774174580/89375067741760654.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

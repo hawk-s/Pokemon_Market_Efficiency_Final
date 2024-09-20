@@ -1,0 +1,79 @@
+[
+    {
+        "date": "8/27/2023",
+        "lot_number": "175867790149",
+        "cert_number": "74117685",
+        "grade": "6",
+        "price": "$5.50",
+        "auction_seller": "rng-gamez",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2071739436620850406/5294859423017497963.jpg"
+    },
+    {
+        "price": "$9.51",
+        "auction_seller": "inflamesrmtp",
+        "lot_number": "254251870230",
+        "date": "6/12/2019",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7917965627189882756/-5153611563218513010.jpg",
+        "auction_type": "Auction",
+        "cert_number": "28307374",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5620996852000787984/-4592570212836281955.jpg",
+        "auction_seller": "texas_tamugirl",
+        "date": "5/13/2020",
+        "grade": "9",
+        "lot_number": "283868509470",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "45358421"
+    },
+    {
+        "price": "$15.00",
+        "auction_seller": "texas_tamugirl",
+        "auction_type": "Best Offer",
+        "cert_number": "45358420",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1714176343689494753/-1757711900625919527.jpg",
+        "auction_house": "eBay",
+        "lot_number": "283882194792",
+        "date": "5/18/2020"
+    },
+    {
+        "auction_seller": "omegacollectiblesllc",
+        "grade": "7",
+        "cert_number": "74309567",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7110436265148351637/-7264358643193045565.jpg",
+        "price": "$14.50",
+        "date": "9/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "186055288346"
+    },
+    {
+        "auction_seller": "collectorbirch",
+        "grade": "8",
+        "cert_number": "52329151",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7531512979118963576/8382773345367302971.jpg",
+        "price": "$44.66",
+        "lot_number": "265499612712",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/30/2022"
+    },
+    {
+        "date": "8/27/2023",
+        "grade": "6",
+        "lot_number": "175867792343",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/991298289482126992/5725467836752380281.jpg",
+        "auction_seller": "rng-gamez",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "74117684"
+    }
+]

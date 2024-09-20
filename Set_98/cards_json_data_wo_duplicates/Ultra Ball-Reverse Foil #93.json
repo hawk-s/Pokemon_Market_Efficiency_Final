@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "kirisits148",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2207174312595786412/7307327710526303753.jpg",
+        "price": "$11.05",
+        "lot_number": "132209526787",
+        "cert_number": "27136043",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/3/2017",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "stokjockey",
+        "lot_number": "125634146214",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7764472188100544739/5566675694313378037.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27502924",
+        "date": "12/5/2022"
+    },
+    {
+        "date": "1/27/2021",
+        "price": "$27.76",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6612858241805285014/-6862519364119178817.jpg",
+        "lot_number": "284154975480",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "jakrot5",
+        "cert_number": "27502924"
+    }
+]

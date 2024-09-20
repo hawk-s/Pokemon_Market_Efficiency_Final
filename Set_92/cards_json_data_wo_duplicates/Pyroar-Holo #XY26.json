@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "4_sharp_corners",
+        "cert_number": "85214423",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "date": "2/2/2024",
+        "lot_number": "266633006742",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-26190073120976633/3306759841433873364.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "61969166",
+        "date": "2/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/668590958186703158/5922211268517923426.jpg",
+        "lot_number": "354602719309",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_seller": "the1-up",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "26875312",
+        "lot_number": "142591857808",
+        "price": "$13.95",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4793643260953601500/1507195693563269690.jpg",
+        "auction_seller": "hurl-dall",
+        "grade": "9",
+        "date": "11/30/2017",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$22.64",
+        "cert_number": "73662779",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1610455572977886645/-5697399027952519956.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "slabsharksinc",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/20/2023",
+        "lot_number": "204497063993"
+    }
+]

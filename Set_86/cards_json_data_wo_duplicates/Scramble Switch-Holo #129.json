@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "59404274",
+        "date": "3/9/2023",
+        "lot_number": "115719778678",
+        "auction_seller": "tannah12",
+        "price": "$8.35",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8134675832602532629/-3066533676453085167.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "card-foundry",
+        "price": "$18.42",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3172163159578211103/-8472809739569667284.jpg",
+        "cert_number": "48603083",
+        "date": "9/5/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "274921295965"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3152028456118892481/-7058756480792369531.jpg",
+        "lot_number": "256561031362",
+        "cert_number": "72272564",
+        "date": "7/7/2024",
+        "auction_type": "Auction",
+        "auction_seller": "xaja30",
+        "auction_house": "eBay",
+        "price": "$3.98"
+    },
+    {
+        "price": "$2.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3542855309653867263/-4895517483739429687.jpg",
+        "auction_seller": "scc_consignments",
+        "cert_number": "69052883",
+        "grade": "9",
+        "lot_number": "304852185319",
+        "date": "3/30/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/19/2020",
+        "price": "$27.78",
+        "auction_seller": "pokehut",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "43792153",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2992033921441142230/-4485492870606291630.jpg",
+        "lot_number": "264860072353"
+    }
+]

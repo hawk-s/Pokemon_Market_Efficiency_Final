@@ -1,0 +1,79 @@
+[
+    {
+        "date": "3/11/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5655157440283226032/-2456551919749615837.jpg",
+        "lot_number": "165969421492",
+        "price": "$19.99",
+        "auction_seller": "aribaroun0",
+        "auction_type": "Auction",
+        "cert_number": "70468222",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "253111908222",
+        "auction_type": "Best Offer",
+        "auction_seller": "p0pik0k",
+        "price": "$18.99",
+        "cert_number": "27380780",
+        "auction_house": "eBay",
+        "date": "1/14/2018",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-184146526904256370/7113156427421338624.jpg"
+    },
+    {
+        "date": "12/9/2022",
+        "lot_number": "275554682389",
+        "price": "$50.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8934997236339515865/-6685719156014178798.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "cert_number": "68298465",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/19/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2606936272856172855/2105324506721647737.jpg",
+        "lot_number": "124330608253",
+        "grade": "9",
+        "cert_number": "45862107",
+        "auction_type": "Auction",
+        "price": "$14.98",
+        "auction_house": "eBay",
+        "auction_seller": "raijinfujin"
+    },
+    {
+        "cert_number": "71824986",
+        "price": "$13.50",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7023916664454918652/-1664325993761966319.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "6/18/2023",
+        "auction_house": "eBay",
+        "lot_number": "285318368086"
+    },
+    {
+        "lot_number": "173024291382",
+        "auction_seller": "collectorsworld-va",
+        "cert_number": "28478678",
+        "date": "12/17/2017",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4951395606009846256/-3032431477656523305.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$5.01"
+    },
+    {
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5197404054371376097/-6467606560351455562.jpg",
+        "auction_seller": "tanismtz",
+        "lot_number": "153606902527",
+        "date": "8/23/2019",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "42417205",
+        "auction_house": "eBay"
+    }
+]

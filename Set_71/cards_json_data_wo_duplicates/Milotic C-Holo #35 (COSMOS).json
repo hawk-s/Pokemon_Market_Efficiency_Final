@@ -1,0 +1,35 @@
+[
+    {
+        "date": "11/22/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1602606844089828188/-5876558879645245777.jpg",
+        "cert_number": "53496977",
+        "grade": "8",
+        "auction_seller": "sellers_sportscards",
+        "price": "$20.50",
+        "lot_number": "265405951733",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "lot_number": "175452730088",
+        "cert_number": "65386693",
+        "date": "10/24/2022",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "jscottyson",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1714976884607729800/-2877401071014773020.jpg"
+    },
+    {
+        "lot_number": "256006139774",
+        "cert_number": "71084461",
+        "auction_seller": "venusaur_island",
+        "grade": "8",
+        "price": "$23.12",
+        "date": "3/13/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2519424792149795338/2394591386762291574.jpg",
+        "auction_house": "eBay"
+    }
+]

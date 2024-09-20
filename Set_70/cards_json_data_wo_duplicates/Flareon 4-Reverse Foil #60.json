@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "88192213",
+        "date": "7/8/2024",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6436875173393114920/-3360782140672213394.jpg",
+        "lot_number": "126558151526",
+        "grade": "8",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/154599540399498044/935192923889201686.jpg",
+        "price": "$19.45",
+        "grade": "8",
+        "lot_number": "185763231936",
+        "auction_seller": "marro-4916",
+        "auction_type": "Auction",
+        "date": "2/15/2023",
+        "auction_house": "eBay",
+        "cert_number": "69004189"
+    },
+    {
+        "auction_seller": "pokeguyken",
+        "date": "12/16/2022",
+        "cert_number": "69602393",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/31506112535383021/2269942909965327867.jpg",
+        "grade": "9",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "325464942523"
+    },
+    {
+        "lot_number": "185801584921",
+        "grade": "8",
+        "date": "3/13/2023",
+        "auction_seller": "marro-4916",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1165763894920773336/652885049487470450.jpg",
+        "auction_type": "Auction",
+        "price": "$17.87",
+        "auction_house": "eBay",
+        "cert_number": "69004189"
+    },
+    {
+        "cert_number": "88192213",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1411974029016914835/-4099926815526309352.jpg",
+        "price": "$10.50",
+        "lot_number": "135027674485",
+        "grade": "8",
+        "date": "4/29/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    }
+]

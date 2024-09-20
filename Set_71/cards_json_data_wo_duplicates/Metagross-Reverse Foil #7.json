@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "thewinglessturtle",
+        "cert_number": "61383709",
+        "lot_number": "315378615377",
+        "date": "5/28/2024",
+        "price": "$222.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8647687549395819423/6133182718539404964.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/26/2023",
+        "cert_number": "61383709",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8530248325659011480/-2605961503976181702.jpg",
+        "auction_seller": "tca_gaming",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275794117608",
+        "grade": "10",
+        "price": "$62.00"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "tannah12",
+        "date": "10/24/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2494630345267644560/-8930903696358331221.jpg",
+        "price": "$15.79",
+        "auction_type": "Auction",
+        "lot_number": "115567196268",
+        "auction_house": "eBay",
+        "cert_number": "60226232"
+    },
+    {
+        "price": "$32.68",
+        "cert_number": "69053173",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8817909226312126478/8950936795130148601.jpg",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/30/2023",
+        "lot_number": "185867504543"
+    }
+]

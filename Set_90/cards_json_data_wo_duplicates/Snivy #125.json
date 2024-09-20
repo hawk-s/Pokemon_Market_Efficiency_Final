@@ -1,0 +1,68 @@
+[
+    {
+        "date": "4/28/2021",
+        "auction_seller": "pwcc_auctions",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4917004402141163115/-2384846602040026521.jpg",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "lot_number": "144012096207",
+        "auction_house": "eBay",
+        "cert_number": "45390884"
+    },
+    {
+        "auction_seller": "disneyscott15",
+        "date": "7/14/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2348615609097601725/5718090011380629190.jpg",
+        "cert_number": "75881441",
+        "grade": "9",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "lot_number": "185976761157",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ultracards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9102643971403010697/8768723999091322275.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "24808849",
+        "price": "$6.00",
+        "grade": "9",
+        "date": "5/3/2020",
+        "auction_house": "eBay",
+        "lot_number": "254571433710"
+    },
+    {
+        "cert_number": "87363057",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285779341861",
+        "grade": "9",
+        "date": "3/31/2024",
+        "price": "$7.39",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4231433707607874560/8602965818657332844.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2194861268557138189/3426295815929410892.jpg",
+        "grade": "7",
+        "auction_seller": "mrseiler1",
+        "price": "$4.95",
+        "lot_number": "314282879491",
+        "date": "12/30/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "55161456"
+    },
+    {
+        "price": "$3.25",
+        "date": "6/22/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6919738908428032443/6029447295355480156.jpg",
+        "grade": "9",
+        "lot_number": "326162402348",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "nothingbutthebestforme",
+        "cert_number": "74642250"
+    }
+]

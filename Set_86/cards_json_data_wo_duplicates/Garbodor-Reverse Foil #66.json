@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "jeannietate1954",
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5102705135138717456/-2849815811972266764.jpg",
+        "auction_type": "Best Offer",
+        "date": "6/4/2020",
+        "grade": "9",
+        "cert_number": "41090582",
+        "lot_number": "254610614127",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "lot_number": "292724880777",
+        "cert_number": "41090582",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5278030632858481855/4181424744835447843.jpg",
+        "auction_seller": "amtsupply",
+        "date": "11/11/2019",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2174374823202683157/6949507243822533.jpg",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "lot_number": "285789688581",
+        "price": "$8.55",
+        "cert_number": "85042563",
+        "auction_type": "Auction",
+        "date": "4/8/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "285835356426",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7625224407906681356/7261927457893240419.jpg",
+        "grade": "9",
+        "price": "$21.50",
+        "date": "5/5/2024",
+        "auction_type": "Auction",
+        "cert_number": "85042562",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/13/2019",
+        "price": "$10.00",
+        "grade": "9",
+        "cert_number": "28462807",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2202880142854023294/-8098093213852295755.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "middleclassgold",
+        "auction_house": "eBay",
+        "lot_number": "192782922971"
+    },
+    {
+        "date": "12/24/2022",
+        "price": "$37.50",
+        "cert_number": "55670633",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4249073870314642196/7469606932953178982.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "poke-ballz",
+        "lot_number": "354452808376"
+    },
+    {
+        "lot_number": "192595092229",
+        "price": "$10.00",
+        "grade": "9",
+        "cert_number": "28462807",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/668585531915184395/-5597399213355595907.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "middleclassgold",
+        "auction_house": "eBay",
+        "date": "7/17/2018"
+    },
+    {
+        "auction_seller": "doula24",
+        "date": "3/30/2021",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4868868477326200661/-1431445415756918114.jpg",
+        "price": "$29.00",
+        "lot_number": "164777658468",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "23522249"
+    }
+]

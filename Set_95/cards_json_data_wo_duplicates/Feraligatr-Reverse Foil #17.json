@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "2010sby999",
+        "cert_number": "88138809",
+        "lot_number": "276544609769",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6311665973007445554/7421225193753271050.jpg",
+        "date": "7/15/2024",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "7/23/2024",
+        "auction_seller": "mellbe0",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6235843892297030360/1910338978160155562.jpg",
+        "grade": "9",
+        "cert_number": "70373494",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "126579610062"
+    },
+    {
+        "lot_number": "314967207454",
+        "date": "12/4/2023",
+        "cert_number": "61383543",
+        "price": "$14.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7301708680364091155/-3879104976063040217.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "auction_seller": "tannah12",
+        "price": "$16.62",
+        "lot_number": "115746432806",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2370667445785057679/-8838295114094584823.jpg",
+        "cert_number": "58710304",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/4/2023"
+    }
+]

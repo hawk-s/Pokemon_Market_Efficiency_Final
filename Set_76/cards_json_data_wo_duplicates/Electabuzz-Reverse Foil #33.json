@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$8.90",
+        "lot_number": "223030185451",
+        "date": "7/3/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4624029325540008152/-6703380404937636413.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "25430443",
+        "auction_seller": "king4"
+    },
+    {
+        "price": "$39.13",
+        "date": "12/20/2021",
+        "auction_seller": "venusaur_island",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5877958555672117060/-4041884082679189125.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255283479404",
+        "cert_number": "50313970"
+    },
+    {
+        "grade": "8.5",
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "price": "$13.50",
+        "cert_number": "48258545",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4186803926513408314/5008021910020328122.jpg",
+        "auction_house": "eBay",
+        "lot_number": "353502696742"
+    }
+]

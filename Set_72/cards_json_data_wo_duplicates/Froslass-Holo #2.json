@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$7.51",
+        "auction_seller": "wenzel_tcg",
+        "grade": "8",
+        "cert_number": "74170525",
+        "lot_number": "364653082814",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4673693192997289981/4496443300449423900.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$11.84",
+        "auction_seller": "tannah12",
+        "lot_number": "115569282544",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6943188658252341580/728135887630960107.jpg",
+        "date": "10/26/2022",
+        "auction_type": "Auction",
+        "cert_number": "60226283",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "57966787",
+        "date": "4/6/2024",
+        "auction_seller": "dreamkingcollectibles_21",
+        "price": "$243.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1874323148265904753/1871846963780992017.jpg",
+        "lot_number": "126404592224",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/5/2023",
+        "cert_number": "60531411",
+        "grade": "9",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_seller": "svnaded",
+        "auction_house": "eBay",
+        "lot_number": "225372990232",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5382246826102955876/3294639078238351988.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/485305163809570978/5021491525326454535.jpg",
+        "date": "1/27/2022",
+        "auction_seller": "markcardssupplystore",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "48719104",
+        "auction_house": "eBay",
+        "lot_number": "265510590798",
+        "price": "$30.07"
+    },
+    {
+        "lot_number": "273727905430",
+        "grade": "8",
+        "cert_number": "42330119",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8534193207743816317/-2751693703916158592.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$8.00",
+        "date": "3/3/2019"
+    }
+]

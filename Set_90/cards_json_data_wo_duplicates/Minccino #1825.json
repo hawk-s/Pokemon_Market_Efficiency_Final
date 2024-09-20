@@ -1,0 +1,57 @@
+[
+    {
+        "date": "8/13/2024",
+        "lot_number": "365050436299",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6497431868534874743/2400067547498828127.jpg",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "cert_number": "55533218",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "7/30/2024",
+        "lot_number": "375551181864",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "price": "$8.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3849103654386058262/2400067547498828127.jpg",
+        "auction_type": "Auction",
+        "cert_number": "55533218",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "285779341832",
+        "cert_number": "87363058",
+        "auction_seller": "zandgemporium",
+        "price": "$6.50",
+        "grade": "9",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-382288960094450774/-3977416058332878243.jpg"
+    },
+    {
+        "date": "4/28/2021",
+        "grade": "7",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8230953510187394388/5490090960992573947.jpg",
+        "cert_number": "45390873",
+        "lot_number": "144012096370",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ultracards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3973603411429505863/-301410140137593781.jpg",
+        "date": "5/11/2020",
+        "auction_type": "Best Offer",
+        "price": "$6.00",
+        "grade": "9",
+        "lot_number": "254571440159",
+        "cert_number": "23778749",
+        "auction_house": "eBay"
+    }
+]

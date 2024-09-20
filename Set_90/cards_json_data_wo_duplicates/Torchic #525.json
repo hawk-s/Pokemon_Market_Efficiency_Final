@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "283670323671",
+        "auction_seller": "poketomspokemon",
+        "auction_type": "Best Offer",
+        "date": "2/25/2020",
+        "price": "$28.99",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/553645740495672247/-5505604648967277946.jpg",
+        "cert_number": "44086398"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3893356919287789993/-1749333882546672194.jpg",
+        "date": "12/9/2020",
+        "lot_number": "383837575987",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "26807974",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "date": "4/28/2021",
+        "auction_seller": "pwcc_auctions",
+        "grade": "8",
+        "cert_number": "45390876",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1384805288717528653/-7457491856145859384.jpg",
+        "auction_house": "eBay",
+        "lot_number": "144012096211"
+    },
+    {
+        "auction_seller": "ultracards",
+        "lot_number": "264702414477",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "cert_number": "24808852",
+        "price": "$6.00",
+        "auction_house": "eBay",
+        "date": "5/27/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1395776873800526660/1290656043874458324.jpg"
+    }
+]

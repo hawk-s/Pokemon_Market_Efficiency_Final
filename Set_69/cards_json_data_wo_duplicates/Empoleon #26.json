@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "hl-products",
+        "date": "7/12/2023",
+        "grade": "8",
+        "cert_number": "73295966",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-33353268404176712/4395407640101888427.jpg",
+        "auction_type": "Auction",
+        "price": "$12.98",
+        "auction_house": "eBay",
+        "lot_number": "334938043778"
+    },
+    {
+        "auction_seller": "hl-products",
+        "lot_number": "334884490947",
+        "grade": "8",
+        "cert_number": "73295966",
+        "date": "5/30/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2299412549613152408/4395407640101888427.jpg",
+        "auction_house": "eBay",
+        "price": "$13.44"
+    }
+]

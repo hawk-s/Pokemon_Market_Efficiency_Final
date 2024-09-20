@@ -1,0 +1,35 @@
+[
+    {
+        "date": "7/28/2019",
+        "auction_type": "Buy It Now",
+        "cert_number": "28478661",
+        "auction_seller": "selling_the_earth",
+        "grade": "9",
+        "price": "$17.99",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7345603918082688048/4357207833333781753.jpg",
+        "lot_number": "264382619897"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "cert_number": "28478661",
+        "date": "9/9/2018",
+        "lot_number": "183412556610",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1123812052968080702/7755080841549321172.jpg",
+        "price": "$0.99"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "date": "12/17/2017",
+        "cert_number": "28478661",
+        "grade": "9",
+        "lot_number": "182954706536",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$4.01",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7254228305098147487/-8719418610376031613.jpg"
+    }
+]

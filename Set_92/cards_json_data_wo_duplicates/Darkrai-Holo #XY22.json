@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "pana_collection",
+        "price": "$7.07",
+        "lot_number": "255908912478",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5340947365175329917/1135047928506561991.jpg",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53567854"
+    },
+    {
+        "auction_seller": "pana_collection",
+        "date": "3/9/2023",
+        "lot_number": "255996533046",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2186021303876296505/-1502781953951668903.jpg",
+        "price": "$7.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53567854"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4569534033400689303/1831227792249860691.jpg",
+        "price": "$12.00",
+        "grade": "7",
+        "lot_number": "364098764632",
+        "auction_seller": "matterandmotiongames",
+        "cert_number": "49417414",
+        "date": "1/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8570251466028253329/-7335651802113254077.jpg",
+        "auction_seller": "blasturtle",
+        "price": "$9.95",
+        "grade": "9",
+        "lot_number": "222972978173",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "28702079",
+        "date": "5/17/2018"
+    },
+    {
+        "cert_number": "66478186",
+        "date": "10/23/2023",
+        "price": "$10.00",
+        "grade": "9",
+        "lot_number": "266457452564",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1347087666166656986/-6899768129066883120.jpg",
+        "auction_seller": "theninetieskids",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

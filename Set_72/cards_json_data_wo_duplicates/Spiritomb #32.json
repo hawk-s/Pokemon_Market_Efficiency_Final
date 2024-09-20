@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$10.50",
+        "lot_number": "254416328171",
+        "auction_seller": "okemos16",
+        "cert_number": "28462806",
+        "date": "11/14/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4964731041510069501/-4594412557098030403.jpg"
+    },
+    {
+        "lot_number": "225439352189",
+        "date": "3/6/2023",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4422129226927293923/3081871210749644924.jpg",
+        "grade": "9",
+        "cert_number": "60531401",
+        "auction_type": "Auction",
+        "auction_seller": "svnaded",
+        "auction_house": "eBay"
+    }
+]

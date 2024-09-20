@@ -1,0 +1,35 @@
+[
+    {
+        "date": "1/16/2023",
+        "auction_seller": "carriescards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5686668778684260615/3409413581458668045.jpg",
+        "cert_number": "68542399",
+        "grade": "AUTHENTIC",
+        "auction_type": "Auction",
+        "lot_number": "334698695918",
+        "price": "$131.50",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/104224610901157847/8029594030918081969.jpg",
+        "date": "8/14/2023",
+        "grade": "9",
+        "price": "$10.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "60523198",
+        "lot_number": "225712323600",
+        "auction_seller": "svnaded"
+    },
+    {
+        "date": "2/6/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4996964277061395830/861811828933734217.jpg",
+        "cert_number": "60523208",
+        "auction_type": "Auction",
+        "auction_seller": "svnaded",
+        "lot_number": "225373145507",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$33.00"
+    }
+]

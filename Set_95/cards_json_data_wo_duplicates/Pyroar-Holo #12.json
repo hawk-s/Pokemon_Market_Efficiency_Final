@@ -1,0 +1,24 @@
+[
+    {
+        "date": "3/2/2021",
+        "price": "$89.00",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "auction_seller": "igthookup",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6222353625198687315/8506139249412159393.jpg",
+        "lot_number": "283966924971",
+        "cert_number": "46324975"
+    },
+    {
+        "auction_seller": "ultracards",
+        "price": "$20.00",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7126359128443740267/7175289921699484958.jpg",
+        "date": "11/30/2017",
+        "lot_number": "262038446522",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "23841594"
+    }
+]

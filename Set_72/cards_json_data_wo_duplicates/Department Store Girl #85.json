@@ -1,0 +1,35 @@
+[
+    {
+        "date": "2/6/2023",
+        "price": "$23.30",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2751844495848914584/5593169344149224295.jpg",
+        "cert_number": "60523167",
+        "auction_type": "Auction",
+        "auction_seller": "svnaded",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "225373193548"
+    },
+    {
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4385139606223544106/-4416701266828276065.jpg",
+        "date": "12/3/2023",
+        "cert_number": "60523167",
+        "auction_seller": "metallica-pikachu",
+        "auction_type": "Auction",
+        "lot_number": "176057332545",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "60523169",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4473084970852213985/5908100595557931584.jpg",
+        "date": "8/14/2023",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_seller": "svnaded",
+        "auction_house": "eBay",
+        "lot_number": "225712313888"
+    }
+]

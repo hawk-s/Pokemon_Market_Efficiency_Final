@@ -1,0 +1,112 @@
+[
+    {
+        "price": "$30.00",
+        "lot_number": "175810525737",
+        "grade": "9",
+        "date": "7/17/2023",
+        "cert_number": "74493152",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-647713977326626266/2620130737571163841.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "jscottyson"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/691240065940521579/6976822756841985063.jpg",
+        "lot_number": "263843713464",
+        "cert_number": "40796292",
+        "date": "8/10/2018",
+        "grade": "9",
+        "auction_seller": "arcadiatradingcardstore",
+        "price": "$8.00",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "cert_number": "68870961",
+        "grade": "9",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "cheeses-treasures-llc",
+        "lot_number": "155339801387",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2732387762357966189/-3150230710486317064.jpg"
+    },
+    {
+        "auction_seller": "ketchumallcollectibles",
+        "date": "8/14/2023",
+        "grade": "9",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5010756012305728258/-5730739141093979033.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "56817639",
+        "lot_number": "225713024972"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3906946870828090617/-8200828001969784145.jpg",
+        "date": "8/29/2020",
+        "cert_number": "40796292",
+        "lot_number": "233690595472",
+        "price": "$50.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "kellymason67"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2462661461967175346/-7120149855115025895.jpg",
+        "price": "$10.50",
+        "cert_number": "27641571",
+        "date": "6/25/2018",
+        "lot_number": "362358490388",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "275757026883",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/508063773772589990/-6986758009202802470.jpg",
+        "date": "4/3/2023",
+        "price": "$26.00",
+        "grade": "9",
+        "auction_seller": "stfgaming",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68854491"
+    },
+    {
+        "auction_seller": "ultracards",
+        "auction_type": "Buy It Now",
+        "lot_number": "253056702029",
+        "date": "8/6/2017",
+        "price": "$7.00",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4904688219071462777/5100501790420684306.jpg",
+        "cert_number": "24343888"
+    },
+    {
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8224528863540323742/5847396342897910467.jpg",
+        "price": "$10.00",
+        "grade": "9",
+        "date": "12/26/2018",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "lot_number": "263943431936",
+        "cert_number": "41107361"
+    },
+    {
+        "auction_seller": "ultracards",
+        "lot_number": "252722341075",
+        "auction_type": "Buy It Now",
+        "price": "$7.00",
+        "grade": "9",
+        "date": "7/12/2017",
+        "auction_house": "eBay",
+        "cert_number": "24343888",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4955473271096741247/-120332917564750525.jpg"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "68610760",
+        "lot_number": "275600225351",
+        "grade": "9",
+        "date": "1/20/2023",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4518695872754477466/3240197690101113752.jpg",
+        "auction_house": "eBay",
+        "price": "$208.01"
+    },
+    {
+        "price": "$24.98",
+        "date": "7/3/2020",
+        "auction_type": "Best Offer",
+        "cert_number": "25913878",
+        "grade": "9",
+        "auction_seller": "tcgessentials",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7677972437135493790/-8019391669946319264.jpg",
+        "lot_number": "283884277431"
+    },
+    {
+        "cert_number": "93151476",
+        "grade": "7",
+        "lot_number": "305695084384",
+        "auction_seller": "psa",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3777604897042771943/-6917209192898652859.jpg",
+        "date": "8/10/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2820521911027456661/-3356288540543570310.jpg",
+        "grade": "7",
+        "date": "5/2/2020",
+        "price": "$5.50",
+        "lot_number": "233571719895",
+        "auction_seller": "trainersef",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41758758"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5568874391425865316/-1765276922510530080.jpg",
+        "price": "$10.50",
+        "lot_number": "305726584952",
+        "date": "8/24/2024",
+        "auction_type": "Auction",
+        "cert_number": "93151478",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    }
+]

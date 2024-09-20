@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$11.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7162520556386357677/-3032703203163495002.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/20/2023",
+        "cert_number": "60531445",
+        "lot_number": "225471950283",
+        "auction_seller": "svnaded"
+    },
+    {
+        "price": "$10.91",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4775648286484605481/-4456267913334683659.jpg",
+        "date": "3/19/2023",
+        "grade": "8",
+        "lot_number": "185811527700",
+        "auction_seller": "marro-4916",
+        "cert_number": "69053188",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

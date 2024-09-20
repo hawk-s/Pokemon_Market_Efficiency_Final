@@ -1,0 +1,46 @@
+[
+    {
+        "date": "7/28/2024",
+        "cert_number": "93979989",
+        "grade": "8",
+        "price": "$11.50",
+        "auction_seller": "empirecoinsandcards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9141728718452592469/-1736048070745236988.jpg",
+        "lot_number": "186577906143"
+    },
+    {
+        "price": "$4.25",
+        "date": "7/29/2024",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "305683380217",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5594999782362744836/-7614596068039073374.jpg",
+        "auction_seller": "psa",
+        "cert_number": "91062027"
+    },
+    {
+        "lot_number": "186607591332",
+        "cert_number": "93979989",
+        "price": "$12.01",
+        "grade": "8",
+        "auction_seller": "empirecoinsandcards",
+        "auction_type": "Auction",
+        "date": "8/9/2024",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3312575019720075101/-1736048070745236988.jpg"
+    },
+    {
+        "grade": "7",
+        "date": "9/23/2023",
+        "auction_seller": "cercollect",
+        "cert_number": "84608236",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1334914294854847855/3912407644888469509.jpg",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "394881812846"
+    }
+]

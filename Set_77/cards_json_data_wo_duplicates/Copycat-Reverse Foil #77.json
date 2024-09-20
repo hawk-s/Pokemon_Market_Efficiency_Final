@@ -1,0 +1,46 @@
+[
+    {
+        "date": "2/5/2023",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "cert_number": "68661282",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2012689609192069050/190261770488175637.jpg",
+        "price": "$16.34",
+        "lot_number": "185752751872"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8996729221430255826/3671800098487843256.jpg",
+        "auction_seller": "21352286",
+        "date": "3/14/2021",
+        "auction_type": "Auction",
+        "cert_number": "48332544",
+        "auction_house": "eBay",
+        "lot_number": "184698291142",
+        "grade": "10",
+        "price": "$71.30"
+    },
+    {
+        "auction_seller": "goodsoddities",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2964806870612300381/-565422657510678153.jpg",
+        "cert_number": "51980802",
+        "date": "5/15/2022",
+        "grade": "9",
+        "price": "$36.00",
+        "lot_number": "325184383227",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/13/2019",
+        "price": "$6.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6246750028085139414/3646742196257810413.jpg",
+        "cert_number": "42245051",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "lot_number": "254222800993"
+    }
+]

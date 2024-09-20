@@ -1,0 +1,24 @@
+[
+    {
+        "date": "2/5/2023",
+        "lot_number": "185752746285",
+        "price": "$19.38",
+        "cert_number": "68661261",
+        "auction_seller": "marro-4916",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3933521670063792503/-6589949339884386667.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/6/2023",
+        "auction_seller": "parkerspokemon",
+        "grade": "8",
+        "price": "$12.84",
+        "auction_type": "Auction",
+        "lot_number": "314428145783",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5632716656745212156/-6628966989222081205.jpg",
+        "auction_house": "eBay",
+        "cert_number": "68970229"
+    }
+]

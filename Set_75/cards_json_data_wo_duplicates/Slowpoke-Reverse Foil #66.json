@@ -1,0 +1,35 @@
+[
+    {
+        "date": "3/23/2024",
+        "price": "$15.50",
+        "cert_number": "59665850",
+        "grade": "8",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9143161415156178039/5459347109572258861.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles",
+        "lot_number": "335306390820"
+    },
+    {
+        "lot_number": "375360989868",
+        "cert_number": "66669727",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1827779000346829232/-6695038398014931115.jpg",
+        "date": "4/16/2024"
+    },
+    {
+        "date": "1/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9089384997009017444/1927242715559200660.jpg",
+        "cert_number": "68664088",
+        "price": "$13.28",
+        "grade": "8",
+        "auction_seller": "marro-4916",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185743771534"
+    }
+]

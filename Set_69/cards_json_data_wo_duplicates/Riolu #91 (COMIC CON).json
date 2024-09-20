@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$42.00",
+        "cert_number": "88180160",
+        "auction_seller": "cheap-fast-easy",
+        "grade": "6",
+        "date": "4/3/2024",
+        "auction_type": "Auction",
+        "lot_number": "326068265723",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6250458001910743496/-4833551461330031558.jpg"
+    },
+    {
+        "lot_number": "364112464548",
+        "auction_seller": "jolu-5409",
+        "cert_number": "68312431",
+        "grade": "6",
+        "date": "1/23/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6428260800754421351/-9105801587767902327.jpg",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "date": "11/22/2019",
+        "auction_seller": "chef_momma_d",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5094247562681399972/-6196450983853706994.jpg",
+        "price": "$6.50",
+        "cert_number": "43208498",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "254422816822"
+    },
+    {
+        "date": "12/15/2019",
+        "price": "$10.50",
+        "auction_seller": "krieger75",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3441794975058822276/-8345923147076006981.jpg",
+        "lot_number": "193256939444",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "43208498"
+    },
+    {
+        "price": "$12.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2394642438941797889/96032777543162272.jpg",
+        "lot_number": "373213100059",
+        "auction_seller": "probstein123",
+        "date": "9/23/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "43208498"
+    }
+]

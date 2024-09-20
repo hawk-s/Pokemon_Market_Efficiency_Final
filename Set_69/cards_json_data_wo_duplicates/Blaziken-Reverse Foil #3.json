@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$27.46",
+        "auction_seller": "marro-4916",
+        "date": "1/28/2023",
+        "grade": "9",
+        "cert_number": "69009966",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3653854092126731396/4896131273002081902.jpg",
+        "auction_type": "Auction",
+        "lot_number": "185741235663",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7977651432716446477/8909937175242993432.jpg",
+        "price": "$21.56",
+        "auction_seller": "tannah12",
+        "cert_number": "60221438",
+        "lot_number": "155216562948",
+        "grade": "8",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3847144771592272981/-5793022622638735695.jpg",
+        "price": "$10.80",
+        "grade": "8",
+        "auction_seller": "marro-4916",
+        "cert_number": "69009965",
+        "lot_number": "185753672004",
+        "date": "2/7/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "lot_number": "264737276774",
+        "cert_number": "44936549",
+        "auction_seller": "pokehut",
+        "grade": "9",
+        "date": "8/13/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8513517006099368761/-8772616187587819025.jpg",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    }
+]

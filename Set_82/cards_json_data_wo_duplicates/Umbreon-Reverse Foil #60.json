@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "72974255",
+        "auction_seller": "treborsvc",
+        "grade": "8",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8336082984991222610/8629228492913432196.jpg",
+        "lot_number": "266735843982"
+    },
+    {
+        "price": "$70.98",
+        "cert_number": "74727401",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-711606190837348442/-5976497193467061310.jpg",
+        "date": "7/30/2023",
+        "lot_number": "285392490839",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "chibicollectablesuk"
+    },
+    {
+        "price": "$49.90",
+        "auction_seller": "tannah12",
+        "cert_number": "59998548",
+        "date": "2/26/2023",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115710501726",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6694082222856295007/2501569635454484478.jpg"
+    }
+]

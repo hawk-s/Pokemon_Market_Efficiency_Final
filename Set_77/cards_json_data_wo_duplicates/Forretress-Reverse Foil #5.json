@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "60216439",
+        "auction_seller": "tannah12",
+        "date": "9/13/2022",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4128101140454204661/4170214976675930255.jpg",
+        "price": "$10.67",
+        "lot_number": "115516641977",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pokebase90s",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3022423899609795883/-8713976049752016094.jpg",
+        "price": "$6.00",
+        "cert_number": "44312832",
+        "grade": "9",
+        "lot_number": "313794558981",
+        "date": "12/22/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "185717316103",
+        "grade": "8",
+        "auction_seller": "marro-4916",
+        "date": "1/12/2023",
+        "auction_type": "Auction",
+        "price": "$12.11",
+        "auction_house": "eBay",
+        "cert_number": "68661238",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7688241799758443574/-2832420408995211089.jpg"
+    }
+]

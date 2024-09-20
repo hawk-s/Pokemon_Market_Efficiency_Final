@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "133848020638",
+        "cert_number": "48786502",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4887325134893158923/516217428880212031.jpg",
+        "price": "$23.02",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "date": "8/21/2021"
+    },
+    {
+        "cert_number": "48786502",
+        "date": "10/8/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3119316467120132544/516217428880212031.jpg",
+        "lot_number": "133891850462",
+        "grade": "9",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer"
+    },
+    {
+        "cert_number": "68853010",
+        "lot_number": "334721954945",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7882027701191663407/-2828669388914145566.jpg",
+        "date": "2/7/2023",
+        "price": "$11.19",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "mewscloudtopclub"
+    },
+    {
+        "cert_number": "48786502",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5438058073798139778/516217428880212031.jpg",
+        "date": "9/27/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$305.00",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer",
+        "lot_number": "133881875812"
+    }
+]

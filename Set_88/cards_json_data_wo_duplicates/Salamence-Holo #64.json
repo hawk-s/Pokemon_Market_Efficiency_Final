@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "135190749085",
+        "auction_seller": "philipsellsstuff",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3866350263237121463/-8931844579941829632.jpg",
+        "grade": "9",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "65352532",
+        "date": "8/20/2024"
+    },
+    {
+        "grade": "9",
+        "price": "$90.00",
+        "lot_number": "133720578479",
+        "cert_number": "48786472",
+        "date": "4/16/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/93574873465045361/-5836042568680999519.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer"
+    },
+    {
+        "grade": "7",
+        "lot_number": "134640280166",
+        "cert_number": "70266248",
+        "date": "7/10/2023",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7547720907388386820/-8918799809784579340.jpg",
+        "auction_seller": "cenv-53"
+    },
+    {
+        "cert_number": "51200326",
+        "grade": "8.5",
+        "price": "$63.00",
+        "date": "9/30/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8729820170822284549/7400912149706622936.jpg",
+        "auction_seller": "samaka-41",
+        "auction_type": "Auction",
+        "lot_number": "373731314511",
+        "auction_house": "eBay"
+    }
+]

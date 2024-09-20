@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$9.50",
+        "date": "2/11/2023",
+        "lot_number": "155392028386",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "69001805",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-751501954986419091/6918199283517362897.jpg",
+        "auction_seller": "cheeses-treasures-llc"
+    },
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4004732399988643329/-6684416078255163263.jpg",
+        "grade": "10",
+        "lot_number": "401884889244",
+        "cert_number": "42250353"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1475474644520310598/-2511983830789148098.jpg",
+        "cert_number": "58465121",
+        "price": "$15.50",
+        "grade": "9",
+        "auction_seller": "anbu_legacy",
+        "date": "1/11/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "304760183691"
+    }
+]

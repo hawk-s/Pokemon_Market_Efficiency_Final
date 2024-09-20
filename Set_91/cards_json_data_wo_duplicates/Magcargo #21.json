@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "ultracards",
+        "auction_type": "Best Offer",
+        "date": "6/28/2020",
+        "price": "$7.00",
+        "grade": "9",
+        "cert_number": "23778633",
+        "auction_house": "eBay",
+        "lot_number": "264702260497",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-921415352593412475/6321452799607288859.jpg"
+    },
+    {
+        "lot_number": "326089534470",
+        "date": "5/3/2024",
+        "auction_seller": "jeffinitely",
+        "price": "$10.50",
+        "cert_number": "23778632",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1904942922189815478/-8120206186449754340.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$3.25",
+        "auction_seller": "jeffinitely",
+        "cert_number": "23778632",
+        "lot_number": "326112894696",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4992518052036116175/-8120206186449754340.jpg",
+        "date": "5/13/2024"
+    }
+]

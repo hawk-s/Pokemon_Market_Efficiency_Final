@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "374432630837",
+        "grade": "6",
+        "cert_number": "58361450",
+        "price": "$5.50",
+        "auction_seller": "dcsports87",
+        "date": "1/4/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5255428770231349695/5904683754372928841.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "onepizza",
+        "lot_number": "256055299955",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4043867941942489414/1399713959933839427.jpg",
+        "grade": "8",
+        "price": "$5.00",
+        "cert_number": "59798477",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/5/2023"
+    },
+    {
+        "auction_seller": "onepizza",
+        "grade": "8",
+        "price": "$5.00",
+        "lot_number": "255983148915",
+        "cert_number": "59798477",
+        "date": "2/28/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2038839130892696009/4471256851947112705.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "onepizza",
+        "price": "$4.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8766965899608026843/5832791432312535208.jpg",
+        "grade": "8",
+        "cert_number": "59843094",
+        "date": "9/29/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "256226443803"
+    },
+    {
+        "date": "12/19/2022",
+        "grade": "6",
+        "cert_number": "58361450",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/980121842576091019/5904683754372928841.jpg",
+        "auction_house": "eBay",
+        "lot_number": "374405822151",
+        "price": "$0.99"
+    },
+    {
+        "auction_seller": "onepizza",
+        "price": "$10.50",
+        "cert_number": "59843095",
+        "grade": "9",
+        "lot_number": "256006240838",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6665059237176139148/8273523999130066858.jpg",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "onepizza",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7410722312707820967/-7701563861005983047.jpg",
+        "cert_number": "59328934",
+        "grade": "9",
+        "price": "$8.50",
+        "date": "10/25/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255781754897"
+    }
+]

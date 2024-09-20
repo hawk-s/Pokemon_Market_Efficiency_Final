@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "68459913",
+        "auction_seller": "cwebby1988",
+        "grade": "8",
+        "date": "3/13/2023",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2355444459879994119/-4914073569612497539.jpg",
+        "auction_house": "eBay",
+        "lot_number": "275728977827"
+    },
+    {
+        "cert_number": "73923784",
+        "price": "$14.72",
+        "lot_number": "186502985828",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5110561652130587023/-4019864269411678666.jpg",
+        "grade": "9",
+        "date": "7/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "lot_number": "313040747825",
+        "auction_seller": "coins_n_rarities",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4133544643722388688/7068505800887929321.jpg",
+        "date": "4/4/2020",
+        "cert_number": "45987955",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "73923784",
+        "date": "7/1/2024",
+        "grade": "9",
+        "price": "$19.83",
+        "lot_number": "186502990933",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokedreammarket",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6628275016868783330/-4019864269411678666.jpg"
+    },
+    {
+        "lot_number": "256006126233",
+        "auction_seller": "venusaur_island",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8511225830387119817/1075068064811244282.jpg",
+        "grade": "8",
+        "date": "3/13/2023",
+        "cert_number": "71084471",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$11.71"
+    }
+]
