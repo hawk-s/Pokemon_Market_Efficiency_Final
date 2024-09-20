@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "60617378",
+        "price": "$10.50",
+        "date": "7/13/2023",
+        "auction_seller": "qceshop",
+        "grade": "9",
+        "lot_number": "166214215299",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4819342424101500934/7899972519190109489.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "363655698504",
+        "auction_seller": "4_sharp_corners",
+        "grade": "6",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2112806004713626494/3068356748342147036.jpg",
+        "auction_type": "Auction",
+        "cert_number": "53779222",
+        "auction_house": "eBay",
+        "date": "12/27/2021"
+    },
+    {
+        "cert_number": "60617378",
+        "price": "$10.50",
+        "auction_seller": "qceshop",
+        "lot_number": "166207448845",
+        "date": "7/10/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3769468374201309571/7899972519190109489.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7182550445111418003/6011007257336169654.jpg",
+        "lot_number": "166743063799",
+        "cert_number": "88183326",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "5/10/2024",
+        "auction_house": "eBay",
+        "price": "$4.00",
+        "auction_seller": "itemland"
+    }
+]

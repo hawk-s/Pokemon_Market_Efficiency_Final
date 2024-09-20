@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "42014968",
+        "auction_type": "Best Offer",
+        "date": "9/22/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7363532653021171417/-3288905478302142192.jpg",
+        "auction_seller": "jinst",
+        "auction_house": "eBay",
+        "price": "$91.00",
+        "grade": "10",
+        "lot_number": "254710112983"
+    },
+    {
+        "auction_type": "Best Offer",
+        "date": "9/22/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8121678266757175258/7027244737772454659.jpg",
+        "lot_number": "274484820844",
+        "auction_seller": "ptcruzer5961",
+        "auction_house": "eBay",
+        "cert_number": "28113104",
+        "grade": "10",
+        "price": "$150.00"
+    },
+    {
+        "date": "9/11/2021",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5078944954952035875/-4614564305927371939.jpg",
+        "price": "$9.98",
+        "auction_type": "Auction",
+        "lot_number": "144180097585",
+        "auction_house": "eBay",
+        "cert_number": "54491438",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "lot_number": "305705681716",
+        "date": "8/11/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6713243944203224430/-8873523074711187220.jpg",
+        "grade": "8",
+        "cert_number": "93838083",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "price": "$11.35",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7778149944075620361/2177619435277782266.jpg",
+        "cert_number": "42014968",
+        "lot_number": "352856431905",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "82930808",
+        "lot_number": "156009458290",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8524087728240978187/-6392411285228202098.jpg",
+        "price": "$10.40",
+        "grade": "8",
+        "auction_seller": "pokemonplace",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/28/2024"
+    },
+    {
+        "date": "6/2/2020",
+        "price": "$36.35",
+        "lot_number": "383561747129",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2443518235225753096/3726787275720334344.jpg",
+        "cert_number": "44009461",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

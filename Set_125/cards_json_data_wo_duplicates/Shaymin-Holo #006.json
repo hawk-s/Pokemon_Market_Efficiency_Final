@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "43018526",
+        "auction_seller": "pocket_monsters_for_sale",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8707943922801714718/-6128861099451697970.jpg",
+        "price": "$49.99",
+        "auction_house": "eBay",
+        "lot_number": "363089542971",
+        "date": "12/11/2020"
+    },
+    {
+        "auction_seller": "phatmen_productions",
+        "auction_type": "Auction",
+        "date": "4/11/2024",
+        "cert_number": "72708134",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5348221990415466372/5415022623825461892.jpg",
+        "lot_number": "355603074620",
+        "price": "$16.50"
+    },
+    {
+        "cert_number": "63453413",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2403653939897902191/-8561264754087188778.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "1/26/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "373885331360",
+        "price": "$18.50"
+    },
+    {
+        "lot_number": "363681196640",
+        "price": "$20.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "63453412",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/14/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7565662589187718339/-1589640312637945691.jpg"
+    },
+    {
+        "cert_number": "63453413",
+        "price": "$18.51",
+        "date": "1/14/2022",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5511721293302504534/-8561264754087188778.jpg",
+        "lot_number": "363681196375"
+    }
+]

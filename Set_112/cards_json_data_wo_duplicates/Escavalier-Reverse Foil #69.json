@@ -1,0 +1,24 @@
+[
+    {
+        "date": "6/8/2022",
+        "auction_seller": "cryptocardshop",
+        "price": "$10.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "165512670962",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1873575365759827141/4159485622790947183.jpg",
+        "cert_number": "57574755"
+    },
+    {
+        "auction_seller": "onlinemercantile",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1326237598977607507/-8276785449939201565.jpg",
+        "date": "1/15/2021",
+        "grade": "9",
+        "price": "$22.00",
+        "lot_number": "383892877975",
+        "auction_house": "eBay",
+        "cert_number": "43799821"
+    }
+]

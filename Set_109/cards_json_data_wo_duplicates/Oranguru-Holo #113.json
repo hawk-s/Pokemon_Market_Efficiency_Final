@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "57699256",
+        "date": "9/17/2023",
+        "lot_number": "266407464686",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7259464416630659409/-5694434176341816274.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "zac_murra",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/8/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-117416646839456376/2800677786620573282.jpg",
+        "lot_number": "374538619792",
+        "cert_number": "56908969",
+        "grade": "9",
+        "auction_seller": "cardboardempires",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "price": "$13.00",
+        "auction_seller": "pokemasterab",
+        "auction_type": "Best Offer",
+        "cert_number": "27998961",
+        "date": "5/26/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3015578992853904352/6801524103421049718.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "153024368778"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5891331180033549899/-3719063168025448071.jpg",
+        "cert_number": "27194441",
+        "date": "6/11/2018",
+        "auction_type": "Best Offer",
+        "auction_seller": "p0pik0k",
+        "lot_number": "263301924896",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "lot_number": "223996054496",
+        "cert_number": "40848387",
+        "date": "5/8/2020",
+        "auction_seller": "tennisfun5",
+        "price": "$20.70",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8482312976617490655/2426912862125434533.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/6225237684425451237/8784447744136516557.jpg",
+        "lot_number": "262925480958",
+        "cert_number": "27194441",
+        "auction_type": "Best Offer",
+        "date": "8/20/2017",
+        "auction_seller": "p0pik0k",
+        "price": "$29.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

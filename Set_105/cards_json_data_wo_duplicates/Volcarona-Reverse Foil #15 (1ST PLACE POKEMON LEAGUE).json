@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "63982262",
+        "date": "2/8/2022",
+        "grade": "8",
+        "lot_number": "384704594530",
+        "price": "$46.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5796901542457715218/-4486693541872337472.jpg"
+    },
+    {
+        "price": "$7.50",
+        "grade": "9",
+        "lot_number": "374344240080",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8440565809854050049/3751298118322877875.jpg",
+        "cert_number": "65210345",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/16/2022"
+    },
+    {
+        "lot_number": "115848821728",
+        "date": "7/8/2023",
+        "price": "$55.84",
+        "grade": "8",
+        "auction_seller": "legendary_cardstore",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "65210348",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3944212663443253242/-1638405473894923199.jpg"
+    },
+    {
+        "cert_number": "81853694",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2900038934153186275/8162725372604873349.jpg",
+        "price": "$19.00",
+        "auction_seller": "sickpicklessnipes",
+        "lot_number": "355801621417",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/24/2024"
+    },
+    {
+        "date": "5/17/2022",
+        "grade": "7",
+        "lot_number": "374066899427",
+        "auction_seller": "probstein123",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1732889654199391074/-4217442278253912833.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "64042635"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2110488691768218095/-2933479027276266298.jpg",
+        "cert_number": "68603492",
+        "price": "$40.65",
+        "grade": "9",
+        "lot_number": "325641543035",
+        "auction_type": "Auction",
+        "date": "5/14/2023",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/867973372559453569/6709130459309141352.jpg",
+        "lot_number": "115906402923",
+        "date": "9/10/2023",
+        "grade": "9",
+        "cert_number": "65210345",
+        "auction_seller": "legendary_cardstore",
+        "price": "$93.22",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

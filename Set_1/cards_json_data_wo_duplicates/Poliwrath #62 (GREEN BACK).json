@@ -1,0 +1,134 @@
+[
+    {
+        "grade": "5",
+        "price": "$39.99",
+        "auction_seller": "psa10gem101",
+        "date": "12/7/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5611946213344078941/2867562641592861900.jpg",
+        "auction_house": "eBay",
+        "lot_number": "125638580547",
+        "cert_number": "67053688"
+    },
+    {
+        "cert_number": "54491459",
+        "date": "9/11/2021",
+        "price": "$9.98",
+        "grade": "3",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-402399485627625626/-6880229117520082918.jpg",
+        "auction_type": "Auction",
+        "lot_number": "133864653240",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "auction_seller": "ksmckenzie",
+        "cert_number": "84445983",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7648430289369191076/-884352162984246147.jpg",
+        "date": "4/27/2024",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "145726909351"
+    },
+    {
+        "date": "10/1/2023",
+        "cert_number": "76716934",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5183038237625348580/-1046892886950134804.jpg",
+        "grade": "8",
+        "lot_number": "285483948162",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "grade": "4",
+        "date": "12/20/2022",
+        "auction_seller": "comc_consignment",
+        "price": "$10.50",
+        "lot_number": "234814284719",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5894441784013210492/-2594047974681042208.jpg",
+        "cert_number": "62469486",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/30/2023",
+        "cert_number": "69433628",
+        "price": "$46.02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5376857628463428619/3681414684907970931.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_seller": "get_collect",
+        "auction_house": "eBay",
+        "lot_number": "166289919058"
+    },
+    {
+        "price": "$24.95",
+        "date": "4/10/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4683370802455833223/7887400344767381246.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "28517382",
+        "lot_number": "132560025334",
+        "grade": "9",
+        "auction_house": "eBay",
+        "auction_seller": "bristolcollectibles"
+    },
+    {
+        "cert_number": "54603794",
+        "date": "2/20/2023",
+        "grade": "8",
+        "auction_seller": "1steditionpokemon",
+        "price": "$48.88",
+        "lot_number": "175596041716",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4521397641618791280/431522527461870490.jpg"
+    },
+    {
+        "lot_number": "165862484727",
+        "grade": "7",
+        "cert_number": "66863940",
+        "auction_seller": "vintagetcg",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "date": "1/9/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4647976699857642892/-3783261063908855104.jpg"
+    },
+    {
+        "date": "8/5/2023",
+        "auction_seller": "comc_consignment",
+        "grade": "8",
+        "auction_type": "Auction",
+        "lot_number": "334958925133",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2618026593002257363/8135025735042878956.jpg",
+        "cert_number": "68996014"
+    },
+    {
+        "auction_seller": "rhscards",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/652528784500106998/4184828698210992665.jpg",
+        "grade": "6",
+        "cert_number": "44009447",
+        "date": "1/13/2020",
+        "auction_house": "eBay",
+        "lot_number": "362857670354",
+        "price": "$5.09"
+    },
+    {
+        "date": "12/21/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9045972999082273933/3434127667189483781.jpg",
+        "cert_number": "28517382",
+        "grade": "9",
+        "auction_seller": "bakendave",
+        "auction_type": "Auction",
+        "lot_number": "333819134347",
+        "auction_house": "eBay",
+        "price": "$71.00"
+    }
+]

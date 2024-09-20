@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "74313576",
+        "date": "1/14/2024",
+        "grade": "8",
+        "price": "$10.00",
+        "lot_number": "166540199789",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7940650368058186064/9076531051175176897.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "itemland"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8923854917229985987/-4862785295026806859.jpg",
+        "cert_number": "57882544",
+        "date": "6/10/2022",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "lot_number": "275327415398"
+    },
+    {
+        "lot_number": "266762447298",
+        "cert_number": "88063954",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/638569040315232798/-5458483894589334543.jpg",
+        "date": "4/15/2024",
+        "auction_seller": "jmanlee3",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "price": "$15.00",
+        "date": "2/14/2020",
+        "cert_number": "43609166",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7716432811804105890/5867772425671105027.jpg",
+        "auction_seller": "neverfalen",
+        "lot_number": "293465407793",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3074586141885150081/8587325049147602706.jpg",
+        "lot_number": "175856944904",
+        "cert_number": "41751865",
+        "date": "8/22/2023",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "yugi_vs_baka"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6738712776019507893/-5162994663108596985.jpg",
+        "date": "2/18/2023",
+        "lot_number": "364142621097",
+        "price": "$20.00",
+        "cert_number": "69163187",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/31/2022",
+        "cert_number": "68663302",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8767663648216572795/-7921001018281960194.jpg",
+        "auction_seller": "do_bonch_g5f8ysxefs",
+        "lot_number": "385321800935",
+        "price": "$59.95",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

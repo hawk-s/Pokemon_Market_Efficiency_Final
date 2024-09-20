@@ -1,0 +1,68 @@
+[
+    {
+        "date": "7/26/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6761064501270602693/516977041154776665.jpg",
+        "price": "$5.50",
+        "grade": "9",
+        "lot_number": "163784216931",
+        "auction_type": "Auction",
+        "auction_seller": "matthew-newby1",
+        "auction_house": "eBay",
+        "cert_number": "43341818"
+    },
+    {
+        "cert_number": "63486929",
+        "price": "$12.20",
+        "auction_seller": "tsunagu",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8625440686522055271/2263707798614079013.jpg",
+        "lot_number": "255280587221",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/21/2021"
+    },
+    {
+        "date": "10/5/2020",
+        "auction_seller": "entre_collector",
+        "cert_number": "43982356",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7981143645785415383/-8672594959565671890.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$29.99",
+        "lot_number": "223832590143"
+    },
+    {
+        "auction_seller": "psa_collector",
+        "price": "$15.50",
+        "lot_number": "333312855074",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-625785600834246894/457189003412925100.jpg",
+        "auction_type": "Auction",
+        "date": "9/6/2019",
+        "cert_number": "43025733",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "323799435338",
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5918676252422139707/-7788321360086486835.jpg",
+        "auction_type": "Best Offer",
+        "date": "10/21/2020",
+        "auction_seller": "charizandrew",
+        "grade": "9",
+        "cert_number": "42653766",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "7/28/2019",
+        "auction_seller": "unique_collectible_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8827542940591968601/4387953803114217029.jpg",
+        "price": "$13.08",
+        "lot_number": "254305091689",
+        "auction_type": "Auction",
+        "cert_number": "43860378",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

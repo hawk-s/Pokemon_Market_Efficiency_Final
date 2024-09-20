@@ -1,0 +1,57 @@
+[
+    {
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2386341910244948625/-6336093524794678336.jpg",
+        "cert_number": "44571287",
+        "date": "11/28/2020",
+        "grade": "9",
+        "price": "$18.99",
+        "lot_number": "174524792324",
+        "auction_seller": "spckrft",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "52703990",
+        "lot_number": "154752702468",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3376671992072339048/5693588799022846809.jpg",
+        "auction_type": "Auction",
+        "date": "12/24/2021",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "cert_number": "52703989",
+        "lot_number": "154752702486",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2462443352132587685/-5231314466624184565.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pc_sportscards",
+        "date": "12/24/2021",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "date": "6/30/2024",
+        "lot_number": "226208270105",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3930978821177883660/2714240613830505159.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "flying_boat",
+        "cert_number": "91411448",
+        "price": "$0.99"
+    },
+    {
+        "auction_type": "Best Offer",
+        "cert_number": "44571287",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-952778994472487282/5549053721239805162.jpg",
+        "lot_number": "193262645528",
+        "grade": "9",
+        "date": "8/6/2020",
+        "auction_seller": "ecology1990",
+        "auction_house": "eBay",
+        "price": "$10.99"
+    }
+]

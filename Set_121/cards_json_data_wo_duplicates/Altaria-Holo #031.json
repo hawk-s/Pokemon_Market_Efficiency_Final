@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "42146727",
+        "grade": "9",
+        "auction_seller": "tcgers",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/898952072533265137/2447509895326071233.jpg",
+        "auction_type": "Auction",
+        "lot_number": "233364294018",
+        "auction_house": "eBay",
+        "date": "10/16/2019",
+        "price": "$1.25"
+    },
+    {
+        "date": "5/24/2024",
+        "cert_number": "85410861",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-570957401848812491/-7559321418876051392.jpg",
+        "price": "$24.90",
+        "lot_number": "315382197801",
+        "auction_seller": "pokemaniacnozley",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "42146727",
+        "lot_number": "233589995890",
+        "date": "5/23/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2129267027899045565/-643867006604010705.jpg",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_seller": "trainersef",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

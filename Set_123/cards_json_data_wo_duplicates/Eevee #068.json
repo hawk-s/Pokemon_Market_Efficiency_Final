@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "63469519",
+        "lot_number": "373849953230",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3690642183020590849/3900443687956506342.jpg",
+        "auction_seller": "probstein123",
+        "date": "1/11/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "psa_collector",
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4405922116922138383/-6384359893003980175.jpg",
+        "grade": "10",
+        "cert_number": "43202301",
+        "auction_type": "Auction",
+        "date": "9/6/2019",
+        "auction_house": "eBay",
+        "lot_number": "333312852660"
+    },
+    {
+        "price": "$26.10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6483751941209108788/8619006946379923515.jpg",
+        "date": "1/4/2022",
+        "auction_seller": "tsunagu",
+        "cert_number": "63469520",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "255303574504"
+    }
+]

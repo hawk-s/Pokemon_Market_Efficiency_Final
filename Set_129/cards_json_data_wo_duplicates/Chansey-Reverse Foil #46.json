@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5642977606765886341/-2684187494024738183.jpg",
+        "date": "12/16/2021",
+        "price": "$23.95",
+        "auction_seller": "comc_consignment",
+        "cert_number": "51769611",
+        "lot_number": "234315773425",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "175104705740",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2825920370919852544/-5366474612327777085.jpg",
+        "date": "1/18/2022",
+        "price": "$11.52",
+        "auction_seller": "dptopcards",
+        "grade": "9",
+        "cert_number": "54385082",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "124672644266",
+        "cert_number": "47668104",
+        "auction_seller": "card_secret",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2812755154286447923/6401180809463526172.jpg",
+        "auction_type": "Auction",
+        "date": "4/18/2021",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$173.50"
+    },
+    {
+        "date": "9/8/2023",
+        "price": "$61.00",
+        "auction_seller": "jam3850",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1892413871172586941/2940839871200072892.jpg",
+        "cert_number": "54233298",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "325790433015"
+    }
+]

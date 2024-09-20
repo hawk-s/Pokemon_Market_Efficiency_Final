@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "255706060200",
+        "auction_seller": "sellers_sportscards",
+        "price": "$14.50",
+        "grade": "9",
+        "cert_number": "59335990",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1069321806872086220/8069188977011446616.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/9/2022"
+    },
+    {
+        "cert_number": "52187843",
+        "date": "10/16/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8933363999302533010/116939374919730175.jpg",
+        "price": "$8.05",
+        "auction_seller": "sellers_sportscards",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "265352007551"
+    },
+    {
+        "date": "1/26/2024",
+        "auction_seller": "onepizza",
+        "cert_number": "58654687",
+        "lot_number": "256380574011",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5471378483895107403/-7173392753460353261.jpg",
+        "grade": "9",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

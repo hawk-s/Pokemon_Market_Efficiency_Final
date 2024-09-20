@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "wolters03",
+        "lot_number": "234183878852",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6278853739358632822/-830120866637855236.jpg",
+        "date": "9/15/2021",
+        "auction_type": "Auction",
+        "cert_number": "48470371",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "auction_seller": "wolters03",
+        "price": "$4.88",
+        "lot_number": "334150441854",
+        "date": "9/19/2021",
+        "auction_type": "Auction",
+        "cert_number": "48470371",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-39096307975900910/-830120866637855236.jpg"
+    }
+]

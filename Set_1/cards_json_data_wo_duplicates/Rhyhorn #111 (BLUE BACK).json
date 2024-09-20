@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "41559134",
+        "price": "$599.99",
+        "auction_type": "Best Offer",
+        "auction_seller": "brianjapan",
+        "date": "11/14/2020",
+        "lot_number": "223482772575",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4611789962041908185/-5130888750083239790.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5242371758710921668/705058622415774680.jpg",
+        "grade": "3",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "cert_number": "48181996",
+        "auction_house": "eBay",
+        "date": "4/11/2021",
+        "lot_number": "384078352503"
+    },
+    {
+        "lot_number": "132714467061",
+        "grade": "9",
+        "price": "$16.15",
+        "date": "7/29/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki",
+        "cert_number": "28678120",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5784212234347411342/7957134336703322898.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7207400631768451990/8205339262401629221.jpg",
+        "date": "2/13/2023",
+        "cert_number": "54603904",
+        "auction_seller": "1steditionpokemon",
+        "grade": "9",
+        "price": "$23.50",
+        "lot_number": "175596056623",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

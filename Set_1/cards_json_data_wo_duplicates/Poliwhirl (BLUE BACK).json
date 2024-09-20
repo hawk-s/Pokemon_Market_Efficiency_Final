@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "vtgcards-com",
+        "price": "$79.50",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1421328955012150150/-5728918757738935238.jpg",
+        "auction_type": "Auction",
+        "date": "4/8/2024",
+        "auction_house": "eBay",
+        "lot_number": "256463758720",
+        "cert_number": "88623915"
+    },
+    {
+        "cert_number": "53104258",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1068212585027116236/1936091494189851145.jpg",
+        "price": "$356.00",
+        "grade": "9",
+        "lot_number": "144043786901",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/29/2021"
+    },
+    {
+        "cert_number": "40811476",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1635430706442687756/7082817863312459272.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "date": "8/13/2018",
+        "auction_type": "Auction",
+        "lot_number": "132730162275",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$50.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8130707059610657741/3571344959387980503.jpg",
+        "date": "1/28/2021",
+        "auction_type": "Auction",
+        "cert_number": "43925995",
+        "lot_number": "402649590512",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7235090099212112212/1327810996618321741.jpg",
+        "date": "11/25/2019",
+        "auction_seller": "pokehut",
+        "grade": "9",
+        "price": "$19.01",
+        "lot_number": "264537823202",
+        "cert_number": "43318159",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "43970885",
+        "price": "$12.00",
+        "auction_seller": "danaco97",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2816489647190554483/3408670254401270221.jpg",
+        "lot_number": "143616549132",
+        "date": "5/28/2020",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$26.56",
+        "lot_number": "324112525488",
+        "cert_number": "45345841",
+        "date": "3/30/2020",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8537243354570280112/-6739563450103292844.jpg",
+        "auction_seller": "poke_inc",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "184329048219",
+        "price": "$12.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/908346673306238959/-163525612247441227.jpg",
+        "auction_type": "Buy It Now",
+        "grade": "9",
+        "date": "7/12/2020",
+        "auction_house": "eBay",
+        "cert_number": "44174257",
+        "auction_seller": "rockymtncards"
+    },
+    {
+        "cert_number": "68533947",
+        "grade": "9",
+        "price": "$23.50",
+        "lot_number": "275585595773",
+        "auction_seller": "jacanddan_collectibles",
+        "date": "12/30/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-341991396671988318/8778244857183931468.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4695387744027446323/-7016982721681432530.jpg",
+        "date": "5/10/2021",
+        "lot_number": "324603030936",
+        "auction_seller": "pokemon_sphere",
+        "price": "$116.03",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "44914377"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2487461820313573010/2958376428951571128.jpg",
+        "auction_seller": "windduck808",
+        "date": "10/10/2019",
+        "lot_number": "143401703211",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "43925996"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8808182176984847216/1665720404779302329.jpg",
+        "date": "7/16/2023",
+        "lot_number": "285365132588",
+        "auction_seller": "zandgemporium",
+        "price": "$31.00",
+        "cert_number": "71232210",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5856612030186231443/7550779204072450463.jpg",
+        "lot_number": "364192907915",
+        "auction_seller": "bestcardsmarket",
+        "cert_number": "71077935",
+        "date": "3/31/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "45057950",
+        "auction_type": "Best Offer",
+        "auction_seller": "kantos_finest",
+        "price": "$24.99",
+        "grade": "9",
+        "lot_number": "313149729893",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6434365259526271310/779859294985181450.jpg",
+        "date": "8/22/2020"
+    },
+    {
+        "auction_seller": "windduck808",
+        "lot_number": "143395564699",
+        "price": "$2.30",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/704355125274543955/-2344531759002792711.jpg",
+        "grade": "9",
+        "date": "10/3/2019",
+        "auction_type": "Auction",
+        "cert_number": "43925995",
+        "auction_house": "eBay"
+    }
+]

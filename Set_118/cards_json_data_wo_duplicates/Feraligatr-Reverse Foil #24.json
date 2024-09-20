@@ -1,0 +1,24 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "date": "3/1/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8513954384299817554/-7674953236023626989.jpg",
+        "lot_number": "254072525512",
+        "auction_seller": "forgottonn0n",
+        "cert_number": "42433183",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$12.60"
+    },
+    {
+        "price": "$14.99",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5697715240904430447/-1052992164442302006.jpg",
+        "auction_seller": "kantos_finest",
+        "date": "6/23/2019",
+        "cert_number": "42433183",
+        "lot_number": "312613719584",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

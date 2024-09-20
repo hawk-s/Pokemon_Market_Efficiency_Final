@@ -1,0 +1,123 @@
+[
+    {
+        "price": "$42.00",
+        "grade": "8",
+        "date": "5/8/2024",
+        "lot_number": "386972011884",
+        "cert_number": "71277315",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3962544701506726073/-4063246696005968868.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "cardoracollective"
+    },
+    {
+        "lot_number": "153442369004",
+        "auction_seller": "ryanstcgcollectibles",
+        "date": "11/6/2020",
+        "cert_number": "42466722",
+        "auction_type": "Best Offer",
+        "price": "$40.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2593750584329194097/8594350391457023678.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1844117126508220023/900726207995627148.jpg",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "42015038",
+        "price": "$27.00",
+        "lot_number": "401961075219",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "315559739840",
+        "date": "7/23/2024",
+        "price": "$163.50",
+        "auction_seller": "vintage_japan_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2243517198032759331/-4921519831886050011.jpg",
+        "cert_number": "93561278",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "67500333",
+        "lot_number": "134697611564",
+        "auction_seller": "thetcgenius",
+        "date": "8/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3998203689103125541/-3096748326412404838.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$123.50"
+    },
+    {
+        "date": "6/2/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5138227823404240991/-4081422870117622218.jpg",
+        "cert_number": "44009406",
+        "price": "$41.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "373064708978",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-482974039006461399/8891079075662180930.jpg",
+        "price": "$149.00",
+        "auction_type": "Best Offer",
+        "date": "8/29/2020",
+        "lot_number": "274462777732",
+        "cert_number": "28113114",
+        "auction_seller": "ptcruzer5961",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "176347062714",
+        "grade": "7",
+        "cert_number": "56807547",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1392746476090834117/6927157546603764399.jpg",
+        "auction_seller": "1steditionpokemon",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "date": "5/20/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2247588496308658262/8873019214809038865.jpg",
+        "auction_seller": "old-skool-pokemon",
+        "lot_number": "325542230764",
+        "date": "3/6/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "69741722",
+        "price": "$16.50"
+    },
+    {
+        "lot_number": "184386713699",
+        "cert_number": "41418924",
+        "price": "$13.00",
+        "auction_seller": "wastle",
+        "auction_type": "Best Offer",
+        "grade": "6",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3672816166024302100/649683575443866840.jpg",
+        "date": "8/7/2020"
+    },
+    {
+        "date": "6/22/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5494841168271411756/5529936549330082150.jpg",
+        "price": "$52.00",
+        "cert_number": "42466722",
+        "auction_seller": "carcam2015",
+        "lot_number": "254624021807",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

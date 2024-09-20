@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "325567855486",
+        "cert_number": "71358190",
+        "price": "$14.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7366814832063886059/-2162571585215292272.jpg",
+        "auction_seller": "zack_cull",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "3/16/2023",
+        "grade": "10"
+    },
+    {
+        "date": "8/19/2021",
+        "cert_number": "48023313",
+        "grade": "9",
+        "price": "$9.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-583725556329336119/7176826438056809268.jpg",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "203557490206"
+    },
+    {
+        "lot_number": "194511750385",
+        "date": "11/25/2021",
+        "grade": "9",
+        "price": "$9.00",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "48023312",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2574898836150057799/-4898276893115803930.jpg"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5078080653515431302/-1034544361713709442.jpg",
+        "cert_number": "52849466",
+        "date": "12/18/2021",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "154743275813"
+    },
+    {
+        "date": "7/11/2021",
+        "price": "$26.00",
+        "lot_number": "194228085721",
+        "cert_number": "48023314",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5804580089980683784/6235331749393737462.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "rainydaycards",
+        "price": "$1.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/880746827866869993/-6728121818779901099.jpg",
+        "auction_type": "Auction",
+        "cert_number": "49917248",
+        "auction_house": "eBay",
+        "lot_number": "174905735114",
+        "date": "8/30/2021"
+    }
+]

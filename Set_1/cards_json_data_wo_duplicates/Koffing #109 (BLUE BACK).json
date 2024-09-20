@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "54490687",
+        "date": "9/11/2021",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3835716571221569267/-2367788269553052924.jpg",
+        "lot_number": "144180143336",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "2",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "cert_number": "45406671",
+        "date": "4/25/2020",
+        "auction_seller": "tsunagu",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2995236532815656152/-3560981726817003128.jpg",
+        "lot_number": "254574769607",
+        "price": "$50.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/23/2024",
+        "grade": "7",
+        "price": "$34.99",
+        "lot_number": "226096648450",
+        "cert_number": "88526975",
+        "auction_seller": "cardlogy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9066219656979706820/4395294134214037592.jpg"
+    },
+    {
+        "cert_number": "45406672",
+        "auction_type": "Best Offer",
+        "lot_number": "184449864323",
+        "grade": "9",
+        "auction_seller": "ultratcg",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1445108188472097134/8724505888978838107.jpg",
+        "date": "9/16/2020",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    },
+    {
+        "auction_seller": "rhscards",
+        "price": "$50.99",
+        "auction_type": "Best Offer",
+        "date": "5/12/2020",
+        "cert_number": "44193955",
+        "lot_number": "254568236469",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-496532551819469390/3061778397136738129.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$306.99",
+        "cert_number": "58096632",
+        "auction_seller": "comc_consignment",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8537227283601806536/6955986962722183066.jpg",
+        "date": "3/22/2023",
+        "auction_type": "Auction",
+        "lot_number": "234931866136",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/-2711277328720138374/images/1.jpg",
+        "lot_number": "2115",
+        "date": "2/2/2023",
+        "price": "$16.00",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "cert_number": "66858976",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "lot_number": "134887290684",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1304100471124031844/-2442146788329350111.jpg",
+        "price": "$15.06",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "54490688",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki",
+        "date": "1/22/2024"
+    }
+]

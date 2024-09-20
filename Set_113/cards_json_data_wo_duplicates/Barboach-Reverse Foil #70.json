@@ -1,0 +1,46 @@
+[
+    {
+        "date": "4/19/2021",
+        "lot_number": "303957070348",
+        "auction_seller": "w316wf",
+        "grade": "9",
+        "price": "$40.00",
+        "cert_number": "45229303",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/558763268579269501/1014613332459385142.jpg"
+    },
+    {
+        "price": "$3.25",
+        "cert_number": "28153250",
+        "grade": "10",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7776611677601127237/-2365881847244063978.jpg",
+        "auction_house": "eBay",
+        "date": "11/6/2017",
+        "lot_number": "382264671955"
+    },
+    {
+        "auction_seller": "cardcavecentral",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8362516944268205138/-8322144890594718639.jpg",
+        "price": "$1.75",
+        "grade": "9",
+        "date": "6/19/2020",
+        "cert_number": "45229303",
+        "auction_type": "Auction",
+        "lot_number": "174314132362",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "402590854662",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1982464713849435914/-7414422767493190739.jpg",
+        "grade": "9",
+        "cert_number": "45229303",
+        "auction_type": "Auction",
+        "date": "12/12/2020",
+        "auction_house": "eBay",
+        "auction_seller": "happynewhome",
+        "price": "$0.99"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "5",
+        "cert_number": "70054369",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7404255411240264472/1326139220781681579.jpg",
+        "lot_number": "125826013502",
+        "date": "3/22/2023",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "price": "$6.09",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pokexclusives",
+        "date": "11/1/2022",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1541451751519609714/3171089633439932383.jpg",
+        "cert_number": "62153319",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "385192948639"
+    },
+    {
+        "lot_number": "254565946645",
+        "date": "4/17/2020",
+        "price": "$9.09",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/849185781288753016/1750454699939377794.jpg",
+        "grade": "9",
+        "cert_number": "45521520",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay"
+    }
+]

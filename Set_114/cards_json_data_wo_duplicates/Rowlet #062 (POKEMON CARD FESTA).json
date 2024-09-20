@@ -1,0 +1,46 @@
+[
+    {
+        "date": "2/4/2022",
+        "price": "$58.00",
+        "grade": "8",
+        "lot_number": "144388486435",
+        "auction_seller": "esuprojapan",
+        "cert_number": "63330527",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4230095843360139517/9100166372800631476.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "143111716236",
+        "price": "$10.50",
+        "cert_number": "40907843",
+        "date": "2/10/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-208089251941484288/425651161302751061.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "price": "$7.50",
+        "cert_number": "28675875",
+        "auction_seller": "cascade_cards_japan",
+        "date": "3/11/2018",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "162932591158",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8022924389762502437/-7123331267861572673.jpg"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "price": "$9.50",
+        "date": "3/10/2019",
+        "grade": "9",
+        "lot_number": "113666348960",
+        "cert_number": "42935759",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6398810719944958203/-3313269664741088720.jpg"
+    }
+]

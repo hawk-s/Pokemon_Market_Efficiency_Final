@@ -1,0 +1,35 @@
+[
+    {
+        "date": "10/8/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8127415209089484878/2199033295947676629.jpg",
+        "auction_seller": "cardcavecentral",
+        "grade": "9",
+        "cert_number": "45444822",
+        "price": "$3.75",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "174459258603"
+    },
+    {
+        "date": "9/19/2019",
+        "cert_number": "43317403",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4106659118788080829/-1868867484945774882.jpg",
+        "price": "$14.50",
+        "lot_number": "254363980981",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_type": "Best Offer",
+        "date": "3/10/2021",
+        "grade": "9",
+        "lot_number": "264972575580",
+        "auction_seller": "oscarcorrea7",
+        "cert_number": "45444822",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1661827184804034013/-1613208706070983082.jpg",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    }
+]

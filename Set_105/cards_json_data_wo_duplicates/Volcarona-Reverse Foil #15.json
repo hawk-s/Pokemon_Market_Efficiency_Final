@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "collectorsworld-va",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1119002230661234070/1458836555255111900.jpg",
+        "price": "$4.25",
+        "date": "12/24/2017",
+        "grade": "9",
+        "cert_number": "28484842",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "182969177519"
+    },
+    {
+        "date": "9/30/2021",
+        "price": "$32.00",
+        "auction_seller": "4_sharp_corners",
+        "lot_number": "363552314998",
+        "cert_number": "51951516",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6474778869266327087/-6019076913740478657.jpg",
+        "grade": "10"
+    },
+    {
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4706064498828414917/3013403521743832459.jpg",
+        "date": "10/5/2022",
+        "cert_number": "65839364",
+        "grade": "9",
+        "lot_number": "385138229276",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "8/16/2024",
+        "price": "$66.45",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8328475521759659407/4712004827286076945.jpg",
+        "cert_number": "94194420",
+        "lot_number": "204929007167",
+        "auction_type": "Auction",
+        "auction_seller": "slabsharksinc",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "87843464",
+        "price": "$61.00",
+        "auction_seller": "comc_consignment",
+        "date": "6/7/2024",
+        "lot_number": "256521296877",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5234883508914319748/-4695028077869266210.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3590969458048952594/1594951859450045312.jpg",
+        "date": "4/14/2024",
+        "cert_number": "79021987",
+        "lot_number": "276415847312",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "be_be11",
+        "price": "$9.33"
+    },
+    {
+        "date": "9/8/2023",
+        "lot_number": "266392329867",
+        "auction_seller": "4_sharp_corners",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5377268211675768424/5447568571333367247.jpg",
+        "cert_number": "79586256",
+        "price": "$137.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

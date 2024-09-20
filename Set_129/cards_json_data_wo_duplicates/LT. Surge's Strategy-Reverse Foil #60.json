@@ -1,0 +1,101 @@
+[
+    {
+        "lot_number": "235313909951",
+        "date": "12/8/2023",
+        "auction_seller": "comc_consignment",
+        "cert_number": "53691569",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1696669872567056416/5506107394598724630.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$5.79"
+    },
+    {
+        "cert_number": "53597234",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2973286614035250098/3811410037715415228.jpg",
+        "grade": "9",
+        "lot_number": "275094213931",
+        "price": "$11.50",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "date": "1/21/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.50",
+        "auction_seller": "onepizza",
+        "date": "11/4/2022",
+        "grade": "9",
+        "cert_number": "57611842",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255798014790",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3391135071855194616/-3112779993820482282.jpg"
+    },
+    {
+        "cert_number": "52849472",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3949940839556400301/666103009628353495.jpg",
+        "grade": "9",
+        "date": "12/18/2021",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "price": "$4.00",
+        "lot_number": "154743238530"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/627391805600802074/-6838895596664934315.jpg",
+        "date": "2/22/2022",
+        "cert_number": "55523295",
+        "price": "$5.50",
+        "grade": "9",
+        "lot_number": "373926922088",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "52849474",
+        "lot_number": "154743237301",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8865464434038751534/7800256709393863756.jpg",
+        "price": "$20.50",
+        "date": "12/18/2021",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/22/2022",
+        "cert_number": "55523296",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6061640074929683423/3339886310742914421.jpg",
+        "auction_seller": "probstein123",
+        "price": "$20.50",
+        "lot_number": "373926922938",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "52849473",
+        "lot_number": "154743238440",
+        "price": "$21.50",
+        "date": "12/18/2021",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6331583524824232546/32243134942154461.jpg"
+    },
+    {
+        "price": "$2.25",
+        "auction_seller": "onepizza",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8945579257417864903/-3112779993820482282.jpg",
+        "lot_number": "255859100315",
+        "date": "12/10/2022",
+        "grade": "9",
+        "cert_number": "57611842",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

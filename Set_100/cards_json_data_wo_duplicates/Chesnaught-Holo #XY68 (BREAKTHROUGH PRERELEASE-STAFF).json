@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "7",
+        "auction_seller": "the-hobby-au",
+        "auction_type": "Auction",
+        "cert_number": "89103680",
+        "auction_house": "eBay",
+        "date": "5/12/2024",
+        "lot_number": "375403554824",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-592614228514055859/-4330341154590254184.jpg",
+        "price": "$17.83"
+    },
+    {
+        "lot_number": "375403554831",
+        "grade": "6",
+        "auction_seller": "the-hobby-au",
+        "price": "$6.60",
+        "auction_type": "Auction",
+        "cert_number": "89103672",
+        "auction_house": "eBay",
+        "date": "5/12/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4571222089966558781/2764092644362622900.jpg"
+    },
+    {
+        "cert_number": "47948832",
+        "date": "11/16/2020",
+        "lot_number": "264926962965",
+        "grade": "6",
+        "auction_seller": "gregory2362",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3030402307544453673/-3408685140734511820.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "lot_number": "375403554827",
+        "cert_number": "89103677",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7066331157902541016/-1484315925637142346.jpg",
+        "auction_seller": "the-hobby-au",
+        "price": "$6.60",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/12/2024"
+    }
+]

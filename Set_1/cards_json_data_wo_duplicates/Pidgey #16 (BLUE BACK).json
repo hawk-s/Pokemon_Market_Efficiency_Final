@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "41559005",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3018735999049430788/8492928973196566017.jpg",
+        "price": "$13.50",
+        "grade": "8",
+        "auction_seller": "brianjapan",
+        "auction_type": "Auction",
+        "date": "2/7/2019",
+        "auction_house": "eBay",
+        "lot_number": "223355892525"
+    },
+    {
+        "grade": "7",
+        "date": "9/11/2021",
+        "lot_number": "144180180299",
+        "cert_number": "42482623",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8973537600458798871/6302630964330518233.jpg",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "53337438",
+        "grade": "8",
+        "lot_number": "353501386076",
+        "price": "$46.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-669465560833444129/7651721293000274233.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "5/29/2021"
+    },
+    {
+        "cert_number": "26450570",
+        "auction_seller": "ebirdman",
+        "auction_type": "Best Offer",
+        "lot_number": "372635174936",
+        "date": "8/12/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4568983502758675578/132873606024316960.jpg",
+        "auction_house": "eBay",
+        "price": "$140.00",
+        "grade": "10"
+    },
+    {
+        "cert_number": "59341056",
+        "lot_number": "285107343620",
+        "price": "$13.00",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-978688303746100770/8825968499385806975.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/22/2023"
+    },
+    {
+        "date": "4/26/2020",
+        "auction_seller": "tsunagu",
+        "cert_number": "45405822",
+        "price": "$20.20",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "254575511700",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-30169590195892990/8647147163290267683.jpg"
+    },
+    {
+        "date": "9/14/2020",
+        "auction_type": "Best Offer",
+        "price": "$40.78",
+        "cert_number": "45405822",
+        "lot_number": "293723191092",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7989651423603582246/460905388655871074.jpg",
+        "grade": "9",
+        "auction_seller": "dragon_mon_z",
+        "auction_house": "eBay"
+    }
+]

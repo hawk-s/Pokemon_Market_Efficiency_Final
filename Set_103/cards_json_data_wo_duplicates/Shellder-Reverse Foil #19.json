@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/448369060963452040/1780405731820233090.jpg",
+        "cert_number": "27699367",
+        "grade": "9",
+        "auction_seller": "cenx",
+        "date": "8/4/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "254668076117"
+    },
+    {
+        "auction_seller": "9cardstud",
+        "cert_number": "27699367",
+        "grade": "9",
+        "lot_number": "283439068491",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3763292544912284786/-1046147089050126698.jpg",
+        "auction_house": "eBay",
+        "date": "4/7/2019",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2098057977420533789/8077110589427164575.jpg",
+        "lot_number": "283419645693",
+        "price": "$1.77",
+        "auction_seller": "9cardstud",
+        "cert_number": "27699367",
+        "grade": "9",
+        "date": "3/23/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "223695336906",
+        "auction_type": "Best Offer",
+        "auction_seller": "antiquesrus911",
+        "grade": "9",
+        "date": "12/19/2020",
+        "price": "$14.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8867032111266256457/1302040002486309655.jpg",
+        "auction_house": "eBay",
+        "cert_number": "27699366"
+    }
+]

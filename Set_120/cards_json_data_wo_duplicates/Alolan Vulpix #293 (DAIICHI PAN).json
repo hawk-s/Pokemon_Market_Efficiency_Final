@@ -1,0 +1,57 @@
+[
+    {
+        "date": "9/25/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1639890125906980330/-1966996634061457530.jpg",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "42554654",
+        "lot_number": "401884896615",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1696415165731160973/5647788425645182687.jpg",
+        "date": "12/12/2023",
+        "cert_number": "80572536",
+        "lot_number": "145473608546",
+        "auction_seller": "esuprojapan",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$91.01"
+    },
+    {
+        "date": "8/19/2020",
+        "auction_type": "Best Offer",
+        "cert_number": "42554654",
+        "price": "$47.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3448868716400836775/-7548619302811695712.jpg",
+        "lot_number": "383680468487",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "goldstarpikachu"
+    },
+    {
+        "auction_seller": "rofjapan",
+        "date": "12/25/2021",
+        "lot_number": "125061193003",
+        "cert_number": "63322670",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7148895519480202769/2760292258505894204.jpg",
+        "price": "$70.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "japan-quality-samurai",
+        "grade": "9",
+        "lot_number": "324767797210",
+        "date": "9/3/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7885312572536849823/-7707957955508871661.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53850070",
+        "price": "$29.99"
+    }
+]

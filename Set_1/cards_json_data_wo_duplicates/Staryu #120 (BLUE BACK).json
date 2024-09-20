@@ -1,0 +1,101 @@
+[
+    {
+        "grade": "7",
+        "lot_number": "204909484008",
+        "cert_number": "92896615",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7450911463534076730/-1533873400592210115.jpg",
+        "auction_seller": "g-51japan",
+        "price": "$36.00",
+        "date": "8/4/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "204174747171",
+        "date": "12/11/2022",
+        "cert_number": "67053746",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8133468119283092834/-7394948915597539832.jpg",
+        "grade": "8",
+        "price": "$75.00",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-683506938989690888/521240728243638230.jpg",
+        "date": "8/28/2024",
+        "grade": "9",
+        "price": "$26.03",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "305737630579",
+        "auction_seller": "psa",
+        "cert_number": "95173216"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1690194229459373322/3746989583691812702.jpg",
+        "price": "$47.01",
+        "date": "12/11/2023",
+        "grade": "8",
+        "auction_seller": "4_sharp_corners",
+        "cert_number": "73749845",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "266541029280"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3501087081276014098/8288368897749517945.jpg",
+        "auction_type": "Best Offer",
+        "grade": "10",
+        "cert_number": "43326706",
+        "auction_seller": "my_honolulu_blue",
+        "price": "$55.99",
+        "lot_number": "113895325153",
+        "auction_house": "eBay",
+        "date": "2/4/2020"
+    },
+    {
+        "date": "4/25/2020",
+        "auction_seller": "tsunagu",
+        "price": "$50.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5050165575308610356/5017785092320031653.jpg",
+        "lot_number": "254574770475",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "45406687"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5127156809857724078/-8842421574635034622.jpg",
+        "lot_number": "143443785120",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41511036"
+    },
+    {
+        "price": "$42.00",
+        "auction_seller": "comc_consignment",
+        "cert_number": "67053746",
+        "lot_number": "234931916827",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3018792667319253910/-2463495711872426247.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/26/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2595273310778009530/3063578539337977229.jpg",
+        "cert_number": "45748521",
+        "price": "$20.50",
+        "auction_seller": "matthehove-0",
+        "lot_number": "175412582691",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/18/2022",
+        "grade": "1"
+    }
+]

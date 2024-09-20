@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "254778010409",
+        "cert_number": "47260184",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1667879731081202084/-3522148007783196184.jpg",
+        "auction_type": "Auction",
+        "date": "11/21/2020",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "cert_number": "43558258",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8616281288021386670/-1873375195125260403.jpg",
+        "date": "2/15/2021",
+        "grade": "9",
+        "price": "$20.61",
+        "auction_type": "Auction",
+        "auction_seller": "orgin_evolved_tcgs",
+        "lot_number": "193887988650",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "43981142",
+        "auction_seller": "windduck808",
+        "lot_number": "143411545988",
+        "date": "10/19/2019",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4021449890066542334/-8492726921187536974.jpg",
+        "auction_house": "eBay",
+        "price": "$4.00"
+    }
+]

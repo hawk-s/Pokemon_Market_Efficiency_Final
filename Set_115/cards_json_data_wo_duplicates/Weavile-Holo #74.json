@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$3.25",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6679673959717815538/1347702700983039272.jpg",
+        "cert_number": "55258038",
+        "date": "10/7/2021",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "373742028392"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5309057723152295910/355858173679132101.jpg",
+        "date": "10/14/2021",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "124941991257",
+        "price": "$12.50",
+        "grade": "10",
+        "cert_number": "50302868"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8614444726670408936/-5128730478231195343.jpg",
+        "lot_number": "124877156858",
+        "date": "9/5/2021",
+        "auction_type": "Auction",
+        "auction_seller": "2005warrior",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "50302868"
+    },
+    {
+        "date": "8/21/2024",
+        "cert_number": "79165810",
+        "price": "$7.35",
+        "auction_seller": "roberzarsk0",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8603837989260427413/-6860372707908931825.jpg",
+        "auction_house": "eBay",
+        "lot_number": "266950085756"
+    },
+    {
+        "lot_number": "374758188164",
+        "date": "6/21/2023",
+        "cert_number": "62808962",
+        "auction_seller": "dcsports87",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/321453596147533136/5998206996152456271.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

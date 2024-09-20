@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "285010524574",
+        "cert_number": "62926217",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7958712793699054564/-7685224052870560996.jpg",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/31/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1762505742650318063/7257168046422266660.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "68275854",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "374389444754",
+        "price": "$18.50",
+        "date": "12/13/2022"
+    },
+    {
+        "auction_seller": "card_guru_sean",
+        "price": "$19.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1267460306363050395/207137080053689601.jpg",
+        "date": "1/13/2023",
+        "lot_number": "195546691417",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "60864473"
+    }
+]

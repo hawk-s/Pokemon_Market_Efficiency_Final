@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "44571288",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7302710949730323989/-3066539797880037768.jpg",
+        "auction_seller": "ecology1990",
+        "grade": "9",
+        "lot_number": "193262529547",
+        "auction_house": "eBay",
+        "price": "$10.99",
+        "date": "6/8/2020"
+    },
+    {
+        "auction_seller": "houseofcards777",
+        "date": "12/9/2021",
+        "cert_number": "52742485",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1739994144702325001/-9144602515427332941.jpg",
+        "auction_type": "Auction",
+        "lot_number": "234313780842",
+        "grade": "10",
+        "price": "$10.01"
+    },
+    {
+        "lot_number": "154752695881",
+        "price": "$6.50",
+        "cert_number": "52703983",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8342572411888025685/5013728988782317119.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "pc_sportscards",
+        "auction_type": "Auction",
+        "date": "12/24/2021",
+        "grade": "10"
+    },
+    {
+        "date": "2/22/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-215981360942283191/-2064440327020003162.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "55523343",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "lot_number": "373926881301"
+    }
+]

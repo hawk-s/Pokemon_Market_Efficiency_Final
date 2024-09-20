@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352694400953",
+        "price": "$10.49",
+        "date": "6/27/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5893570429852373690/39560792485395217.jpg",
+        "grade": "10",
+        "cert_number": "28946990"
+    },
+    {
+        "auction_seller": "pokemaniac-1",
+        "price": "$50.85",
+        "lot_number": "125950495595",
+        "auction_type": "Auction",
+        "cert_number": "61545589",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/2/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2155939252231312206/-5750729642047291011.jpg"
+    },
+    {
+        "lot_number": "123666897606",
+        "auction_seller": "japan-international-trade",
+        "date": "3/10/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2161639702389563049/-1747963705916312654.jpg",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "cert_number": "42937426",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27715573",
+        "lot_number": "122864992928",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1229572086502893772/-4591341891265142091.jpg",
+        "auction_seller": "psa10gem101",
+        "price": "$9.99",
+        "date": "12/23/2017",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "122778551804",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/8606830155016904742/-4207789995397714430.jpg",
+        "cert_number": "27715572",
+        "auction_seller": "psa10gem101",
+        "date": "11/4/2017",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/17/2023",
+        "cert_number": "68529528",
+        "lot_number": "145131499114",
+        "auction_seller": "new_in_wv",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7457791435773442921/3147479322258798148.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$55.55"
+    }
+]

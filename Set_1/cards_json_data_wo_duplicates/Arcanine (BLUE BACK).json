@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "4",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8105581230112364832/3134101376505653595.jpg",
+        "auction_seller": "4kcollectibles",
+        "lot_number": "135143366181",
+        "cert_number": "92540605",
+        "date": "7/14/2024",
+        "auction_type": "Auction",
+        "price": "$26.50",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "4",
+        "date": "12/20/2021",
+        "price": "$26.00",
+        "auction_seller": "youbun077g",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5015977237224927968/-2066017710118994154.jpg",
+        "lot_number": "304263015689",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "63469434"
+    },
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "price": "$16.25",
+        "grade": "9",
+        "lot_number": "401884867954",
+        "cert_number": "41928388",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-390083519139563981/-8512057839517746956.jpg"
+    },
+    {
+        "cert_number": "40811474",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3531199930072748508/5010392407980800061.jpg",
+        "price": "$27.00",
+        "grade": "9",
+        "date": "8/13/2018",
+        "lot_number": "132730214805",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    }
+]

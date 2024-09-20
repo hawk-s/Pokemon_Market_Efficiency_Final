@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$16.33",
+        "auction_seller": "japan-international-trade",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2073660665965647099/547042992080170656.jpg",
+        "lot_number": "123666589233",
+        "date": "3/10/2019",
+        "cert_number": "42937430",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "cert_number": "42937431",
+        "price": "$10.50",
+        "grade": "10",
+        "lot_number": "113932949295",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2950699960733282101/5722803722652636625.jpg",
+        "auction_house": "eBay",
+        "date": "10/29/2019"
+    }
+]

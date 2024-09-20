@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "254537402129",
+        "date": "5/6/2020",
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6351599053194125498/6286979150998308389.jpg",
+        "auction_type": "Buy It Now",
+        "cert_number": "43726887",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/14/2020",
+        "auction_type": "Best Offer",
+        "price": "$24.99",
+        "grade": "9",
+        "auction_seller": "eastempiretradingco.ny",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6524175488646422829/-3253886815462355433.jpg",
+        "auction_house": "eBay",
+        "cert_number": "42015198",
+        "lot_number": "254736495205"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-649906110607746571/3739174676237422486.jpg",
+        "auction_seller": "chargavcollectibles",
+        "cert_number": "48224103",
+        "lot_number": "124888218686",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "date": "9/13/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5812395553835287171/-3684618879825048331.jpg",
+        "date": "10/9/2019",
+        "lot_number": "372792277008",
+        "price": "$5.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "43536538"
+    }
+]

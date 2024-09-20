@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "43317420",
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2632698250547227922/5860232098868387465.jpg",
+        "date": "10/4/2019",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "254374417336"
+    },
+    {
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "42884608",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4907601165021072792/-282344299517223764.jpg",
+        "grade": "10",
+        "lot_number": "143471149664"
+    },
+    {
+        "lot_number": "404177345613",
+        "grade": "8",
+        "price": "$1.00",
+        "date": "3/3/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5314403148103568970/745606305031774760.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "tiffmacph-63",
+        "cert_number": "61139224"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7797806393599131195/-5366896088615106734.jpg",
+        "grade": "9",
+        "lot_number": "175109050935",
+        "price": "$9.99",
+        "auction_seller": "popolka312",
+        "date": "1/21/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "54613028"
+    }
+]

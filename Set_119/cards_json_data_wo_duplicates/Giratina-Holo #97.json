@@ -1,0 +1,35 @@
+[
+    {
+        "date": "6/19/2023",
+        "price": "$15.00",
+        "lot_number": "125972910974",
+        "grade": "9",
+        "cert_number": "53420499",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1313935922559114961/-9142397381791349588.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "levismiscellaneousmerch"
+    },
+    {
+        "cert_number": "43609190",
+        "price": "$15.00",
+        "lot_number": "293429809262",
+        "date": "1/24/2020",
+        "auction_seller": "neverfalen",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5988306678017629483/-4340793064914111366.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "46937512",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1488210195322839909/4013490545792622294.jpg",
+        "grade": "9",
+        "date": "1/9/2021",
+        "lot_number": "233767066258",
+        "auction_seller": "ccghouse",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    }
+]

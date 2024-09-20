@@ -1,0 +1,68 @@
+[
+    {
+        "date": "12/19/2021",
+        "cert_number": "54067286",
+        "auction_seller": "hawk20mc",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2421749157714423936/-3694972069795993908.jpg",
+        "lot_number": "125047405970",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "363130439696",
+        "auction_seller": "brockcards3",
+        "cert_number": "43132134",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3794292324268968464/-1893995009492180740.jpg",
+        "price": "$90.00",
+        "auction_type": "Auction",
+        "date": "10/12/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5187538425965797683/-2181612097668063097.jpg",
+        "date": "8/29/2021",
+        "cert_number": "43318121",
+        "lot_number": "265274426552",
+        "price": "$167.50",
+        "auction_seller": "pokehut",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2682874323380864921/-2410636057882628835.jpg",
+        "lot_number": "254371926205",
+        "date": "10/4/2019",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "43317470",
+        "price": "$16.50"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "price": "$149.98",
+        "date": "5/13/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6850979562922936365/-8110965297098173673.jpg",
+        "cert_number": "45069972",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "compusmartpr",
+        "lot_number": "233424837278"
+    },
+    {
+        "lot_number": "383208487017",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4275230544700528558/905203187370680254.jpg",
+        "date": "10/19/2019",
+        "price": "$10.49",
+        "grade": "9",
+        "cert_number": "44178830",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tcfsupplies"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$20.00",
+        "lot_number": "114382715974",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1423867348579382044/659351977244149013.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "9/6/2020",
+        "auction_house": "eBay",
+        "cert_number": "41457805",
+        "auction_seller": "parsons_tcg_and_more"
+    },
+    {
+        "price": "$3.25",
+        "date": "6/22/2024",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2655264544378350616/1366239932014882638.jpg",
+        "lot_number": "326162383428",
+        "auction_type": "Auction",
+        "cert_number": "74642259",
+        "auction_house": "eBay",
+        "auction_seller": "nothingbutthebestforme"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5173359448149979101/-161500135466318131.jpg",
+        "lot_number": "115568872074",
+        "price": "$20.00",
+        "date": "10/24/2022",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41457805",
+        "auction_seller": "parsons_tcg_and_more"
+    }
+]

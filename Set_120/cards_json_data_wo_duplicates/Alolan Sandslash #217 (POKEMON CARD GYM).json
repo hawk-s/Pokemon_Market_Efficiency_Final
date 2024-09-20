@@ -1,0 +1,35 @@
+[
+    {
+        "date": "3/29/2021",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "41134501",
+        "lot_number": "143982141925",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9123938774037240312/4373633045090880044.jpg",
+        "price": "$168.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "cert_number": "42937423",
+        "price": "$9.50",
+        "grade": "8",
+        "lot_number": "123948805349",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7671718913818718511/-2443808445204296549.jpg",
+        "auction_house": "eBay",
+        "date": "10/29/2019"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "cert_number": "42937423",
+        "lot_number": "123666770911",
+        "date": "3/10/2019",
+        "grade": "8",
+        "price": "$7.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1642308173307670738/-5457685587687650998.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

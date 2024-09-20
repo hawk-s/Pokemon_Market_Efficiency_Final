@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "54491427",
+        "grade": "4",
+        "lot_number": "144180095581",
+        "date": "9/11/2021",
+        "price": "$9.98",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3232643360302134247/2472355285159046636.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "cert_number": "63521412",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6290553237374671807/-707583733725751958.jpg",
+        "grade": "4",
+        "lot_number": "374447357830",
+        "price": "$20.90",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "auction_seller": "cwsc92",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4306926789007638914/6839759090092467451.jpg",
+        "lot_number": "372653219471",
+        "auction_seller": "ebirdman",
+        "cert_number": "27076601",
+        "auction_type": "Best Offer",
+        "price": "$199.95",
+        "date": "10/6/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7307790751616230138/-9092115878226314357.jpg",
+        "price": "$26.00",
+        "lot_number": "313612960990",
+        "auction_seller": "coins_n_rarities",
+        "grade": "6",
+        "date": "7/30/2021",
+        "auction_type": "Auction",
+        "cert_number": "49152905",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1229561131956858885/-2689767983543282654.jpg",
+        "auction_seller": "comc_consignment",
+        "grade": "9",
+        "lot_number": "234958953789",
+        "date": "4/18/2023",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$32.00",
+        "cert_number": "63851679"
+    }
+]

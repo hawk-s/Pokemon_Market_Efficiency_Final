@@ -1,0 +1,46 @@
+[
+    {
+        "date": "10/5/2020",
+        "auction_type": "Best Offer",
+        "lot_number": "333707125072",
+        "grade": "8",
+        "auction_seller": "countercanterdesigns",
+        "cert_number": "43726874",
+        "price": "$9.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1682697810748106605/-1052245498510450937.jpg"
+    },
+    {
+        "price": "$15.00",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "date": "4/12/2020",
+        "cert_number": "43726874",
+        "auction_seller": "forgottonn0n",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4698206371772357265/-1968828867078768541.jpg",
+        "lot_number": "254513965552",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2662893928560835575/167696362308846401.jpg",
+        "cert_number": "65201783",
+        "date": "4/9/2023",
+        "lot_number": "134507587372",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$15.29"
+    },
+    {
+        "lot_number": "285572066041",
+        "date": "12/4/2023",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "price": "$10.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "73247806",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3811823582140384092/-4350139668187892750.jpg"
+    }
+]

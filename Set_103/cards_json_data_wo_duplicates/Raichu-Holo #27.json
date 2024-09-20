@@ -1,0 +1,46 @@
+[
+    {
+        "auction_type": "Best Offer",
+        "date": "10/16/2017",
+        "cert_number": "27426706",
+        "price": "$9.00",
+        "auction_seller": "forgottonn0n",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/8182347771670803716/-438940380864066124.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "253167757695"
+    },
+    {
+        "cert_number": "52739621",
+        "lot_number": "234312229647",
+        "auction_seller": "houseofcards777",
+        "grade": "8",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7581828214525416417/5084856288910659077.jpg",
+        "date": "12/8/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7216040361597809564/-2771356871052681243.jpg",
+        "cert_number": "65201651",
+        "price": "$31.91",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "date": "4/2/2023",
+        "auction_house": "eBay",
+        "lot_number": "134502596926"
+    },
+    {
+        "cert_number": "59404718",
+        "price": "$16.03",
+        "lot_number": "155410873980",
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/23/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/231873499414451733/-8992325053856673948.jpg"
+    }
+]

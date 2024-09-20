@@ -1,0 +1,46 @@
+[
+    {
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3356107075647493847/2452252965094434619.jpg",
+        "price": "$49.99",
+        "cert_number": "28320988",
+        "lot_number": "362980727664",
+        "auction_house": "eBay",
+        "date": "12/11/2020",
+        "grade": "10",
+        "auction_seller": "sportschampioncards"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6563496708351296707/-2117410224676291303.jpg",
+        "lot_number": "183389367518",
+        "cert_number": "29098002",
+        "price": "$10.00",
+        "auction_type": "Auction",
+        "date": "8/27/2018",
+        "auction_house": "eBay",
+        "auction_seller": "mark.dzbyn",
+        "grade": "10"
+    },
+    {
+        "date": "4/19/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-784843545765757495/2452252965094434619.jpg",
+        "auction_type": "Buy It Now",
+        "lot_number": "362377454211",
+        "price": "$49.99",
+        "cert_number": "28320988",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "sportschampioncards"
+    },
+    {
+        "date": "2/26/2023",
+        "grade": "8",
+        "price": "$7.00",
+        "lot_number": "234900978489",
+        "auction_seller": "firebirder31",
+        "auction_type": "Auction",
+        "cert_number": "60726621",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6814736558991792332/-5621753117265888943.jpg"
+    }
+]

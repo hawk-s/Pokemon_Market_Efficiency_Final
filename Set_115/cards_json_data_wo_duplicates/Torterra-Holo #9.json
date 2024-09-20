@@ -1,0 +1,90 @@
+[
+    {
+        "date": "8/5/2021",
+        "auction_seller": "venusaur_island",
+        "price": "$31.64",
+        "lot_number": "255075297572",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "48947549",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8391944087292439248/-158352785235637133.jpg"
+    },
+    {
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "lot_number": "362526628471",
+        "cert_number": "41518702",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6019196498914995082/3651753989571648381.jpg",
+        "date": "1/15/2019",
+        "auction_house": "eBay",
+        "price": "$4.00"
+    },
+    {
+        "cert_number": "53779267",
+        "auction_seller": "4_sharp_corners",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7568575384055856078/9062840482502480766.jpg",
+        "auction_house": "eBay",
+        "lot_number": "384597459654",
+        "price": "$5.70",
+        "date": "12/27/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6715492178607257164/8584097572086950512.jpg",
+        "auction_seller": "mountaineerstud",
+        "lot_number": "304295593192",
+        "price": "$19.99",
+        "date": "1/10/2022",
+        "cert_number": "53736120",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "date": "4/19/2021",
+        "cert_number": "45641956",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/590381759902906386/3488287358336975020.jpg",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "auction_seller": "yeah_that_austin",
+        "lot_number": "144007366803",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/7/2020",
+        "cert_number": "45641956",
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8150044079254563779/3959539219134903956.jpg",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "274468705338"
+    },
+    {
+        "cert_number": "42433162",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7243637298586824283/2280174344334381872.jpg",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "price": "$7.00",
+        "date": "1/17/2019",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "lot_number": "254069696707"
+    },
+    {
+        "auction_seller": "tesladdiction",
+        "cert_number": "45641956",
+        "grade": "9",
+        "date": "9/3/2021",
+        "lot_number": "174913504208",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6884435477295323131/6860952583991630860.jpg",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    }
+]

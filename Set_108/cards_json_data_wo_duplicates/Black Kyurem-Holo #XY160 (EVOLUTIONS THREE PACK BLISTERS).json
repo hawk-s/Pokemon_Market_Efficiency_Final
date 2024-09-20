@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "41315500",
+        "price": "$13.00",
+        "auction_seller": "pokemasterab",
+        "auction_type": "Buy It Now",
+        "lot_number": "153455268400",
+        "date": "5/22/2020",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7415608190260418568/5264864302094587277.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5428637135384056101/-5615230205686768706.jpg",
+        "auction_type": "Best Offer",
+        "lot_number": "262976708853",
+        "price": "$27.00",
+        "cert_number": "27284105",
+        "date": "6/18/2017",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "donottoscardsandcollectables",
+        "cert_number": "49910284",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2782170469002443052/-5998968941533150363.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "lot_number": "164931717406",
+        "auction_type": "Auction",
+        "date": "7/3/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4110807434503185434/-8506067688460862453.jpg",
+        "cert_number": "67510848",
+        "grade": "7",
+        "price": "$7.80",
+        "date": "9/5/2023",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "386058733649",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "colinwalsh1019",
+        "cert_number": "41107392",
+        "grade": "9",
+        "lot_number": "125054246025",
+        "date": "12/22/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4516900745851999969/-670089803363124918.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "cert_number": "41107392",
+        "date": "3/16/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7328145717884887006/6367552948251200117.jpg",
+        "auction_seller": "zacktx9863",
+        "price": "$18.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "164117435926"
+    }
+]

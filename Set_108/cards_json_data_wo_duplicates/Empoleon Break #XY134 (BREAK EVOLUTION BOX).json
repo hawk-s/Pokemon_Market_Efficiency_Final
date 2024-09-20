@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "lot_number": "155337032295",
+        "date": "1/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57097271",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/87350272650312877/-2180060360324792940.jpg",
+        "grade": "10",
+        "price": "$27.36"
+    },
+    {
+        "lot_number": "354852075951",
+        "auction_seller": "reilleyrelics",
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8584473452785467915/-1114485829318541876.jpg",
+        "date": "6/23/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "67247530",
+        "grade": "10"
+    },
+    {
+        "price": "$15.00",
+        "date": "1/15/2023",
+        "auction_seller": "tntcardsms",
+        "lot_number": "195550194098",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5500100953037260167/-3972740886156996980.jpg",
+        "grade": "8",
+        "cert_number": "70114581",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3244041746448294306/7215317218541402794.jpg",
+        "cert_number": "68614021",
+        "auction_seller": "poke_piece_collects",
+        "lot_number": "226187317223",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/17/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8848465784251874297/8777104677472825560.jpg",
+        "lot_number": "254507326774",
+        "grade": "9",
+        "cert_number": "45521461",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "price": "$4.84",
+        "auction_house": "eBay",
+        "date": "2/15/2020"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3087616125096742046/-559994926537077481.jpg",
+        "price": "$9.50",
+        "date": "12/24/2017",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "28484878",
+        "lot_number": "173038111779"
+    },
+    {
+        "lot_number": "354852073062",
+        "auction_seller": "reilleyrelics",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4597439095543498425/1323137067796899796.jpg",
+        "auction_type": "Auction",
+        "date": "6/23/2023",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "cert_number": "67247530",
+        "grade": "10"
+    }
+]

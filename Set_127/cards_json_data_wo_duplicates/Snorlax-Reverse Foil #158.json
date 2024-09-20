@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "54334756",
+        "price": "$127.50",
+        "date": "1/10/2022",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "lot_number": "255312426233",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-618065324383338148/2474895094602931664.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "poketomspokemon",
+        "auction_type": "Best Offer",
+        "lot_number": "283559154711",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3709790727337009269/-7339182752227436720.jpg",
+        "cert_number": "43397308",
+        "price": "$40.00",
+        "date": "8/6/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "124107334113",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7789569043944960240/9070619901091183235.jpg",
+        "cert_number": "44720260",
+        "date": "3/15/2020",
+        "price": "$6.46",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "raijinfujin"
+    }
+]

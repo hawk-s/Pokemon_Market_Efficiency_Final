@@ -1,0 +1,57 @@
+[
+    {
+        "date": "4/1/2023",
+        "auction_seller": "lizardshvacr",
+        "cert_number": "71723026",
+        "grade": "8",
+        "lot_number": "325583610076",
+        "price": "$9.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9151228956513876472/4376225159985185070.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "price": "$26.00",
+        "cert_number": "55499302",
+        "date": "6/5/2022",
+        "auction_seller": "jpl_collectibles305",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1374788227964824743/1882589112489605021.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "354083188257"
+    },
+    {
+        "grade": "5",
+        "date": "1/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4311868361088474246/5312096197727024704.jpg",
+        "price": "$5.50",
+        "lot_number": "385367635054",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "discountdiff",
+        "cert_number": "69265006"
+    },
+    {
+        "date": "5/26/2023",
+        "auction_seller": "lizardshvacr",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1553530161474731028/691554868304108546.jpg",
+        "grade": "9",
+        "lot_number": "385621992082",
+        "cert_number": "71723027",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$21.69",
+        "cert_number": "59404648",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4690412136995730689/-1824676644063404633.jpg",
+        "auction_seller": "tannah12",
+        "lot_number": "155410916882",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/23/2023"
+    }
+]

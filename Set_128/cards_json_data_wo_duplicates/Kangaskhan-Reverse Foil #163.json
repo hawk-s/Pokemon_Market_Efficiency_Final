@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$7.50",
+        "cert_number": "45521522",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8351512529340265854/4552116093639291818.jpg",
+        "date": "4/16/2020",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "254565094173",
+        "auction_house": "eBay",
+        "auction_seller": "danktron"
+    },
+    {
+        "lot_number": "233733960138",
+        "price": "$17.50",
+        "auction_type": "Best Offer",
+        "auction_seller": "r1k0",
+        "grade": "9",
+        "date": "10/18/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2699623004259536973/-7429307594991870987.jpg",
+        "auction_house": "eBay",
+        "cert_number": "44918339"
+    },
+    {
+        "date": "10/7/2021",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "124929208253",
+        "price": "$12.50",
+        "cert_number": "55258090",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6901525911888252425/1360963329458113823.jpg"
+    }
+]

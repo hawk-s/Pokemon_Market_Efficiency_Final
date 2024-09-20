@@ -1,0 +1,79 @@
+[
+    {
+        "date": "4/26/2020",
+        "cert_number": "45405843",
+        "lot_number": "254575514258",
+        "auction_seller": "tsunagu",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3229344486977930769/8403643127507303456.jpg",
+        "price": "$20.70",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "lot_number": "285961364690",
+        "auction_seller": "alex_attheranch",
+        "date": "7/22/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8830227117491500132/-2654388154235397716.jpg",
+        "price": "$8.10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "87916321"
+    },
+    {
+        "auction_seller": "yamatoyoichiba",
+        "grade": "8",
+        "lot_number": "404934861829",
+        "price": "$22.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3054581871806399695/-7771505465651547651.jpg",
+        "auction_type": "Auction",
+        "date": "4/26/2024",
+        "cert_number": "87916322",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "centerfield_collectibles",
+        "cert_number": "83887706",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/633710492230700567/-2586392062602574034.jpg",
+        "grade": "6",
+        "lot_number": "313510914720",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/6/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1210043027243723446/-5511220894709447759.jpg",
+        "grade": "7",
+        "auction_seller": "yamatoyoichiba",
+        "price": "$27.00",
+        "auction_type": "Auction",
+        "date": "4/26/2024",
+        "lot_number": "404934861437",
+        "auction_house": "eBay",
+        "cert_number": "87916321"
+    },
+    {
+        "cert_number": "95173230",
+        "grade": "7",
+        "date": "8/28/2024",
+        "lot_number": "305737631355",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3678855798641587128/8767245275857822894.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "date": "4/26/2020",
+        "auction_seller": "rhscards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2175512410794592241/-8829129711065378499.jpg",
+        "auction_type": "Best Offer",
+        "price": "$59.99",
+        "lot_number": "362969309363",
+        "cert_number": "44193998",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

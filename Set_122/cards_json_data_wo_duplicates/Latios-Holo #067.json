@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "74066905",
+        "date": "6/29/2023",
+        "lot_number": "364315015031",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3113122579819651920/-3280561740188164404.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "387280588974",
+        "cert_number": "67964800",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3571466548004105667/-5730411821487185976.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/20/2024",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "date": "9/11/2021",
+        "auction_seller": "tsunagu",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6437618307337166369/3078126645428595379.jpg",
+        "cert_number": "58092798",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "255124467310"
+    },
+    {
+        "cert_number": "70338956",
+        "date": "3/6/2023",
+        "price": "$19.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8046068543993404460/-5824929500611297026.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "175630995853",
+        "auction_seller": "olipartner"
+    },
+    {
+        "auction_seller": "awesum-games",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1041198634245181453/7462257590044599824.jpg",
+        "cert_number": "89734686",
+        "lot_number": "285977142633",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/1/2024"
+    },
+    {
+        "cert_number": "63321460",
+        "price": "$30.20",
+        "auction_seller": "shinjuku-donquixote",
+        "lot_number": "284563477893",
+        "date": "12/15/2021",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2337088253417422648/-3044064754448553396.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3943904609925795370/3556383477407624837.jpg",
+        "date": "12/12/2021",
+        "lot_number": "144318091142",
+        "cert_number": "63334496",
+        "auction_seller": "esuprojapan",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$66.00"
+    },
+    {
+        "lot_number": "326093601912",
+        "grade": "10",
+        "cert_number": "89208171",
+        "date": "4/29/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1009948230716006958/7837838502272045580.jpg",
+        "price": "$19.50",
+        "auction_seller": "landedsources"
+    }
+]

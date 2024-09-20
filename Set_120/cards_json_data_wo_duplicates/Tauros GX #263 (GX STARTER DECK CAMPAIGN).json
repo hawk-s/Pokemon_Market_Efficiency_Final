@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "70620969",
+        "date": "2/13/2023",
+        "auction_seller": "cardboundllc",
+        "price": "$17.26",
+        "grade": "9",
+        "lot_number": "225401829988",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9061803971800789494/1840138011357080768.jpg"
+    },
+    {
+        "date": "2/13/2023",
+        "auction_seller": "cardboundllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/621536482867692861/3720575891834000029.jpg",
+        "lot_number": "325524772376",
+        "price": "$20.50",
+        "cert_number": "70620898",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "cert_number": "41972398",
+        "price": "$20.00",
+        "date": "1/20/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2147558937860974811/-2933773822724240787.jpg",
+        "grade": "10",
+        "lot_number": "113548679940"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4844920401239713199/836556702504161658.jpg",
+        "lot_number": "113397301937",
+        "date": "12/2/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "cert_number": "41972399"
+    },
+    {
+        "lot_number": "133897793668",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1891053021939203309/-7024178836706084550.jpg",
+        "price": "$10.50",
+        "grade": "9",
+        "date": "10/18/2021",
+        "cert_number": "43638068",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "date": "3/10/2019",
+        "cert_number": "41972397",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7406823169579998751/-2149401704556407816.jpg",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "123666660353"
+    },
+    {
+        "cert_number": "41713451",
+        "lot_number": "183589642474",
+        "price": "$10.50",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4356845612524257718/-3856012395215559628.jpg",
+        "auction_seller": "kampes_cards",
+        "date": "12/23/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

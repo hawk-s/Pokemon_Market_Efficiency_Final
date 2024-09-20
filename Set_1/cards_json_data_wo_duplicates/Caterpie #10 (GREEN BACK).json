@@ -1,0 +1,57 @@
+[
+    {
+        "date": "2/12/2020",
+        "auction_seller": "rhscards",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "cert_number": "44009414",
+        "lot_number": "362857730704",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7322412711251650514/-5868847624207796640.jpg",
+        "auction_house": "eBay",
+        "price": "$8.49"
+    },
+    {
+        "date": "1/30/2023",
+        "grade": "7",
+        "price": "$16.50",
+        "cert_number": "67500229",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5130841163184988433/2405498235345773090.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius",
+        "lot_number": "134420322164"
+    },
+    {
+        "price": "$10.50",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "cert_number": "61300870",
+        "date": "7/30/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2777617544815461426/-7972031546033947347.jpg",
+        "lot_number": "285391663659",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2273772267263378517/-8640141894145108710.jpg",
+        "price": "$27.17",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "80176096",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki",
+        "lot_number": "134887280855",
+        "date": "1/22/2024"
+    },
+    {
+        "date": "9/11/2021",
+        "price": "$23.19",
+        "cert_number": "54491378",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3387399356783010459/-1360040839485346465.jpg",
+        "grade": "7 (MK)",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "144180082213",
+        "auction_seller": "japan-daisuki"
+    }
+]

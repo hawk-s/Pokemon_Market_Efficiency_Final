@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "293068021191",
+        "auction_type": "Best Offer",
+        "price": "$59.99",
+        "auction_seller": "amtsupply",
+        "date": "2/2/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6197349513593710049/-7770845672029510757.jpg",
+        "cert_number": "43132149",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "185815256527",
+        "price": "$7.87",
+        "cert_number": "53275824",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5092826279672774021/3627361076531042963.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "nicholas_2824",
+        "date": "3/26/2023"
+    },
+    {
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7214763597797108242/-4635766625712604407.jpg",
+        "grade": "9",
+        "lot_number": "384557960673",
+        "auction_type": "Auction",
+        "cert_number": "53250394",
+        "auction_house": "eBay",
+        "auction_seller": "greatgenie",
+        "date": "12/8/2021"
+    },
+    {
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7180445340040531773/-8081160951590777200.jpg",
+        "cert_number": "53250393",
+        "grade": "9",
+        "date": "11/29/2021",
+        "lot_number": "384523833436",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "greatgenie"
+    }
+]

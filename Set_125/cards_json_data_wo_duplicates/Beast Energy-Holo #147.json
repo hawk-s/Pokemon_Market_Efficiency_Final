@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/998895401026952681/-7506568650296054674.jpg",
+        "date": "12/15/2019",
+        "cert_number": "44337267",
+        "auction_seller": "todayshaul",
+        "lot_number": "133272175152",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$10.01"
+    },
+    {
+        "price": "$21.38",
+        "auction_seller": "vispri-21",
+        "date": "2/1/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6768396947851961436/8807072333165185084.jpg",
+        "lot_number": "354501405078",
+        "grade": "9",
+        "cert_number": "66954201",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "hiddenhobbies",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8688597798117075304/-7871842875518593417.jpg",
+        "cert_number": "44337267",
+        "auction_type": "Buy It Now",
+        "date": "5/24/2020",
+        "lot_number": "143604962184",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2530373632696855712/-794360418249646196.jpg",
+        "cert_number": "61474993",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285389744221",
+        "date": "7/30/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$8.52"
+    },
+    {
+        "lot_number": "223963138357",
+        "auction_seller": "entre_collector",
+        "cert_number": "42886834",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-452570520399032191/4084791061847191750.jpg",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/8/2020"
+    }
+]

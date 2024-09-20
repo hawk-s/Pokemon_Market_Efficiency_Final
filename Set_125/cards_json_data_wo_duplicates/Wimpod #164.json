@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$30.00",
+        "auction_seller": "cabanscards123",
+        "auction_type": "Best Offer",
+        "lot_number": "192947512527",
+        "cert_number": "43032815",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5483957470443729255/-2070211800984493812.jpg",
+        "auction_house": "eBay",
+        "date": "10/2/2019",
+        "grade": "10"
+    },
+    {
+        "lot_number": "153420692422",
+        "cert_number": "42601756",
+        "auction_seller": "goldstarccg",
+        "date": "3/25/2019",
+        "price": "$27.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5184612971178040917/5229094515530135438.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "44454740",
+        "price": "$20.00",
+        "lot_number": "223927150379",
+        "auction_type": "Best Offer",
+        "auction_seller": "philspullz",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3655708289137562969/-2011085368123011814.jpg",
+        "auction_house": "eBay",
+        "date": "11/10/2020"
+    },
+    {
+        "auction_seller": "tibo1988",
+        "lot_number": "284137834055",
+        "date": "1/8/2021",
+        "cert_number": "44280270",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7495402094256711161/8726723248097819538.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "jnbcards",
+        "auction_type": "Best Offer",
+        "lot_number": "113791782538",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7684204213558185422/-8213870194292029739.jpg",
+        "date": "8/27/2019",
+        "price": "$26.95",
+        "cert_number": "43220478",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "43982359",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3835374235024218970/-4897483641841475014.jpg",
+        "auction_seller": "entre_collector",
+        "auction_type": "Best Offer",
+        "price": "$40.00",
+        "auction_house": "eBay",
+        "date": "12/11/2020",
+        "grade": "10",
+        "lot_number": "223832580623"
+    }
+]

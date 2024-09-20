@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$0.90",
+        "date": "2/19/2023",
+        "grade": "9",
+        "lot_number": "234895035253",
+        "auction_seller": "tra_collective_au",
+        "auction_type": "Auction",
+        "cert_number": "57792510",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8011966550440112441/-9057260211693843809.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5933289526044037770/5000146357787987244.jpg",
+        "date": "7/20/2024",
+        "auction_seller": "moe_pokemans",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "91599047",
+        "auction_house": "eBay",
+        "lot_number": "326198316136",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4225491141258875600/2618004037880901453.jpg",
+        "cert_number": "77153813",
+        "grade": "8",
+        "auction_seller": "nikocards",
+        "lot_number": "355926617893",
+        "price": "$6.19",
+        "auction_type": "Auction",
+        "date": "8/12/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "82549760",
+        "date": "12/19/2023",
+        "price": "$15.50",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "364620642954",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4713256291845310418/3297049133957499199.jpg"
+    },
+    {
+        "lot_number": "123869656842",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7842537291522747493/3717720298877491270.jpg",
+        "cert_number": "43788702",
+        "auction_type": "Buy It Now",
+        "auction_seller": "jtorres5113",
+        "price": "$23.50",
+        "date": "5/16/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

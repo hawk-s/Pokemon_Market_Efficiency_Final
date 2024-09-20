@@ -1,0 +1,101 @@
+[
+    {
+        "date": "6/2/2023",
+        "price": "$9.50",
+        "lot_number": "275858610124",
+        "cert_number": "74381232",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7356160416616402488/-1162316451028251777.jpg",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/18/2020",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "auction_seller": "eastempiretradingco.ny",
+        "price": "$21.50",
+        "lot_number": "254168179584",
+        "auction_house": "eBay",
+        "cert_number": "41793378",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1947473809814030658/4931021639106192174.jpg"
+    },
+    {
+        "lot_number": "124107343498",
+        "date": "3/15/2020",
+        "cert_number": "44720317",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4748505645937910076/-2089280097658203983.jpg",
+        "price": "$4.00",
+        "auction_seller": "raijinfujin"
+    },
+    {
+        "cert_number": "59594713",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2360768418193671088/-7982919938785287868.jpg",
+        "price": "$65.00",
+        "grade": "9",
+        "lot_number": "334589175954",
+        "auction_seller": "g.o.a.t._trader",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/17/2022"
+    },
+    {
+        "auction_seller": "tennisfun5",
+        "cert_number": "42066094",
+        "lot_number": "224008504892",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "5/19/2020",
+        "price": "$7.49",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7874357811457428413/8130275638106111571.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/32233902460704920/-1023721854243050190.jpg",
+        "lot_number": "185745571876",
+        "price": "$10.50",
+        "auction_seller": "bookbizllc",
+        "grade": "9",
+        "cert_number": "59167141",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/27/2023"
+    },
+    {
+        "date": "8/30/2020",
+        "price": "$15.00",
+        "auction_type": "Best Offer",
+        "lot_number": "202897222043",
+        "grade": "9",
+        "cert_number": "28933870",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4793312751883495343/-66775129867747304.jpg",
+        "auction_seller": "micahspokemoncards",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "313234545726",
+        "auction_seller": "fydaq.adv_54",
+        "auction_type": "Best Offer",
+        "date": "12/23/2020",
+        "grade": "9",
+        "price": "$35.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4801532298233928880/-8204009151170079319.jpg",
+        "auction_house": "eBay",
+        "cert_number": "41793378"
+    },
+    {
+        "cert_number": "41758782",
+        "date": "3/5/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2903192546995648445/-2501316929463177208.jpg",
+        "price": "$9.99",
+        "grade": "9",
+        "lot_number": "233508281708",
+        "auction_seller": "tcgers",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "4/7/2020",
+        "lot_number": "264663353387",
+        "price": "$20.00",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6575023610767922054/-3476075985559791326.jpg",
+        "cert_number": "43726967",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$4.20",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4199747371493458547/125153286538152651.jpg",
+        "grade": "9",
+        "lot_number": "154076820696",
+        "cert_number": "45141061",
+        "auction_seller": "elcald10",
+        "auction_type": "Auction",
+        "date": "9/13/2020",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "68219810",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-729707850966687809/1564702110433029825.jpg",
+        "grade": "8",
+        "price": "$5.50",
+        "auction_seller": "matterandmotiongames",
+        "date": "1/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364098800673"
+    },
+    {
+        "date": "6/17/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3259211794984149820/-3719957175150767332.jpg",
+        "auction_type": "Best Offer",
+        "lot_number": "254556491899",
+        "grade": "9",
+        "cert_number": "45141061",
+        "price": "$8.50",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay"
+    }
+]

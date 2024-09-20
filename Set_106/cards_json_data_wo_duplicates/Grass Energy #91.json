@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$4.25",
+        "date": "1/23/2018",
+        "lot_number": "362215418351",
+        "auction_seller": "probstein123",
+        "cert_number": "28182386",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4860811873902579546/-2088889971509777837.jpg"
+    },
+    {
+        "date": "3/5/2021",
+        "auction_type": "Best Offer",
+        "price": "$65.00",
+        "cert_number": "28182386",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1945476807748332669/-9122877342770615708.jpg",
+        "auction_seller": "racetrackbaby",
+        "lot_number": "143918519199",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

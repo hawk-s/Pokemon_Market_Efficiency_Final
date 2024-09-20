@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "53250382",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7386563570079584279/-6682579276475452533.jpg",
+        "price": "$6.50",
+        "date": "11/29/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "greatgenie",
+        "lot_number": "384523753428"
+    },
+    {
+        "grade": "9 (OC)",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/908340224252104488/-5549531696905284025.jpg",
+        "date": "5/19/2019",
+        "price": "$15.50",
+        "cert_number": "43243695",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "lot_number": "254229083756"
+    },
+    {
+        "date": "5/22/2024",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1310279834147182319/3481364955094084845.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "226147969885",
+        "grade": "10",
+        "auction_seller": "laheys_cards",
+        "cert_number": "91133585"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2490598007606481830/-9035748615656876433.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/10/2023",
+        "price": "$25.00",
+        "lot_number": "385587461590",
+        "auction_seller": "thecardacctant",
+        "grade": "10",
+        "cert_number": "74391209"
+    }
+]

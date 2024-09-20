@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "42700813",
+        "date": "4/23/2020",
+        "auction_type": "Best Offer",
+        "price": "$9.95",
+        "auction_seller": "liquidatememedia",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4033312050554933195/6781994371506171552.jpg",
+        "lot_number": "124153764403"
+    },
+    {
+        "price": "$61.00",
+        "date": "7/11/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6915458708606745427/6429541731800937467.jpg",
+        "auction_seller": "liquidationme",
+        "auction_type": "Auction",
+        "cert_number": "75703540",
+        "lot_number": "126000611285",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/2/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/478034444366305829/701408787479870667.jpg",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285874131221",
+        "cert_number": "54963587"
+    },
+    {
+        "cert_number": "42700813",
+        "lot_number": "113831533006",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5491041299015180747/-846310918141391318.jpg",
+        "price": "$10.00",
+        "grade": "9",
+        "auction_seller": "liquidationme",
+        "auction_house": "eBay",
+        "date": "9/1/2019"
+    },
+    {
+        "date": "7/10/2024",
+        "grade": "9",
+        "lot_number": "326181305750",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "74642245",
+        "auction_seller": "nothingbutthebestforme",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7436363767484112246/1838375863265687357.jpg"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8628988150656067538/-790505484074105055.jpg",
+        "cert_number": "93220342",
+        "price": "$14.00",
+        "lot_number": "305750217182",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "9/4/2024",
+        "auction_seller": "psa"
+    }
+]

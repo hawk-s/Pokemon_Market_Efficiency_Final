@@ -1,0 +1,46 @@
+[
+    {
+        "date": "8/28/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3780005322986699332/-4299482337899786796.jpg",
+        "cert_number": "41161118",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "lot_number": "192633838174",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "254202800907",
+        "auction_type": "Best Offer",
+        "cert_number": "41655561",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8547553049352716575/6646602194618360993.jpg",
+        "auction_seller": "eastempiretradingco.ny",
+        "date": "10/22/2020",
+        "price": "$35.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "49917211",
+        "lot_number": "174846715543",
+        "date": "7/23/2021",
+        "auction_seller": "rainydaycards",
+        "grade": "8",
+        "price": "$1.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2165222090051525490/6790933196802172508.jpg"
+    },
+    {
+        "auction_seller": "detor95",
+        "cert_number": "49917211",
+        "date": "6/6/2022",
+        "grade": "8",
+        "price": "$6.50",
+        "lot_number": "403693811475",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3377587541236800614/-7038904938197037279.jpg"
+    }
+]

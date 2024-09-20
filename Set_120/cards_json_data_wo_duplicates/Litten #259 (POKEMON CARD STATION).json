@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "323679232821",
+        "auction_type": "Best Offer",
+        "auction_seller": "charizandrew",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/751150044273480786/-2159444925154328360.jpg",
+        "price": "$80.00",
+        "auction_house": "eBay",
+        "cert_number": "42417362",
+        "grade": "10",
+        "date": "12/24/2020"
+    },
+    {
+        "price": "$78.50",
+        "lot_number": "333317699656",
+        "auction_seller": "psa_collector",
+        "date": "11/16/2020",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/285667873533144697/4248041203883158403.jpg",
+        "cert_number": "43889411",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/25/2019",
+        "lot_number": "401884896873",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6022663640960635297/-7767027084717385569.jpg",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "42304951",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$26.58"
+    }
+]

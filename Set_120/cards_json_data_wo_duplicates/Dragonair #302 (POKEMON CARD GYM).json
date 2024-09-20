@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "pwcc_vault",
+        "lot_number": "224444165917",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8473615908563182982/-3143549019383481570.jpg",
+        "cert_number": "44649351",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/5/2021",
+        "grade": "10",
+        "price": "$187.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2542430183042103657/-2942451271367805609.jpg",
+        "date": "4/25/2023",
+        "price": "$36.00",
+        "auction_seller": "esuprojapan",
+        "auction_type": "Auction",
+        "lot_number": "145036726895",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "70340746"
+    },
+    {
+        "date": "3/29/2021",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143982142067",
+        "cert_number": "44649351",
+        "price": "$76.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2126134042252427019/4754325571157728046.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$70.00",
+        "cert_number": "66121139",
+        "auction_seller": "esuprojapan",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "144868610784",
+        "date": "1/2/2023",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4843572245618748214/-5221258710459082021.jpg"
+    },
+    {
+        "date": "3/29/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1985091518780142193/-146649312831803326.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "61731504",
+        "lot_number": "375324936048",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "date": "12/11/2023",
+        "grade": "9",
+        "auction_seller": "esuprojapan",
+        "cert_number": "80572534",
+        "price": "$51.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/235855007182058851/3628055028923577505.jpg",
+        "auction_type": "Auction",
+        "lot_number": "145471410623",
+        "auction_house": "eBay"
+    }
+]

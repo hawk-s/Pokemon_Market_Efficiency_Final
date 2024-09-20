@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "285508626789",
+        "cert_number": "69698955",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4743535289033803103/-2547745873823059016.jpg",
+        "auction_seller": "zandgemporium",
+        "date": "10/15/2023",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "date": "4/7/2020",
+        "auction_type": "Buy It Now",
+        "cert_number": "43726962",
+        "lot_number": "254537396921",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3792883708881718757/-2687841178932309037.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "254454613788",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4188620670581296556/-4894294534732238479.jpg",
+        "price": "$10.00",
+        "auction_type": "Auction",
+        "cert_number": "44461291",
+        "auction_seller": "danktron",
+        "date": "12/22/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "254469553298",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2644756237357825552/-4894294534732238479.jpg",
+        "date": "1/8/2020",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "cert_number": "44461291",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "42383812",
+        "auction_seller": "dewvein",
+        "lot_number": "264215566419",
+        "price": "$10.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7201377586864742586/8174607395367773380.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/3/2019"
+    },
+    {
+        "date": "5/4/2020",
+        "cert_number": "42383812",
+        "price": "$17.95",
+        "lot_number": "313003430315",
+        "auction_type": "Buy It Now",
+        "auction_seller": "kantos_finest",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-843330865275765992/-5717840897259918099.jpg",
+        "auction_house": "eBay"
+    }
+]

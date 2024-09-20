@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/113269582397291669/-8292111770099333956.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "143334211246",
+        "date": "7/30/2019",
+        "grade": "10",
+        "cert_number": "41713410"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1673908006677192705/5548872762437504129.jpg",
+        "date": "5/28/2019",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41713410",
+        "lot_number": "352667745281"
+    },
+    {
+        "price": "$21.58",
+        "lot_number": "204125850398",
+        "cert_number": "65385224",
+        "auction_seller": "thewardenscollectibles",
+        "date": "10/26/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6203034193321972085/-3225947444573904242.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "42481674",
+        "price": "$9.98",
+        "lot_number": "133009018214",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2578736626809669063/1335885570147285651.jpg",
+        "date": "4/7/2019",
+        "auction_seller": "japan-daisuki"
+    }
+]

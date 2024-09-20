@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "45521572",
+        "date": "10/8/2020",
+        "grade": "8",
+        "auction_seller": "pokedad_gym",
+        "price": "$5.98",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5442068539667288838/2903465899492495211.jpg",
+        "lot_number": "143768098208"
+    },
+    {
+        "price": "$15.00",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6696042454050151163/-1033563170448310750.jpg",
+        "cert_number": "40956398",
+        "auction_seller": "tobballe-0",
+        "lot_number": "392646765657",
+        "auction_house": "eBay",
+        "date": "4/29/2020",
+        "grade": "10"
+    },
+    {
+        "cert_number": "45521572",
+        "lot_number": "254501728688",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8904135730009697940/-4303286112504840481.jpg",
+        "grade": "8",
+        "price": "$3.75",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "date": "2/9/2020"
+    }
+]

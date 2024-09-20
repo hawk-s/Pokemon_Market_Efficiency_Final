@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$60.00",
+        "auction_seller": "hooverac",
+        "cert_number": "43849719",
+        "lot_number": "283663609972",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8126901977696442313/-6793515089344535830.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$34.99",
+        "lot_number": "193203198729",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1769778465502037477/-4590732329540636217.jpg",
+        "cert_number": "43849719",
+        "date": "7/28/2020",
+        "auction_seller": "gooddoggaming",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "5/14/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/412221574767219131/-297585293700597616.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "89787604",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "386985732337"
+    },
+    {
+        "price": "$9.50",
+        "date": "2/5/2019",
+        "grade": "10",
+        "cert_number": "42366526",
+        "auction_seller": "poketrader007",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "323671121777",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6100910451997617671/-551945837621555303.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6835663156406308838/-297585293700597616.jpg",
+        "grade": "9",
+        "date": "5/29/2024",
+        "auction_seller": "probstein123",
+        "cert_number": "89787604",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "lot_number": "375442420496",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.50",
+        "lot_number": "402099056628",
+        "auction_seller": "pwcc_auctions",
+        "auction_type": "Auction",
+        "cert_number": "43799831",
+        "date": "2/26/2020",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7128462840249032432/2716494677991584644.jpg"
+    }
+]

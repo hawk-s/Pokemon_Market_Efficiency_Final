@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "7",
+        "lot_number": "292624325461",
+        "auction_seller": "cardrushinc",
+        "date": "9/24/2020",
+        "auction_type": "Best Offer",
+        "cert_number": "40753506",
+        "price": "$19.95",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2199981747584096609/4470301157778341569.jpg"
+    },
+    {
+        "auction_seller": "cardrushinc",
+        "auction_type": "Best Offer",
+        "cert_number": "40753512",
+        "grade": "9",
+        "date": "11/3/2020",
+        "auction_house": "eBay",
+        "price": "$29.95",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/242081744021582486/2469688336523282123.jpg",
+        "lot_number": "292554569440"
+    },
+    {
+        "lot_number": "374779830200",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5916862689699170896/-39158316578678751.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "26855004",
+        "date": "7/5/2023",
+        "grade": "10",
+        "price": "$265.00"
+    },
+    {
+        "lot_number": "364323825028",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8826514517043693229/-7072210972236001959.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/5/2023",
+        "cert_number": "26855005"
+    },
+    {
+        "lot_number": "353357452318",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "48971767",
+        "grade": "9",
+        "date": "1/28/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5132270846171973834/-5079135562672206834.jpg",
+        "price": "$47.33"
+    }
+]

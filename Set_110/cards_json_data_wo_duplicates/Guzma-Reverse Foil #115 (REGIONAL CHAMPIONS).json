@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$3.25",
+        "cert_number": "44497540",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5764418655194866674/5666706703582957445.jpg",
+        "lot_number": "233403172661",
+        "auction_seller": "tcgers",
+        "auction_type": "Auction",
+        "date": "11/21/2019",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "44497540",
+        "grade": "8",
+        "price": "$9.99",
+        "auction_seller": "trainersef",
+        "date": "5/16/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8727505401839131023/1652097194651865052.jpg",
+        "lot_number": "233584833938"
+    }
+]

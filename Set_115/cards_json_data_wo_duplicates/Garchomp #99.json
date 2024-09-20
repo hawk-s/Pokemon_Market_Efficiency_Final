@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "gandalf4300",
+        "price": "$14.75",
+        "auction_type": "Best Offer",
+        "cert_number": "42066070",
+        "grade": "9",
+        "lot_number": "324222474546",
+        "date": "7/28/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7396293598795744640/-1834443488317636200.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/3/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2169507983233857390/2754269299535949820.jpg",
+        "auction_seller": "selectathleticsmn",
+        "cert_number": "40937428",
+        "price": "$77.00",
+        "lot_number": "294032970294",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "224008502199",
+        "auction_seller": "tennisfun5",
+        "cert_number": "42066070",
+        "price": "$5.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "5/19/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-403581898393203155/-7756755149897259666.jpg",
+        "auction_house": "eBay"
+    }
+]

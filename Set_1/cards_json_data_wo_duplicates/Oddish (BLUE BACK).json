@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$10.50",
+        "lot_number": "401769454390",
+        "date": "5/28/2019",
+        "cert_number": "27904609",
+        "grade": "3",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5785301960950294435/7962433401741361616.jpg"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "53337451",
+        "lot_number": "353501387247",
+        "grade": "6",
+        "price": "$53.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1755315168768880178/-6295049411694156734.jpg",
+        "auction_type": "Auction",
+        "date": "5/29/2021"
+    },
+    {
+        "lot_number": "132412267697",
+        "price": "$4.25",
+        "date": "12/5/2017",
+        "cert_number": "27904609",
+        "grade": "3",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-219188959420896230/2154364271489337552.jpg",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1589770004138094324/905686730173513267.jpg",
+        "date": "4/10/2018",
+        "auction_type": "Best Offer",
+        "auction_seller": "vstallins",
+        "cert_number": "27904609",
+        "grade": "3",
+        "lot_number": "183164446757",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$36.50",
+        "date": "8/13/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2706119096882291006/2813506969563178779.jpg",
+        "auction_type": "Auction",
+        "cert_number": "40811469",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "132730163430",
+        "auction_seller": "japan-daisuki"
+    }
+]

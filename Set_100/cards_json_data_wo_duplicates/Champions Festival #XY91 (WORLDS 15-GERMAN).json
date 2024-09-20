@@ -1,0 +1,79 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/987679160038913988/-2318199992798942148.jpg",
+        "date": "12/7/2022",
+        "cert_number": "61267685",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "gazs711",
+        "auction_house": "eBay",
+        "price": "$66.37",
+        "lot_number": "334646380895"
+    },
+    {
+        "cert_number": "84932124",
+        "lot_number": "395295027556",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4481411916421736926/-1978645759905201650.jpg",
+        "grade": "9",
+        "price": "$34.00",
+        "date": "4/2/2024",
+        "auction_seller": "luckyvaultus",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/29/2021",
+        "price": "$129.39",
+        "auction_seller": "card_secret",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "55743160",
+        "auction_house": "eBay",
+        "lot_number": "114945453475",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8045981073200418642/-125838491324765790.jpg"
+    },
+    {
+        "price": "$42.69",
+        "cert_number": "73625228",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4635642626317161573/-1350552338358354290.jpg",
+        "date": "4/29/2024",
+        "lot_number": "404936085029",
+        "auction_seller": "mountainwest_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ideal808",
+        "date": "7/10/2023",
+        "cert_number": "72995551",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4758833231730065520/3548110199725361428.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "314684984009",
+        "auction_house": "eBay",
+        "price": "$71.00"
+    },
+    {
+        "lot_number": "404967174353",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8582140068153782495/1053644668938318225.jpg",
+        "cert_number": "73625228",
+        "date": "5/19/2024",
+        "grade": "8",
+        "auction_seller": "mountainwest_collectibles",
+        "price": "$64.88",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "386416481989",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1705788839467609878/-1929083026903670994.jpg",
+        "cert_number": "74187240",
+        "grade": "8",
+        "price": "$76.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "12/20/2023",
+        "auction_house": "eBay"
+    }
+]

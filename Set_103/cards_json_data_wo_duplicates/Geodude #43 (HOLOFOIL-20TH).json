@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "57695399",
+        "price": "$14.21",
+        "auction_seller": "gardnkierr",
+        "grade": "9",
+        "date": "1/20/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4748531112575015020/-7621074054984001373.jpg",
+        "lot_number": "115672359354"
+    },
+    {
+        "cert_number": "66796448",
+        "date": "4/1/2023",
+        "auction_seller": "playskapegames",
+        "price": "$15.57",
+        "grade": "9",
+        "lot_number": "225488887568",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6895918863139285375/-6250076345008218620.jpg"
+    },
+    {
+        "price": "$99.99",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5740316451059324559/4519165221275258340.jpg",
+        "date": "11/30/2020",
+        "auction_seller": "blowoutcards2",
+        "cert_number": "46439085",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "114521080327"
+    }
+]

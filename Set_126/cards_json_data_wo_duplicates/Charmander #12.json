@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$42.00",
+        "auction_seller": "slab10stradingcards",
+        "cert_number": "51415642",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/312515741958752919/-4361554298114173655.jpg",
+        "date": "7/10/2021",
+        "grade": "10",
+        "lot_number": "203514604148"
+    },
+    {
+        "lot_number": "305730598510",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8612660004737220933/4717539953966431446.jpg",
+        "date": "8/24/2024",
+        "grade": "8",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "cert_number": "94736563",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "date": "8/30/2024",
+        "lot_number": "365070630396",
+        "price": "$10.50",
+        "cert_number": "47321274",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6471795403983973847/-1586831477926065250.jpg",
+        "auction_seller": "4_sharp_corners",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

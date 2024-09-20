@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$7.50",
+        "lot_number": "234315694261",
+        "auction_seller": "comc_consignment",
+        "date": "12/11/2021",
+        "grade": "9",
+        "cert_number": "51769603",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6993082718006301756/4362167200696572797.jpg"
+    },
+    {
+        "date": "5/31/2024",
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8647164058086873900/7707926743191670296.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "51769603",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "387028114588"
+    },
+    {
+        "lot_number": "254184543831",
+        "date": "10/30/2020",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4795775750838813753/6322634779773185127.jpg",
+        "cert_number": "41655601",
+        "grade": "9",
+        "auction_seller": "eastempiretradingco.ny",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    }
+]

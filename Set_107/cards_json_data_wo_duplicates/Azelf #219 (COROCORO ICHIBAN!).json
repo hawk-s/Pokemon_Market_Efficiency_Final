@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "goodsoddities",
+        "date": "6/19/2023",
+        "lot_number": "325692121114",
+        "cert_number": "61170039",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6608849393217516218/-3287077615778021656.jpg",
+        "price": "$46.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "pocket_monsters_for_sale",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6023650957144625151/-1898228854301457706.jpg",
+        "lot_number": "363082055876",
+        "auction_type": "Best Offer",
+        "date": "11/28/2020",
+        "price": "$62.99",
+        "cert_number": "45774147",
+        "auction_house": "eBay"
+    }
+]

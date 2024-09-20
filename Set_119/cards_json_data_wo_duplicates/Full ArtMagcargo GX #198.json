@@ -1,0 +1,112 @@
+[
+    {
+        "price": "$17.00",
+        "date": "5/30/2020",
+        "grade": "9",
+        "cert_number": "44343167",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-663800187645756398/920214985690509582.jpg",
+        "lot_number": "373062390143",
+        "auction_house": "eBay",
+        "auction_seller": "freedomorbust"
+    },
+    {
+        "price": "$29.98",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1221063456012386786/-6655579442951668494.jpg",
+        "date": "7/14/2020",
+        "cert_number": "42930245",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "compusmartpr",
+        "lot_number": "233172908720"
+    },
+    {
+        "price": "$26.00",
+        "date": "1/13/2023",
+        "cert_number": "68533942",
+        "lot_number": "275598452329",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4985558725447553254/-9177742300182133957.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pokemondealsnj",
+        "price": "$3.76",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6023443664312192398/-7483837407275347987.jpg",
+        "grade": "9",
+        "cert_number": "44343167",
+        "date": "3/28/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "324110754983"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2427225743934424963/-4930791128808751253.jpg",
+        "lot_number": "393130843914",
+        "auction_seller": "annemcm-1",
+        "date": "3/6/2021",
+        "auction_type": "Best Offer",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "42412590"
+    },
+    {
+        "price": "$11.00",
+        "date": "10/13/2019",
+        "cert_number": "44178851",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9073570014339450094/-5998467743279333760.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tcfsupplies",
+        "grade": "10",
+        "lot_number": "383186983385"
+    },
+    {
+        "auction_seller": "windduck808",
+        "lot_number": "143420173405",
+        "price": "$7.00",
+        "grade": "9",
+        "cert_number": "43981279",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4696681899151266174/3480910023297600771.jpg",
+        "auction_type": "Auction",
+        "date": "10/27/2019",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$16.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/24/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1852665892259500617/-1939207963161090377.jpg",
+        "cert_number": "42412530",
+        "grade": "10",
+        "lot_number": "362560275815"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9200002922723221689/-6738978297501668842.jpg",
+        "auction_seller": "toppsaholic",
+        "auction_type": "Best Offer",
+        "lot_number": "124579546651",
+        "grade": "9",
+        "cert_number": "43981280",
+        "date": "2/25/2021",
+        "auction_house": "eBay",
+        "price": "$35.50"
+    },
+    {
+        "lot_number": "133726065237",
+        "auction_seller": "josepcompolong0",
+        "cert_number": "44462833",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7642973174898496079/-3201904155353798066.jpg",
+        "date": "4/20/2021",
+        "auction_house": "eBay",
+        "price": "$29.50"
+    }
+]

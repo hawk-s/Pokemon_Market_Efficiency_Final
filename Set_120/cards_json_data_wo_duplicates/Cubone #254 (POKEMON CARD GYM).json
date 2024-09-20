@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "japan-international-trade",
+        "price": "$15.00",
+        "date": "3/1/2020",
+        "lot_number": "114123399290",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9094673814881776258/-4209029607776176769.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "43618140"
+    },
+    {
+        "date": "12/19/2021",
+        "lot_number": "125048774037",
+        "auction_seller": "andandre.ibl7kl",
+        "price": "$46.65",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5546088036729605641/5573512018711304427.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "43618140"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6240289072785801539/1606413663968325079.jpg",
+        "auction_seller": "japan-international-trade",
+        "date": "3/10/2019",
+        "price": "$15.50",
+        "cert_number": "42935764",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "113666351075"
+    }
+]

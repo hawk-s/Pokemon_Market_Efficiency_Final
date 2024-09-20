@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6326615279417972898/-5004729216418543668.jpg",
+        "auction_seller": "comc_consignment",
+        "lot_number": "256502704337",
+        "cert_number": "87843460",
+        "auction_type": "Auction",
+        "date": "5/20/2024",
+        "auction_house": "eBay",
+        "price": "$96.00",
+        "grade": "10"
+    },
+    {
+        "price": "$22.83",
+        "cert_number": "54278073",
+        "auction_seller": "thegradednation",
+        "date": "9/29/2021",
+        "grade": "9",
+        "lot_number": "324799115522",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3781866371027288651/-904314239324327485.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4767999403181443831/-1834649575106827988.jpg",
+        "price": "$48.11",
+        "lot_number": "324788310199",
+        "auction_seller": "thegradednation",
+        "grade": "9",
+        "date": "9/20/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "54278072"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "auction_seller": "sayheypa",
+        "price": "$50.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4893692010185365942/7438130293345627296.jpg",
+        "lot_number": "303583879689",
+        "auction_house": "eBay",
+        "date": "7/16/2020",
+        "cert_number": "27322520",
+        "grade": "10"
+    },
+    {
+        "price": "$55.00",
+        "date": "3/5/2021",
+        "lot_number": "143918481335",
+        "auction_type": "Best Offer",
+        "auction_seller": "racetrackbaby",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2485296596868547663/-5767372537310681146.jpg",
+        "auction_house": "eBay",
+        "cert_number": "27322520",
+        "grade": "10"
+    }
+]

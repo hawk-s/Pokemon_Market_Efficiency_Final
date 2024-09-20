@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$60.00",
+        "auction_seller": "sieds_steins",
+        "auction_type": "Best Offer",
+        "cert_number": "27009240",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4991220950057019644/-6603052416115836352.jpg",
+        "grade": "9",
+        "date": "4/15/2018",
+        "auction_house": "eBay",
+        "lot_number": "201876135426"
+    },
+    {
+        "cert_number": "73466794",
+        "price": "$99.99",
+        "auction_seller": "cats*wares",
+        "grade": "8",
+        "date": "6/21/2023",
+        "lot_number": "256109177089",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6870878809029886658/6123603067506244290.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6820888984358445115/-1591694721534252423.jpg",
+        "grade": "7",
+        "date": "7/29/2024",
+        "cert_number": "76553710",
+        "auction_seller": "zandgemporium",
+        "auction_type": "Auction",
+        "lot_number": "285966290203",
+        "auction_house": "eBay",
+        "price": "$46.78"
+    },
+    {
+        "grade": "8",
+        "date": "4/29/2024",
+        "lot_number": "135032509040",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-486361362598630303/-7092310537502416967.jpg",
+        "auction_type": "Auction",
+        "cert_number": "87939160",
+        "auction_house": "eBay",
+        "price": "$81.00",
+        "auction_seller": "reno0327"
+    }
+]

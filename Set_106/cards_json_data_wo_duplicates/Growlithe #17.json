@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/31/2021",
+        "auction_seller": "slab10stradingcards",
+        "price": "$24.99",
+        "cert_number": "53691585",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3133773216275526314/8803503564067247089.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "203765632906"
+    },
+    {
+        "date": "11/6/2017",
+        "lot_number": "372121143974",
+        "auction_seller": "probstein123",
+        "cert_number": "28182382",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8712413502215193050/-9195488122484881714.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$4.00",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1003441699335864879/6217775429663106434.jpg",
+        "price": "$38.00",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285597254226",
+        "cert_number": "46396644",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/8/2023",
+        "price": "$86.00",
+        "auction_seller": "4_sharp_corners",
+        "auction_type": "Auction",
+        "lot_number": "386065609185",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5135315390443106562/-922229448728460481.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "79586255"
+    },
+    {
+        "cert_number": "87843422",
+        "auction_seller": "comc_consignment",
+        "lot_number": "235694243632",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6823155683593804575/-6834122817188093595.jpg",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "grade": "10"
+    }
+]

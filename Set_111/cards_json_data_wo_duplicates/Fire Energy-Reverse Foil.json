@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$20.00",
+        "date": "12/30/2020",
+        "auction_type": "Best Offer",
+        "lot_number": "313223305401",
+        "cert_number": "43196821",
+        "grade": "9",
+        "auction_seller": "sanz4815",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3102028494730408965/-7196289662501723513.jpg"
+    },
+    {
+        "price": "$22.49",
+        "auction_type": "Buy It Now",
+        "auction_seller": "cardcavecentral",
+        "cert_number": "45444792",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1864926265411699086/-1655924308327600665.jpg",
+        "lot_number": "174255189957",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "5/18/2020"
+    },
+    {
+        "cert_number": "52703850",
+        "lot_number": "154751191146",
+        "date": "12/23/2021",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5775747716442346910/-6034589906989078240.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

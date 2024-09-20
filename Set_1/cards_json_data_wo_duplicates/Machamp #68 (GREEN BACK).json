@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "133864654467",
+        "date": "9/11/2021",
+        "price": "$10.48",
+        "cert_number": "54491470",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1351684626824053057/4129279243205402082.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8738700926471538405/8242836509839506810.jpg",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "lot_number": "401961074478",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$38.99",
+        "cert_number": "41923776"
+    },
+    {
+        "cert_number": "44001919",
+        "lot_number": "362969309396",
+        "auction_seller": "rhscards",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3352468167850340414/-209857929028057659.jpg",
+        "price": "$49.99",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/15/2020"
+    },
+    {
+        "grade": "7",
+        "cert_number": "56807630",
+        "auction_seller": "1steditionpokemon",
+        "date": "7/22/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3362672286094625016/7579316225611506308.jpg",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "176428241308"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "cert_number": "58095547",
+        "lot_number": "235124887264",
+        "grade": "9",
+        "date": "8/25/2023",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2290622540757425127/-8461383928496363596.jpg"
+    },
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "274368115953",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8230725688522806663/5139368333552967822.jpg",
+        "price": "$75.00",
+        "auction_seller": "90s_toybox",
+        "date": "6/25/2020",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41923776"
+    },
+    {
+        "price": "$60.00",
+        "date": "3/10/2019",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6574946757148160586/-5905283029644428624.jpg",
+        "auction_seller": "arcadiatradingcardstore",
+        "lot_number": "273555210639",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41923776"
+    }
+]

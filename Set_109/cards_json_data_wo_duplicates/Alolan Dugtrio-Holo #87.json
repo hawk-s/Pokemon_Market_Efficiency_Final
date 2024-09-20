@@ -1,0 +1,101 @@
+[
+    {
+        "cert_number": "52187825",
+        "date": "11/8/2021",
+        "lot_number": "255205604740",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5202113495192149983/6963851691097859736.jpg",
+        "auction_seller": "sellers_sportscards",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.00",
+        "lot_number": "255704165102",
+        "cert_number": "59336038",
+        "auction_seller": "sellers_sportscards",
+        "grade": "9",
+        "date": "9/8/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5529201133053193009/2915410426388882447.jpg"
+    },
+    {
+        "lot_number": "255170197988",
+        "price": "$6.55",
+        "cert_number": "52187825",
+        "auction_seller": "sellers_sportscards",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2979958398114814734/6963851691097859736.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/16/2021"
+    },
+    {
+        "lot_number": "374872454058",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4870027549444685431/-1781145999616995560.jpg",
+        "cert_number": "27033724",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "date": "8/16/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6902956683356244103/-8280437972156502361.jpg",
+        "cert_number": "27491467",
+        "price": "$22.99",
+        "auction_seller": "errormissingno",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "402568255282",
+        "date": "11/29/2020"
+    },
+    {
+        "lot_number": "274486175638",
+        "date": "9/18/2020",
+        "cert_number": "45920729",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/230842092274604059/3866704241777403471.jpg"
+    },
+    {
+        "auction_seller": "kevigan-2",
+        "price": "$9.99",
+        "lot_number": "192216425247",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27288005",
+        "grade": "10",
+        "date": "6/20/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8390002440535137966/-2358861974999231171.jpg"
+    },
+    {
+        "cert_number": "54890621",
+        "lot_number": "275285972635",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7967888845449128582/1154577032455845795.jpg",
+        "price": "$40.00",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "5/13/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8373516466047903622/-6165325611452656548.jpg",
+        "cert_number": "52648102",
+        "date": "3/18/2021",
+        "auction_seller": "shopdrifthouse",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "313449585490",
+        "price": "$16.50"
+    }
+]

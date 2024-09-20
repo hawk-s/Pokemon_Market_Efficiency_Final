@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2692018002142267146/2284501186955990547.jpg",
+        "lot_number": "304337457536",
+        "cert_number": "52652491",
+        "auction_seller": "wespar-4173",
+        "auction_type": "Auction",
+        "date": "2/5/2022",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "254416024455",
+        "auction_seller": "okemos16",
+        "cert_number": "42063399",
+        "price": "$10.00",
+        "date": "11/14/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-637422394539070371/-7356531808320936417.jpg"
+    },
+    {
+        "price": "$61.00",
+        "lot_number": "204180783828",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7555485323370454267/-3298846278551933685.jpg",
+        "date": "12/21/2022",
+        "auction_seller": "tb12project",
+        "auction_type": "Auction",
+        "cert_number": "60676065",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8023404297488972469/-1917035046218549561.jpg",
+        "lot_number": "115699166452",
+        "grade": "9",
+        "cert_number": "58713025",
+        "auction_type": "Auction",
+        "date": "2/15/2023",
+        "auction_house": "eBay",
+        "price": "$12.89"
+    },
+    {
+        "auction_seller": "treborxps",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6426028255140920268/1082613958930881789.jpg",
+        "price": "$25.78",
+        "date": "12/4/2021",
+        "auction_type": "Auction",
+        "cert_number": "51794172",
+        "lot_number": "125023211040",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

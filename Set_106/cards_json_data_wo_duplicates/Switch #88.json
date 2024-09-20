@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$3.25",
+        "date": "11/6/2017",
+        "cert_number": "28182352",
+        "auction_seller": "probstein123",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6623126988225653348/-4959565087686044731.jpg",
+        "auction_type": "Auction",
+        "lot_number": "372118410992",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6430440638963851190/-4331734401377114773.jpg",
+        "auction_seller": "worldchampionsportscards",
+        "cert_number": "67431176",
+        "lot_number": "195733794923",
+        "date": "5/3/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    }
+]

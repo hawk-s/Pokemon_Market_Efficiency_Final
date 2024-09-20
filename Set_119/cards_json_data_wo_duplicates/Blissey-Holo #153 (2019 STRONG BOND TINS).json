@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "186108765421",
+        "date": "10/10/2023",
+        "cert_number": "55328021",
+        "auction_seller": "br3ttvai",
+        "price": "$26.02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5463935263756212623/-1676584913600908362.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/29/2023",
+        "cert_number": "59968515",
+        "price": "$34.32",
+        "auction_seller": "ow_collectibles",
+        "lot_number": "385716374306",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4293735075199868109/7239457560693028183.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "135073159475",
+        "price": "$10.50",
+        "date": "6/3/2024",
+        "grade": "9",
+        "cert_number": "83067069",
+        "auction_seller": "ravenseyegaming",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6975476977608932011/-6583795943363981175.jpg"
+    },
+    {
+        "date": "12/31/2021",
+        "grade": "8",
+        "auction_seller": "jacanddan_collectibles",
+        "lot_number": "275065160305",
+        "price": "$9.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6832389426092846319/-5033739656011097408.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "54490195"
+    }
+]

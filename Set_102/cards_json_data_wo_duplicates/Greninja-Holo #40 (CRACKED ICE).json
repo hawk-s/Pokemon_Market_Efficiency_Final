@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "313431150415",
+        "cert_number": "43930584",
+        "date": "2/27/2021",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3645406125769430637/-6368257181521952787.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "honestworksfirst",
+        "auction_house": "eBay",
+        "price": "$66.00"
+    },
+    {
+        "cert_number": "54013852",
+        "lot_number": "125047482878",
+        "auction_seller": "stepbrotherscollectibles",
+        "date": "12/20/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8923559922223654280/-3627197334646039433.jpg",
+        "grade": "9",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "40844185",
+        "date": "12/30/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7033813479866626898/7257342491892862101.jpg",
+        "lot_number": "274623531266",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "cyun1268",
+        "auction_house": "eBay",
+        "price": "$81.00"
+    }
+]

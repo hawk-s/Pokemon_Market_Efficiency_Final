@@ -1,0 +1,79 @@
+[
+    {
+        "date": "1/9/2018",
+        "price": "$2.25",
+        "cert_number": "28103133",
+        "lot_number": "382329038796",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/493553235626920612/904753243220454473.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "70447495",
+        "price": "$16.12",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4394936800716840399/-2310393967114639928.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "314473089964",
+        "auction_seller": "nevergonnaletmewdown",
+        "date": "3/26/2023"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/8998289447997996773/8318018064388508728.jpg",
+        "cert_number": "27110394",
+        "price": "$24.99",
+        "lot_number": "112412036341",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "date": "5/25/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2222117531797174902/1169065225528541649.jpg",
+        "date": "12/9/2022",
+        "cert_number": "60232432",
+        "grade": "9",
+        "lot_number": "185684754262",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "acclear"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7331307331405644274/-1388995288580535417.jpg",
+        "auction_seller": "japan-higasi-116",
+        "date": "3/27/2021",
+        "price": "$56.00",
+        "lot_number": "233936326328",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "46137237"
+    },
+    {
+        "date": "1/31/2021",
+        "price": "$52.00",
+        "auction_seller": "japan-higasi-116",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8714450160939189551/2097006673162320173.jpg",
+        "auction_type": "Auction",
+        "lot_number": "233870508711",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "46137237"
+    },
+    {
+        "cert_number": "56372533",
+        "lot_number": "364486177114",
+        "grade": "8",
+        "date": "9/26/2023",
+        "auction_seller": "probstein123",
+        "price": "$14.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6802055102039770254/-7210930101171607746.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

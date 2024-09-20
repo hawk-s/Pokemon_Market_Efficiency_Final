@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "355275130145",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4640854918122033737/-2275057626137561847.jpg",
+        "auction_seller": "tcg_stockpile",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "65214883"
+    },
+    {
+        "auction_seller": "chevsappraisals",
+        "date": "8/27/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3582708246856362920/-4877647984751802203.jpg",
+        "cert_number": "93133680",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "lot_number": "296642869289",
+        "grade": "10"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "grade": "7",
+        "auction_seller": "Weekly Auction 13 Jun - 22 Jun",
+        "lot_number": "5781",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/3815309888501543544/681061299681980344/images/1.jpg",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "date": "6/26/2023",
+        "cert_number": "75343425"
+    },
+    {
+        "date": "10/2/2021",
+        "auction_seller": "williamtippen",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7182677998334568566/-6382466105564263742.jpg",
+        "cert_number": "49645286",
+        "lot_number": "234207173983",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$31.27"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$10.32",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6930069378675669267/4236641865293233140.jpg",
+        "lot_number": "155279505336",
+        "cert_number": "54241182",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/5/2022"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "grade": "9",
+        "price": "$14.20",
+        "date": "3/17/2019",
+        "auction_seller": "palms.off.gaming",
+        "cert_number": "42149632",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-568967573703624416/7199253868604774716.jpg",
+        "lot_number": "123588404675"
+    },
+    {
+        "price": "$14.58",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5695867887203020720/6665259975960477889.jpg",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "lot_number": "155474533889",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "cert_number": "61537813",
+        "date": "4/4/2023"
+    },
+    {
+        "lot_number": "156297122492",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4353333684603779364/8863657278649188687.jpg",
+        "grade": "8",
+        "date": "7/18/2024",
+        "cert_number": "68789521",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$7.74",
+        "auction_seller": "lunacardsau"
+    },
+    {
+        "auction_seller": "hoth-chocolate-collectables",
+        "price": "$6.40",
+        "grade": "8",
+        "cert_number": "54611380",
+        "date": "10/29/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5887406586764644267/457140123221282272.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "304674206466"
+    },
+    {
+        "date": "4/1/2023",
+        "lot_number": "225488887572",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7733138443656417104/-6564851409090727529.jpg",
+        "auction_seller": "playskapegames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$18.04",
+        "auction_house": "eBay",
+        "cert_number": "66796451"
+    },
+    {
+        "date": "6/2/2022",
+        "auction_seller": "cardsbymax",
+        "cert_number": "53225399",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5934092441970349779/-3750253867350649084.jpg",
+        "price": "$5.50",
+        "grade": "9",
+        "lot_number": "384901837493",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

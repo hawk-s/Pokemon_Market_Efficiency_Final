@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$10.50",
+        "cert_number": "42111232",
+        "date": "12/3/2019",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-59607039511142617/4045366133631661069.jpg",
+        "auction_house": "eBay",
+        "lot_number": "372855569979",
+        "grade": "10"
+    },
+    {
+        "date": "2/18/2023",
+        "lot_number": "364142609733",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "cert_number": "69163171",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6413231763344363919/-3073693880726471021.jpg",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    }
+]

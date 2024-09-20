@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "382264659857",
+        "price": "$3.25",
+        "date": "11/6/2017",
+        "auction_seller": "probstein123",
+        "cert_number": "28153190",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5153267990073206972/-3660196989592476723.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1085661106778847210/-8124691494559344320.jpg",
+        "auction_seller": "psycho_turtle_collectibles",
+        "cert_number": "28551961",
+        "lot_number": "283501828097",
+        "date": "6/4/2019",
+        "grade": "9",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/7/2018",
+        "lot_number": "192498308113",
+        "cert_number": "28551961",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1047914889234253777/5366867553000959731.jpg",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5612327548725271462/-6015690901253890692.jpg",
+        "auction_seller": "sellers_sportscards",
+        "price": "$6.06",
+        "grade": "9",
+        "lot_number": "265351905360",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/16/2021",
+        "cert_number": "52187797"
+    }
+]

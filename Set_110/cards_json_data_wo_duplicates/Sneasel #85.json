@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$10.50",
+        "auction_seller": "wildcardcyclone88",
+        "date": "9/9/2020",
+        "grade": "10",
+        "cert_number": "28207057",
+        "lot_number": "184429944106",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1639862941080162408/-2002877418464927809.jpg"
+    },
+    {
+        "price": "$1.29",
+        "cert_number": "27915463",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "362135322491",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/25/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7092333765794459170/9200887787551859444.jpg"
+    },
+    {
+        "date": "5/18/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9065744413903674846/6779754118302974903.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$12.30",
+        "auction_seller": "smaegames",
+        "lot_number": "152988941486",
+        "cert_number": "28182373",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

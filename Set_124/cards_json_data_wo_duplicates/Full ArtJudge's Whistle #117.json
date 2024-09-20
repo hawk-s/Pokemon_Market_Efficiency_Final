@@ -1,0 +1,35 @@
+[
+    {
+        "date": "7/29/2019",
+        "lot_number": "223597478393",
+        "cert_number": "43590470",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4183810987384034603/-7151431254630457038.jpg",
+        "grade": "10",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4378019247964526198/-6821997526366968190.jpg",
+        "lot_number": "125088128758",
+        "auction_seller": "prestomil0",
+        "auction_type": "Auction",
+        "cert_number": "49219200",
+        "auction_house": "eBay",
+        "date": "1/14/2022",
+        "grade": "10"
+    },
+    {
+        "date": "10/30/2023",
+        "cert_number": "78764684",
+        "price": "$10.00",
+        "grade": "9",
+        "auction_seller": "poke--sean",
+        "auction_type": "Auction",
+        "lot_number": "314907789066",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8669271453446877833/-8714209942378261719.jpg"
+    }
+]

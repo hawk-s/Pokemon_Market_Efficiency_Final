@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$21.99",
+        "cert_number": "42886814",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7014478848749477380/9151383136223530951.jpg",
+        "date": "7/22/2020",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "223459988333",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "lot_number": "285323817137",
+        "cert_number": "61474827",
+        "auction_seller": "zandgemporium",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "date": "6/18/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5534033116427332432/-4401268445408850816.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "42886814",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2142472492567289822/9151383136223530951.jpg",
+        "date": "6/27/2019",
+        "lot_number": "223559470433",
+        "price": "$7.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "cert_number": "42366523",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/333575043428806297/5924743796803234497.jpg",
+        "price": "$10.50",
+        "auction_seller": "poketrader007",
+        "auction_type": "Auction",
+        "date": "2/16/2019",
+        "lot_number": "323688120406",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

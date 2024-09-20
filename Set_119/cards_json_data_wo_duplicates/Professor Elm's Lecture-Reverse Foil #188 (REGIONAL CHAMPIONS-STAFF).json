@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "dndstreasures",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3291676576442493392/1646203407818926320.jpg",
+        "grade": "9",
+        "price": "$46.00",
+        "cert_number": "46774107",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/5/2023",
+        "lot_number": "314674079918"
+    },
+    {
+        "lot_number": "235073906377",
+        "cert_number": "72902630",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4251141144972699713/-5899596863671628579.jpg",
+        "date": "7/10/2023",
+        "price": "$41.00",
+        "grade": "9",
+        "auction_seller": "crdshw",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$62.74",
+        "lot_number": "335369551152",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4309615652003472870/2015480832940323570.jpg",
+        "auction_seller": "trading_card_portal",
+        "grade": "8",
+        "date": "5/5/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "88222042"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1132013197062365772/4004037885724216689.jpg",
+        "lot_number": "164651581699",
+        "auction_type": "Best Offer",
+        "auction_seller": "gamefreak96",
+        "grade": "9",
+        "price": "$50.00",
+        "cert_number": "46774107",
+        "date": "1/18/2021",
+        "auction_house": "eBay"
+    }
+]

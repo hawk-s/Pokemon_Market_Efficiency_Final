@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "275051088111",
+        "date": "12/12/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$27.74",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3275577478220043433/7589096464627789860.jpg",
+        "cert_number": "53516971",
+        "auction_seller": "gemcollectables"
+    },
+    {
+        "cert_number": "43317398",
+        "lot_number": "254365733480",
+        "date": "9/27/2019",
+        "price": "$8.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2518224523264028886/7850678822476941924.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "274967635991",
+        "date": "10/10/2021",
+        "cert_number": "50611213",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6121930608404327607/-9061299662666407778.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "gemcollectables",
+        "price": "$35.46"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2406555525071730142/-4644502774039989167.jpg",
+        "cert_number": "76982408",
+        "price": "$46.00",
+        "date": "11/30/2023",
+        "auction_seller": "camcg6452",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "305283121467"
+    },
+    {
+        "lot_number": "234924137907",
+        "auction_seller": "team_pikachu",
+        "cert_number": "59911305",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4699952775435770983/1412418491896749957.jpg",
+        "grade": "8",
+        "date": "3/13/2023",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

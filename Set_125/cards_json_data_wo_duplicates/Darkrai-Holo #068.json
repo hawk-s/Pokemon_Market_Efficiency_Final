@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "dreamkingcollectibles_21",
+        "date": "12/21/2023",
+        "price": "$16.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4358437932011619229/-6327035746307908996.jpg",
+        "cert_number": "50847095",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "126235446796"
+    },
+    {
+        "lot_number": "374235728969",
+        "cert_number": "60665284",
+        "auction_seller": "probstein123",
+        "date": "9/8/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1843846854228169925/-4982730766167833587.jpg",
+        "price": "$36.51"
+    },
+    {
+        "cert_number": "72723493",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7460242856756295966/-2226382903818490228.jpg",
+        "lot_number": "385540812217",
+        "date": "4/19/2023",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$54.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "gulfcoasthobby",
+        "auction_type": "Best Offer",
+        "date": "11/19/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7957264140748779702/-3591851557253474671.jpg",
+        "lot_number": "363092906845",
+        "grade": "9",
+        "auction_house": "eBay",
+        "cert_number": "43599593",
+        "price": "$18.00"
+    }
+]

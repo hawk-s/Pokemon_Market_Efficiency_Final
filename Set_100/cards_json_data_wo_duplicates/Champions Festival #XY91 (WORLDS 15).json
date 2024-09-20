@@ -1,0 +1,24 @@
+[
+    {
+        "date": "6/30/2024",
+        "price": "$50.76",
+        "grade": "7",
+        "lot_number": "395488922855",
+        "auction_seller": "k00lshop",
+        "cert_number": "85695365",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8397933624205480046/5754635781608112231.jpg"
+    },
+    {
+        "grade": "7",
+        "price": "$85.00",
+        "auction_type": "Buy It Now",
+        "lot_number": "223871333479",
+        "date": "6/30/2020",
+        "auction_seller": "philspullz",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3804700121135749544/6358595870571085905.jpg",
+        "auction_house": "eBay",
+        "cert_number": "44922103"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "date": "8/5/2023",
+        "auction_seller": "comc_consignment",
+        "cert_number": "68291235",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6896824817312412357/203534684323448173.jpg",
+        "grade": "9",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "334964780416"
+    },
+    {
+        "grade": "5",
+        "date": "5/31/2023",
+        "cert_number": "67053639",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3313544730796368947/-8150164719820356648.jpg",
+        "lot_number": "195784084933",
+        "price": "$19.99",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "lot_number": "295436378122",
+        "cert_number": "67053639",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3058271307529151658/7336527293704614443.jpg",
+        "auction_type": "Auction",
+        "price": "$68.01",
+        "auction_seller": "villa_5326",
+        "auction_house": "eBay",
+        "date": "1/2/2023"
+    },
+    {
+        "grade": "7",
+        "lot_number": "176347077038",
+        "cert_number": "54603887",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7547539363943789775/8252030512720709253.jpg",
+        "auction_seller": "1steditionpokemon",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "date": "5/20/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "142599538943",
+        "cert_number": "27904631",
+        "price": "$10.50",
+        "date": "12/5/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-562209524456942600/6958186258089248426.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    }
+]

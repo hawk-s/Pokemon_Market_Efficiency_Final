@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$26.00",
+        "cert_number": "92231457",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9143761670644991876/-3741143281156141506.jpg",
+        "date": "7/1/2024",
+        "lot_number": "387111982556",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "canadian_pokeholic",
+        "lot_number": "184469323776",
+        "auction_type": "Best Offer",
+        "cert_number": "45719472",
+        "date": "10/6/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5125079637040228342/-2380154992233221370.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$113.20"
+    }
+]

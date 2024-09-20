@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "43889413",
+        "price": "$78.50",
+        "auction_seller": "psa_collector",
+        "date": "11/16/2020",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7797728608790195257/-6477804446466972714.jpg",
+        "auction_house": "eBay",
+        "lot_number": "333317597698",
+        "grade": "10"
+    },
+    {
+        "date": "10/10/2021",
+        "lot_number": "174965312720",
+        "cert_number": "52269432",
+        "price": "$41.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5631906925669317809/-9163300356429063496.jpg",
+        "auction_seller": "hobcard"
+    },
+    {
+        "lot_number": "183690639466",
+        "cert_number": "42225832",
+        "auction_seller": "vstallins",
+        "price": "$56.95",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2229375263502372615/-5388219445692537764.jpg",
+        "auction_type": "Auction",
+        "date": "2/24/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-727429288776895050/-3638824834156525213.jpg",
+        "cert_number": "42417364",
+        "auction_type": "Best Offer",
+        "auction_seller": "charizandrew",
+        "price": "$80.00",
+        "lot_number": "323679233410",
+        "date": "11/21/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/21/2023",
+        "auction_seller": "slowdown",
+        "cert_number": "78450150",
+        "price": "$34.33",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2170492144558396956/7589991394787024790.jpg",
+        "lot_number": "155948631183"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7742218726490524161/-5740739782695886748.jpg",
+        "cert_number": "42304950",
+        "lot_number": "173877512771",
+        "price": "$16.00",
+        "date": "4/28/2019",
+        "auction_seller": "kampes_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "goshadole",
+        "cert_number": "59363903",
+        "lot_number": "385312775675",
+        "grade": "8",
+        "price": "$9.99",
+        "date": "12/30/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3857591246262322481/-766583440274929537.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "42304953",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/432703972939182300/-4182042271317522858.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$28.00",
+        "lot_number": "143382924082",
+        "grade": "10"
+    }
+]

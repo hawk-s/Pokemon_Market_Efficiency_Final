@@ -1,0 +1,112 @@
+[
+    {
+        "grade": "5",
+        "date": "12/20/2022",
+        "lot_number": "285078832304",
+        "price": "$10.50",
+        "cert_number": "58321905",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7175368443422447712/3163182392331859929.jpg",
+        "auction_seller": "mr_authentic23",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "145643652429",
+        "price": "$15.00",
+        "auction_seller": "windduck808",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3632452378930259483/-3428949837160535572.jpg",
+        "grade": "8",
+        "date": "3/10/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "58439489"
+    },
+    {
+        "cert_number": "68892315",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2197247389833500081/993680688626615946.jpg",
+        "date": "2/1/2023",
+        "grade": "9",
+        "price": "$46.00",
+        "auction_seller": "misp_3909",
+        "lot_number": "354540812284",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4309591344349865311/6339261530482192540.jpg",
+        "auction_seller": "tpole25",
+        "cert_number": "67458053",
+        "price": "$23.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/22/2023",
+        "lot_number": "234861190782"
+    },
+    {
+        "date": "3/24/2024",
+        "grade": "7",
+        "auction_seller": "thepat87",
+        "cert_number": "57536698",
+        "lot_number": "285775498690",
+        "price": "$9.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2246264252266430006/8208430056063338534.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$58.00",
+        "lot_number": "266159893842",
+        "auction_seller": "pokehut",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/285021244616992545/1168111147594159656.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "3/16/2023",
+        "cert_number": "45811275"
+    },
+    {
+        "date": "12/12/2022",
+        "cert_number": "68563869",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8868113983744944576/-8978604664653211729.jpg",
+        "grade": "8",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_seller": "paperinplastic",
+        "auction_house": "eBay",
+        "lot_number": "125640550418"
+    },
+    {
+        "cert_number": "67985170",
+        "auction_seller": "hl-products",
+        "date": "7/1/2023",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$50.89",
+        "auction_house": "eBay",
+        "lot_number": "334929549524",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9103129455481674160/3550455535561978360.jpg"
+    },
+    {
+        "price": "$30.00",
+        "grade": "8",
+        "cert_number": "56603213",
+        "lot_number": "195840856223",
+        "auction_type": "Auction",
+        "auction_seller": "dilldoshwagains69",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6461780339362402986/-9168965473455562826.jpg",
+        "auction_house": "eBay",
+        "date": "7/2/2023"
+    },
+    {
+        "auction_seller": "galactic_card_shop",
+        "lot_number": "235579424513",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1374926015366092617/-4391965007079188209.jpg",
+        "cert_number": "88966649",
+        "date": "6/3/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$150.00"
+    }
+]

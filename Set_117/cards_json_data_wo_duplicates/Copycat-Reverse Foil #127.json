@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "markie511",
+        "price": "$15.00",
+        "cert_number": "45141181",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6303234695757500983/8682688288058909323.jpg",
+        "grade": "9",
+        "date": "10/6/2020",
+        "auction_type": "Auction",
+        "lot_number": "274513280191",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "264718308098",
+        "auction_type": "Best Offer",
+        "cert_number": "45141181",
+        "date": "6/28/2020",
+        "grade": "9",
+        "auction_seller": "forgottonn0n",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5666519772264512047/-7583550919965103416.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8302710304233727284/8682688288058909323.jpg",
+        "auction_seller": "markie511",
+        "date": "10/13/2020",
+        "cert_number": "45141181",
+        "price": "$6.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "274523127528",
+        "auction_house": "eBay"
+    }
+]

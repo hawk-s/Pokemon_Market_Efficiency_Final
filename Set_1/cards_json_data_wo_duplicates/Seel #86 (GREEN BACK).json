@@ -1,0 +1,112 @@
+[
+    {
+        "price": "$20.51",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "lot_number": "285429136517",
+        "auction_type": "Auction",
+        "cert_number": "61300817",
+        "date": "8/20/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6374325737075041426/475615731183634316.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8130791071065528632/-3962395141323568183.jpg",
+        "auction_seller": "comc_consignment",
+        "lot_number": "234931866838",
+        "grade": "8",
+        "date": "3/22/2023",
+        "cert_number": "58095565",
+        "auction_type": "Auction",
+        "price": "$47.69",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/25/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7388889958308115231/9129220833164197420.jpg",
+        "auction_seller": "pwcc_auctions",
+        "grade": "10",
+        "lot_number": "401884870115",
+        "cert_number": "42784829",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$21.30"
+    },
+    {
+        "price": "$205.39",
+        "cert_number": "44656942",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5961807822204763382/1884647050355001545.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "363656848842",
+        "date": "12/22/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "cards4kidz",
+        "cert_number": "79234892",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1571349355085738179/-6425628622108115869.jpg",
+        "lot_number": "166807890755",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$25.10",
+        "date": "6/16/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3164962598645158464/-5074445204768602037.jpg",
+        "auction_seller": "kingstonticketsandcards",
+        "cert_number": "91624748",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "lot_number": "186480899998",
+        "auction_house": "eBay",
+        "date": "6/17/2024"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$17.30",
+        "lot_number": "143443786872",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-234079869601585962/-4878788374383922265.jpg",
+        "cert_number": "42015004",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6555670172247294503/-4548884046821279686.jpg",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "28517361",
+        "date": "7/18/2018",
+        "auction_seller": "bristolcollectibles",
+        "grade": "10",
+        "lot_number": "132695247201"
+    },
+    {
+        "cert_number": "66863953",
+        "lot_number": "165862490429",
+        "grade": "9",
+        "auction_seller": "vintagetcg",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6907558760548512768/-3592745267741452853.jpg",
+        "auction_type": "Auction",
+        "date": "1/9/2023",
+        "auction_house": "eBay",
+        "price": "$29.56"
+    },
+    {
+        "price": "$199.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3029215032574771329/-7893456281765630721.jpg",
+        "date": "5/23/2024",
+        "cert_number": "42784829",
+        "auction_seller": "pokenomics1",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "395400872240",
+        "grade": "10"
+    }
+]

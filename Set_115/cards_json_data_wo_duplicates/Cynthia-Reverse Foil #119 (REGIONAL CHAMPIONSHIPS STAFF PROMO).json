@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/28/2019",
+        "cert_number": "41592702",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8019854829592214969/6876907213089841721.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "lot_number": "143257700457",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/5/2023",
+        "cert_number": "54392236",
+        "grade": "6",
+        "lot_number": "225359195586",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6568042446279660542/6139979717346971850.jpg",
+        "auction_seller": "pokeking_auz",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6356226385363759304/2501841976543666447.jpg",
+        "grade": "7",
+        "lot_number": "266771144238",
+        "price": "$75.00",
+        "cert_number": "48531135",
+        "auction_type": "Auction",
+        "auction_seller": "gem_wunners",
+        "date": "4/22/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4643726186308267307/343364125874548531.jpg",
+        "price": "$48.00",
+        "date": "2/19/2023",
+        "cert_number": "54392238",
+        "auction_seller": "pokeking_auz",
+        "lot_number": "225396125104",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "183831954773",
+        "date": "12/1/2020",
+        "auction_type": "Best Offer",
+        "auction_seller": "kayosslive",
+        "cert_number": "41592702",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7339652927196297034/4787440921849849148.jpg",
+        "price": "$100.00",
+        "auction_house": "eBay"
+    }
+]

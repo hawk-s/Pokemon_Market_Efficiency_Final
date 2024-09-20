@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9208658823058486773/6794589560118447288.jpg",
+        "cert_number": "42015035",
+        "grade": "9",
+        "date": "5/17/2020",
+        "lot_number": "264723322971",
+        "auction_seller": "arcadiatradingcardstore",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "285389694208",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2328947919220433679/-1010607788159218318.jpg",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "date": "7/30/2023",
+        "price": "$13.26",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "61300858"
+    },
+    {
+        "price": "$7.50",
+        "grade": "7",
+        "cert_number": "69741719",
+        "date": "3/6/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8383475989920198737/3819514856923727382.jpg",
+        "auction_type": "Auction",
+        "lot_number": "325542230520",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "lot_number": "185712789861",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8134120763412065862/2773868318186094572.jpg",
+        "cert_number": "68347936",
+        "grade": "8",
+        "price": "$75.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/2/2023",
+        "auction_seller": "billzfam"
+    }
+]

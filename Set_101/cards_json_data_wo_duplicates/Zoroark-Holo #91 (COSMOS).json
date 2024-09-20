@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "66832556",
+        "lot_number": "256129121755",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/961568517534316287/-2512910173075773950.jpg",
+        "date": "7/10/2023",
+        "auction_seller": "poro-king",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "275600133210",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-931120448518238882/-4300191481999334881.jpg",
+        "grade": "8",
+        "cert_number": "68610761",
+        "date": "1/20/2023",
+        "auction_seller": "jacanddan_collectibles",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2388620306238232784/-76048054879621670.jpg",
+        "cert_number": "50330187",
+        "price": "$5.50",
+        "grade": "9",
+        "lot_number": "363517825173",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "cardsalad",
+        "date": "9/1/2021"
+    }
+]

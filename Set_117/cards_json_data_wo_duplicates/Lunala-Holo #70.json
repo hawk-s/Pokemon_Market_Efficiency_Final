@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$30.00",
+        "date": "7/8/2024",
+        "auction_seller": "itemland",
+        "lot_number": "166848668435",
+        "cert_number": "75539825",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8831959182850336632/2707711253709396718.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "254268392318",
+        "price": "$9.99",
+        "date": "6/25/2019",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6875025182046202703/6656912758444260728.jpg",
+        "cert_number": "43568795"
+    },
+    {
+        "cert_number": "43726969",
+        "lot_number": "264663353540",
+        "date": "4/7/2020",
+        "price": "$20.00",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6414253230451274349/6998939287626869184.jpg",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

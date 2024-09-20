@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "5",
+        "lot_number": "255122154984",
+        "date": "9/12/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1908801618871032976/6865490411486059082.jpg",
+        "auction_seller": "sellers_sportscards",
+        "price": "$27.00",
+        "auction_type": "Auction",
+        "cert_number": "53273519",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "vintagetcgcollectables",
+        "date": "8/5/2023",
+        "grade": "6",
+        "cert_number": "65864741",
+        "lot_number": "256163263202",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6914035765453898117/-5607387104249234388.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4557170838574417485/6847546867064805265.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "date": "8/13/2018",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "132730200667",
+        "cert_number": "40811478",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "cert_number": "63006024",
+        "grade": "7",
+        "date": "6/3/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4867630585219220119/-874564667439136158.jpg",
+        "auction_type": "Auction",
+        "lot_number": "384913625935",
+        "auction_house": "eBay",
+        "price": "$66.00",
+        "auction_seller": "game-figures"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "date": "6/2/2022",
+        "lot_number": "255553237609",
+        "auction_seller": "sellers_sportscards",
+        "cert_number": "57874413",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2702246614920974544/-7707634615229356817.jpg"
+    },
+    {
+        "lot_number": "154752703517",
+        "cert_number": "52703973",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7655732618034288982/-527226825983731854.jpg",
+        "price": "$14.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pc_sportscards",
+        "date": "12/24/2021"
+    },
+    {
+        "cert_number": "55523318",
+        "lot_number": "363736830258",
+        "price": "$8.03",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9082437861567419844/5786870449910072047.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "2/28/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/217481284479545380/8417005643457070426.jpg",
+        "lot_number": "154752703537",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pc_sportscards",
+        "date": "12/24/2021",
+        "cert_number": "52703974",
+        "grade": "10"
+    },
+    {
+        "cert_number": "55523317",
+        "price": "$50.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5791546950981472611/3992623965824444630.jpg",
+        "auction_seller": "probstein123",
+        "date": "2/28/2022",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "373941504676",
+        "grade": "10"
+    },
+    {
+        "cert_number": "52703972",
+        "lot_number": "154752703498",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8252130756373750535/-7865549007301960188.jpg",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pc_sportscards",
+        "date": "12/24/2021",
+        "grade": "10"
+    }
+]

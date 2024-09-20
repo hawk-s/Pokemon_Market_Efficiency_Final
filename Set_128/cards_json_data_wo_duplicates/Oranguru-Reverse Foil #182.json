@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7312136493273448921/-2253197819171901567.jpg",
+        "date": "10/7/2021",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "cert_number": "55258071",
+        "auction_house": "eBay",
+        "lot_number": "373742031237",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1187633666523862848/2553206792223295351.jpg",
+        "grade": "7",
+        "auction_seller": "onepizza",
+        "cert_number": "60354670",
+        "lot_number": "255781708902",
+        "price": "$8.50",
+        "date": "10/25/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "256011498708",
+        "grade": "7",
+        "auction_seller": "onepizza",
+        "cert_number": "60354670",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8291446750708220249/7017944008730326029.jpg",
+        "date": "3/24/2023",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

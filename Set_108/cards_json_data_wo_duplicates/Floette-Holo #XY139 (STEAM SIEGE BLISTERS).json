@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "nostalgic.investments",
+        "price": "$1.47",
+        "cert_number": "57703034",
+        "date": "5/14/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5140899682774312048/6330467735075209593.jpg",
+        "grade": "9",
+        "lot_number": "403645295550",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "68298478",
+        "date": "12/23/2022",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7661863044181434300/-4953927842802656796.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275572494612"
+    },
+    {
+        "grade": "7",
+        "price": "$4.25",
+        "auction_seller": "worldchampionsportscards",
+        "cert_number": "67431219",
+        "date": "5/3/2023",
+        "lot_number": "195733802128",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1563262261144003964/8012228837058429382.jpg"
+    }
+]

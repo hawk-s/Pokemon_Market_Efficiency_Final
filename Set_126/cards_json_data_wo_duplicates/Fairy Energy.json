@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "402649590032",
+        "auction_seller": "pwcc_auctions",
+        "grade": "9",
+        "price": "$11.50",
+        "date": "1/28/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8034891374285733574/-6291714951709989849.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "48971832"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/621503709878736255/-1534265660368477516.jpg",
+        "date": "12/23/2021",
+        "price": "$7.80",
+        "cert_number": "52704133",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "lot_number": "154751190326",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "houseofcards777",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3881865556853552147/3252755499090691456.jpg",
+        "grade": "9",
+        "lot_number": "234313978533",
+        "cert_number": "52742486",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/10/2021",
+        "price": "$16.50"
+    },
+    {
+        "price": "$7.50",
+        "cert_number": "52704134",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4488601762088297268/-4775838258515695800.jpg",
+        "date": "12/23/2021",
+        "lot_number": "154751190369",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

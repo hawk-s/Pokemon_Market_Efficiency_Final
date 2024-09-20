@@ -1,0 +1,24 @@
+[
+    {
+        "cert_number": "46765412",
+        "date": "10/13/2020",
+        "grade": "6",
+        "lot_number": "363131142753",
+        "price": "$5.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/490103648195055896/-4606900488233200744.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8458676814550205307/-6768714006519717929.jpg",
+        "auction_seller": "josrod-1733",
+        "cert_number": "46765412",
+        "grade": "6",
+        "price": "$9.99",
+        "lot_number": "373379171761",
+        "date": "12/10/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

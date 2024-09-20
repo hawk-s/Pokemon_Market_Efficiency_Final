@@ -1,0 +1,112 @@
+[
+    {
+        "price": "$11.00",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "lot_number": "124004486946",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1061740734733091180/-3657763824953629780.jpg",
+        "cert_number": "44471370",
+        "auction_seller": "mjon57634",
+        "date": "5/26/2020",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "123882134483",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6930545381377433/-8756897882639617877.jpg",
+        "cert_number": "44274454",
+        "date": "4/25/2020",
+        "auction_type": "Buy It Now",
+        "price": "$24.99",
+        "grade": "9",
+        "auction_house": "eBay",
+        "auction_seller": "vespascooter"
+    },
+    {
+        "cert_number": "55979919",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/250956437835618906/-1382331854283802401.jpg",
+        "auction_seller": "ale-cous",
+        "date": "8/19/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$13.63",
+        "lot_number": "305725146393"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6672359689113953597/-6469705470965146216.jpg",
+        "auction_seller": "antta.ussie7",
+        "grade": "9",
+        "cert_number": "43424211",
+        "lot_number": "293917904569",
+        "auction_house": "eBay",
+        "date": "12/29/2020",
+        "auction_type": "Auction",
+        "price": "$38.01"
+    },
+    {
+        "date": "1/6/2021",
+        "lot_number": "293933472059",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2547027235114440576/-1456803601881244408.jpg",
+        "price": "$26.00",
+        "auction_seller": "antta.ussie7",
+        "cert_number": "44042082",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "42550949",
+        "date": "4/12/2019",
+        "auction_seller": "speed2gaming",
+        "auction_type": "Auction",
+        "lot_number": "333145650899",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5378258317525122491/8277654030615232774.jpg"
+    },
+    {
+        "lot_number": "383581411701",
+        "date": "6/16/2020",
+        "cert_number": "45418722",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6242406925935243979/2528944740288387744.jpg",
+        "auction_seller": "probstein123",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$8.99",
+        "auction_type": "Best Offer",
+        "cert_number": "44769832",
+        "auction_seller": "yimleej",
+        "grade": "8",
+        "date": "4/12/2020",
+        "lot_number": "392687039592",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3689026914842454648/-2139148125156702996.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/24/2024",
+        "auction_seller": "merchant_for_fun",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8449555061432353844/-2429479894043639170.jpg",
+        "cert_number": "91236646",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "lot_number": "176378077697"
+    },
+    {
+        "auction_seller": "ketchumallcollectibles",
+        "lot_number": "203136781141",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5367701985076281439/7475649956551230095.jpg",
+        "grade": "9",
+        "price": "$31.00",
+        "date": "10/19/2020",
+        "auction_type": "Auction",
+        "cert_number": "43467836",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$16.60",
+        "auction_seller": "pokedad_gym",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2005061429580835262/-3838812304329389855.jpg",
+        "grade": "9",
+        "lot_number": "143781402867",
+        "cert_number": "45521574",
+        "date": "10/18/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "date": "3/3/2021",
+        "auction_type": "Best Offer",
+        "cert_number": "45521574",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2152794839861106110/6096721044951878579.jpg",
+        "grade": "9",
+        "auction_seller": "rafl_333",
+        "auction_house": "eBay",
+        "lot_number": "174639772578"
+    },
+    {
+        "lot_number": "233329228127",
+        "cert_number": "43270723",
+        "price": "$9.99",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2920119447431865530/-7966102081432681115.jpg",
+        "auction_seller": "tcgers",
+        "date": "9/8/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

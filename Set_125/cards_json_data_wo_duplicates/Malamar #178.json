@@ -1,0 +1,68 @@
+[
+    {
+        "date": "10/10/2020",
+        "cert_number": "43202611",
+        "lot_number": "373263973583",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3950946004657460849/-3107426874709587329.jpg",
+        "price": "$126.48",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "tcg.and.collectables"
+    },
+    {
+        "auction_seller": "goldstarccg",
+        "cert_number": "42601749",
+        "date": "3/25/2019",
+        "lot_number": "153420692388",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4473503015127005854/-5491715528860165189.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$21.05",
+        "grade": "10"
+    },
+    {
+        "lot_number": "323753333697",
+        "auction_type": "Best Offer",
+        "auction_seller": "charizandrew",
+        "cert_number": "42653768",
+        "price": "$24.99",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3386074434492792594/-8481158983303650675.jpg",
+        "date": "12/24/2020"
+    },
+    {
+        "lot_number": "383015989168",
+        "date": "6/27/2019",
+        "auction_seller": "probstein123",
+        "cert_number": "43220492",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5988500649054075883/-2546464762878967165.jpg",
+        "price": "$16.50"
+    },
+    {
+        "auction_seller": "grade_level_collectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5005245623186474505/-6616708374541968516.jpg",
+        "date": "7/17/2023",
+        "auction_type": "Auction",
+        "lot_number": "354899974369",
+        "price": "$17.39",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "72992551"
+    },
+    {
+        "auction_seller": "psa_collector",
+        "cert_number": "43202611",
+        "auction_type": "Best Offer",
+        "lot_number": "333341103338",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5205604685402151399/-5241699205691332075.jpg",
+        "price": "$43.80",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/20/2020"
+    }
+]

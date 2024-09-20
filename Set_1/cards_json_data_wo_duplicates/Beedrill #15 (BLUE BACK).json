@@ -1,0 +1,101 @@
+[
+    {
+        "grade": "7",
+        "date": "3/29/2021",
+        "auction_seller": "pwcc_auctions",
+        "price": "$88.00",
+        "cert_number": "51585620",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7594866507754088831/-6446250983842716406.jpg",
+        "lot_number": "353424797870"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3241238180850520274/805940533223454950.jpg",
+        "lot_number": "285107342714",
+        "cert_number": "59341057",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/22/2023",
+        "price": "$18.50"
+    },
+    {
+        "date": "1/1/2023",
+        "auction_seller": "goldrush_cards",
+        "grade": "8",
+        "cert_number": "59085243",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8460084532614349024/-336007989893371973.jpg",
+        "auction_type": "Auction",
+        "price": "$33.62",
+        "auction_house": "eBay",
+        "lot_number": "234834356643"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5079101562728046038/-4985633857729636715.jpg",
+        "auction_seller": "villa_5326",
+        "price": "$118.38",
+        "grade": "9",
+        "cert_number": "41559002",
+        "auction_type": "Auction",
+        "lot_number": "295436298495",
+        "auction_house": "eBay",
+        "date": "1/2/2023"
+    },
+    {
+        "grade": "7",
+        "price": "$38.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3809582933578166368/-3419392887921053662.jpg",
+        "lot_number": "154659858607",
+        "cert_number": "51585620",
+        "auction_seller": "carterchristiancardcollection",
+        "date": "10/30/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "255130616130",
+        "date": "9/18/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-305964234619461497/267074935307801674.jpg",
+        "auction_seller": "sellers_sportscards",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53273502",
+        "grade": "2"
+    },
+    {
+        "price": "$599.99",
+        "auction_type": "Best Offer",
+        "auction_seller": "brianjapan",
+        "date": "11/14/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6710133142710034455/7949474589038789408.jpg",
+        "lot_number": "223485685425",
+        "cert_number": "41559003",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$456.13",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/693782092864329022/-6813469651455867202.jpg",
+        "cert_number": "51586109",
+        "auction_seller": "tsunagu",
+        "lot_number": "255212855077",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/12/2021"
+    },
+    {
+        "cert_number": "55586631",
+        "date": "2/20/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4489379233377513018/-1864556288189501778.jpg",
+        "grade": "8",
+        "auction_seller": "1steditionpokemon",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "175595980727"
+    }
+]

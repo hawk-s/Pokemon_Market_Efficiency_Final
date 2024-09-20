@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "53779164",
+        "lot_number": "384597459696",
+        "auction_seller": "4_sharp_corners",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1281640978168252886/6450701498515307335.jpg",
+        "auction_type": "Auction",
+        "price": "$12.21",
+        "auction_house": "eBay",
+        "date": "12/27/2021"
+    },
+    {
+        "cert_number": "46396517",
+        "auction_type": "Best Offer",
+        "date": "9/9/2020",
+        "lot_number": "164350229683",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/866495350284887375/7382134649126451574.jpg",
+        "auction_seller": "guildwars2mesmer",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/18/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1261683157368486115/-2421185428795085843.jpg",
+        "cert_number": "44990236",
+        "price": "$25.01",
+        "lot_number": "223943858999",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "auction_seller": "tsunagu",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1885729837569194467/1906852587967517940.jpg",
+        "grade": "9",
+        "price": "$5.50",
+        "lot_number": "255280453694",
+        "cert_number": "63486920",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/21/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1687094366879362216/-1089986634815459781.jpg",
+        "cert_number": "44990237",
+        "date": "1/21/2020",
+        "lot_number": "223853295647",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.72",
+        "grade": "10",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "date": "1/28/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5409701592459316199/5306068816215383107.jpg",
+        "auction_seller": "sellers_sportscards",
+        "price": "$10.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "55518563",
+        "auction_house": "eBay",
+        "lot_number": "255343267496"
+    },
+    {
+        "price": "$11.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3393762775553729058/3018458838586884603.jpg",
+        "lot_number": "384671469353",
+        "grade": "9",
+        "auction_seller": "teamworksportscards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/16/2022",
+        "cert_number": "52664524"
+    }
+]

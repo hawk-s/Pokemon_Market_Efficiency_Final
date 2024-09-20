@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "80374541",
+        "lot_number": "387157377644",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5709682507221858458/-6307340744657530391.jpg",
+        "date": "7/10/2024",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "dailyrefinement",
+        "date": "12/27/2016",
+        "price": "$5.50",
+        "lot_number": "112243386546",
+        "cert_number": "26367690",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/3920993415948685768/243010457028718860.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "houseofcards777",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4214522451849282310/1398062089873393604.jpg",
+        "grade": "8",
+        "price": "$11.51",
+        "auction_type": "Auction",
+        "lot_number": "234312240017",
+        "cert_number": "52739620",
+        "auction_house": "eBay",
+        "date": "12/8/2021"
+    }
+]

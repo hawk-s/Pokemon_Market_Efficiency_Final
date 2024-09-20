@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$6.30",
+        "cert_number": "42433175",
+        "auction_type": "Buy It Now",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6179943127464439918/-6827016743812004054.jpg",
+        "lot_number": "254070269677",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "date": "2/21/2019"
+    },
+    {
+        "price": "$3.25",
+        "date": "6/21/2018",
+        "cert_number": "27836916",
+        "lot_number": "382490884445",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1462719041929056809/-8776220858130397023.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "date": "6/11/2022",
+        "cert_number": "58988560",
+        "lot_number": "304510334795",
+        "auction_seller": "northernlightsgaming",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8182521859675454111/-4686394563932792934.jpg",
+        "auction_house": "eBay",
+        "price": "$29.50",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1525151371724191255/-1034286468169150177.jpg",
+        "date": "2/22/2020",
+        "cert_number": "45521523",
+        "price": "$8.50",
+        "lot_number": "254513793826",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2832895802374507884/1680103242315315332.jpg",
+        "cert_number": "44182393",
+        "auction_seller": "poketomspokemon",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "lot_number": "283604019118",
+        "date": "9/9/2019"
+    },
+    {
+        "lot_number": "114577984806",
+        "auction_seller": "cardmarketempire1",
+        "date": "1/10/2021",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "cert_number": "44182392",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7389824780622272683/-1247521737492271283.jpg"
+    },
+    {
+        "date": "8/25/2020",
+        "auction_seller": "donottoscardsandcollectables",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7700974690791327999/-4477187313646418409.jpg",
+        "grade": "9",
+        "cert_number": "44182392",
+        "auction_type": "Auction",
+        "lot_number": "164343622201",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "date": "1/25/2021",
+        "price": "$52.00",
+        "auction_seller": "thekyogrezone",
+        "lot_number": "383908298949",
+        "auction_type": "Auction",
+        "cert_number": "45521523",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3703820604682703445/-4710533851591920550.jpg"
+    },
+    {
+        "cert_number": "45862166",
+        "grade": "8",
+        "auction_seller": "raijinfujin",
+        "date": "8/11/2020",
+        "price": "$19.33",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3516760816620002687/5319111223987972356.jpg",
+        "auction_house": "eBay",
+        "lot_number": "124281179395"
+    }
+]

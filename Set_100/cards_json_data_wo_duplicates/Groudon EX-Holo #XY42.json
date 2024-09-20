@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "zandgemporium",
+        "lot_number": "285779341886",
+        "grade": "6",
+        "price": "$5.50",
+        "date": "3/31/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2099407605440577714/3245577433584494428.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "87363051"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "lot_number": "186376733677",
+        "date": "4/15/2024",
+        "cert_number": "88149484",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8157728269632200020/-5055999782404834308.jpg",
+        "auction_type": "Auction",
+        "price": "$222.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "387148925818",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-249987638393453944/-2285976826012347863.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "60705838",
+        "date": "7/9/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8354326198076661452/-6149457928521802102.jpg",
+        "cert_number": "78758775",
+        "lot_number": "305173602736",
+        "auction_seller": "brcar5234",
+        "price": "$400.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/2/2023"
+    },
+    {
+        "date": "4/16/2019",
+        "auction_seller": "tgenterprisellc",
+        "cert_number": "41308630",
+        "lot_number": "163645338704",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6626980506188631327/5825900431086464480.jpg"
+    },
+    {
+        "auction_seller": "d2_pokeshop",
+        "cert_number": "69483621",
+        "price": "$15.00",
+        "date": "3/5/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6952552291794453216/-8999569046847485220.jpg",
+        "grade": "8",
+        "lot_number": "404178667410",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.50",
+        "cert_number": "41758739",
+        "lot_number": "233571721461",
+        "date": "5/2/2020",
+        "grade": "8",
+        "auction_seller": "trainersef",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4829223545716925254/-2048045505239119971.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

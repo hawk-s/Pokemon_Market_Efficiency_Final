@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$3.25",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "2/16/2022",
+        "auction_seller": "tntnorthnj",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6963988138292997242/-1822052663313294151.jpg",
+        "cert_number": "55859683",
+        "lot_number": "203828319555"
+    },
+    {
+        "date": "6/14/2021",
+        "auction_seller": "danie_relli",
+        "price": "$3.25",
+        "cert_number": "49452684",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2310373119509504791/-4948748519720106572.jpg",
+        "grade": "9",
+        "lot_number": "294214775245",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "53691536",
+        "date": "12/31/2021",
+        "auction_seller": "slab10stradingcards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2182782720919817337/-5959258427532356126.jpg",
+        "lot_number": "203765610979",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$3.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6528752310484117667/4454344871824733942.jpg",
+        "auction_seller": "quickconsignment_802",
+        "grade": "9",
+        "lot_number": "275688158591",
+        "cert_number": "62521600",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/22/2023"
+    },
+    {
+        "date": "4/6/2021",
+        "auction_seller": "slab10stradingcards",
+        "cert_number": "49452684",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3577568241765644726/-4815936808586255761.jpg",
+        "auction_house": "eBay",
+        "lot_number": "203329993973",
+        "price": "$18.00"
+    },
+    {
+        "lot_number": "255343281340",
+        "date": "1/28/2022",
+        "cert_number": "55518562",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6831095765360794371/5465793595061149714.jpg",
+        "auction_seller": "sellers_sportscards",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

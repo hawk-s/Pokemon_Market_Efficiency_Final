@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "53905217",
+        "lot_number": "154729143023",
+        "date": "12/9/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6524503943578235639/-1025151487010845185.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$13.72"
+    },
+    {
+        "price": "$7.50",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1968319950391154653/-8749146733942510128.jpg",
+        "cert_number": "60655545",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285503123145",
+        "date": "10/16/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4821176888286308808/-308651859144372057.jpg",
+        "price": "$6.55",
+        "grade": "8",
+        "auction_seller": "sellers_sportscards",
+        "cert_number": "52187849",
+        "lot_number": "265352006763",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/16/2021"
+    }
+]

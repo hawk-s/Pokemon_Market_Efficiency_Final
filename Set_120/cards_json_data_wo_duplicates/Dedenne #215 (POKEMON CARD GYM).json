@@ -1,0 +1,57 @@
+[
+    {
+        "date": "10/3/2020",
+        "auction_seller": "smpratte",
+        "cert_number": "43638351",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8694824293246334524/-5525943892653152980.jpg",
+        "price": "$64.95",
+        "lot_number": "362843701556",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_type": "Best Offer",
+        "date": "3/9/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/88600820368549273/-282630588421693172.jpg",
+        "cert_number": "43638352",
+        "lot_number": "264924125543",
+        "price": "$100.00",
+        "auction_seller": "merriashko",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/23/2019",
+        "cert_number": "43890746",
+        "lot_number": "133274682193",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7667132242640342867/-6664971193203286480.jpg",
+        "auction_seller": "japan-daisuki",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "264900766724",
+        "price": "$90.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6327536349195413668/-282630588421693172.jpg",
+        "cert_number": "43638352",
+        "auction_seller": "merriashko",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/27/2020"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4005817171764344855/9155740893170015969.jpg",
+        "auction_seller": "smpratte",
+        "cert_number": "43638353",
+        "auction_type": "Best Offer",
+        "date": "3/29/2020",
+        "lot_number": "184075192981",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    }
+]

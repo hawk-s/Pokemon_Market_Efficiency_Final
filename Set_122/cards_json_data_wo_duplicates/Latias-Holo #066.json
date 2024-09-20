@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5100145422431533002/4933008203387234583.jpg",
+        "cert_number": "63321459",
+        "auction_seller": "shinjuku-donquixote",
+        "date": "12/15/2021",
+        "auction_type": "Auction",
+        "lot_number": "284563477703",
+        "price": "$30.20",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3928495062659084405/-5051885024384836784.jpg",
+        "date": "4/15/2024",
+        "lot_number": "326080884831",
+        "cert_number": "84654528",
+        "price": "$22.05",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "landedsources"
+    },
+    {
+        "lot_number": "285820923199",
+        "price": "$6.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3209800425802844317/6522615225501036506.jpg",
+        "auction_seller": "slabvault",
+        "date": "4/26/2024",
+        "auction_type": "Auction",
+        "cert_number": "83454411",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "84624678",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1995371220317937901/1225777702418596972.jpg",
+        "date": "4/29/2024",
+        "price": "$20.49",
+        "lot_number": "326098674143",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "landedsources"
+    },
+    {
+        "cert_number": "57093664",
+        "lot_number": "155763904300",
+        "date": "9/17/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3614821270825693103/2879211736531584617.jpg",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_seller": "kanto_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "7",
+        "auction_seller": "thecollectioncove",
+        "price": "$16.19",
+        "cert_number": "75886567",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7072664729037254548/4484153655301939482.jpg",
+        "auction_house": "eBay",
+        "lot_number": "256186917675"
+    },
+    {
+        "lot_number": "254327019256",
+        "cert_number": "43272131",
+        "price": "$9.50",
+        "auction_seller": "unique_collectible_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8098720332538049550/644777538123773387.jpg",
+        "auction_type": "Auction",
+        "date": "8/17/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "goshadole",
+        "cert_number": "84867856",
+        "date": "1/23/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3195174617991824494/8522152478384054073.jpg",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "204621938315"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "date": "3/10/2019",
+        "lot_number": "123666776561",
+        "grade": "9",
+        "price": "$8.00",
+        "auction_type": "Auction",
+        "cert_number": "42935787",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3204405513442399914/8845918900317697176.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-369592212339226697/9169384964878606457.jpg",
+        "price": "$49.00",
+        "lot_number": "373854988843",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "63480598",
+        "auction_house": "eBay",
+        "date": "1/14/2022",
+        "grade": "10"
+    }
+]

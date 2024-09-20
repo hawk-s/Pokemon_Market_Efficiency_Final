@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "273876407992",
+        "cert_number": "28946987",
+        "date": "6/11/2019",
+        "price": "$10.00",
+        "auction_seller": "nath-pain",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6384283619805260404/1814810549222251520.jpg"
+    },
+    {
+        "cert_number": "61811741",
+        "auction_seller": "tpole25",
+        "price": "$12.52",
+        "grade": "8",
+        "date": "7/30/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2014574271301464450/3501187587596835973.jpg",
+        "lot_number": "235098534617"
+    },
+    {
+        "price": "$10.50",
+        "date": "7/16/2023",
+        "auction_seller": "tpole25",
+        "grade": "8",
+        "lot_number": "235081843776",
+        "auction_type": "Auction",
+        "cert_number": "61811739",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8180711860420316185/1708601027295341562.jpg"
+    },
+    {
+        "auction_seller": "tpole25",
+        "grade": "8",
+        "date": "2/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3601914905896505560/-5745807195355553442.jpg",
+        "cert_number": "61811737",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "lot_number": "234906192228",
+        "auction_house": "eBay"
+    }
+]

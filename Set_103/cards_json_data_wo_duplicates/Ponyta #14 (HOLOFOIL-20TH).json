@@ -1,0 +1,57 @@
+[
+    {
+        "date": "7/16/2023",
+        "auction_seller": "j_a_cards",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3262999816493945966/-8512361196594517506.jpg",
+        "price": "$15.16",
+        "auction_type": "Auction",
+        "cert_number": "68933626",
+        "auction_house": "eBay",
+        "lot_number": "204391357522"
+    },
+    {
+        "date": "12/19/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3766227072490971429/1221088617260669682.jpg",
+        "cert_number": "68258654",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285070050358",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.39"
+    },
+    {
+        "date": "9/11/2022",
+        "cert_number": "57688251",
+        "lot_number": "275447302097",
+        "price": "$22.01",
+        "grade": "9",
+        "auction_seller": "wonderland_retro",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3800080189186701612/8765471926867019134.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8690642249702610880/-7741521535212971733.jpg",
+        "price": "$14.21",
+        "auction_seller": "gardnkierr",
+        "grade": "9",
+        "lot_number": "115672358599",
+        "date": "1/20/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57695396"
+    },
+    {
+        "price": "$21.02",
+        "date": "4/1/2023",
+        "cert_number": "66796440",
+        "auction_seller": "playskapegames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "225488887606",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5095194393541815026/-103762524524884262.jpg",
+        "auction_house": "eBay"
+    }
+]

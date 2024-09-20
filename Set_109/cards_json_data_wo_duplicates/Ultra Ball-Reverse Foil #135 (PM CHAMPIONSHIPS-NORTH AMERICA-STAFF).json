@@ -1,0 +1,68 @@
+[
+    {
+        "date": "1/22/2023",
+        "grade": "8",
+        "cert_number": "50119328",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6432329528578196466/7884366236800890480.jpg",
+        "auction_seller": "tinichen",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "334700888297",
+        "price": "$30.97"
+    },
+    {
+        "grade": "7",
+        "cert_number": "50119324",
+        "auction_seller": "tinichen",
+        "price": "$25.53",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4673074335596839834/3906756438184027353.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "334700892209",
+        "date": "1/22/2023"
+    },
+    {
+        "price": "$117.36",
+        "auction_seller": "skmccr_25",
+        "lot_number": "164737323400",
+        "cert_number": "41880757",
+        "date": "3/10/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1860884815450115561/-745669825988637669.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5303111963733304594/-7671858054687559261.jpg",
+        "date": "7/16/2023",
+        "price": "$39.91",
+        "grade": "8",
+        "cert_number": "50119328",
+        "lot_number": "115853398479",
+        "auction_seller": "legendary_cardstore",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$34.57",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8757108135991591273/-1975083861935840975.jpg",
+        "auction_seller": "legendary_cardstore",
+        "auction_type": "Auction",
+        "date": "4/23/2023",
+        "auction_house": "eBay",
+        "lot_number": "115772018762",
+        "cert_number": "50119327"
+    },
+    {
+        "auction_type": "Best Offer",
+        "cert_number": "41880757",
+        "lot_number": "332928378051",
+        "auction_seller": "collectorscache",
+        "grade": "9",
+        "price": "$35.00",
+        "date": "9/6/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3182769458503269513/-1588933489322836798.jpg",
+        "auction_house": "eBay"
+    }
+]

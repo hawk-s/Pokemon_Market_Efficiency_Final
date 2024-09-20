@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "67431186",
+        "auction_seller": "worldchampionsportscards",
+        "price": "$8.38",
+        "date": "5/3/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1470017625336861259/6596748558139045368.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "195733858124"
+    },
+    {
+        "auction_seller": "worldchampionsportscards",
+        "price": "$9.38",
+        "date": "5/3/2023",
+        "grade": "9",
+        "cert_number": "67431185",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6911108566414757072/-7756692214018651439.jpg",
+        "auction_type": "Auction",
+        "lot_number": "195733857293",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$9.50",
+        "auction_seller": "worldchampionsportscards",
+        "date": "5/3/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2486187687499987857/-7788773717906463793.jpg",
+        "auction_type": "Auction",
+        "lot_number": "195733857069",
+        "auction_house": "eBay",
+        "cert_number": "67431184"
+    }
+]

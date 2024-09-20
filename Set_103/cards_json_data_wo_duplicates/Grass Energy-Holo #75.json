@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$15.00",
+        "auction_type": "Best Offer",
+        "cert_number": "27021325",
+        "auction_seller": "thejimerino_4",
+        "lot_number": "263388298604",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8975709769081602939/8626840838278030696.jpg",
+        "date": "1/6/2018"
+    },
+    {
+        "lot_number": "112529788997",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1730227373734199798/5535113649792212226.jpg",
+        "auction_type": "Buy It Now",
+        "date": "9/5/2017",
+        "grade": "9",
+        "auction_seller": "dailyrefinementstore",
+        "cert_number": "26367696",
+        "auction_house": "eBay",
+        "price": "$2.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4988370898030701578/-5119604242045637167.jpg",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "383418711456",
+        "cert_number": "26001846",
+        "date": "2/19/2020"
+    },
+    {
+        "price": "$10.50",
+        "cert_number": "27021325",
+        "lot_number": "222471353887",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/6243614774833097578/-7593515974980509521.jpg",
+        "auction_seller": "melcher12",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/16/2017"
+    },
+    {
+        "lot_number": "184084403709",
+        "date": "1/9/2020",
+        "auction_seller": "rishadan_thrift_shop",
+        "auction_type": "Best Offer",
+        "cert_number": "27021325",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7169409567826479990/-2253814528075780658.jpg",
+        "price": "$9.94",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$9.50",
+        "cert_number": "80374534",
+        "date": "7/10/2024",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "364985717650",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/271149266050513728/-7119028250428403595.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5510309072779882843/-2253814528075780658.jpg",
+        "auction_seller": "rishadan_thrift_shop",
+        "auction_type": "Buy It Now",
+        "cert_number": "27021325",
+        "date": "5/16/2020",
+        "auction_house": "eBay",
+        "price": "$18.22",
+        "grade": "10",
+        "lot_number": "184277852545"
+    }
+]

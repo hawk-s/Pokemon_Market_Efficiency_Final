@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "66954186",
+        "price": "$22.07",
+        "auction_seller": "vispri-21",
+        "lot_number": "355390337188",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-849201208900519657/2060696578064686557.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/28/2024"
+    },
+    {
+        "lot_number": "334118420081",
+        "date": "8/24/2021",
+        "cert_number": "42821914",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "southpawdv",
+        "grade": "10",
+        "price": "$29.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-178395404149044307/-7270653956398836644.jpg"
+    },
+    {
+        "date": "12/15/2019",
+        "auction_seller": "krieger75",
+        "cert_number": "44337251",
+        "price": "$5.50",
+        "lot_number": "193257186262",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7042128619531112040/7535229781691208235.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/14/2020",
+        "cert_number": "43998469",
+        "auction_type": "Best Offer",
+        "price": "$37.72",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/221541731086479281/8978864272770384685.jpg",
+        "grade": "9",
+        "lot_number": "133198909212",
+        "auction_house": "eBay",
+        "auction_seller": "mrppv0217"
+    }
+]

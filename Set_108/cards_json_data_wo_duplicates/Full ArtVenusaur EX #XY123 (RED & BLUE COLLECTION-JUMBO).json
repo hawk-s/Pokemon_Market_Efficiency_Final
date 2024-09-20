@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "hetsurama",
+        "price": "$13.50",
+        "date": "6/11/2018",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5759116223086084861/-6581296634897075059.jpg",
+        "cert_number": "40772805",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "192559063793"
+    },
+    {
+        "auction_seller": "sieds_steins",
+        "cert_number": "27009241",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6178995107791320545/-6460055225738193204.jpg",
+        "lot_number": "222487351770",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$30.86",
+        "grade": "10",
+        "date": "5/1/2017"
+    },
+    {
+        "lot_number": "322513791521",
+        "price": "$20.51",
+        "cert_number": "27009241",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1729039203372124829/-7944664998272667412.jpg",
+        "auction_seller": "carolina_collectables",
+        "date": "5/14/2017",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

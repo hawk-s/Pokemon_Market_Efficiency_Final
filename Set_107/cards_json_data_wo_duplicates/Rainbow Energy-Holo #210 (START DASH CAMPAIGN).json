@@ -1,0 +1,79 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7354189169545668915/6858508545166020918.jpg",
+        "grade": "8",
+        "price": "$7.00",
+        "lot_number": "375351185074",
+        "auction_seller": "cardcrater",
+        "auction_type": "Auction",
+        "cert_number": "84123769",
+        "date": "4/11/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7447576434353421847/7516191001974337944.jpg",
+        "price": "$8.01",
+        "lot_number": "183901364693",
+        "cert_number": "42304908",
+        "date": "8/3/2019",
+        "auction_seller": "kampes_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8674742574660722099/6858508545166020918.jpg",
+        "lot_number": "375328954022",
+        "price": "$6.01",
+        "grade": "8",
+        "date": "3/31/2024",
+        "auction_seller": "cardcrater",
+        "auction_type": "Auction",
+        "cert_number": "84123769",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/28/2019",
+        "cert_number": "42304906",
+        "lot_number": "352667744867",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2993511734304915015/7295989889394305407.jpg",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "price": "$15.00",
+        "cert_number": "42304904",
+        "grade": "10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "352790505110",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5831545646971441999/8346367993486847830.jpg"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/28/2019",
+        "cert_number": "42304909",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "352667744870",
+        "price": "$18.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7681388520468261562/-787214558675254796.jpg"
+    },
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "42304905",
+        "lot_number": "143382922485",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/320979153175655033/893409980837331940.jpg",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

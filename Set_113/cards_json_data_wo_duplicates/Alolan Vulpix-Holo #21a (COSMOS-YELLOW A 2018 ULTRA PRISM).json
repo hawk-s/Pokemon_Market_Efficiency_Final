@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$45.00",
+        "cert_number": "40687933",
+        "date": "10/20/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1253963459126580450/255145470376970089.jpg",
+        "lot_number": "373269865823",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3589408384145747601/-7384157027473746370.jpg",
+        "price": "$30.00",
+        "cert_number": "62808781",
+        "date": "6/21/2023",
+        "lot_number": "374758188358",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "7",
+        "date": "1/4/2022",
+        "lot_number": "284584343884",
+        "price": "$5.50",
+        "cert_number": "53112095",
+        "auction_seller": "westdacellist26",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1171368177679156339/5674428987017217328.jpg"
+    },
+    {
+        "date": "1/4/2022",
+        "cert_number": "53112094",
+        "grade": "9",
+        "lot_number": "284584344187",
+        "auction_seller": "westdacellist26",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6646800734065619908/1805282923095601209.jpg",
+        "price": "$18.00"
+    },
+    {
+        "price": "$45.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1137468306118973831/-3025253079514050863.jpg",
+        "lot_number": "153327578706",
+        "auction_seller": "pokemasterab",
+        "auction_type": "Best Offer",
+        "date": "1/9/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41202058"
+    },
+    {
+        "lot_number": "284584345116",
+        "date": "1/4/2022",
+        "cert_number": "53112093",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5975979797986373561/4005547710824980565.jpg",
+        "auction_seller": "westdacellist26",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$18.00"
+    }
+]

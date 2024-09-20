@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "254395413917",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3956417753245073926/5258554691472617393.jpg",
+        "price": "$5.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "date": "10/27/2019",
+        "auction_house": "eBay",
+        "cert_number": "43979541"
+    },
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "114487696829",
+        "auction_seller": "tsowers10",
+        "price": "$24.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1502540513197614610/967651105333652480.jpg",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "12/11/2020",
+        "cert_number": "43979541"
+    },
+    {
+        "date": "8/30/2019",
+        "lot_number": "254339155153",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-235238313618743069/5258554691472617393.jpg",
+        "price": "$9.29",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "cert_number": "43979541"
+    }
+]

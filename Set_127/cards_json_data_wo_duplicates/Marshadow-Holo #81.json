@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "43947292",
+        "lot_number": "383157089144",
+        "price": "$9.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/516689241152951350/1348072534486119195.jpg",
+        "date": "9/29/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tcfsupplies",
+        "grade": "10"
+    },
+    {
+        "price": "$11.00",
+        "lot_number": "274112667137",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5250494932205476077/-3780244850768150284.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "date": "12/8/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "44694417"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2863232088667820512/5117778298556435888.jpg",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "cert_number": "56244098",
+        "date": "7/15/2023",
+        "price": "$7.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "374803142899"
+    }
+]

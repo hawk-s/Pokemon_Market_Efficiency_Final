@@ -1,0 +1,46 @@
+[
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352790506403",
+        "price": "$13.50",
+        "cert_number": "42554681",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3179835664733808565/-6427202306362940301.jpg"
+    },
+    {
+        "price": "$13.50",
+        "auction_seller": "vstallins",
+        "cert_number": "42225855",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3858153942210421300/-6134689260912279407.jpg",
+        "auction_type": "Auction",
+        "date": "2/24/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "183690688210"
+    },
+    {
+        "date": "8/29/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5131719156286492181/2339859522126848756.jpg",
+        "price": "$26.00",
+        "lot_number": "124858629352",
+        "auction_seller": "card_secret",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "50453765"
+    },
+    {
+        "price": "$7.50",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352667746500",
+        "date": "5/28/2019",
+        "grade": "9",
+        "cert_number": "42225854",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/767754077641303983/7626819038337106657.jpg",
+        "auction_house": "eBay"
+    }
+]

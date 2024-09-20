@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-431373926699154951/2598633436279824374.jpg",
+        "lot_number": "183690637595",
+        "auction_seller": "vstallins",
+        "auction_type": "Auction",
+        "date": "2/24/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "42225856",
+        "price": "$64.33"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "lot_number": "113666404942",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2773362992438822804/-6166777511569793140.jpg",
+        "date": "3/10/2019",
+        "cert_number": "42937393",
+        "price": "$53.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/28/2019",
+        "cert_number": "42225882",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7020555180347004550/-2078354392902811265.jpg",
+        "price": "$27.33",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "401769463381",
+        "grade": "10"
+    }
+]

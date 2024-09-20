@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "gradeplustrade",
+        "date": "8/21/2024",
+        "price": "$26.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5559750629571747439/-5303182931627172262.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "56818409",
+        "lot_number": "196561449632"
+    },
+    {
+        "lot_number": "264205137820",
+        "price": "$6.30",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4102143923158243175/1889124009822290418.jpg",
+        "cert_number": "42485833",
+        "date": "2/26/2019",
+        "auction_seller": "crisnald0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "47842186",
+        "date": "3/29/2021",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_seller": "poke_inc",
+        "auction_house": "eBay",
+        "lot_number": "324534245316",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8814227847307289779/3813774858952470570.jpg"
+    }
+]

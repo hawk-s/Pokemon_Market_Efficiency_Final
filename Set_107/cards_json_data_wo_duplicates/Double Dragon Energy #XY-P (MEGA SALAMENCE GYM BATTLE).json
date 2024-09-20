@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$37.60",
+        "lot_number": "326113304130",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7542460616367183843/2247895843661518917.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "5/13/2024",
+        "cert_number": "85459973",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "402265825304",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/119993814769711378/-4111974566956373200.jpg",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "date": "5/28/2020",
+        "cert_number": "42770421",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "42225859",
+        "auction_seller": "vstallins",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8711071151434304473/-144360024429777342.jpg",
+        "lot_number": "183690703822",
+        "date": "2/24/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

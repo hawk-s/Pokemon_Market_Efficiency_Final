@@ -1,0 +1,112 @@
+[
+    {
+        "grade": "4",
+        "auction_seller": "ksmckenzie",
+        "price": "$15.00",
+        "cert_number": "87612519",
+        "date": "5/19/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4737439800720631110/-6416327626007389459.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "145764152474"
+    },
+    {
+        "grade": "5",
+        "price": "$9.50",
+        "auction_seller": "zandgemporium",
+        "date": "7/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2341474525151552215/-2330974993537082774.jpg",
+        "lot_number": "285389695203",
+        "auction_type": "Auction",
+        "cert_number": "61398539",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "japan-higasi-116",
+        "date": "8/24/2021",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5277139547995640000/7233051702372869623.jpg",
+        "lot_number": "234138252848",
+        "price": "$27.00",
+        "auction_type": "Auction",
+        "cert_number": "55968530",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8494020632377156114/4725936604090693401.jpg",
+        "date": "9/9/2023",
+        "auction_seller": "comc_consignment",
+        "price": "$26.00",
+        "cert_number": "63111219",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "256200715970"
+    },
+    {
+        "date": "1/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3754233474715516354/-6703894169564526172.jpg",
+        "lot_number": "134420312601",
+        "grade": "8",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "cert_number": "63333590",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "price": "$33.00",
+        "cert_number": "28517371",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6206967604483244804/-526622725929686551.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/18/2018",
+        "auction_seller": "bristolcollectibles",
+        "grade": "10",
+        "lot_number": "142858739955"
+    },
+    {
+        "date": "1/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1350506668462556365/4182470679603382209.jpg",
+        "grade": "8",
+        "auction_seller": "4_sharp_corners",
+        "auction_type": "Auction",
+        "cert_number": "63333590",
+        "auction_house": "eBay",
+        "lot_number": "364114225785",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2471017419017680246/-6418942538086467131.jpg",
+        "auction_seller": "summitmodels",
+        "date": "2/26/2023",
+        "price": "$16.00",
+        "cert_number": "45748531",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115711229600",
+        "grade": "2"
+    },
+    {
+        "date": "2/12/2020",
+        "auction_seller": "rhscards",
+        "lot_number": "254459489436",
+        "auction_type": "Buy It Now",
+        "cert_number": "44009333",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4435009532985384667/-3046659420979960489.jpg",
+        "auction_house": "eBay",
+        "price": "$8.49"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352856432540",
+        "cert_number": "42014994",
+        "price": "$23.50",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/581101227244643435/-3618125236851614185.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

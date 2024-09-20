@@ -1,0 +1,35 @@
+[
+    {
+        "date": "2/3/2022",
+        "auction_seller": "sprys",
+        "price": "$50.00",
+        "grade": "9",
+        "cert_number": "53171788",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1504334401095636850/8114327122799915805.jpg",
+        "lot_number": "125121602183"
+    },
+    {
+        "auction_seller": "sprys",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8080067937303599776/8114327122799915805.jpg",
+        "lot_number": "125101812852",
+        "grade": "9",
+        "price": "$22.00",
+        "cert_number": "53171788",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "28153165",
+        "date": "11/6/2017",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "382264599215",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$3.00",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4542882778843811615/-3550672208888018523.jpg"
+    }
+]

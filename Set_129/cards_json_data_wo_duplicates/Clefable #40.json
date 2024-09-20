@@ -1,0 +1,68 @@
+[
+    {
+        "date": "1/28/2022",
+        "lot_number": "255343291292",
+        "price": "$19.38",
+        "cert_number": "55518557",
+        "auction_seller": "sellers_sportscards",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6217991584962531347/-4968657955801818739.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "55523313",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5702886941311990186/6341938077728377861.jpg",
+        "auction_seller": "probstein123",
+        "price": "$51.00",
+        "date": "2/28/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "384745589297",
+        "grade": "10"
+    },
+    {
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3045409898228601167/3463490105325041304.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "55523312",
+        "date": "2/28/2022",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "384745588884"
+    },
+    {
+        "auction_seller": "golbat1",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3263379900672383625/4787104014914338907.jpg",
+        "cert_number": "44040015",
+        "lot_number": "303941746390",
+        "price": "$49.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/11/2021"
+    },
+    {
+        "price": "$9.50",
+        "lot_number": "374068424978",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4336718590542479698/4296778006123248245.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "55523312",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/18/2022"
+    },
+    {
+        "cert_number": "52703970",
+        "price": "$6.50",
+        "date": "12/24/2021",
+        "lot_number": "154752700943",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pc_sportscards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6845351428232010081/5218433107517358408.jpg",
+        "grade": "10"
+    }
+]

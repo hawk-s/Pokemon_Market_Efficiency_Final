@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$4.25",
+        "cert_number": "45521587",
+        "date": "2/29/2020",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7318599281600673708/5829435285033074533.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "lot_number": "254520401496"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2529481565833432904/4313037045061233564.jpg",
+        "cert_number": "59160910",
+        "lot_number": "235179605713",
+        "date": "9/12/2023",
+        "price": "$21.50",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$13.50",
+        "date": "9/27/2019",
+        "lot_number": "254367790091",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5594803042357609115/5986544637997573608.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "cert_number": "43317482",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

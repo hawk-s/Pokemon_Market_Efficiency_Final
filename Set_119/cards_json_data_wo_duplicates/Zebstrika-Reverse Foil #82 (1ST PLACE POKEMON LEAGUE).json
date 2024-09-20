@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$125.95",
+        "date": "3/29/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-229846004519271207/1955144613234274896.jpg",
+        "auction_seller": "pwcc_auctions",
+        "auction_type": "Auction",
+        "lot_number": "143982142775",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "42987968"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "lot_number": "234007806611",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8967601599425453851/-4148819024143225544.jpg",
+        "date": "5/23/2021",
+        "grade": "9",
+        "cert_number": "48724594",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

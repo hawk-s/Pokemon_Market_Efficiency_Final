@@ -1,0 +1,46 @@
+[
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "143902386175",
+        "date": "1/15/2021",
+        "price": "$40.00",
+        "auction_seller": "racetrackbaby",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3022707884310546948/1782087696880526066.jpg",
+        "cert_number": "27915523",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "8 (OC)",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1296672917169717157/4589005980341013404.jpg",
+        "lot_number": "363090101787",
+        "date": "9/5/2020",
+        "cert_number": "44477229",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "ts_emporium"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4456713213471238335/1076503509972012240.jpg",
+        "date": "12/28/2017",
+        "price": "$5.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "362190649176",
+        "cert_number": "27915523",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/8/2023",
+        "price": "$89.00",
+        "auction_seller": "4_sharp_corners",
+        "cert_number": "79586251",
+        "lot_number": "266392328845",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5232398461351387975/4014711226924355912.jpg",
+        "grade": "10"
+    }
+]

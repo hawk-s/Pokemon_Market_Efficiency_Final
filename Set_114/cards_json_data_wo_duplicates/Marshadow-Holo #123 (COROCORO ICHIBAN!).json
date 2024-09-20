@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "7",
+        "auction_seller": "japan-higasi-116",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3461114561723523278/-6402948110106415493.jpg",
+        "price": "$10.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/20/2021",
+        "lot_number": "234050192555",
+        "cert_number": "53614502"
+    },
+    {
+        "date": "1/16/2023",
+        "auction_seller": "cardboundllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7682112577823426197/-1928005710066481015.jpg",
+        "cert_number": "69581580",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "lot_number": "325491878309",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4478278308679847572/-6055201446709063102.jpg",
+        "auction_seller": "japan-higasi-116",
+        "lot_number": "234009424548",
+        "grade": "9",
+        "date": "5/21/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53614432"
+    }
+]

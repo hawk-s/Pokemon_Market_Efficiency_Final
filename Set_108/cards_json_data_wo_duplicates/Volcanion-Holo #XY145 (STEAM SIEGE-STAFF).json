@@ -1,0 +1,101 @@
+[
+    {
+        "cert_number": "40754762",
+        "auction_seller": "cardrushinc",
+        "auction_type": "Best Offer",
+        "lot_number": "282955290008",
+        "grade": "9",
+        "date": "12/26/2020",
+        "auction_house": "eBay",
+        "price": "$99.90",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1632693638698999893/2218046000472285057.jpg"
+    },
+    {
+        "price": "$21.39",
+        "auction_seller": "cardrushinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1152602991646473942/-82462832242479255.jpg",
+        "cert_number": "40754759",
+        "grade": "9",
+        "lot_number": "293519533830",
+        "date": "3/25/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/20/2024",
+        "price": "$62.11",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2370879454007134480/2389010989454876.jpg",
+        "lot_number": "395324886037",
+        "grade": "9",
+        "auction_seller": "peachescollectables",
+        "cert_number": "88074142",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.06",
+        "auction_seller": "cardrushinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4537457704028591793/-1198323555205725837.jpg",
+        "grade": "9",
+        "lot_number": "293392008798",
+        "auction_type": "Auction",
+        "date": "12/29/2019",
+        "auction_house": "eBay",
+        "cert_number": "40754761"
+    },
+    {
+        "auction_type": "Best Offer",
+        "auction_seller": "gamefreak96",
+        "price": "$70.00",
+        "date": "9/22/2020",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3433211343915959118/549923148260257556.jpg",
+        "auction_house": "eBay",
+        "lot_number": "163880919097",
+        "cert_number": "41005284"
+    },
+    {
+        "lot_number": "182860627893",
+        "auction_seller": "collectorsworld-va",
+        "date": "11/5/2017",
+        "cert_number": "28117795",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-1093104918859671488/51352956374057823.jpg",
+        "price": "$46.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/12/2024",
+        "grade": "9",
+        "price": "$56.00",
+        "cert_number": "63396760",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "lot_number": "276360462376",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4234678212553460198/3488123172054257926.jpg"
+    },
+    {
+        "price": "$51.08",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6638503590606250024/3579682746916197000.jpg",
+        "date": "12/30/2018",
+        "lot_number": "372542813879",
+        "auction_seller": "dacardworld",
+        "cert_number": "27405362",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "cardrushinc",
+        "date": "1/22/2020",
+        "grade": "9",
+        "price": "$6.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8792671050370948526/5884445829965082503.jpg",
+        "cert_number": "40754760",
+        "lot_number": "274210509639",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

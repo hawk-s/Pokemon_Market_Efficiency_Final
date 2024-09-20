@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "255380585560",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4610911520870299973/-2485341339090123665.jpg",
+        "auction_seller": "sellers_sportscards",
+        "price": "$7.04",
+        "grade": "9",
+        "cert_number": "56499999",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/18/2022"
+    },
+    {
+        "lot_number": "373213078634",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6746750550545853381/8171527495137307935.jpg",
+        "auction_seller": "probstein123",
+        "date": "9/23/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "26393528",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8660717252613606980/-2029873660970544379.jpg",
+        "lot_number": "383818230465",
+        "auction_seller": "cardboard_collections",
+        "price": "$24.00",
+        "date": "11/21/2020",
+        "auction_house": "eBay",
+        "cert_number": "26393528",
+        "grade": "10"
+    }
+]

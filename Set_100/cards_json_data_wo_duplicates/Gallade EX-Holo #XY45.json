@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "193868767564",
+        "auction_seller": "stemart5979",
+        "cert_number": "27275287",
+        "date": "2/4/2021",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2960683683763450402/1469482399965700497.jpg"
+    },
+    {
+        "date": "7/28/2019",
+        "auction_seller": "tgenterprisellc",
+        "auction_type": "Best Offer",
+        "cert_number": "41308617",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3838216014289845406/6068311921572495209.jpg",
+        "price": "$5.00",
+        "grade": "9",
+        "lot_number": "163682898592",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "284164650661",
+        "date": "2/4/2021",
+        "cert_number": "27275288",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8562347355681262242/7133599595200258629.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "jakrot5",
+        "price": "$56.55"
+    }
+]

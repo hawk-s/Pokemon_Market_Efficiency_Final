@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$17.00",
+        "lot_number": "324916543605",
+        "auction_seller": "card_shack_cards",
+        "cert_number": "53367610",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1066385424910639976/-8900066458779377489.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/10/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/619952240886482878/2422616256121193855.jpg",
+        "price": "$15.50",
+        "date": "11/3/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "144260307829",
+        "auction_house": "eBay",
+        "auction_seller": "unpackednyc",
+        "cert_number": "52561614"
+    },
+    {
+        "lot_number": "253878566450",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4529214164361427215/8703627457243982609.jpg",
+        "auction_type": "Buy It Now",
+        "date": "11/22/2018",
+        "auction_seller": "forgottonn0n",
+        "price": "$9.75",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41220742"
+    },
+    {
+        "lot_number": "163440922901",
+        "price": "$15.00",
+        "auction_type": "Buy It Now",
+        "auction_seller": "zacktx9863",
+        "auction_house": "eBay",
+        "date": "1/16/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/726060928779910506/6003715055388821380.jpg",
+        "grade": "10",
+        "cert_number": "41220742"
+    },
+    {
+        "date": "10/30/2020",
+        "lot_number": "254202748342",
+        "auction_type": "Best Offer",
+        "cert_number": "41655547",
+        "grade": "9",
+        "auction_seller": "eastempiretradingco.ny",
+        "price": "$23.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-182677970293578399/6118496033935850722.jpg"
+    }
+]

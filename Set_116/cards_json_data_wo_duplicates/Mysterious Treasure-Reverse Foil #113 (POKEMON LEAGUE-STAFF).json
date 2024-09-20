@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4653151501083147732/2473672992051730050.jpg",
+        "cert_number": "43157867",
+        "date": "8/18/2019",
+        "auction_seller": "dbdb17",
+        "price": "$33.82",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "113850802481",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$49.00",
+        "cert_number": "42077793",
+        "lot_number": "353279106571",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5335570779168453799/2133318351635565102.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/26/2020"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "353241782200",
+        "date": "10/28/2020",
+        "grade": "10",
+        "cert_number": "42077790",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$102.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2548969121254998363/-6809869617038539697.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7542566837039649559/-2634997377849226539.jpg",
+        "lot_number": "274596653527",
+        "auction_type": "Best Offer",
+        "cert_number": "42077793",
+        "date": "1/15/2021",
+        "price": "$80.00",
+        "auction_seller": "west_in_pieces",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "10/6/2019",
+        "cert_number": "43157865",
+        "price": "$16.52",
+        "lot_number": "113906988999",
+        "auction_seller": "dbdb17",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4848596777324063960/-7540018980650758864.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

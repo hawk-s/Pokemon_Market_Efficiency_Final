@@ -1,0 +1,68 @@
+[
+    {
+        "date": "1/18/2022",
+        "lot_number": "203789838121",
+        "cert_number": "53182671",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7758907466384945528/-6704145661372685326.jpg",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "greatgenie"
+    },
+    {
+        "price": "$11.00",
+        "date": "4/9/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5383361715138492249/7928878761348661.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "203336734944",
+        "auction_house": "eBay",
+        "cert_number": "49452692",
+        "auction_seller": "slab10stradingcards"
+    },
+    {
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5156450882902312457/-2004670490385956332.jpg",
+        "cert_number": "49452693",
+        "date": "4/16/2021",
+        "price": "$17.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "203343794941",
+        "auction_seller": "slab10stradingcards"
+    },
+    {
+        "date": "12/17/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/94833267291245970/6666892900138037162.jpg",
+        "cert_number": "53597223",
+        "lot_number": "275047658526",
+        "price": "$41.00",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/25/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-248541088144462736/-5243662302658451320.jpg",
+        "lot_number": "385553027702",
+        "cert_number": "58179997",
+        "grade": "8",
+        "price": "$10.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/29/2023",
+        "price": "$10.00",
+        "cert_number": "46244577",
+        "auction_seller": "beans-collectables",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4460864428582372073/-3494563734680994520.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "404126628494"
+    }
+]

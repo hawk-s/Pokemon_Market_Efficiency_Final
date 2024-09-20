@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "teamjohnparker",
+        "lot_number": "116178586643",
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1846904890315274726/-3195171238362992032.jpg",
+        "date": "5/21/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41287665"
+    },
+    {
+        "cert_number": "40956325",
+        "lot_number": "164363455567",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7890110520551628583/-6778189993158601738.jpg",
+        "auction_type": "Best Offer",
+        "date": "11/1/2020",
+        "auction_seller": "zacktx9863",
+        "price": "$40.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "40956325",
+        "price": "$15.00",
+        "auction_seller": "megpglass",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7384287139251304833/546785501429243626.jpg",
+        "lot_number": "305358996905",
+        "date": "1/24/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

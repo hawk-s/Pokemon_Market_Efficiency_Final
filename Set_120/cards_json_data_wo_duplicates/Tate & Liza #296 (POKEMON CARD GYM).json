@@ -1,0 +1,79 @@
+[
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6280053632331415228/1791740031766194648.jpg",
+        "price": "$10.80",
+        "lot_number": "401884896871",
+        "cert_number": "42554639",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "10",
+        "cert_number": "42304913",
+        "auction_seller": "kampes_cards",
+        "auction_house": "eBay",
+        "date": "8/6/2019",
+        "auction_type": "Auction",
+        "price": "$32.00",
+        "lot_number": "183904354946",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1499347981717218594/-1736720430608410900.jpg"
+    },
+    {
+        "price": "$9.50",
+        "date": "11/3/2019",
+        "auction_seller": "tcgmarket",
+        "lot_number": "401936028772",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3324039271573573090/-3324586350076151780.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "42554637"
+    },
+    {
+        "date": "9/25/2019",
+        "lot_number": "401884896870",
+        "price": "$3.25",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7454057243478281725/-212690382118758026.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "42554645"
+    },
+    {
+        "auction_seller": "gamecollectionstoreofficial",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4145686378142355534/-2368969233302317893.jpg",
+        "price": "$99.99",
+        "lot_number": "284240638388",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/8/2021",
+        "cert_number": "42554645"
+    },
+    {
+        "auction_type": "Best Offer",
+        "price": "$27.95",
+        "auction_seller": "kantos_finest",
+        "lot_number": "312838442096",
+        "date": "8/4/2020",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7978707287596176407/8751161004667727114.jpg",
+        "grade": "10",
+        "cert_number": "42554637"
+    },
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "price": "$10.50",
+        "cert_number": "42554638",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8448924167326507438/9122526316705843579.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "143382923935"
+    }
+]

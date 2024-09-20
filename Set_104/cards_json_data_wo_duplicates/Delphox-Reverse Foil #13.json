@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "192257378806",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8541065591686188632/-7299414955741745063.jpg",
+        "date": "7/31/2017",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27553111"
+    },
+    {
+        "lot_number": "254245432622",
+        "date": "6/3/2019",
+        "price": "$9.99",
+        "grade": "9",
+        "cert_number": "43568799",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6129185981843422208/-5706523529313228405.jpg"
+    },
+    {
+        "date": "8/5/2020",
+        "grade": "8",
+        "price": "$5.50",
+        "auction_seller": "jspartan98",
+        "lot_number": "154027312307",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8021499894746802318/-8828902501445837955.jpg",
+        "cert_number": "45444813"
+    }
+]

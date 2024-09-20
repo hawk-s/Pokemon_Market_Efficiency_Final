@@ -1,0 +1,46 @@
+[
+    {
+        "auction_type": "Best Offer",
+        "price": "$40.00",
+        "date": "12/31/2020",
+        "auction_seller": "racetrackbaby",
+        "cert_number": "27937980",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6431091247203020073/-2928493530499017638.jpg",
+        "grade": "10",
+        "lot_number": "143902506863"
+    },
+    {
+        "price": "$10.50",
+        "lot_number": "233268467139",
+        "date": "7/1/2019",
+        "auction_seller": "tcgers",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2716818118871193689/-1884317035558116055.jpg",
+        "auction_type": "Auction",
+        "cert_number": "27937980",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27937980",
+        "auction_seller": "probstein123",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6144503835101147983/2192586343960868990.jpg",
+        "lot_number": "362135242299",
+        "auction_type": "Auction",
+        "date": "10/25/2017",
+        "auction_house": "eBay",
+        "price": "$4.00",
+        "grade": "10"
+    },
+    {
+        "price": "$4.25",
+        "cert_number": "67431177",
+        "auction_seller": "worldchampionsportscards",
+        "lot_number": "195733790709",
+        "date": "5/3/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7704705520911558117/7062963146447892210.jpg"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "42698565",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3512858471597031396/8998390249887883469.jpg",
+        "lot_number": "164159338042",
+        "auction_type": "Best Offer",
+        "date": "6/23/2020",
+        "auction_seller": "gamefreak96",
+        "grade": "9",
+        "price": "$22.75",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "7thinninghobby",
+        "lot_number": "314262089418",
+        "price": "$26.00",
+        "cert_number": "60462810",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7095009596808527549/1606693989690691802.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/13/2022"
+    },
+    {
+        "lot_number": "115850580899",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9197951380258745434/8714132594664952543.jpg",
+        "date": "7/11/2023",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_seller": "liquidationme",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "75293407"
+    }
+]

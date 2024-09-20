@@ -1,0 +1,46 @@
+[
+    {
+        "date": "5/26/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4385794979546005500/-8996996161606972398.jpg",
+        "lot_number": "276473163805",
+        "grade": "9",
+        "price": "$9.55",
+        "auction_type": "Auction",
+        "cert_number": "79021914",
+        "auction_house": "eBay",
+        "auction_seller": "be_be11"
+    },
+    {
+        "date": "6/23/2024",
+        "lot_number": "276511525740",
+        "cert_number": "79021917",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1021082963479882917/-1226122878686927235.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "be_be11",
+        "price": "$6.96"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1460483550488195589/2279800655026315362.jpg",
+        "auction_seller": "repriseinc",
+        "lot_number": "402743251642",
+        "cert_number": "44939392",
+        "date": "3/18/2021",
+        "grade": "9",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/5/2020",
+        "auction_type": "Buy It Now",
+        "lot_number": "193262573397",
+        "cert_number": "44939392",
+        "auction_seller": "ecology1990",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3979313817835474919/2478411871815602885.jpg",
+        "auction_house": "eBay",
+        "price": "$10.99"
+    }
+]

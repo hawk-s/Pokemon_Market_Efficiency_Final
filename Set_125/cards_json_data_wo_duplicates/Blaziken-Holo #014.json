@@ -1,0 +1,68 @@
+[
+    {
+        "date": "5/25/2020",
+        "grade": "9",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "lot_number": "184299706693",
+        "cert_number": "42367400",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5677744462464572930/5318396473134465089.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "rivolkayl"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7134386478239368599/-4199432172921003941.jpg",
+        "cert_number": "42367399",
+        "lot_number": "143931582996",
+        "price": "$31.00",
+        "date": "2/7/2021",
+        "auction_seller": "yeah_that_austin",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3434306672601795848/-5600507808740256326.jpg",
+        "date": "5/23/2020",
+        "price": "$20.70",
+        "cert_number": "42367399",
+        "auction_type": "Auction",
+        "lot_number": "184299700717",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "rivolkayl"
+    },
+    {
+        "cert_number": "68970316",
+        "date": "3/6/2023",
+        "auction_seller": "parkerspokemon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7267175814855127670/-680434728012425713.jpg",
+        "auction_type": "Auction",
+        "price": "$16.51",
+        "lot_number": "314428145799",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/30/2020",
+        "auction_type": "Best Offer",
+        "grade": "10",
+        "cert_number": "42367399",
+        "price": "$29.00",
+        "auction_seller": "dcwconsulting-md",
+        "auction_house": "eBay",
+        "lot_number": "402382617107",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8249118346327066820/1954042670567734125.jpg"
+    },
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "154326372384",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6152786269247183662/-8691591254283156784.jpg",
+        "price": "$31.00",
+        "auction_seller": "fingordo",
+        "cert_number": "42367400",
+        "auction_house": "eBay",
+        "date": "2/12/2021"
+    }
+]

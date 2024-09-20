@@ -1,0 +1,46 @@
+[
+    {
+        "date": "2/22/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5582587699600620079/-5953589629236864535.jpg",
+        "cert_number": "55523301",
+        "grade": "8",
+        "price": "$5.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "384729022723",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/29/2021",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7446826781160153532/921291341862341982.jpg",
+        "lot_number": "353424914417",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "cert_number": "46244617",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$15.00",
+        "auction_seller": "qceshop",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3451959047379804280/-4119494093202419246.jpg",
+        "grade": "9",
+        "lot_number": "166199542006",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/5/2023",
+        "cert_number": "57105909"
+    },
+    {
+        "date": "1/28/2022",
+        "cert_number": "53597231",
+        "price": "$10.50",
+        "lot_number": "275098041066",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4272122731924345644/-3712194608082276509.jpg",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

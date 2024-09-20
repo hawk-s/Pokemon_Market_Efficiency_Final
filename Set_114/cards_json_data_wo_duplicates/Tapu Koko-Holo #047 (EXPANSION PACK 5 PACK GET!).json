@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$30.00",
+        "date": "1/9/2020",
+        "auction_type": "Buy It Now",
+        "cert_number": "41444993",
+        "lot_number": "153441633371",
+        "auction_house": "eBay",
+        "auction_seller": "jgar15942",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7235837827820635654/-667942611113381308.jpg"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4918440887412830267/-6304324834030277466.jpg",
+        "price": "$13.00",
+        "auction_seller": "xzinih",
+        "auction_type": "Best Offer",
+        "lot_number": "112479075958",
+        "cert_number": "27390604",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "7/23/2017"
+    },
+    {
+        "price": "$4.50",
+        "auction_type": "Auction",
+        "date": "2/16/2019",
+        "auction_seller": "masterjumpmaster",
+        "cert_number": "42076333",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2934150289934557443/6075316789807497953.jpg",
+        "lot_number": "173786495599"
+    },
+    {
+        "price": "$7.50",
+        "cert_number": "84213429",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3538683449573077723/1259445976437341951.jpg",
+        "lot_number": "126468804808",
+        "auction_seller": "freeezz0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "5/13/2024"
+    },
+    {
+        "lot_number": "112993297761",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4448504525022754014/-582273641402835241.jpg",
+        "auction_type": "Best Offer",
+        "price": "$39.99",
+        "cert_number": "27324318",
+        "auction_seller": "blowoutcards2",
+        "date": "12/8/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

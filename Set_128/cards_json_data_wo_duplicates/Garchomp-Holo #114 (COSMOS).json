@@ -1,0 +1,35 @@
+[
+    {
+        "date": "7/5/2023",
+        "lot_number": "404362743838",
+        "grade": "9",
+        "price": "$59.99",
+        "cert_number": "73360367",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2969488223585705600/-6465806825687963280.jpg",
+        "auction_seller": "dragon_secrets"
+    },
+    {
+        "lot_number": "285523183294",
+        "auction_seller": "zandgemporium",
+        "cert_number": "78525721",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5371762678077115646/5036014160703976131.jpg",
+        "grade": "10",
+        "price": "$66.00"
+    },
+    {
+        "price": "$3.27",
+        "auction_seller": "scottsretro",
+        "cert_number": "78525720",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/751225387552344031/997062580760674399.jpg",
+        "grade": "9",
+        "lot_number": "134753905637",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/9/2023"
+    }
+]

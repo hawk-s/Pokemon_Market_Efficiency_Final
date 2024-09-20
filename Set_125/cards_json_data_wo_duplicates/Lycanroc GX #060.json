@@ -1,0 +1,68 @@
+[
+    {
+        "date": "4/8/2023",
+        "price": "$23.49",
+        "auction_seller": "vispri-21",
+        "lot_number": "354636878590",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8416926958893190031/-1837210078403869228.jpg",
+        "cert_number": "66954193"
+    },
+    {
+        "lot_number": "153630160405",
+        "auction_type": "Best Offer",
+        "date": "7/21/2020",
+        "cert_number": "43333774",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3296506795326667310/6376278640306960985.jpg",
+        "auction_seller": "pokefeensdotc0m",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$28.88"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4487934325410908767/2298295769275213168.jpg",
+        "cert_number": "61474976",
+        "auction_seller": "zandgemporium",
+        "price": "$8.02",
+        "date": "7/30/2023",
+        "grade": "9",
+        "lot_number": "285389686805",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "lot_number": "285389686948",
+        "date": "7/30/2023",
+        "grade": "9",
+        "price": "$10.54",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8613579311689116101/4168076678489565852.jpg",
+        "cert_number": "61474974"
+    },
+    {
+        "auction_seller": "slugsellsllc",
+        "cert_number": "78388969",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5667934842738472462/-3383235966890348878.jpg",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "date": "8/3/2024",
+        "lot_number": "395558630147",
+        "auction_type": "Auction",
+        "grade": "10"
+    },
+    {
+        "cert_number": "42886807",
+        "date": "4/24/2020",
+        "price": "$15.52",
+        "lot_number": "223980042675",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2340028138570944991/7275430930486843330.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "entre_collector"
+    }
+]

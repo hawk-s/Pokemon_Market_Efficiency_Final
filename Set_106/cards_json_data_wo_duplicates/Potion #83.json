@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "176493576341",
+        "price": "$5.12",
+        "cert_number": "85686532",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4268456131561705217/-3266062769067221976.jpg",
+        "grade": "9",
+        "date": "8/4/2024",
+        "auction_seller": "pricey_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/5/2020",
+        "lot_number": "363090099582",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7089602114783414798/1312453056102934715.jpg",
+        "price": "$5.50",
+        "cert_number": "44477226",
+        "grade": "8 (MC)",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "ts_emporium"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6522210477498914347/-7117945025818618185.jpg",
+        "cert_number": "87527141",
+        "lot_number": "176300241318",
+        "grade": "9",
+        "date": "3/31/2024",
+        "auction_seller": "pricey_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$6.32"
+    },
+    {
+        "date": "4/21/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2230551544774031138/-1637819249317392426.jpg",
+        "grade": "9",
+        "auction_seller": "pricey_collectibles",
+        "auction_type": "Auction",
+        "cert_number": "85686531",
+        "auction_house": "eBay",
+        "lot_number": "176332846051",
+        "price": "$3.98"
+    },
+    {
+        "lot_number": "195733791046",
+        "auction_seller": "worldchampionsportscards",
+        "date": "5/3/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1860270764561425485/7039829042405478106.jpg",
+        "cert_number": "67431179",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    }
+]

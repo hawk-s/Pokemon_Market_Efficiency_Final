@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3002114736043671504/8753967149921264816.jpg",
+        "auction_seller": "inflamesrmtp",
+        "price": "$4.85",
+        "date": "6/12/2019",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "42024865",
+        "auction_house": "eBay",
+        "lot_number": "254251852347"
+    },
+    {
+        "date": "1/26/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1824897101469280264/-5752552338234233765.jpg",
+        "cert_number": "74018730",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_seller": "trevohame0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "325974069426"
+    },
+    {
+        "date": "5/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/551585301678424170/2520398321379444700.jpg",
+        "lot_number": "326102312833",
+        "price": "$124.17",
+        "auction_type": "Auction",
+        "cert_number": "74018731",
+        "auction_house": "eBay",
+        "auction_seller": "trevohame0",
+        "grade": "10"
+    }
+]

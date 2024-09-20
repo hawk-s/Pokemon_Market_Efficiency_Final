@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "46327462",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7301983727179279130/7821066695928774792.jpg",
+        "grade": "9",
+        "price": "$30.36",
+        "date": "9/8/2020",
+        "lot_number": "164308930273",
+        "auction_house": "eBay",
+        "auction_seller": "tradingcardlibrary"
+    },
+    {
+        "cert_number": "93828211",
+        "grade": "6",
+        "price": "$10.00",
+        "lot_number": "305743603349",
+        "date": "8/31/2024",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9162370430182325693/533693792231927968.jpg",
+        "auction_seller": "psa"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "42015007",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/453585013118305795/-8181975415505319053.jpg",
+        "price": "$27.00",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "lot_number": "401961074845",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "63255880",
+        "auction_seller": "comc_consignment",
+        "price": "$34.33",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/24/2023",
+        "lot_number": "334985482989",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3367974571523564892/-8301801155696125391.jpg"
+    },
+    {
+        "grade": "5",
+        "lot_number": "195823810824",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4018933566712144207/-697125674836777062.jpg",
+        "cert_number": "67053715",
+        "price": "$19.99",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "6/22/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1986375433605631081/7353085301890997756.jpg",
+        "price": "$26.00",
+        "lot_number": "132695247217",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "28517358",
+        "date": "7/18/2018",
+        "auction_seller": "bristolcollectibles",
+        "grade": "10"
+    }
+]

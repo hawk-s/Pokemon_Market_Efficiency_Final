@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "41713423",
+        "lot_number": "143792868280",
+        "date": "10/28/2020",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2563936079741177689/9177905330786299954.jpg",
+        "grade": "10"
+    },
+    {
+        "date": "7/15/2020",
+        "cert_number": "41713423",
+        "auction_type": "Buy It Now",
+        "auction_seller": "apspeeze",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1873127991173154387/1393301415064509158.jpg",
+        "auction_house": "eBay",
+        "lot_number": "293116658959",
+        "grade": "10",
+        "price": "$29.99"
+    },
+    {
+        "date": "9/25/2019",
+        "cert_number": "41713422",
+        "price": "$7.50",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3223837702585256989/1743638545306460303.jpg",
+        "lot_number": "143382922895",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "41713423",
+        "date": "5/28/2019",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2123071590870686166/6982785184979748725.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "143257698114"
+    }
+]

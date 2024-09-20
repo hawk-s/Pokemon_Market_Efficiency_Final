@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "254786801551",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5567986193122225087/3901177651785047330.jpg",
+        "price": "$13.50",
+        "date": "11/28/2020",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "cert_number": "47260122"
+    },
+    {
+        "cert_number": "54813089",
+        "auction_seller": "goats-n-pros",
+        "grade": "8",
+        "lot_number": "234397361992",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7266327034565815701/3724624378213967473.jpg",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/1/2022"
+    },
+    {
+        "cert_number": "43979539",
+        "lot_number": "293504317126",
+        "date": "3/15/2020",
+        "auction_seller": "dacajc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7139359347886516567/1313374749770522495.jpg",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/8/2019",
+        "cert_number": "43979539",
+        "price": "$11.50",
+        "lot_number": "254317750191",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "danktron",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3820192971968020099/9142647579124986773.jpg",
+        "grade": "10"
+    },
+    {
+        "date": "8/19/2020",
+        "cert_number": "46457354",
+        "price": "$10.50",
+        "auction_seller": "donottoscardsandcollectables",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-93163737635567042/-7558912348044132978.jpg",
+        "auction_type": "Auction",
+        "lot_number": "164334272114",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "305512277888",
+        "price": "$9.50",
+        "cert_number": "70372021",
+        "auction_seller": "vintagetoyauctions",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4550126549890306555/7973226731232880019.jpg",
+        "auction_type": "Auction",
+        "date": "4/22/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7558489866594033539/3145419341799874109.jpg",
+        "auction_seller": "maskontask",
+        "grade": "9",
+        "lot_number": "354525692337",
+        "price": "$9.54",
+        "cert_number": "59195658",
+        "auction_type": "Auction",
+        "date": "1/24/2023",
+        "auction_house": "eBay"
+    }
+]

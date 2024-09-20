@@ -1,0 +1,57 @@
+[
+    {
+        "date": "7/22/2021",
+        "cert_number": "48023309",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5616121814419444470/-4129803516726626670.jpg",
+        "grade": "10",
+        "price": "$25.02",
+        "lot_number": "194241575846"
+    },
+    {
+        "cert_number": "58829128",
+        "lot_number": "204024989959",
+        "grade": "9",
+        "date": "7/8/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5015049462063192144/-939954110548492223.jpg",
+        "auction_type": "Auction",
+        "price": "$3.99",
+        "auction_house": "eBay",
+        "auction_seller": "slab10stradingcards"
+    },
+    {
+        "price": "$20.00",
+        "lot_number": "164350223757",
+        "auction_type": "Best Offer",
+        "date": "9/17/2020",
+        "cert_number": "46396522",
+        "auction_seller": "guildwars2mesmer",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5086861657514576007/9164963997614247534.jpg"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "cert_number": "58375963",
+        "date": "12/3/2023",
+        "grade": "9",
+        "lot_number": "335135026665",
+        "price": "$5.83",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6548391009637623091/88175617741464787.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5867538463404301167/7876564942939215068.jpg",
+        "price": "$6.05",
+        "cert_number": "52849441",
+        "grade": "9",
+        "date": "12/18/2021",
+        "lot_number": "154743276916",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "date": "3/24/2019",
+        "cert_number": "40696009",
+        "auction_seller": "texas_tamugirl",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5216177933884663757/1213460784749480167.jpg",
+        "lot_number": "283423412424",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "date": "3/10/2019",
+        "grade": "9",
+        "cert_number": "42937396",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4004974814712692816/450473802461423668.jpg",
+        "auction_house": "eBay",
+        "lot_number": "123666600586"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "price": "$24.74",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2991608337121748216/-3433609307262354218.jpg",
+        "date": "9/16/2018",
+        "lot_number": "123353673085",
+        "cert_number": "40696008",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "date": "6/19/2023",
+        "auction_seller": "omegacollectiblesllc",
+        "lot_number": "185938982693",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8203768374346636118/-5360013867825251024.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "70369605"
+    },
+    {
+        "lot_number": "123928117907",
+        "date": "10/14/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3053550390308650233/-7737242905349647933.jpg",
+        "auction_seller": "raijinfujin",
+        "price": "$4.42",
+        "cert_number": "40696008",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "42225860",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6072546902965638578/-2393799460866707413.jpg",
+        "lot_number": "143257697977",
+        "date": "5/28/2019",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$22.83",
+        "auction_seller": "japan-international-trade",
+        "lot_number": "113169076520",
+        "date": "8/5/2018",
+        "cert_number": "40696008",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1618924028083607307/-3433609307262354218.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$7.51",
+        "cert_number": "43075978",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352694320115",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9170873567141547833/-1471184823112276728.jpg",
+        "date": "6/27/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

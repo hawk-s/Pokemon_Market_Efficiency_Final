@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "42146731",
+        "grade": "9",
+        "auction_seller": "dabcollectibles",
+        "price": "$11.50",
+        "date": "11/7/2020",
+        "auction_type": "Auction",
+        "lot_number": "293809030701",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2923063571523163281/-1917264020943314915.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "bkmmu-15",
+        "auction_type": "Best Offer",
+        "date": "11/20/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4240887098216430611/-3112712821268293627.jpg",
+        "grade": "9",
+        "cert_number": "42146731",
+        "auction_house": "eBay",
+        "lot_number": "383812881189",
+        "price": "$18.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6673886051789781207/-8217365892092426318.jpg",
+        "lot_number": "233605724387",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_seller": "trainersef",
+        "auction_type": "Auction",
+        "date": "6/7/2020",
+        "cert_number": "42146731",
+        "auction_house": "eBay"
+    }
+]

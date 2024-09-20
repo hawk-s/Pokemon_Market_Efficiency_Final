@@ -1,0 +1,35 @@
+[
+    {
+        "date": "10/10/2020",
+        "auction_type": "Best Offer",
+        "cert_number": "44571299",
+        "auction_seller": "ecology1990",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3000436358841872439/-1302431999796046859.jpg",
+        "auction_house": "eBay",
+        "price": "$10.99",
+        "lot_number": "193265324617"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6110698921076686635/-1302431999796046859.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "44571299",
+        "lot_number": "193705735528",
+        "auction_seller": "ecology1990",
+        "grade": "9",
+        "date": "10/18/2020",
+        "auction_house": "eBay",
+        "price": "$10.99"
+    },
+    {
+        "price": "$15.50",
+        "date": "12/23/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/122746451752846066/6379493781634697968.jpg",
+        "auction_type": "Auction",
+        "cert_number": "52704090",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "154751194910"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$27.50",
+        "lot_number": "313223303715",
+        "date": "12/30/2020",
+        "auction_type": "Best Offer",
+        "cert_number": "43568762",
+        "auction_seller": "sanz4815",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3761508421486492954/926986879839368249.jpg"
+    },
+    {
+        "price": "$3.30",
+        "date": "7/6/2019",
+        "lot_number": "254280057761",
+        "cert_number": "43568762",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1281834245537365067/3174897803302430195.jpg"
+    }
+]

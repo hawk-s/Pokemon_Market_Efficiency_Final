@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "363655698522",
+        "auction_seller": "4_sharp_corners",
+        "cert_number": "53779308",
+        "price": "$18.39",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4620149936284323844/244124602318883226.jpg",
+        "grade": "10",
+        "date": "12/27/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/109131643801485406/-2261995308940403882.jpg",
+        "lot_number": "254252752093",
+        "date": "6/10/2019",
+        "price": "$5.99",
+        "cert_number": "43568769",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/10/2019",
+        "lot_number": "254253080712",
+        "cert_number": "43568770",
+        "price": "$9.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7127555446681344623/2836003686480116065.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2137514274505592032/7412811931823532611.jpg",
+        "date": "5/20/2020",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "lot_number": "264684428814",
+        "cert_number": "43726968",
+        "auction_seller": "forgottonn0n",
+        "price": "$8.00",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "124687220503",
+        "auction_seller": "topdo_4131",
+        "date": "4/25/2021",
+        "cert_number": "43930583",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8055318454047220221/5789023388722276668.jpg"
+    }
+]

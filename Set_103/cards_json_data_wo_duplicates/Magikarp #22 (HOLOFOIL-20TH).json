@@ -1,0 +1,35 @@
+[
+    {
+        "date": "4/1/2023",
+        "price": "$18.67",
+        "cert_number": "66796443",
+        "lot_number": "225488887596",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7575279610504127596/399877590837465095.jpg",
+        "grade": "9",
+        "auction_seller": "playskapegames",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4304178712915330702/8786265047698045680.jpg",
+        "lot_number": "353581755492",
+        "cert_number": "49327176",
+        "auction_seller": "lautro84",
+        "date": "7/23/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00"
+    },
+    {
+        "cert_number": "53225384",
+        "lot_number": "387309247692",
+        "auction_seller": "pokecolor_official",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1052172901658472581/-2648985316769931283.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "price": "$18.50"
+    }
+]

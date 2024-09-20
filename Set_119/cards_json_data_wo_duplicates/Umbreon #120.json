@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "234909141312",
+        "auction_seller": "team_pikachu",
+        "cert_number": "70525801",
+        "date": "3/1/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6702336147552527958/-5751888103280088282.jpg"
+    },
+    {
+        "date": "2/13/2023",
+        "price": "$52.14",
+        "cert_number": "46302132",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5988857736849240154/-854847650248744592.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "lot_number": "314369636471"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3815744585926817042/-5067884347648656256.jpg",
+        "lot_number": "326156925781",
+        "cert_number": "69090670",
+        "date": "6/16/2024",
+        "auction_seller": "twofast4u820",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$150.00"
+    }
+]

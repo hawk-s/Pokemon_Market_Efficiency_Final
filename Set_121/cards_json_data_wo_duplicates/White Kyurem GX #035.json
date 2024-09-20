@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$14.99",
+        "date": "4/30/2020",
+        "auction_seller": "trainersef",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4608048711227092812/-6561968841075438182.jpg",
+        "auction_type": "Auction",
+        "cert_number": "42146732",
+        "auction_house": "eBay",
+        "lot_number": "233569970049",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7702050490210452778/3481808965606917970.jpg",
+        "auction_seller": "pokefanstore",
+        "date": "7/8/2024",
+        "cert_number": "92986924",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "355824930795"
+    },
+    {
+        "lot_number": "186029141766",
+        "cert_number": "73654910",
+        "auction_seller": "tcghazardous",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5181992855602412340/-3887794578223588598.jpg",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pokeli_99",
+        "date": "12/16/2022",
+        "lot_number": "314267409622",
+        "price": "$23.50",
+        "cert_number": "60813094",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5355921097142110844/5673345762981787711.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/14/2023",
+        "cert_number": "56908981",
+        "price": "$27.00",
+        "auction_seller": "cardboardempires",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/936066842121303465/5421864178246118641.jpg",
+        "auction_type": "Auction",
+        "lot_number": "374549088832",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "254072268775",
+        "cert_number": "41432666",
+        "price": "$5.50",
+        "auction_seller": "nemesis.301",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3557674939590165990/2490393431737292263.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/21/2019"
+    },
+    {
+        "date": "3/5/2024",
+        "price": "$17.67",
+        "cert_number": "79553069",
+        "auction_seller": "mintymountaincollectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "235452147875",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6242565849683088766/-3634414272363131397.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pokeli_99",
+        "date": "10/19/2022",
+        "lot_number": "314185410292",
+        "cert_number": "60813094",
+        "price": "$19.27",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1942647138471056715/5673345762981787711.jpg"
+    }
+]

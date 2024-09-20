@@ -1,0 +1,35 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "date": "5/5/2020",
+        "cert_number": "45141178",
+        "lot_number": "254566302413",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4096099999986389554/5361306369497634442.jpg",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.00"
+    },
+    {
+        "lot_number": "254318782946",
+        "price": "$6.99",
+        "cert_number": "43979456",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6957473962067807255/-8831648451149730380.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/9/2019"
+    },
+    {
+        "auction_seller": "boxcar_tourist",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3216010363722249120/4112437994025527836.jpg",
+        "lot_number": "285003052076",
+        "date": "10/24/2022",
+        "cert_number": "45141178",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

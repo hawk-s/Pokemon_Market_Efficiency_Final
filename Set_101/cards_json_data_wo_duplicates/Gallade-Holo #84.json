@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4003736973047491269/-2270108659703797195.jpg",
+        "price": "$4.25",
+        "cert_number": "27553829",
+        "lot_number": "112566134408",
+        "grade": "9",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "date": "9/23/2017",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "55525573",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-929032899127470073/8125675179518468626.jpg",
+        "price": "$10.53",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "373938687423",
+        "auction_type": "Auction",
+        "date": "3/1/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/20/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5312017644338548242/9009361913746050687.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "43726949",
+        "grade": "9",
+        "auction_seller": "forgottonn0n",
+        "price": "$8.00",
+        "lot_number": "254555996153",
+        "auction_house": "eBay"
+    }
+]

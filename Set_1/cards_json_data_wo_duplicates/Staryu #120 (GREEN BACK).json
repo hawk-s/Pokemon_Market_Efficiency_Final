@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "rhscards",
+        "auction_type": "Buy It Now",
+        "lot_number": "254568236465",
+        "price": "$59.99",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4348579315899340589/142853637485850350.jpg",
+        "cert_number": "44009409",
+        "grade": "10",
+        "date": "4/15/2020"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4650401337665010489/6549386385788945135.jpg",
+        "lot_number": "285389731654",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "date": "7/30/2023",
+        "auction_type": "Auction",
+        "cert_number": "61300846",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "lot_number": "265877913191",
+        "price": "$26.00",
+        "date": "9/16/2022",
+        "grade": "8",
+        "cert_number": "62480959",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1115765042365857174/-6410646500023524772.jpg",
+        "auction_seller": "seedsfromme2u",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "lot_number": "325572032041",
+        "cert_number": "69741720",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8858254828367656805/3512807517439796467.jpg",
+        "price": "$18.50",
+        "auction_seller": "old-skool-pokemon"
+    }
+]

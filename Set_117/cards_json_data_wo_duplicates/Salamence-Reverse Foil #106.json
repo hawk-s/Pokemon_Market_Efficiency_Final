@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7759633130398134444/8905311030331896719.jpg",
+        "price": "$8.01",
+        "date": "10/27/2023",
+        "grade": "9",
+        "cert_number": "75539827",
+        "auction_type": "Auction",
+        "lot_number": "166386250189",
+        "auction_house": "eBay",
+        "auction_seller": "itemland"
+    },
+    {
+        "lot_number": "275842014323",
+        "cert_number": "55139812",
+        "date": "5/15/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6358749699436094710/4117333538856690969.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "greatshoesforless_rch",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8252544500905898019/8632914182945482386.jpg",
+        "price": "$20.00",
+        "auction_type": "Buy It Now",
+        "lot_number": "254537398621",
+        "cert_number": "43726971",
+        "date": "5/14/2020",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

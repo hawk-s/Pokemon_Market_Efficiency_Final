@@ -1,0 +1,123 @@
+[
+    {
+        "cert_number": "43568779",
+        "date": "6/12/2019",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "danktron",
+        "lot_number": "254255215313",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6636538011613832862/-9190709880136027777.jpg"
+    },
+    {
+        "cert_number": "44497576",
+        "auction_seller": "jeannietate1954",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8405391705500724114/-8945439728116158886.jpg",
+        "price": "$18.99",
+        "lot_number": "254579900549",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "5/5/2020"
+    },
+    {
+        "auction_seller": "teamgarza1",
+        "grade": "9",
+        "price": "$31.00",
+        "cert_number": "46946989",
+        "date": "2/10/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3803546615586744170/-4103839492698674306.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "284172932976"
+    },
+    {
+        "cert_number": "44720421",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1375478448898082236/8109899057861663756.jpg",
+        "price": "$13.24",
+        "date": "2/25/2020",
+        "auction_seller": "raijinfujin",
+        "lot_number": "124084245475",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "44497576",
+        "price": "$15.00",
+        "lot_number": "165949766416",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4444303143385268131/126671237512484926.jpg",
+        "date": "2/28/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "lucas2912"
+    },
+    {
+        "cert_number": "44720421",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/919281186683083916/8109899057861663756.jpg",
+        "date": "3/16/2020",
+        "lot_number": "124108588377",
+        "auction_seller": "raijinfujin",
+        "price": "$6.46",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "254513881168",
+        "date": "2/22/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1684377480555251675/5978611511873810779.jpg",
+        "price": "$7.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "cert_number": "45521538"
+    },
+    {
+        "auction_seller": "annemcm-1",
+        "date": "2/22/2021",
+        "cert_number": "43568779",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7051109347127455743/-8105265989372687332.jpg",
+        "price": "$50.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "393126366684"
+    },
+    {
+        "cert_number": "45521538",
+        "grade": "9",
+        "price": "$5.89",
+        "auction_type": "Auction",
+        "lot_number": "254507321708",
+        "auction_house": "eBay",
+        "date": "2/15/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1499183227375786040/5978611511873810779.jpg",
+        "auction_seller": "danktron"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6381372730393118140/1638157556014117288.jpg",
+        "lot_number": "294038335636",
+        "cert_number": "43695900",
+        "auction_seller": "dacajc",
+        "price": "$51.00",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "3/7/2021",
+        "grade": "10"
+    },
+    {
+        "date": "6/10/2019",
+        "lot_number": "254253087386",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "cert_number": "43568780",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3705299464410854280/5454808303576788017.jpg"
+    }
+]

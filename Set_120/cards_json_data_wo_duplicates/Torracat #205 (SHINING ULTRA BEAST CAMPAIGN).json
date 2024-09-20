@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/13/2022",
+        "cert_number": "63480570",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8585378742652388873/-6797218666694440390.jpg",
+        "lot_number": "363680324765",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "cert_number": "43272130",
+        "price": "$4.25",
+        "auction_seller": "unique_collectible_cards",
+        "lot_number": "254327018545",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/403406067704150888/-9220629678389313654.jpg",
+        "auction_type": "Auction",
+        "date": "8/17/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "43272130",
+        "auction_type": "Best Offer",
+        "price": "$16.18",
+        "date": "4/28/2020",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/874824314294857771/3037227325158930766.jpg",
+        "lot_number": "113966121047",
+        "auction_seller": "buds_place8044"
+    },
+    {
+        "cert_number": "43272130",
+        "price": "$10.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1249385668003192548/-2672341934857818710.jpg",
+        "auction_seller": "dustidownin_3",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "184455129497",
+        "grade": "10",
+        "date": "9/27/2020"
+    }
+]

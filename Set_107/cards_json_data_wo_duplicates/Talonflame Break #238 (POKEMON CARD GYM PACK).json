@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "304251511231",
+        "price": "$20.00",
+        "date": "12/11/2021",
+        "auction_seller": "sakura25252",
+        "cert_number": "63499496",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3990296351662361192/2381763328610581931.jpg"
+    },
+    {
+        "cert_number": "43272144",
+        "auction_seller": "unique_collectible_cards",
+        "lot_number": "254326878596",
+        "price": "$7.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5583267015885011471/-6378276790582721107.jpg",
+        "auction_type": "Auction",
+        "date": "8/17/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/13/2022",
+        "cert_number": "63469093",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/699894754688243620/6485397280993490238.jpg",
+        "lot_number": "363680457289",
+        "auction_seller": "probstein123",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

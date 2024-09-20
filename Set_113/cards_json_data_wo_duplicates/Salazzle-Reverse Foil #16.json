@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$7.50",
+        "grade": "7",
+        "auction_seller": "onepizza",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4855195080821058088/8236012626288583468.jpg",
+        "cert_number": "59328964",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "256055314982",
+        "date": "5/5/2023"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "onepizza",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5908014158223158436/8236012626288583468.jpg",
+        "date": "3/24/2023",
+        "lot_number": "256011478546",
+        "price": "$6.50",
+        "cert_number": "59328964",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1494512444629312283/-981136080213725714.jpg",
+        "auction_seller": "river_haze_collectibles",
+        "date": "8/18/2023",
+        "price": "$5.50",
+        "grade": "9",
+        "cert_number": "61243140",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "385905724865"
+    },
+    {
+        "auction_seller": "pokeguru1200",
+        "cert_number": "48947496",
+        "lot_number": "403089188314",
+        "date": "8/22/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6492796381428212817/-7440023825067418194.jpg",
+        "grade": "9",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

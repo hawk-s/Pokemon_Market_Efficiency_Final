@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "43990180",
+        "lot_number": "143443799868",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1235837306717533804/-7399229455829666007.jpg",
+        "price": "$29.00",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/23/2019",
+        "lot_number": "401996976728",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "43990243",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/869903071220221233/3234611291646568056.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "psa_collector",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6239108120873243923/6051518464147660178.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "41261985",
+        "lot_number": "333313430893",
+        "price": "$98.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/20/2020"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5416747370137446971/-5625532759858881542.jpg",
+        "lot_number": "114124489058",
+        "date": "3/1/2020",
+        "price": "$20.50",
+        "cert_number": "43616951",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "cert_number": "76423482",
+        "price": "$31.00",
+        "lot_number": "285842984097",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6682803238462387121/-7023836326454473349.jpg",
+        "date": "5/12/2024",
+        "grade": "10"
+    },
+    {
+        "cert_number": "28675874",
+        "auction_seller": "cascade_cards_japan",
+        "date": "3/11/2018",
+        "lot_number": "162932602431",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3470337479585149382/-488952638595251203.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    }
+]

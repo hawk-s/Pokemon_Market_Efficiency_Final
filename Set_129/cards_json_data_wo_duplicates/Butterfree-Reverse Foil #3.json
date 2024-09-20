@@ -1,0 +1,90 @@
+[
+    {
+        "date": "9/7/2020",
+        "auction_type": "Best Offer",
+        "lot_number": "164350220949",
+        "price": "$35.00",
+        "auction_seller": "guildwars2mesmer",
+        "cert_number": "45642007",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/295296702395253307/-6576194060639379761.jpg"
+    },
+    {
+        "price": "$27.99",
+        "auction_seller": "zacktx9863",
+        "cert_number": "44659269",
+        "date": "5/14/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6757279615558925766/-3025085328280967730.jpg",
+        "grade": "10",
+        "lot_number": "164189699821"
+    },
+    {
+        "date": "8/8/2020",
+        "cert_number": "46368618",
+        "lot_number": "114265578457",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-663624228836972046/2159981150576054622.jpg",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_seller": "my_honolulu_blue",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "10/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/321362880400901106/1541892057382309970.jpg",
+        "auction_seller": "jam3850",
+        "cert_number": "54233349",
+        "lot_number": "225834873775",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "274298969996",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6347898674274533906/5042297400899061466.jpg",
+        "price": "$21.50",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "cert_number": "45642007",
+        "auction_house": "eBay",
+        "date": "3/14/2020",
+        "grade": "10"
+    },
+    {
+        "lot_number": "154751181286",
+        "cert_number": "52704003",
+        "price": "$4.80",
+        "date": "12/23/2021",
+        "grade": "9",
+        "auction_seller": "pc_sportscards",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2725753185450995903/-7612364382660396638.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "warehous5store",
+        "date": "12/20/2021",
+        "cert_number": "53933820",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5401798191679423558/-801495502464640978.jpg",
+        "price": "$12.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "133963513890"
+    },
+    {
+        "price": "$11.00",
+        "cert_number": "46368618",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8246374444407123324/5319460890379826756.jpg",
+        "lot_number": "264909395942",
+        "date": "10/28/2020",
+        "auction_seller": "eberldesroche0",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

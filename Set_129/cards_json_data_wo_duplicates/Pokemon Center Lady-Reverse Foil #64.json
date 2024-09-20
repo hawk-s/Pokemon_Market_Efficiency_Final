@@ -1,0 +1,35 @@
+[
+    {
+        "date": "1/28/2022",
+        "cert_number": "53019008",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275098052660",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8088913723870254864/-5938593973429797414.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3204870276334767446/6040438179190494092.jpg",
+        "cert_number": "53019007",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "price": "$9.00",
+        "date": "1/21/2022",
+        "lot_number": "275094232664",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "44040021",
+        "auction_seller": "adgold_95",
+        "auction_type": "Best Offer",
+        "lot_number": "143927206653",
+        "price": "$75.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2777121784092141228/-4604024608922185659.jpg",
+        "auction_house": "eBay",
+        "date": "3/24/2021",
+        "grade": "10"
+    }
+]

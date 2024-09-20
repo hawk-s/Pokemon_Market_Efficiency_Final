@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "77018474",
+        "auction_seller": "hawk20mc",
+        "price": "$9.99",
+        "lot_number": "126421791407",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/16/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9125342985675882775/-2669445758198126137.jpg"
+    },
+    {
+        "date": "10/7/2023",
+        "auction_seller": "pokemonbuyer",
+        "lot_number": "276073353892",
+        "cert_number": "59599854",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5839786616458168999/-8950725562999817053.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8653877434954866331/-5162622752041340755.jpg",
+        "price": "$3.25",
+        "date": "3/29/2024",
+        "lot_number": "355570574889",
+        "auction_seller": "maskontask",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57709857"
+    },
+    {
+        "price": "$15.00",
+        "cert_number": "68533941",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1037243861064607774/-4317483507661788025.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "date": "12/30/2022",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "275585593204"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7283501601310134733/2744442715805696924.jpg",
+        "price": "$8.99",
+        "cert_number": "43979455",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "254318783958",
+        "date": "8/9/2019"
+    },
+    {
+        "lot_number": "233885358592",
+        "auction_type": "Best Offer",
+        "cert_number": "43625873",
+        "date": "4/3/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4934670443755786267/6524209377298805396.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "jacobcardiff401",
+        "grade": "10",
+        "price": "$150.00"
+    }
+]

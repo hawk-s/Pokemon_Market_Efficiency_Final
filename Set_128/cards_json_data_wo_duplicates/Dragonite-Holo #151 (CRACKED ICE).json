@@ -1,0 +1,57 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "date": "4/30/2020",
+        "auction_seller": "cardcavecentral",
+        "cert_number": "45229299",
+        "auction_house": "eBay",
+        "lot_number": "174248272398",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6759580920092324018/7375669890712076338.jpg",
+        "grade": "10",
+        "price": "$89.99"
+    },
+    {
+        "price": "$30.00",
+        "auction_seller": "ketchumallcollectibles",
+        "cert_number": "49112477",
+        "lot_number": "203709503190",
+        "grade": "9",
+        "date": "11/29/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1770987738132502054/7426469672495947694.jpg"
+    },
+    {
+        "grade": "5",
+        "date": "8/5/2024",
+        "cert_number": "53991515",
+        "price": "$3.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8838242050110078097/4805550394430531620.jpg",
+        "auction_seller": "zard.hunt",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "395550029842"
+    },
+    {
+        "price": "$28.77",
+        "lot_number": "275585596767",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "date": "12/30/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1154404983969390396/-1539348457976904496.jpg",
+        "auction_house": "eBay",
+        "cert_number": "68215723"
+    },
+    {
+        "date": "8/5/2024",
+        "cert_number": "91985001",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-554280661861643793/-3104660500086412621.jpg",
+        "lot_number": "375564745991",
+        "price": "$65.00",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

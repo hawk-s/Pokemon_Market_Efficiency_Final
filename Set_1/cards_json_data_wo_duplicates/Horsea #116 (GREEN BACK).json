@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "7",
+        "price": "$10.50",
+        "date": "3/6/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2151968990148248846/6743772135533302674.jpg",
+        "cert_number": "69741716",
+        "lot_number": "325542229425",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "date": "1/30/2023",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2546436139199974023/8282486153381911065.jpg",
+        "lot_number": "134420345677",
+        "cert_number": "67053742",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$16.30",
+        "cert_number": "42015032",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6580089997260492420/8741049545852474813.jpg",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "lot_number": "401961075211",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "aykom_56",
+        "price": "$20.00",
+        "lot_number": "373897217866",
+        "grade": "6",
+        "cert_number": "62158292",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7901543392981761597/-7449585980357875803.jpg",
+        "auction_house": "eBay",
+        "date": "1/30/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4166939713555827361/-7138518171343532196.jpg",
+        "lot_number": "285403976102",
+        "price": "$25.09",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "date": "8/7/2023",
+        "cert_number": "61301116",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/11/2021",
+        "cert_number": "54490695",
+        "price": "$10.50",
+        "grade": "3",
+        "lot_number": "144180145668",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-895131095590041689/1718964148955701490.jpg"
+    }
+]

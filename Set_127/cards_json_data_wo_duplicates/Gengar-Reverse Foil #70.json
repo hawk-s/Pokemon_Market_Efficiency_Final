@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$117.57",
+        "cert_number": "78844325",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8023782547801131772/-2636119051744367444.jpg",
+        "auction_seller": "zandgemporium",
+        "date": "10/15/2023",
+        "lot_number": "285501664826",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/17/2020",
+        "cert_number": "46368620",
+        "price": "$61.00",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3530274129000465924/-1404017583367090370.jpg",
+        "lot_number": "114255505295",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/5/2020",
+        "price": "$10.50",
+        "cert_number": "44159564",
+        "grade": "8",
+        "auction_seller": "mastertrainer_red",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-724412592107864688/-6863515296185019322.jpg",
+        "auction_house": "eBay",
+        "lot_number": "133285813405"
+    },
+    {
+        "cert_number": "67000997",
+        "date": "10/21/2022",
+        "auction_seller": "cuzz84",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8348011659516610877/4964104987507845090.jpg",
+        "lot_number": "225204831603",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$18.19",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "392529486172",
+        "cert_number": "44086409",
+        "date": "11/17/2019",
+        "price": "$17.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4821970772022533206/-1768785990121144666.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokemonbroz",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "boxcar_tourist",
+        "cert_number": "46368620",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3873636470336896901/-1266026222434818313.jpg",
+        "date": "10/24/2022",
+        "lot_number": "285003043526",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/14/2021",
+        "lot_number": "133782897684",
+        "price": "$38.00",
+        "auction_seller": "rio_jako",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9150020387985619904/6699797322032966240.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "50897768"
+    }
+]

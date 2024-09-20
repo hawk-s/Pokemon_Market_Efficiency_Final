@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "65818945",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3712933989913522809/2977464780272584268.jpg",
+        "grade": "9",
+        "lot_number": "364497802015",
+        "auction_seller": "opscom",
+        "price": "$17.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/2/2023"
+    },
+    {
+        "auction_seller": "salocc123",
+        "cert_number": "55678136",
+        "lot_number": "256206426850",
+        "date": "9/10/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1397517122297341225/4927509078938417546.jpg",
+        "grade": "9",
+        "price": "$24.38",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/21/2024",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1377394244180379800/156764196704263641.jpg",
+        "cert_number": "85411613",
+        "price": "$13.18",
+        "auction_seller": "slapauction",
+        "lot_number": "135014216362",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

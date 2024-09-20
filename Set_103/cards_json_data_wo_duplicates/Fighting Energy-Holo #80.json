@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "hitsquad70",
+        "date": "12/11/2021",
+        "grade": "8",
+        "cert_number": "52562097",
+        "lot_number": "284549326763",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8987947902559142427/-1436544256721659797.jpg"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/876428338544908582/8412236241416533193.jpg",
+        "auction_type": "Buy It Now",
+        "date": "9/5/2017",
+        "cert_number": "26367695",
+        "lot_number": "112529789074",
+        "grade": "9",
+        "auction_seller": "dailyrefinementstore",
+        "auction_house": "eBay",
+        "price": "$2.50"
+    },
+    {
+        "auction_seller": "hitsquad70",
+        "grade": "8",
+        "cert_number": "52562097",
+        "auction_house": "eBay",
+        "date": "10/28/2021",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3239999372236522955/-1436544256721659797.jpg",
+        "price": "$12.50",
+        "lot_number": "284497008183"
+    },
+    {
+        "cert_number": "26367694",
+        "auction_type": "Buy It Now",
+        "date": "9/5/2017",
+        "grade": "9",
+        "auction_seller": "dailyrefinementstore",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/29329004923192584/6719558780812618541.jpg",
+        "lot_number": "112529789083",
+        "auction_house": "eBay",
+        "price": "$2.50"
+    }
+]

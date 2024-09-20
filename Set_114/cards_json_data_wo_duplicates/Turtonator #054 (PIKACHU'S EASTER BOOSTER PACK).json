@@ -1,0 +1,57 @@
+[
+    {
+        "date": "5/10/2021",
+        "auction_seller": "mastoysandcolletibles",
+        "price": "$9.99",
+        "auction_house": "eBay",
+        "lot_number": "124708298787",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6854627580438612412/-1877104638589236016.jpg",
+        "grade": "10",
+        "cert_number": "27641507"
+    },
+    {
+        "auction_seller": "elhius2015",
+        "date": "5/12/2018",
+        "price": "$87.91",
+        "lot_number": "112976984542",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8195818901201784011/6778579220823111617.jpg",
+        "cert_number": "28864393",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "40942854",
+        "date": "10/1/2021",
+        "lot_number": "265327213010",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2784253924552454225/-9197091116475983832.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "price": "$37.63"
+    },
+    {
+        "date": "9/25/2019",
+        "lot_number": "401884896218",
+        "auction_seller": "pwcc_auctions",
+        "price": "$7.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1450081054933836442/-8674050496778623513.jpg",
+        "auction_type": "Auction",
+        "cert_number": "40907845",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "cert_number": "69232605",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-245234227735240687/-6255579469031602916.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "386835922137",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "3/13/2024",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/264249452683257891/5985704035676340054.jpg",
+        "cert_number": "42886838",
+        "date": "6/20/2019",
+        "auction_seller": "entre_collector",
+        "price": "$7.77",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "223551120095"
+    },
+    {
+        "lot_number": "184299699655",
+        "cert_number": "42367409",
+        "date": "5/23/2020",
+        "price": "$20.70",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-142170189602589750/-4327890712284576914.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "rivolkayl"
+    },
+    {
+        "cert_number": "42886838",
+        "lot_number": "223559494379",
+        "price": "$7.77",
+        "date": "6/27/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5572335030760205998/5985704035676340054.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "auction_seller": "poke-dw",
+        "cert_number": "42367409",
+        "lot_number": "402382622781",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/96933011977610574/-7377817391886904957.jpg",
+        "auction_house": "eBay",
+        "date": "10/11/2020",
+        "grade": "10"
+    }
+]

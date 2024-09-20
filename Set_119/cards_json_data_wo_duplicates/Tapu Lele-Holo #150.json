@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "koshercraw",
+        "lot_number": "225722427344",
+        "cert_number": "77708311",
+        "price": "$24.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1603672034989162395/7362180346239470325.jpg",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/24/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7182733460170782310/-2108837881909519755.jpg",
+        "lot_number": "254364837054",
+        "cert_number": "43317448",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3033903381207958014/-4881602963080851053.jpg",
+        "lot_number": "154010287871",
+        "auction_type": "Best Offer",
+        "cert_number": "43317448",
+        "date": "2/28/2021",
+        "price": "$35.00",
+        "auction_seller": "shopforanythingnow",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/24/2019",
+        "lot_number": "254364835996",
+        "cert_number": "43317449",
+        "price": "$7.99",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1094847326762892830/8560001143223014662.jpg"
+    }
+]

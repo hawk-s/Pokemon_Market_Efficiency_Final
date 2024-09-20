@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "77394001",
+        "lot_number": "326158205409",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1620036678569070606/-3204086305639334944.jpg",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/24/2024",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "lot_number": "234050192610",
+        "auction_seller": "japan-higasi-116",
+        "cert_number": "53614503",
+        "grade": "9",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "date": "6/20/2021",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/568745615767247753/1011290343066063702.jpg"
+    },
+    {
+        "auction_seller": "japan-higasi-116",
+        "date": "2/20/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3913391703296249714/4425485412026942114.jpg",
+        "price": "$43.00",
+        "grade": "9",
+        "lot_number": "233894432101",
+        "cert_number": "52486841",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

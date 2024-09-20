@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$13.50",
+        "lot_number": "372585145900",
+        "grade": "8",
+        "auction_seller": "brianjapan",
+        "cert_number": "41558998",
+        "auction_type": "Auction",
+        "date": "2/7/2019",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1328286238656930020/5797295032346037865.jpg"
+    },
+    {
+        "lot_number": "132266847472",
+        "cert_number": "27498597",
+        "price": "$7.07",
+        "grade": "8",
+        "date": "7/26/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1906030609599534468/-7579044517686071599.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "date": "4/26/2020",
+        "auction_seller": "tsunagu",
+        "grade": "8",
+        "price": "$1.00",
+        "cert_number": "45405813",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "254575505583",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3775459504755907886/-5217801089683296023.jpg"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-16699554567771951/7976271603328445569.jpg",
+        "cert_number": "68169606",
+        "date": "5/3/2023",
+        "grade": "9",
+        "lot_number": "234981215691",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$66.00"
+    },
+    {
+        "lot_number": "175595980061",
+        "date": "2/20/2023",
+        "cert_number": "55586627",
+        "grade": "8",
+        "auction_seller": "1steditionpokemon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6837851022499519653/-170795055242592122.jpg",
+        "price": "$40.01",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$72.01",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9220119538789357407/-789804460544313728.jpg",
+        "grade": "9",
+        "date": "7/31/2023",
+        "auction_seller": "esuprojapan",
+        "auction_type": "Auction",
+        "cert_number": "65136924",
+        "auction_house": "eBay",
+        "lot_number": "145201182418"
+    },
+    {
+        "cert_number": "92540611",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-523203388249427332/-7960932806293165216.jpg",
+        "auction_seller": "4kcollectibles",
+        "date": "7/14/2024",
+        "price": "$50.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "135143343127"
+    }
+]

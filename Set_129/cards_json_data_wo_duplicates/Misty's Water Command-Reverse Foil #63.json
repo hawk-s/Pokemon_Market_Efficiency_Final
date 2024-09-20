@@ -1,0 +1,90 @@
+[
+    {
+        "date": "1/28/2022",
+        "grade": "8",
+        "auction_seller": "sellers_sportscards",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "55518558",
+        "lot_number": "255343283769",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9086413649051287949/5231219170060716199.jpg"
+    },
+    {
+        "lot_number": "374500212945",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2638731978553632377/4454506432620920007.jpg",
+        "cert_number": "61546279",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/12/2023",
+        "price": "$10.01"
+    },
+    {
+        "date": "6/27/2020",
+        "price": "$34.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4382144790199445481/8344152435870771649.jpg",
+        "auction_seller": "lambda_driver",
+        "auction_type": "Best Offer",
+        "cert_number": "46396530",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "264767852992"
+    },
+    {
+        "price": "$3.25",
+        "auction_seller": "tntcardsms",
+        "lot_number": "195848154026",
+        "grade": "8",
+        "cert_number": "58371302",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/5/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-595518991322926663/4062207377415948197.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6760217133008132248/5934088309263997720.jpg",
+        "cert_number": "52849481",
+        "grade": "9",
+        "date": "12/18/2021",
+        "lot_number": "154743246486",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "price": "$4.00"
+    },
+    {
+        "cert_number": "62436829",
+        "lot_number": "165672682430",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1346710389798514760/1322611053923372602.jpg",
+        "auction_seller": "heatxchangeco",
+        "grade": "8",
+        "price": "$5.50",
+        "date": "9/17/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "46503583",
+        "date": "9/22/2020",
+        "auction_seller": "nathe-2202",
+        "price": "$31.00",
+        "lot_number": "383721501539",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2792001959323798495/-469023965868872633.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "203336774086",
+        "date": "4/9/2021",
+        "auction_seller": "slab10stradingcards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3864324635246295550/8244257194904746597.jpg",
+        "cert_number": "49452700",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

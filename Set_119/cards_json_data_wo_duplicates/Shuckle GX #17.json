@@ -1,0 +1,90 @@
+[
+    {
+        "auction_type": "Best Offer",
+        "price": "$28.00",
+        "cert_number": "42244073",
+        "lot_number": "223303343878",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6275646978171455119/-5299685558046255577.jpg",
+        "date": "1/3/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "auction_seller": "adw16201",
+        "cert_number": "55796771",
+        "lot_number": "144909501917",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/27/2023",
+        "price": "$66.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7254864411131850179/172756696475430290.jpg"
+    },
+    {
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4621269891835564383/-3355359432196335703.jpg",
+        "cert_number": "55796771",
+        "grade": "9",
+        "date": "1/8/2023",
+        "auction_seller": "albcard2",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "334688131351"
+    },
+    {
+        "date": "12/12/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7279366444294913732/265258150709690919.jpg",
+        "auction_type": "Buy It Now",
+        "cert_number": "42930271",
+        "grade": "9",
+        "price": "$19.95",
+        "lot_number": "254424911724",
+        "auction_seller": "thecardconomist",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-907692760061840478/2615136121547700732.jpg",
+        "auction_seller": "brka-8157",
+        "price": "$31.00",
+        "lot_number": "135018329366",
+        "auction_type": "Auction",
+        "cert_number": "61228524",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/989411819890268618/-8938653039935576579.jpg",
+        "date": "10/11/2021",
+        "price": "$52.00",
+        "lot_number": "373745329233",
+        "cert_number": "53444180",
+        "auction_seller": "samaka-41",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "7/22/2019",
+        "price": "$29.98",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1809469952062964025/-2233259103022543942.jpg",
+        "auction_type": "Best Offer",
+        "lot_number": "233172985998",
+        "cert_number": "42930272",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "compusmartpr"
+    },
+    {
+        "price": "$34.95",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2650967344036791306/7706243990745808002.jpg",
+        "auction_seller": "buczk-93",
+        "cert_number": "42244072",
+        "lot_number": "364947338919",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "6/20/2024"
+    }
+]

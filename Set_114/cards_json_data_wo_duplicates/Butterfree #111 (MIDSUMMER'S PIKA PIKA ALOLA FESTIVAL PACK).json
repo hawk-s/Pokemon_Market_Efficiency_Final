@@ -1,0 +1,24 @@
+[
+    {
+        "grade": "5",
+        "cert_number": "83317790",
+        "price": "$6.50",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5338120418040940225/-8562902663131262749.jpg",
+        "date": "12/27/2023",
+        "auction_type": "Auction",
+        "lot_number": "386437227212",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "44115298",
+        "auction_seller": "japan-international-trade",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3413547651756454612/-6750946947574282044.jpg",
+        "lot_number": "123948730871",
+        "price": "$15.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/29/2019"
+    }
+]

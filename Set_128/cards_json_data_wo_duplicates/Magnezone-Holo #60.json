@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "334223014273",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/761120445388728693/-4547974790022035002.jpg",
+        "cert_number": "53850906",
+        "auction_seller": "karma_memorabilia",
+        "price": "$0.01",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/18/2021"
+    },
+    {
+        "price": "$61.00",
+        "auction_seller": "itemland",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6048540535047960174/-4801698639490352123.jpg",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay",
+        "lot_number": "166279329068",
+        "cert_number": "75540088"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3864738877860475654/-4183979570850045613.jpg",
+        "cert_number": "47260132",
+        "date": "12/5/2020",
+        "grade": "9",
+        "lot_number": "254792273621",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "price": "$12.51",
+        "auction_house": "eBay"
+    }
+]

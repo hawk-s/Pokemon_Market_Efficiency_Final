@@ -1,0 +1,57 @@
+[
+    {
+        "date": "8/25/2024",
+        "auction_seller": "republic02",
+        "price": "$21.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6518198199008968660/-6307612658918297696.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "204948394636",
+        "grade": "10",
+        "cert_number": "89858903"
+    },
+    {
+        "cert_number": "72057002",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5410628704663723241/6949221954037896316.jpg",
+        "lot_number": "275780445629",
+        "date": "4/21/2023",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "55313663",
+        "lot_number": "275285168008",
+        "price": "$75.00",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5937958712456316501/5566519174899643958.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "5/13/2022"
+    },
+    {
+        "cert_number": "51951515",
+        "date": "9/30/2021",
+        "auction_seller": "4_sharp_corners",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1640721596525514093/-154807567635089705.jpg",
+        "grade": "9",
+        "lot_number": "363552314999",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$6.28"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8361804078855948924/6976605153421847652.jpg",
+        "lot_number": "335430369544",
+        "auction_seller": "comc_consignment",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "cert_number": "87267880",
+        "auction_house": "eBay",
+        "date": "6/16/2024"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "date": "7/1/2018",
+        "auction_seller": "japan-daisuki",
+        "cert_number": "28737584",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6717228519519505117/896078417673072087.jpg",
+        "lot_number": "132673180820",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$17.83"
+    },
+    {
+        "date": "6/19/2023",
+        "price": "$7.50",
+        "auction_seller": "omegacollectiblesllc",
+        "cert_number": "72548731",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185938984424",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7979055642676444310/-8161273342159938435.jpg"
+    },
+    {
+        "cert_number": "27715471",
+        "auction_seller": "psa10gem101",
+        "price": "$19.99",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-3559568061007988191/3171007005858807292.jpg",
+        "lot_number": "122820911951",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/28/2017"
+    }
+]

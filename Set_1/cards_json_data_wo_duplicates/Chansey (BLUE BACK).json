@@ -1,0 +1,90 @@
+[
+    {
+        "lot_number": "353501387240",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "53104255",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/29/2021",
+        "price": "$96.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5002999173540750567/1167632988602499968.jpg"
+    },
+    {
+        "price": "$22.25",
+        "auction_seller": "mythicalkate",
+        "lot_number": "155710026021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7587316528894399010/-757685253580149519.jpg",
+        "grade": "6",
+        "auction_type": "Auction",
+        "date": "8/16/2023",
+        "cert_number": "77193762",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7003481609869347833/-2842903724712675147.jpg",
+        "lot_number": "353577669103",
+        "price": "$86.00",
+        "grade": "6",
+        "cert_number": "61855388",
+        "date": "7/28/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "143471093420",
+        "date": "12/23/2019",
+        "grade": "7",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4288273888995578208/-1228856324510953933.jpg",
+        "price": "$21.50",
+        "cert_number": "42488941",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "154547128936",
+        "price": "$4,850.00",
+        "cert_number": "50939867",
+        "auction_type": "Auction",
+        "auction_seller": "pokemon_for_you",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4058523369069203914/-967778460503588800.jpg",
+        "grade": "10",
+        "date": "8/9/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6998856113179791452/556362971095013742.jpg",
+        "cert_number": "85179630",
+        "auction_seller": "cinnabarcollects",
+        "date": "9/1/2024",
+        "grade": "9",
+        "lot_number": "305748510835",
+        "price": "$271.66",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "4",
+        "date": "11/25/2018",
+        "cert_number": "41419494",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4758536382336823949/4111718874213747369.jpg",
+        "lot_number": "132860847100",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3339797043004885135/-8765195902270185394.jpg",
+        "lot_number": "132730197601",
+        "cert_number": "40811492",
+        "grade": "9",
+        "price": "$20.50",
+        "date": "8/13/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    }
+]

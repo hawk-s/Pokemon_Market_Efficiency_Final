@@ -1,0 +1,68 @@
+[
+    {
+        "date": "3/17/2023",
+        "grade": "8",
+        "cert_number": "57261939",
+        "lot_number": "175645817170",
+        "auction_type": "Auction",
+        "price": "$16.74",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3365779151742946336/6417888676279064929.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "bazza123"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3300903222339365664/6930120949418212221.jpg",
+        "lot_number": "234845765228",
+        "price": "$15.00",
+        "grade": "6",
+        "date": "1/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68643768",
+        "auction_seller": "deathbymrpink"
+    },
+    {
+        "grade": "7",
+        "cert_number": "68833374",
+        "price": "$10.00",
+        "date": "1/28/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8408082169312323598/-7379916114361832170.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "234868749535",
+        "auction_seller": "deathbymrpink"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/793703547930305669/-153538572519792316.jpg",
+        "lot_number": "235709151675",
+        "date": "8/29/2024",
+        "grade": "6",
+        "price": "$5.50",
+        "cert_number": "85702409",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "deathbymrpink"
+    },
+    {
+        "grade": "5",
+        "date": "6/13/2024",
+        "cert_number": "91589344",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6875654290161313974/-1071733334590216969.jpg",
+        "price": "$5.50",
+        "auction_seller": "angryaaroncards",
+        "lot_number": "235597186159",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "cert_number": "42066087",
+        "auction_seller": "tennisfun5",
+        "price": "$9.02",
+        "date": "5/9/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7620635358645714008/8245014805999997880.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "223996227289"
+    }
+]

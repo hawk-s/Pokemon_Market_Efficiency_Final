@@ -1,0 +1,112 @@
+[
+    {
+        "price": "$45.38",
+        "date": "9/1/2024",
+        "lot_number": "135205590274",
+        "auction_seller": "slapauction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1382187010889983222/3654368729913458148.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "56081447",
+        "grade": "10"
+    },
+    {
+        "price": "$55.00",
+        "auction_seller": "japan-higasi-116",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1075357721830716760/3239944760789848456.jpg",
+        "grade": "9",
+        "cert_number": "53179216",
+        "date": "4/10/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "233952450015"
+    },
+    {
+        "auction_seller": "pikapikacollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8294054095126518032/-8456975572527521253.jpg",
+        "cert_number": "49303467",
+        "auction_type": "Best Offer",
+        "price": "$308.45",
+        "date": "3/16/2021",
+        "lot_number": "313456494622",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2706744423261190744/-5256712480778771790.jpg",
+        "price": "$17.72",
+        "date": "8/19/2018",
+        "cert_number": "40909905",
+        "lot_number": "142899950741",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "auction_seller": "runesc_43",
+        "date": "1/23/2023",
+        "cert_number": "68894861",
+        "price": "$149.91",
+        "lot_number": "144899866620",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1935900616171212842/-6097108277432261652.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/19/2023",
+        "lot_number": "185933251415",
+        "cert_number": "68373650",
+        "auction_seller": "kampes_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7866449791070353857/7123373366003286857.jpg",
+        "price": "$165.50",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "lot_number": "183004153506",
+        "price": "$20.50",
+        "cert_number": "28594094",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/14/2018",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-396155406186288195/-8729019885881665118.jpg"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "29038480",
+        "lot_number": "402299990192",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8427682710653892172/-8573757564871801071.jpg",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/29/2020",
+        "grade": "10"
+    },
+    {
+        "cert_number": "53179215",
+        "grade": "7",
+        "auction_seller": "japan-higasi-116",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4503276828213813177/-316233019656300823.jpg",
+        "lot_number": "234059324938",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/28/2021",
+        "price": "$18.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4907905208923660075/2224491453539270533.jpg",
+        "cert_number": "72794354",
+        "auction_seller": "esuprojapan",
+        "date": "5/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$123.50",
+        "lot_number": "145056648801"
+    }
+]

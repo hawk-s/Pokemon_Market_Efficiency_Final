@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "54102384",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8709690318413128519/-5432785575278421111.jpg",
+        "price": "$36.00",
+        "auction_seller": "miracle_gro",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "9/12/2022",
+        "lot_number": "144705934191"
+    },
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "42304952",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8944184729026717746/4101821909076128886.jpg",
+        "lot_number": "143382923939",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$26.58"
+    },
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5278710244551397288/4224327922927594806.jpg",
+        "date": "5/25/2019",
+        "auction_seller": "starlightcove",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "42225831",
+        "lot_number": "254233140356",
+        "grade": "10"
+    },
+    {
+        "lot_number": "133270499962",
+        "price": "$8.72",
+        "date": "12/19/2019",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "43639600",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-824560787719449289/-7130557027103023988.jpg",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "date": "3/10/2019",
+        "cert_number": "42935786",
+        "lot_number": "113667471447",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4499457116936552515/-7472882746042288039.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$18.83",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$10.50",
+        "lot_number": "254589998412",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/359308804327507312/6227830881855105338.jpg",
+        "grade": "9",
+        "date": "5/17/2020",
+        "auction_seller": "arcadiatradingcardstore",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "42014967"
+    },
+    {
+        "price": "$11.00",
+        "lot_number": "2090",
+        "grade": "5",
+        "date": "2/2/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/4624465373960672132/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "cert_number": "66858984",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "price": "$7.50",
+        "grade": "7",
+        "auction_seller": "zandgemporium",
+        "cert_number": "61301051",
+        "date": "7/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2994294354030492792/-7414837387721895474.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "285391658063"
+    }
+]

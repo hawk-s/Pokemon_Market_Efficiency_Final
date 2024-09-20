@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8423904433251790775/-7366869579116556590.jpg",
+        "lot_number": "364099145983",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "cert_number": "68219577",
+        "auction_type": "Auction",
+        "date": "1/9/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "364099163645",
+        "cert_number": "68219576",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "price": "$1.76",
+        "auction_type": "Auction",
+        "date": "1/9/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6231729021035563814/-804750942008397011.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "mangahouse",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4016741957587684800/7950582178342918406.jpg",
+        "cert_number": "58654680",
+        "price": "$31.00",
+        "date": "3/3/2023",
+        "lot_number": "266144095784",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

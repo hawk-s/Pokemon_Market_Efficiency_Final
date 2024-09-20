@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3477235442158439101/7769639542916724103.jpg",
+        "price": "$14.50",
+        "auction_seller": "pokeking_auz",
+        "date": "4/1/2024",
+        "auction_type": "Auction",
+        "lot_number": "226042353153",
+        "auction_house": "eBay",
+        "cert_number": "68125286"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8881084451997133131/8173323144505252164.jpg",
+        "grade": "7",
+        "auction_seller": "pokeking_auz",
+        "lot_number": "225717915995",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay",
+        "cert_number": "68125290",
+        "price": "$16.50"
+    },
+    {
+        "price": "$30.00",
+        "grade": "7",
+        "cert_number": "83844569",
+        "lot_number": "276258459626",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3819300938638061258/6008394686712832971.jpg",
+        "auction_seller": "mad-town-cards",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "cert_number": "68125283",
+        "lot_number": "226223291328",
+        "date": "7/14/2024",
+        "price": "$27.00",
+        "auction_seller": "pokeking_auz",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9222605021370659258/3525633803562638071.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "225750533172",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1129829611327355183/5384370188434947023.jpg",
+        "grade": "7",
+        "cert_number": "68125280",
+        "date": "9/11/2023",
+        "price": "$20.50",
+        "auction_seller": "pokeking_auz",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "48277724",
+        "lot_number": "166760057800",
+        "price": "$77.00",
+        "date": "5/21/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4726952804750908313/1899974162872396471.jpg",
+        "auction_seller": "flakemedley",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "4762",
+        "date": "5/25/2023",
+        "grade": "9",
+        "cert_number": "74551997",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "auction_seller": "Weekly Auction May 16 - May 25",
+        "auction_house": "Goldin Auctions",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6017128071725520029/-6044474627830844948/images/1.jpg"
+    },
+    {
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6615316123490537500/2026557320868799976.jpg",
+        "grade": "8",
+        "date": "7/22/2024",
+        "lot_number": "375533117447",
+        "cert_number": "68756041",
+        "auction_type": "Auction",
+        "auction_seller": "queenflips",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "2327",
+        "date": "2/9/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Jan 31 - Feb 9",
+        "cert_number": "69969888",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-8138273203768040981/4433564570958357950/images/1.jpg",
+        "price": "$18.00"
+    },
+    {
+        "price": "$55.00",
+        "cert_number": "41237039",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-27044006865669014/-3449365956040855756.jpg",
+        "auction_type": "Best Offer",
+        "date": "4/7/2021",
+        "auction_seller": "joey6_44",
+        "grade": "9",
+        "lot_number": "184744732612",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7421261610283604055/2446809121620164597.jpg",
+        "cert_number": "42262052",
+        "date": "3/9/2019",
+        "price": "$10.00",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "273738110676"
+    },
+    {
+        "auction_seller": "lv100ashh",
+        "cert_number": "42388088",
+        "grade": "8",
+        "date": "1/28/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7630601199457722737/3080040563979143909.jpg",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "174164712007"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-769921992961084947/-9170644781064083419.jpg",
+        "lot_number": "203801291254",
+        "price": "$10.00",
+        "grade": "9",
+        "auction_seller": "denled-54",
+        "auction_type": "Auction",
+        "cert_number": "48631043",
+        "auction_house": "eBay",
+        "date": "1/29/2022"
+    }
+]

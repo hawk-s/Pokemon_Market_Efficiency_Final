@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$34.99",
+        "auction_seller": "scottsretro",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7568132843778654981/-423060521618003158.jpg",
+        "date": "1/8/2023",
+        "auction_type": "Auction",
+        "cert_number": "61184538",
+        "lot_number": "134393959406",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "65959598",
+        "price": "$10.50",
+        "auction_seller": "tpole25",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4526783226144586202/38822882995687667.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/9/2023",
+        "lot_number": "235071629152"
+    },
+    {
+        "price": "$15.50",
+        "date": "9/5/2023",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "55285030",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3798215480873411863/-7918231393543177443.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "386038604580"
+    },
+    {
+        "price": "$30.00",
+        "auction_seller": "iamheenja",
+        "lot_number": "284022529656",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8282947553779223710/-3153545309691799091.jpg",
+        "cert_number": "45567707",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "10/27/2020"
+    },
+    {
+        "price": "$13.50",
+        "cert_number": "65959598",
+        "lot_number": "235098534629",
+        "auction_seller": "tpole25",
+        "grade": "8",
+        "date": "7/30/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3712371932429246525/-2972488624831870063.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4064786852589214425/-2645569270661485086.jpg",
+        "date": "1/22/2023",
+        "auction_seller": "scottsretro",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "lot_number": "134412734197",
+        "cert_number": "61184538",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4532242965997151838/3031305852026484465.jpg",
+        "auction_seller": "bestcardsmarket",
+        "grade": "9",
+        "cert_number": "71077837",
+        "date": "3/30/2023",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "364191634494"
+    },
+    {
+        "lot_number": "143846306430",
+        "auction_seller": "mitchselectronics93",
+        "auction_type": "Best Offer",
+        "price": "$70.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8116309326570311907/7547842179408283868.jpg",
+        "auction_house": "eBay",
+        "date": "3/17/2021",
+        "cert_number": "44799453"
+    }
+]

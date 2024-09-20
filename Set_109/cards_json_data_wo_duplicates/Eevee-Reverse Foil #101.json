@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "9",
+        "price": "$9.99",
+        "lot_number": "224979410309",
+        "cert_number": "55544761",
+        "auction_type": "Auction",
+        "auction_seller": "poparchival",
+        "date": "5/16/2022",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6769650109724729023/5113859274946704785.jpg"
+    },
+    {
+        "lot_number": "256508124468",
+        "grade": "6",
+        "date": "5/21/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1281724996243215532/5867040162781936333.jpg",
+        "price": "$8.50",
+        "auction_seller": "bangerrengrufio",
+        "auction_type": "Auction",
+        "cert_number": "77346035",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/30/2024",
+        "cert_number": "87840639",
+        "auction_seller": "psa",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-602942429055124847/-637522498357999642.jpg",
+        "price": "$19.03",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "305634669682"
+    },
+    {
+        "cert_number": "58712951",
+        "auction_seller": "tannah12",
+        "lot_number": "155396390654",
+        "price": "$21.25",
+        "date": "2/14/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4624409177797753914/1309874269096861705.jpg"
+    }
+]

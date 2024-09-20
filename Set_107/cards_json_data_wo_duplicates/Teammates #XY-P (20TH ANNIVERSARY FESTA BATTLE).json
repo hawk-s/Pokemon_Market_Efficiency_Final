@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "40846888",
+        "date": "7/8/2018",
+        "auction_type": "Buy It Now",
+        "auction_seller": "ririsk8",
+        "price": "$65.00",
+        "lot_number": "173392651862",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7460408928143090429/-7137674649036680484.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/30/2023",
+        "auction_seller": "smpratte",
+        "price": "$376.00",
+        "auction_type": "Auction",
+        "cert_number": "43251889",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "185735141922",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7252587184632909637/1570506063976719901.jpg"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$31.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2054404598371229477/7640295653792427827.jpg",
+        "date": "10/30/2019",
+        "auction_type": "Auction",
+        "cert_number": "43251889",
+        "auction_house": "eBay",
+        "lot_number": "352828762418",
+        "grade": "10"
+    },
+    {
+        "price": "$51.01",
+        "date": "6/8/2019",
+        "lot_number": "264345976082",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-584457376324052625/-9019872931415122156.jpg",
+        "auction_seller": "chocolatetown_collectibles_and_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "42820943"
+    },
+    {
+        "lot_number": "173308707315",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-145786842284076283/-580924440652858345.jpg",
+        "price": "$75.00",
+        "auction_seller": "bluelinesquid",
+        "auction_type": "Auction",
+        "date": "5/14/2018",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27265496"
+    },
+    {
+        "date": "9/25/2019",
+        "lot_number": "143382922277",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "43657616",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3322873410429501017/5594515910556302246.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "date": "11/29/2018",
+        "price": "$15.65",
+        "lot_number": "132862000224",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9160005931416448976/-1164698716407046073.jpg",
+        "cert_number": "41422844",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "auction_seller": "japan-daisuki",
+        "cert_number": "41422842",
+        "price": "$31.00",
+        "date": "2/8/2019",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-514403883690959231/-2349896813429346683.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "143109226372"
+    }
+]

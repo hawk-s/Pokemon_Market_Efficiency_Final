@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2371720584359775404/-7470343818886593130.jpg",
+        "cert_number": "68614039",
+        "grade": "8",
+        "date": "6/18/2024",
+        "lot_number": "226187504695",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "poke_piece_collects"
+    },
+    {
+        "grade": "7",
+        "price": "$9.50",
+        "auction_seller": "reilleyrelics",
+        "cert_number": "73964512",
+        "lot_number": "354852040883",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1925590202517122130/8290748714426559827.jpg",
+        "auction_type": "Auction",
+        "date": "6/22/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "grade": "7",
+        "cert_number": "28484874",
+        "price": "$3.50",
+        "date": "12/24/2017",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5222884991810671570/1651312823859013598.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "173038140040"
+    }
+]

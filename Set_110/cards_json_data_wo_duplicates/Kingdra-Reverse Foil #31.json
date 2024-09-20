@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352409610782",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1259935497632009478/-3279792564526613198.jpg",
+        "price": "$6.50",
+        "date": "7/29/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27874472"
+    },
+    {
+        "lot_number": "144130709032",
+        "auction_seller": "whatupglipglop",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4279918220455121783/7275491653845632186.jpg",
+        "grade": "9",
+        "price": "$8.25",
+        "auction_type": "Auction",
+        "cert_number": "50330596",
+        "auction_house": "eBay",
+        "date": "8/7/2021"
+    },
+    {
+        "price": "$12.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/591118170177656455/2382291820027069428.jpg",
+        "auction_type": "Buy It Now",
+        "date": "12/24/2017",
+        "auction_seller": "p.b.s.o.t-collectibles",
+        "cert_number": "27879168",
+        "lot_number": "192396965859",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

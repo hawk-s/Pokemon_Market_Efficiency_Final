@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4528953861853446016/8562733387982007347.jpg",
+        "auction_seller": "tannah12",
+        "cert_number": "54241190",
+        "price": "$14.56",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115619470174",
+        "date": "12/5/2022"
+    },
+    {
+        "auction_seller": "tannah12",
+        "lot_number": "155279490481",
+        "price": "$31.84",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-460417495637881828/7385417863582092214.jpg",
+        "cert_number": "54241191",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/5/2022"
+    },
+    {
+        "lot_number": "353357458889",
+        "auction_seller": "pwcc_auctions",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8391351515200714186/-8671589030724332493.jpg",
+        "cert_number": "43780253",
+        "grade": "9",
+        "date": "1/28/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/242979816536408312/-3849234533847845172.jpg",
+        "lot_number": "115619469671",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "54241189",
+        "price": "$10.63",
+        "date": "12/5/2022"
+    },
+    {
+        "date": "12/19/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5884159971590061033/2871829137561225755.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$27.19",
+        "lot_number": "275059725934",
+        "cert_number": "53516964",
+        "auction_seller": "gemcollectables"
+    }
+]

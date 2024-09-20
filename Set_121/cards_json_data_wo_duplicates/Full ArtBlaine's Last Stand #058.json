@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "374945545935",
+        "cert_number": "76423249",
+        "date": "10/5/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-825005779779471469/2342573780583232481.jpg",
+        "price": "$129.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "tcgnstuff"
+    },
+    {
+        "cert_number": "79517236",
+        "price": "$41.00",
+        "auction_seller": "5_star_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/202923618741307579/-3907625848824750105.jpg",
+        "date": "1/8/2024",
+        "grade": "10",
+        "lot_number": "256356902678"
+    },
+    {
+        "price": "$60.36",
+        "date": "5/19/2024",
+        "lot_number": "135050544859",
+        "cert_number": "78672702",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5397930537612245019/22559208603650657.jpg",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-699612514616343932/-7599072383143096244.jpg",
+        "auction_seller": "teamxiong",
+        "date": "9/17/2023",
+        "lot_number": "256216433031",
+        "price": "$142.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "76826300"
+    },
+    {
+        "cert_number": "58009628",
+        "lot_number": "225297921173",
+        "date": "12/24/2022",
+        "price": "$10.00",
+        "grade": "9",
+        "auction_seller": "flowfection",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7232623226447537838/-256370877318849370.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

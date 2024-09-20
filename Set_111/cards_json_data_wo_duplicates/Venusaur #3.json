@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "41122238",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "date": "3/4/2019",
+        "lot_number": "292976595169",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6618446616756935003/1867127939605685560.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "auction_type": "Best Offer",
+        "date": "11/6/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5544096618441055518/1867127939605685560.jpg",
+        "price": "$39.99",
+        "cert_number": "41122238",
+        "lot_number": "293067286462",
+        "auction_seller": "amtsupply",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4410744795698854394/-4404303258751339822.jpg",
+        "date": "2/16/2023",
+        "auction_seller": "tannah12",
+        "price": "$14.10",
+        "cert_number": "58713026",
+        "grade": "9",
+        "lot_number": "155399471429",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "41122232",
+        "lot_number": "292956063590",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4180259421298899800/-1243336665503273381.jpg",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "date": "2/20/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/293384055614533496/-6032738521649497444.jpg",
+        "auction_seller": "welcome_stranger_collectibles",
+        "price": "$21.43",
+        "cert_number": "55097722",
+        "grade": "9",
+        "lot_number": "134107210172",
+        "auction_type": "Auction",
+        "date": "5/16/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "174860975096",
+        "auction_seller": "rainydaycards",
+        "price": "$10.00",
+        "grade": "9",
+        "date": "7/30/2021",
+        "cert_number": "49917207",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/567160363720705139/6396284819667701636.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/30/2018",
+        "lot_number": "292830618032",
+        "cert_number": "41122232",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7874977080224821479/-1243336665503273381.jpg",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$1.25"
+    },
+    {
+        "price": "$14.99",
+        "lot_number": "292719805250",
+        "cert_number": "41122231",
+        "date": "9/11/2018",
+        "auction_seller": "amtsupply",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4809263904725533540/-1533659973260667024.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

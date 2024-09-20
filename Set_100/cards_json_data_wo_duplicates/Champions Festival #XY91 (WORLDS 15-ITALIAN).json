@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3144029801881222592/-1804116704996281871.jpg",
+        "grade": "8",
+        "cert_number": "73625231",
+        "price": "$20.50",
+        "auction_seller": "mountainwest_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/29/2024",
+        "lot_number": "404755849048"
+    },
+    {
+        "auction_seller": "ideal808",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7186500366886585520/-1617213014963465498.jpg",
+        "date": "7/10/2023",
+        "lot_number": "204384701832",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "72995554"
+    },
+    {
+        "cert_number": "45942473",
+        "lot_number": "124360731726",
+        "auction_type": "Best Offer",
+        "date": "1/10/2021",
+        "auction_seller": "alvi-80",
+        "price": "$70.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4821259479586532808/-2613776214393002141.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "84932127",
+        "grade": "8",
+        "date": "4/2/2024",
+        "price": "$35.00",
+        "auction_house": "eBay",
+        "auction_seller": "luckyvaultus",
+        "auction_type": "Auction",
+        "lot_number": "395295030316",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7220489086506682474/-6141388457283771466.jpg"
+    }
+]

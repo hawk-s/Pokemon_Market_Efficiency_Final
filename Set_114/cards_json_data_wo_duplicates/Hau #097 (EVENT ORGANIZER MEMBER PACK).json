@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "42481678",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8284429417576393997/4457889502116286557.jpg",
+        "price": "$9.98",
+        "grade": "9",
+        "lot_number": "133009035563",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/7/2019",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4305497495406483165/-302818828774977777.jpg",
+        "auction_seller": "pwcc_auctions",
+        "date": "10/28/2020",
+        "cert_number": "41713428",
+        "price": "$27.00",
+        "auction_type": "Auction",
+        "lot_number": "143792868285",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/25/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6013490741488085756/-771573034356950142.jpg",
+        "price": "$9.50",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "401884896145",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41713429",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/28/2019",
+        "cert_number": "41713428",
+        "price": "$6.50",
+        "lot_number": "352667745353",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3929236978168970604/-9188608213799478302.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8437101993641025042/-1541527267256149347.jpg",
+        "date": "9/25/2020",
+        "lot_number": "383725025534",
+        "auction_seller": "probstein123",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41713429",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8290127388663337319/5813512187034020334.jpg",
+        "date": "7/15/2020",
+        "auction_type": "Buy It Now",
+        "auction_seller": "apspeeze",
+        "cert_number": "41713428",
+        "lot_number": "293116658291",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$29.99"
+    }
+]

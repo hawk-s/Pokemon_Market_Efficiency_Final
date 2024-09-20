@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6165868611901247941/-4029692490152545917.jpg",
+        "date": "10/31/2022",
+        "auction_seller": "brewsbreaks",
+        "cert_number": "57324628",
+        "lot_number": "285015233920",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "cert_number": "56168784",
+        "auction_seller": "catchemalex",
+        "price": "$3.50",
+        "grade": "8",
+        "date": "2/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8152514453854514350/-3945516532679916767.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "175623899916"
+    },
+    {
+        "cert_number": "47004952",
+        "price": "$57.99",
+        "auction_seller": "davii-99",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8511905913208845926/5174721708458483774.jpg",
+        "lot_number": "174513865840",
+        "auction_house": "eBay",
+        "date": "12/11/2020",
+        "grade": "10"
+    },
+    {
+        "cert_number": "51769585",
+        "lot_number": "234315789114",
+        "date": "12/17/2021",
+        "price": "$59.00",
+        "auction_seller": "comc_consignment",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/937154968478698125/-7663624636499338573.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

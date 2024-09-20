@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "86344676",
+        "lot_number": "226130745833",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4755961464300850745/-3033752034591557532.jpg",
+        "date": "5/15/2024",
+        "grade": "8",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "frclag_0"
+    },
+    {
+        "cert_number": "59769885",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-29467509646871318/-8616963824589000739.jpg",
+        "auction_seller": "sellers_sportscards",
+        "lot_number": "265862794668",
+        "date": "9/8/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "price": "$4.25",
+        "date": "11/6/2017",
+        "lot_number": "362142577812",
+        "auction_seller": "probstein123",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-3149523594584083440/-7214985525041799004.jpg",
+        "auction_type": "Auction",
+        "cert_number": "28153194",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

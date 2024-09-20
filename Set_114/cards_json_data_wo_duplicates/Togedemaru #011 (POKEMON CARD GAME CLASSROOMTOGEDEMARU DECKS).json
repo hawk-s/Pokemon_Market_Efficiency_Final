@@ -1,0 +1,46 @@
+[
+    {
+        "date": "6/23/2018",
+        "cert_number": "28979923",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-597556343789553727/-3329707785130630997.jpg",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "132662528973",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4193764770016651068/-7221151042380023955.jpg",
+        "date": "8/19/2018",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "lot_number": "132738280477",
+        "auction_house": "eBay",
+        "cert_number": "28848511",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "lot_number": "133897685171",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6761949450956132592/1528456680044393562.jpg",
+        "grade": "8",
+        "cert_number": "42480431",
+        "date": "10/17/2021",
+        "auction_type": "Auction",
+        "price": "$10.51",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "date": "12/23/2019",
+        "cert_number": "28671441",
+        "grade": "9",
+        "price": "$9.96",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1117043285312254448/1208708696878236297.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "143474305063",
+        "auction_seller": "japan-daisuki"
+    }
+]

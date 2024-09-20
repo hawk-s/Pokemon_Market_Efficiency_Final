@@ -1,0 +1,24 @@
+[
+    {
+        "date": "10/23/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6763486908943079852/5968161969104026606.jpg",
+        "cert_number": "27615947",
+        "lot_number": "142541622916",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "142541622904",
+        "date": "10/23/2017",
+        "cert_number": "27615949",
+        "price": "$3.25",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5018047354615359390/3294196709253701106.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

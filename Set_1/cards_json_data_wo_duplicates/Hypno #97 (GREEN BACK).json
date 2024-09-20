@@ -1,0 +1,101 @@
+[
+    {
+        "price": "$42.00",
+        "lot_number": "134697611588",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4980918245586761132/-4119211494988376510.jpg",
+        "date": "8/29/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "67500309",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "cert_number": "56804260",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9109096483740150872/-6344359711909956108.jpg",
+        "date": "1/31/2023",
+        "grade": "9",
+        "price": "$39.00",
+        "auction_type": "Auction",
+        "lot_number": "185752011702",
+        "auction_house": "eBay",
+        "auction_seller": "cardhouse-europe"
+    },
+    {
+        "date": "6/13/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1401830146464121347/4192345945431719732.jpg",
+        "cert_number": "54603848",
+        "lot_number": "285896319558",
+        "grade": "8",
+        "auction_seller": "alexattheranch",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "rhscards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6312333387986401337/-8699320239722867307.jpg",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "cert_number": "44001929",
+        "lot_number": "254459515343",
+        "auction_house": "eBay",
+        "price": "$8.49",
+        "date": "2/28/2020"
+    },
+    {
+        "cert_number": "61300806",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2764825545351294704/5425889288591008183.jpg",
+        "price": "$13.50",
+        "lot_number": "285389688416",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "date": "7/30/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "352856432857",
+        "price": "$21.30",
+        "auction_seller": "pwcc_auctions",
+        "date": "11/26/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7096271034766917094/-8414270149772773940.jpg",
+        "auction_type": "Auction",
+        "cert_number": "42015013",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "56804260",
+        "auction_seller": "cardhouse-europe",
+        "grade": "9",
+        "date": "2/14/2023",
+        "price": "$68.88",
+        "auction_type": "Auction",
+        "lot_number": "185770650594",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2290395269687837485/-6344359711909956108.jpg"
+    },
+    {
+        "cert_number": "57084155",
+        "auction_seller": "comc_consignment",
+        "grade": "8",
+        "lot_number": "256178936876",
+        "price": "$29.00",
+        "date": "8/22/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2622252667162302069/7826974926783502569.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "4",
+        "lot_number": "296113006611",
+        "cert_number": "82446421",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8090034435834699754/4929907751096793743.jpg",
+        "auction_seller": "sawith37",
+        "date": "12/27/2023",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "255260300809",
+        "cert_number": "53649808",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7059776854483256279/-706511125222872289.jpg",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "date": "12/10/2021"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "grade": "8",
+        "price": "$6.50",
+        "lot_number": "183004092437",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/14/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5148123915767848506/-3066120885788522989.jpg",
+        "cert_number": "28594133"
+    },
+    {
+        "auction_seller": "tannah12",
+        "cert_number": "57097255",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6395482622798326286/-4850841712603003264.jpg",
+        "date": "1/8/2023",
+        "price": "$64.01",
+        "lot_number": "115659578515",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

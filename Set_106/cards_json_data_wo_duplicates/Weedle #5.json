@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3868772350474310107/-1024560051641979898.jpg",
+        "auction_seller": "probstein123",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "lot_number": "385809892245",
+        "grade": "7 (MC)",
+        "auction_house": "eBay",
+        "cert_number": "73133630",
+        "date": "8/1/2023"
+    },
+    {
+        "auction_seller": "allisons.card.shop",
+        "lot_number": "313701590556",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-816303795994512055/-6521936754738185770.jpg",
+        "price": "$10.00",
+        "date": "10/7/2021",
+        "grade": "9",
+        "cert_number": "26661407",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/8/2023",
+        "lot_number": "266392329721",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9017418580862712604/-6774376328318009011.jpg",
+        "auction_seller": "4_sharp_corners",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "cert_number": "79586249",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7940025354644702845/4609618676482531428.jpg",
+        "price": "$42.00",
+        "lot_number": "364526479380",
+        "auction_seller": "4_sharp_corners",
+        "cert_number": "80247357",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/20/2023"
+    }
+]

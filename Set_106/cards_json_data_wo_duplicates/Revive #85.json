@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "probstein123",
+        "date": "9/23/2020",
+        "price": "$20.50",
+        "cert_number": "27937983",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4553121317138409625/-6673259009412756527.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "363107617195"
+    },
+    {
+        "lot_number": "372108871630",
+        "price": "$5.50",
+        "auction_seller": "probstein123",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7726027267940966459/-2632820910957599954.jpg",
+        "cert_number": "27937983",
+        "auction_type": "Auction",
+        "date": "10/25/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$55.00",
+        "date": "3/5/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7852728313996147851/-1326188485352055132.jpg",
+        "auction_type": "Best Offer",
+        "lot_number": "143918504322",
+        "auction_seller": "racetrackbaby",
+        "cert_number": "27937983",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "28138932",
+        "price": "$4.25",
+        "date": "11/6/2017",
+        "lot_number": "382267684398",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8228604130343174500/2580735243858252757.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$5.12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5428796911989469778/-4187913163095212682.jpg",
+        "cert_number": "85686535",
+        "grade": "9",
+        "date": "8/4/2024",
+        "auction_seller": "pricey_collectibles",
+        "lot_number": "176493580467",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

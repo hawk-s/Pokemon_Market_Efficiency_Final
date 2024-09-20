@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$61.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/236148836845178507/783448205150480790.jpg",
+        "date": "12/23/2022",
+        "auction_seller": "pasan-4231",
+        "lot_number": "185701503722",
+        "auction_type": "Auction",
+        "cert_number": "66655368",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1537541688022695272/8705094406714224427.jpg",
+        "lot_number": "264532596245",
+        "date": "11/23/2019",
+        "grade": "9",
+        "auction_seller": "egarza661",
+        "auction_type": "Auction",
+        "cert_number": "45071941",
+        "price": "$4.75",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "275916696691",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6676660182560474191/5632656793148399460.jpg",
+        "date": "7/3/2023",
+        "cert_number": "67005352",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_seller": "kingindustriesllc925",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "jakebla_8",
+        "price": "$15.00",
+        "grade": "8",
+        "date": "12/19/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "224275320214",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6430991341472671498/3395378312614401109.jpg",
+        "cert_number": "44799452"
+    },
+    {
+        "date": "3/29/2024",
+        "auction_seller": "myachomega",
+        "grade": "8",
+        "price": "$9.38",
+        "lot_number": "166662567921",
+        "cert_number": "82530522",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8135950261786205481/-3811807029550894848.jpg"
+    }
+]

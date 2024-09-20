@@ -1,0 +1,123 @@
+[
+    {
+        "grade": "5",
+        "cert_number": "48181977",
+        "price": "$38.00",
+        "auction_seller": "habbyshobbies",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5524014809493019685/3029300636704349409.jpg",
+        "lot_number": "384078352475",
+        "date": "4/11/2021"
+    },
+    {
+        "date": "9/25/2019",
+        "grade": "7",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2368581212079953067/5541542572854242961.jpg",
+        "cert_number": "41511033",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "352790479613"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-924580514154010841/1304777316260613964.jpg",
+        "cert_number": "28678117",
+        "auction_seller": "japan-daisuki",
+        "price": "$41.00",
+        "lot_number": "142765194695",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/30/2018"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8636353821434058697/-4073831927209544631.jpg",
+        "grade": "7",
+        "lot_number": "254710102849",
+        "cert_number": "41511033",
+        "auction_type": "Best Offer",
+        "auction_seller": "jinst",
+        "price": "$35.00",
+        "date": "9/13/2020",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "4",
+        "price": "$31.99",
+        "lot_number": "125654253552",
+        "date": "12/15/2022",
+        "auction_seller": "psa10gem101",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7396351658684079482/7048855582896226497.jpg",
+        "auction_type": "Auction",
+        "cert_number": "67053730",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4218890341388500587/-9128903746739424878.jpg",
+        "grade": "5",
+        "price": "$26.00",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285107343210",
+        "auction_type": "Auction",
+        "cert_number": "59341047",
+        "auction_house": "eBay",
+        "date": "1/22/2023"
+    },
+    {
+        "date": "5/4/2020",
+        "grade": "7",
+        "auction_seller": "tsunagu",
+        "lot_number": "254581204042",
+        "price": "$5.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2146485622794205929/-6886658375326245669.jpg",
+        "auction_type": "Auction",
+        "cert_number": "45406663",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/2/2020",
+        "cert_number": "43324268",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1071050848860441492/-3896650110707314644.jpg",
+        "auction_seller": "probstein123",
+        "price": "$53.00",
+        "auction_type": "Auction",
+        "lot_number": "372891717746",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "ksmckenzie",
+        "cert_number": "78804396",
+        "date": "10/27/2023",
+        "grade": "8",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "lot_number": "145380586071",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6031069678392545357/-8712409865556157731.jpg"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "date": "2/2/2023",
+        "grade": "8",
+        "lot_number": "2117",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/5763719776058398189/images/1.jpg",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "cert_number": "66859006",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "price": "$114.37",
+        "auction_seller": "goldrush_cards",
+        "cert_number": "59085261",
+        "lot_number": "234861175852",
+        "date": "1/20/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7725242787822134164/3880571814778164314.jpg"
+    }
+]

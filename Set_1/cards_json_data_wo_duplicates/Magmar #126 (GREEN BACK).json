@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143443787586",
+        "cert_number": "42015041",
+        "price": "$20.50",
+        "date": "11/26/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2853856647670195799/-650268433623552653.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1741729973335919254/-5000135163571026921.jpg",
+        "lot_number": "125635993351",
+        "cert_number": "67053752",
+        "auction_seller": "psa10gem101",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/6/2022",
+        "grade": "1",
+        "price": "$29.99"
+    },
+    {
+        "date": "2/12/2020",
+        "lot_number": "254459534497",
+        "auction_seller": "rhscards",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7332978566813618872/1253210337648409863.jpg",
+        "cert_number": "44009288",
+        "auction_house": "eBay",
+        "price": "$8.49"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5823357427285510958/8818212414312093763.jpg",
+        "price": "$17.51",
+        "cert_number": "69741726",
+        "auction_type": "Auction",
+        "lot_number": "325572037266",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5436705436241093744/-3249277587098412589.jpg",
+        "date": "2/20/2023",
+        "grade": "8",
+        "auction_seller": "1steditionpokemon",
+        "cert_number": "54603721",
+        "lot_number": "175596050481",
+        "auction_type": "Auction",
+        "price": "$46.88",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/29/2021",
+        "auction_seller": "pwcc_auctions",
+        "grade": "6",
+        "price": "$56.00",
+        "cert_number": "51586190",
+        "lot_number": "143982066321",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6586120398111258734/-4016454783314138662.jpg"
+    }
+]

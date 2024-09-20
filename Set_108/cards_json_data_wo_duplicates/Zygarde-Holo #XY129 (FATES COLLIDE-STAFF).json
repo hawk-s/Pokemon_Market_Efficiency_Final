@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "collectorsworld-va",
+        "date": "11/5/2017",
+        "cert_number": "28117800",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/6381249452824468059/1701284070132604642.jpg",
+        "grade": "8",
+        "lot_number": "172951691633",
+        "price": "$41.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/21/2024",
+        "lot_number": "116289336794",
+        "grade": "7",
+        "cert_number": "68789562",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2691245671468362724/-761030092046282311.jpg",
+        "auction_type": "Auction",
+        "price": "$22.66",
+        "auction_house": "eBay",
+        "auction_seller": "lunacardsau"
+    },
+    {
+        "auction_seller": "springcreek",
+        "date": "9/16/2022",
+        "lot_number": "225151091904",
+        "grade": "9",
+        "price": "$31.00",
+        "cert_number": "26706910",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/648207349704724201/4663029547463611532.jpg"
+    }
+]

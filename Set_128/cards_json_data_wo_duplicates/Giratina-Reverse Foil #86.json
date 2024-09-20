@@ -1,0 +1,46 @@
+[
+    {
+        "date": "5/7/2024",
+        "lot_number": "196372544944",
+        "cert_number": "75709836",
+        "auction_seller": "ig_meeshthepokeman",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7196588072023953745/-1696403756366295130.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$1.25"
+    },
+    {
+        "lot_number": "303752230483",
+        "price": "$10.50",
+        "cert_number": "45686073",
+        "auction_seller": "cards-tools-plus",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8273396101066318575/2210196361151104053.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/11/2020"
+    },
+    {
+        "price": "$52.00",
+        "lot_number": "124929214257",
+        "date": "10/7/2021",
+        "auction_seller": "dcsports87",
+        "cert_number": "55258100",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6805001761000244364/6072991732819717139.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7328686506295693607/2897820174280041424.jpg",
+        "price": "$7.50",
+        "cert_number": "74313558",
+        "grade": "9",
+        "lot_number": "166159218946",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "itemland",
+        "date": "6/16/2023"
+    }
+]

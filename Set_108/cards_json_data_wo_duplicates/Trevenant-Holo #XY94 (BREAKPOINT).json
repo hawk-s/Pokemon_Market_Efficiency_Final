@@ -1,0 +1,90 @@
+[
+    {
+        "auction_seller": "poke-martcollectibles",
+        "cert_number": "68321317",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1844179224843247810/5517018383096233455.jpg",
+        "lot_number": "275558573490",
+        "grade": "9",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/5/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1403977731356686801/6087846518033272362.jpg",
+        "date": "2/3/2024",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_seller": "winic_95",
+        "auction_type": "Auction",
+        "lot_number": "395162705729",
+        "auction_house": "eBay",
+        "cert_number": "72510107"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2457062513194781588/6087846518033272362.jpg",
+        "price": "$6.80",
+        "cert_number": "72510107",
+        "grade": "9",
+        "auction_seller": "winic_95",
+        "auction_type": "Auction",
+        "lot_number": "395026400908",
+        "auction_house": "eBay",
+        "date": "12/5/2023"
+    },
+    {
+        "date": "7/4/2023",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_seller": "winic_95",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2344289431733767732/-6835365256057155192.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "72510107",
+        "lot_number": "394705890235"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4513941737846868562/-3222301923516258744.jpg",
+        "auction_seller": "qceshop",
+        "cert_number": "62842767",
+        "lot_number": "165802281516",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/5/2022"
+    },
+    {
+        "price": "$9.50",
+        "lot_number": "395101957674",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1564633801014717219/6087846518033272362.jpg",
+        "grade": "9",
+        "auction_seller": "winic_95",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/8/2024",
+        "cert_number": "72510107"
+    },
+    {
+        "price": "$15.69",
+        "cert_number": "72510107",
+        "grade": "9",
+        "auction_seller": "winic_95",
+        "lot_number": "394923485330",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6795069211265882675/6087846518033272362.jpg",
+        "auction_house": "eBay",
+        "date": "10/16/2023"
+    },
+    {
+        "date": "12/23/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-756106636746122141/6087846518033272362.jpg",
+        "grade": "9",
+        "auction_seller": "winic_95",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "lot_number": "395065540648",
+        "auction_house": "eBay",
+        "cert_number": "72510107"
+    }
+]

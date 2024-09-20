@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "293465410084",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1344982678963648680/7167056659620619808.jpg",
+        "cert_number": "43609161",
+        "price": "$15.50",
+        "date": "2/14/2020",
+        "auction_seller": "neverfalen",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "254416012337",
+        "auction_seller": "okemos16",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1670660315055078210/7187519912135019567.jpg",
+        "price": "$10.00",
+        "date": "11/14/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "28237501"
+    },
+    {
+        "price": "$16.00",
+        "auction_seller": "4_sharp_corners",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7292749154058626785/3463963004293365681.jpg",
+        "grade": "9",
+        "cert_number": "53779287",
+        "auction_type": "Auction",
+        "lot_number": "384597459680",
+        "auction_house": "eBay",
+        "date": "12/27/2021"
+    },
+    {
+        "price": "$21.00",
+        "grade": "10",
+        "cert_number": "50930503",
+        "date": "10/5/2021",
+        "auction_seller": "aikeca_0",
+        "lot_number": "334165280679",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7647484272354553052/3775336264781723436.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/240515549125534438/-1213112215158628155.jpg",
+        "auction_type": "Buy It Now",
+        "date": "2/19/2018",
+        "price": "$14.00",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "253247954460",
+        "cert_number": "28237501"
+    }
+]

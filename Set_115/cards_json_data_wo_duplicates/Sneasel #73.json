@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$12.00",
+        "cert_number": "40946213",
+        "auction_seller": "laurencohen",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6253543156830842934/-6656489511521629002.jpg",
+        "auction_type": "Best Offer",
+        "date": "10/19/2020",
+        "auction_house": "eBay",
+        "lot_number": "373268199578",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8483155294587170736/-3454278666616330192.jpg",
+        "auction_seller": "yodarulz90",
+        "lot_number": "223266776634",
+        "auction_type": "Best Offer",
+        "price": "$22.00",
+        "cert_number": "40937188",
+        "date": "1/15/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6516220589412218753/7866614452377721321.jpg",
+        "cert_number": "40955844",
+        "lot_number": "126412937428",
+        "auction_seller": "dcsports87",
+        "price": "$22.00",
+        "auction_type": "Auction",
+        "date": "4/11/2024",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

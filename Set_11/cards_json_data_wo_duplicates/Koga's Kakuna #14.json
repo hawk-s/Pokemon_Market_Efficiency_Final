@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "364097633848",
+        "cert_number": "68275832",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-439897763164294318/-8091842687329265833.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "price": "$11.02",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "date": "12/21/2022",
+        "cert_number": "50991797",
+        "auction_seller": "steby-2",
+        "auction_type": "Auction",
+        "price": "$12.06",
+        "auction_house": "eBay",
+        "lot_number": "404052762251",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7380831439432883779/-8208793075807255465.jpg"
+    },
+    {
+        "cert_number": "74260276",
+        "auction_seller": "world_of_geek",
+        "price": "$25.72",
+        "lot_number": "275994550553",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2393859776532430830/-4498151543474969014.jpg",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "florian.ebner.muc",
+        "price": "$26.20",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3075443060696424340/4552935121316200877.jpg",
+        "date": "4/18/2023",
+        "auction_type": "Auction",
+        "cert_number": "67926336",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "155500094414"
+    },
+    {
+        "cert_number": "70519004",
+        "lot_number": "314473024189",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-218233201408379978/-2209921144552724711.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$28.51",
+        "grade": "10",
+        "auction_seller": "nevergonnaletmewdown",
+        "date": "3/26/2023"
+    }
+]

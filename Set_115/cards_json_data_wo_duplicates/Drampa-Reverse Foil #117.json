@@ -1,0 +1,35 @@
+[
+    {
+        "date": "2/9/2021",
+        "grade": "8",
+        "price": "$14.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2457456902406521518/8230452240235020421.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "402673208775",
+        "cert_number": "42066081",
+        "auction_seller": "buybackcards"
+    },
+    {
+        "lot_number": "224025712663",
+        "auction_seller": "tennisfun5",
+        "auction_type": "Best Offer",
+        "date": "6/28/2020",
+        "grade": "8",
+        "price": "$7.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3766613653867325586/-6919528256197867703.jpg",
+        "auction_house": "eBay",
+        "cert_number": "42066081"
+    },
+    {
+        "price": "$7.01",
+        "lot_number": "402725444593",
+        "grade": "8",
+        "date": "3/10/2021",
+        "cert_number": "42066081",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7379590404429119387/8230452240235020421.jpg",
+        "auction_seller": "buybackcards"
+    }
+]

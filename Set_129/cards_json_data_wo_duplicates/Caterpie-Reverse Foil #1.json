@@ -1,0 +1,46 @@
+[
+    {
+        "date": "3/27/2023",
+        "cert_number": "58643471",
+        "grade": "8",
+        "auction_seller": "4_sharp_corners",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3448067879076407701/3289184734523775009.jpg",
+        "price": "$9.99",
+        "lot_number": "266177281104",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/9/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1459885618779933097/2823576200549385090.jpg",
+        "lot_number": "203336751337",
+        "cert_number": "49452694",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "auction_seller": "slab10stradingcards"
+    },
+    {
+        "lot_number": "203343793723",
+        "price": "$43.00",
+        "cert_number": "49452695",
+        "grade": "9",
+        "date": "4/16/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2358090143314945903/-338657786211753008.jpg",
+        "auction_seller": "slab10stradingcards"
+    },
+    {
+        "lot_number": "275094212368",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4061927292497036762/-1885646116175047763.jpg",
+        "grade": "9",
+        "cert_number": "53597220",
+        "auction_seller": "jacanddan_collectibles",
+        "price": "$9.00",
+        "date": "1/21/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

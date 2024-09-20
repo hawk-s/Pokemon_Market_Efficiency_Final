@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "383818224135",
+        "cert_number": "41568388",
+        "auction_type": "Best Offer",
+        "date": "12/5/2020",
+        "auction_seller": "cardboard_collections",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5148804737427457910/2841447957651946990.jpg",
+        "price": "$29.99"
+    },
+    {
+        "auction_seller": "twinglestavern",
+        "cert_number": "41568388",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3398360493248570716/4907085240732205025.jpg",
+        "lot_number": "124798859652",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/12/2021"
+    },
+    {
+        "auction_seller": "jesic_11",
+        "date": "3/19/2023",
+        "lot_number": "404200115598",
+        "grade": "9",
+        "cert_number": "70655629",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$2.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5106248302334456780/-5938908416733074109.jpg"
+    },
+    {
+        "date": "11/13/2020",
+        "price": "$14.64",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7379171484187999747/-4530939624091071428.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "383796705516",
+        "cert_number": "27163953",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "41568388",
+        "price": "$15.50",
+        "auction_seller": "probstein123",
+        "date": "9/23/2020",
+        "auction_type": "Auction",
+        "lot_number": "363107627572",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5981850616771159850/-2993018084177787098.jpg"
+    }
+]

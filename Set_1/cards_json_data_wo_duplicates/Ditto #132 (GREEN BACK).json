@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$70.69",
+        "date": "2/20/2023",
+        "grade": "8",
+        "auction_seller": "1steditionpokemon",
+        "cert_number": "54603730",
+        "auction_type": "Auction",
+        "lot_number": "175596051778",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9147520432363716272/5321704980986870906.jpg"
+    },
+    {
+        "lot_number": "176260945850",
+        "cert_number": "56807546",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4735947017663360641/-1654360210526614849.jpg",
+        "auction_seller": "1steditionpokemon",
+        "date": "3/25/2024",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "28517313",
+        "auction_seller": "bristolcollectibles",
+        "auction_type": "Best Offer",
+        "date": "3/29/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5563032047918344373/-5812917286880605358.jpg",
+        "auction_house": "eBay",
+        "lot_number": "362277446541",
+        "grade": "10",
+        "price": "$56.50"
+    },
+    {
+        "lot_number": "305712544940",
+        "grade": "8",
+        "date": "8/14/2024",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1291567455286301058/-2742981561359480260.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "cert_number": "70540890"
+    },
+    {
+        "cert_number": "88007998",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9197095092140639962/-2511243288206708753.jpg",
+        "lot_number": "166792045134",
+        "price": "$32.64",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "get_collect",
+        "auction_house": "eBay",
+        "date": "6/5/2024"
+    },
+    {
+        "cert_number": "69741732",
+        "grade": "7",
+        "date": "3/6/2023",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7998465222773505173/7444430827471257760.jpg",
+        "lot_number": "325542234507",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "lot_number": "186091479814",
+        "cert_number": "68649168",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4346795521200286086/5692731530011116533.jpg",
+        "date": "9/27/2023",
+        "auction_seller": "brhart6329",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "grade": "5",
+        "date": "8/27/2024",
+        "price": "$14.99",
+        "cert_number": "70540894",
+        "lot_number": "305735648848",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3435490169211845465/7359626464821457937.jpg"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "date": "6/21/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2291416258133044499/-3579677102586148829.jpg",
+        "cert_number": "41401840",
+        "auction_seller": "foltz45",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "224045447579",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "price": "$11.00",
+        "lot_number": "364141279474",
+        "cert_number": "69573473",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "date": "2/17/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-572584388712880773/-4234487347467377042.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "7thinninghobby",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3042961956675615418/4310975657955947396.jpg",
+        "lot_number": "314262032263",
+        "cert_number": "60462834",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/13/2022"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "cert_number": "57874386",
+        "lot_number": "256483269017",
+        "price": "$8.04",
+        "date": "4/19/2024",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7770622186678352939/-7588019839223361954.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4297149038043351051/-3511766133959219472.jpg",
+        "cert_number": "57874386",
+        "date": "6/3/2022",
+        "auction_seller": "sellers_sportscards",
+        "grade": "9",
+        "lot_number": "265710112427",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

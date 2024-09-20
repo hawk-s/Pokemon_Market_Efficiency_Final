@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "234094367213",
+        "auction_seller": "japan-higasi-116",
+        "price": "$10.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7939301371801744957/2583516348258746376.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/29/2021",
+        "cert_number": "55968502"
+    },
+    {
+        "date": "3/24/2024",
+        "auction_seller": "teamxiong",
+        "lot_number": "256449319107",
+        "cert_number": "85493889",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2270100105945425391/-4441438160073771165.jpg",
+        "price": "$23.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "124987484512",
+        "date": "11/21/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4808629129114766101/-3777751143033215570.jpg",
+        "price": "$26.00",
+        "auction_seller": "card_secret",
+        "cert_number": "51269208",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "124084130111",
+        "date": "2/25/2020",
+        "auction_seller": "raijinfujin",
+        "price": "$13.57",
+        "auction_type": "Auction",
+        "cert_number": "44279588",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6363001411745964723/-3676520008459646040.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "53136143",
+        "date": "5/10/2022",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1626101730038104282/1480332917655075122.jpg",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "384867497116"
+    },
+    {
+        "cert_number": "53136143",
+        "price": "$12.52",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5490098142763265070/-6040734354070955392.jpg",
+        "date": "2/16/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "175152957936",
+        "auction_seller": "one-with-the-force"
+    }
+]

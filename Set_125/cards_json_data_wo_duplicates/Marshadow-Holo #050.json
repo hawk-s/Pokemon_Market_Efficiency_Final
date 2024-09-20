@@ -1,0 +1,35 @@
+[
+    {
+        "date": "12/31/2021",
+        "price": "$17.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/699355353803306653/-8844230861888873252.jpg",
+        "lot_number": "313807696844",
+        "auction_seller": "kantos_finest",
+        "grade": "9",
+        "cert_number": "53185694",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "43270722",
+        "date": "10/17/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8958990433910534369/5286634788367863850.jpg",
+        "lot_number": "233365794796",
+        "price": "$9.99",
+        "auction_seller": "tcgers",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "43270722",
+        "date": "6/20/2019",
+        "price": "$10.50",
+        "auction_seller": "tcgers",
+        "lot_number": "233258980059",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-981340325244536187/5286634788367863850.jpg"
+    }
+]

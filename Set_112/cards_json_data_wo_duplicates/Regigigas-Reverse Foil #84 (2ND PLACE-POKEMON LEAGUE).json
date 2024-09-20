@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "888tcg",
+        "price": "$13.50",
+        "date": "11/6/2019",
+        "lot_number": "163924668897",
+        "cert_number": "40915319",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1783603147256318497/-3965504412830875735.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "78324625",
+        "date": "3/29/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7982960142942004370/6201800882429572377.jpg",
+        "grade": "9",
+        "auction_seller": "iahille-7",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50",
+        "lot_number": "226058365386"
+    },
+    {
+        "lot_number": "193300828282",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6866497669326711890/-1125134791076660358.jpg",
+        "auction_type": "Best Offer",
+        "price": "$39.99",
+        "cert_number": "40915319",
+        "date": "1/24/2020",
+        "auction_seller": "gooddoggaming",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

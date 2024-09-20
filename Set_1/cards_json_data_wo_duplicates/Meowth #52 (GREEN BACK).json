@@ -1,0 +1,123 @@
+[
+    {
+        "grade": "4",
+        "auction_seller": "iwmtm2000",
+        "lot_number": "225007612556",
+        "cert_number": "54584464",
+        "date": "6/5/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3452448357438360413/-3563473161703311335.jpg",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$35.05",
+        "cert_number": "28517390",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8314004741347365643/4219494063506137327.jpg",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "352856432082",
+        "grade": "10"
+    },
+    {
+        "price": "$449.99",
+        "lot_number": "372652472076",
+        "auction_type": "Best Offer",
+        "auction_seller": "brianjapan",
+        "date": "11/14/2020",
+        "auction_house": "eBay",
+        "cert_number": "41554579",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1781766672366549352/2133122064118726168.jpg"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "date": "1/25/2023",
+        "price": "$26.60",
+        "cert_number": "59644460",
+        "grade": "8",
+        "lot_number": "234859197370",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7695138789774760074/-1152848192340780081.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7428644106069504997/-4096785739316958789.jpg",
+        "grade": "8",
+        "auction_seller": "1steditionpokemon",
+        "date": "3/25/2024",
+        "lot_number": "176260674926",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "cert_number": "56807616",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4050471170696760510/8693589882582226333.jpg",
+        "price": "$13.50",
+        "cert_number": "28678144",
+        "auction_seller": "japan-daisuki",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "142765193874",
+        "date": "4/30/2018"
+    },
+    {
+        "date": "1/14/2021",
+        "auction_type": "Best Offer",
+        "price": "$172.00",
+        "lot_number": "353260949528",
+        "grade": "9",
+        "cert_number": "42014971",
+        "auction_seller": "sm-micmi-dauph3t4",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6934866207420127846/-7739201348729615774.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$70.69",
+        "lot_number": "133897778831",
+        "grade": "9",
+        "date": "10/18/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1499667243286651791/-3688338297249735306.jpg",
+        "cert_number": "54491443",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "grade": "4",
+        "lot_number": "234138252799",
+        "auction_seller": "japan-higasi-116",
+        "date": "8/24/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8562644426686665908/7418356875929400303.jpg",
+        "price": "$20.49",
+        "cert_number": "55968528",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/22/2020",
+        "lot_number": "274395778908",
+        "auction_type": "Buy It Now",
+        "price": "$90.00",
+        "auction_seller": "ptcruzer5961",
+        "auction_house": "eBay",
+        "cert_number": "28113105",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3561562710205199194/-1288938060025634657.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8021270922779106664/-7416531065633854467.jpg",
+        "cert_number": "73766691",
+        "auction_seller": "kampes_cards",
+        "date": "6/25/2023",
+        "lot_number": "175773091429",
+        "price": "$224.72",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

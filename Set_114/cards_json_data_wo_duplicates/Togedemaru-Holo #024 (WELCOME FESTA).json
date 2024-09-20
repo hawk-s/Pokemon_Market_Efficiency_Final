@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "japan-international-trade",
+        "lot_number": "113235074413",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8456505272992815037/6354375163659156376.jpg",
+        "date": "9/16/2018",
+        "cert_number": "41205301",
+        "price": "$356.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/13/2023",
+        "auction_seller": "cardboundllc",
+        "price": "$12.52",
+        "cert_number": "70620896",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1325439232232914003/-7168966183842614113.jpg",
+        "grade": "10",
+        "lot_number": "325524772401"
+    },
+    {
+        "price": "$550.00",
+        "auction_type": "Best Offer",
+        "cert_number": "41205301",
+        "lot_number": "223908690786",
+        "date": "1/22/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7305460754096307260/-9001169934836393100.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "mossdeep"
+    }
+]

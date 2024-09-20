@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$2.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8876840060916558861/5814664910198288062.jpg",
+        "date": "2/16/2020",
+        "lot_number": "254508123082",
+        "grade": "9",
+        "cert_number": "45521582",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "7/31/2019",
+        "grade": "9",
+        "cert_number": "43979518",
+        "price": "$7.99",
+        "lot_number": "254308897048",
+        "auction_seller": "danktron",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2189867720468698723/-6954791755645539525.jpg"
+    },
+    {
+        "lot_number": "254387945779",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8155784879652044655/919575533799037425.jpg",
+        "cert_number": "43317483",
+        "price": "$7.99",
+        "auction_house": "eBay",
+        "auction_seller": "danktron",
+        "auction_type": "Auction",
+        "date": "10/20/2019",
+        "grade": "10"
+    },
+    {
+        "date": "12/15/2020",
+        "price": "$4.25",
+        "lot_number": "284110922200",
+        "auction_seller": "busho02",
+        "grade": "9",
+        "cert_number": "45521582",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2691754439556001284/7303990238317872474.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/15/2020",
+        "lot_number": "143552377178",
+        "auction_seller": "pokedad_gym",
+        "price": "$9.98",
+        "grade": "9",
+        "cert_number": "45521582",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1823290005558876792/-3132928203742514733.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$17.09",
+        "cert_number": "58641144",
+        "auction_seller": "ginger_kat_1",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/163322668163351958/7805772165686264269.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "1/24/2022",
+        "auction_house": "eBay",
+        "lot_number": "175113801914"
+    },
+    {
+        "auction_seller": "hitsquad70",
+        "cert_number": "54849733",
+        "lot_number": "284649482045",
+        "date": "2/19/2022",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7508624833950373786/-4651385556567234486.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/16/2020",
+        "cert_number": "44720140",
+        "grade": "9",
+        "price": "$9.54",
+        "lot_number": "124108226727",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1246237144738998112/7047316687084628604.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "raijinfujin"
+    },
+    {
+        "price": "$12.00",
+        "lot_number": "175968301134",
+        "date": "10/26/2023",
+        "grade": "9",
+        "auction_seller": "ab_sportscards_collectibles",
+        "auction_type": "Auction",
+        "cert_number": "67558944",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3270344957242136603/-3134915109893799364.jpg"
+    },
+    {
+        "cert_number": "54334755",
+        "date": "1/2/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9005628501215057100/4445892790458971298.jpg",
+        "lot_number": "255292336165",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "price": "$53.15",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "numismaticsgmc",
+        "date": "9/29/2019",
+        "lot_number": "312778220207",
+        "price": "$24.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "44320811",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4493608678090621968/-450494793065361587.jpg"
+    },
+    {
+        "lot_number": "235143756840",
+        "cert_number": "61598822",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4491804989012336139/2883318869270217779.jpg",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$4.20",
+        "cert_number": "44690642",
+        "lot_number": "254454292867",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/122096466463886214/7542432930176327091.jpg",
+        "date": "12/22/2019",
+        "auction_house": "eBay",
+        "auction_seller": "danktron"
+    }
+]

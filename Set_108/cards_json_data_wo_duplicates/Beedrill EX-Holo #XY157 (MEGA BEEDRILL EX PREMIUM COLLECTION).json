@@ -1,0 +1,46 @@
+[
+    {
+        "date": "8/8/2020",
+        "price": "$12.00",
+        "auction_type": "Best Offer",
+        "cert_number": "44925070",
+        "lot_number": "363033288348",
+        "grade": "9",
+        "auction_seller": "matthenicholos-0",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3826523141233796277/-6580469122943996511.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4584413444198031737/5147798662231184635.jpg",
+        "lot_number": "363647341004",
+        "price": "$52.00",
+        "auction_seller": "probstein123",
+        "cert_number": "53073179",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/14/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7367828567153278492/-5370947259322119101.jpg",
+        "cert_number": "40939948",
+        "price": "$41.00",
+        "date": "7/22/2024",
+        "auction_type": "Auction",
+        "lot_number": "365012923068",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "rayquaza4eva"
+    },
+    {
+        "lot_number": "192782922959",
+        "date": "1/13/2019",
+        "grade": "8",
+        "price": "$10.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4579903407770338397/-7767681751866683041.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "middleclassgold",
+        "auction_house": "eBay",
+        "cert_number": "28462848"
+    }
+]

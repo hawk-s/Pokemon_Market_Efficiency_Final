@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "373817568433",
+        "date": "12/13/2021",
+        "auction_seller": "stands4slabs",
+        "cert_number": "50690358",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1397732642358303718/-4296051222036359892.jpg",
+        "grade": "10",
+        "price": "$700.00"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "27600447",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7628072982707726304/-4261455409818846706.jpg",
+        "lot_number": "401406723604",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$91.00",
+        "grade": "10",
+        "date": "9/27/2017"
+    },
+    {
+        "price": "$340.00",
+        "auction_seller": "smpratte",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3779325748839388262/-3765546203277032149.jpg",
+        "date": "10/24/2022",
+        "lot_number": "185611399797",
+        "cert_number": "52414424",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/6/2021",
+        "auction_type": "Best Offer",
+        "lot_number": "254389283844",
+        "price": "$300.00",
+        "grade": "9",
+        "auction_seller": "yetigaming",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/840385427393266681/-7784522660156375109.jpg",
+        "cert_number": "42065602"
+    },
+    {
+        "lot_number": "143299051316",
+        "auction_seller": "pwcc_auctions",
+        "price": "$77.00",
+        "date": "6/27/2019",
+        "grade": "9",
+        "cert_number": "41379465",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7990731751528206873/-1104932965751149621.jpg",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "55670644",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7414219862399646324/341837328448290450.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "poke-ballz",
+        "lot_number": "355021727716",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "date": "9/14/2023"
+    },
+    {
+        "lot_number": "255554830884",
+        "date": "6/3/2022",
+        "grade": "8",
+        "auction_seller": "sellers_sportscards",
+        "cert_number": "57874433",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4548406746908085286/2348229195382367468.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "255341509630",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7106036123608263620/9061323227141483105.jpg",
+        "date": "1/27/2022",
+        "cert_number": "55716391",
+        "auction_seller": "sellers_sportscards",
+        "grade": "9",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/10/2019",
+        "price": "$4.99",
+        "cert_number": "43568815",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "254252694588",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5110368403912049402/-9120099679734835865.jpg",
+        "auction_seller": "danktron"
+    }
+]

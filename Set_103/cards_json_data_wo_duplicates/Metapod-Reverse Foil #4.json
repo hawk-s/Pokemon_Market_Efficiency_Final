@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "283419640497",
+        "cert_number": "27699362",
+        "auction_seller": "9cardstud",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5859894526940207690/736253405335041916.jpg",
+        "grade": "9",
+        "date": "3/23/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "cert_number": "27699362",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1543019969679598693/5871339018062836662.jpg",
+        "grade": "9",
+        "price": "$11.50",
+        "date": "8/3/2020",
+        "auction_seller": "cenx",
+        "auction_type": "Auction",
+        "lot_number": "254667438333",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7930137610213646471/8041933906244447889.jpg",
+        "lot_number": "283439066647",
+        "cert_number": "27699362",
+        "auction_seller": "9cardstud",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/7/2019",
+        "price": "$0.99"
+    }
+]

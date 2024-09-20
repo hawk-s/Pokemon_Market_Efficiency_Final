@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$10.50",
+        "lot_number": "305743489324",
+        "grade": "9",
+        "date": "8/31/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3007791839307345033/-1095761437541120795.jpg",
+        "auction_house": "eBay",
+        "cert_number": "61748508",
+        "auction_seller": "psa"
+    },
+    {
+        "auction_seller": "darkestlariattcg",
+        "cert_number": "69267026",
+        "grade": "8",
+        "price": "$5.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1436258918790566365/7429892895073944521.jpg",
+        "auction_house": "eBay",
+        "lot_number": "394347664040",
+        "date": "12/5/2022"
+    },
+    {
+        "auction_seller": "psa",
+        "cert_number": "61748522",
+        "lot_number": "305743489372",
+        "price": "$31.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6268486141384886488/2094468260034198916.jpg",
+        "date": "8/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2720454455623891351/4107164567637570676.jpg",
+        "lot_number": "234931615374",
+        "grade": "9",
+        "cert_number": "61774540",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "price": "$67.62",
+        "auction_seller": "mk2golfman18"
+    },
+    {
+        "date": "9/8/2023",
+        "auction_seller": "salocc123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6797820972732530002/-6649598498815458331.jpg",
+        "lot_number": "256204164234",
+        "cert_number": "55678145",
+        "price": "$27.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$55.00",
+        "date": "7/28/2019",
+        "auction_seller": "texas_tamugirl",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-544593219995370735/2900159432570440871.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "283552271464",
+        "cert_number": "42554617"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "9/26/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1335672168544846230/1126380835988613712.jpg",
+        "cert_number": "45444846",
+        "price": "$76.00",
+        "auction_seller": "ig_ksamiibo",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185050229190",
+        "grade": "10"
+    },
+    {
+        "lot_number": "174256093486",
+        "date": "12/13/2020",
+        "auction_type": "Best Offer",
+        "auction_seller": "cardcavecentral",
+        "price": "$24.99",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4000524734826370608/-8281747604657178193.jpg",
+        "auction_house": "eBay",
+        "cert_number": "45444845"
+    },
+    {
+        "price": "$54.38",
+        "lot_number": "293980476480",
+        "cert_number": "45444846",
+        "date": "2/6/2021",
+        "auction_seller": "dragon_mon_z",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4140777551681843311/8606227838238038218.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7755950578578532219/-5401331726770970653.jpg",
+        "cert_number": "45444846",
+        "lot_number": "174288509315",
+        "date": "5/27/2020",
+        "auction_seller": "cardcavecentral",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

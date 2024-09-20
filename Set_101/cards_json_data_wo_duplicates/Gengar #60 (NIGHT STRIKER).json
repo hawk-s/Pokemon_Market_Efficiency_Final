@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "7",
+        "lot_number": "196392521122",
+        "cert_number": "65464514",
+        "price": "$8.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5888973845250878395/-3545524784282838253.jpg",
+        "auction_type": "Auction",
+        "date": "5/20/2024",
+        "auction_house": "eBay",
+        "auction_seller": "ehelmick13"
+    },
+    {
+        "auction_seller": "thetcgenius",
+        "date": "2/28/2024",
+        "cert_number": "83875078",
+        "price": "$180.50",
+        "lot_number": "134951388426",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6350256891031284302/8936257151825008196.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "186069983928",
+        "auction_seller": "pozjokergames",
+        "grade": "8",
+        "cert_number": "71760351",
+        "date": "9/18/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6201100321225810284/9131966253331377057.jpg",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "price": "$18.26",
+        "auction_seller": "pozjokergames",
+        "cert_number": "71760349",
+        "date": "9/17/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1838002852342337262/-4684595491231163342.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "186069983878"
+    }
+]

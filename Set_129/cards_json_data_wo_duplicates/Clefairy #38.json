@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "133989657173",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2747806646421611200/-4961718186533687104.jpg",
+        "auction_seller": "welcome_stranger_collectibles",
+        "date": "1/17/2022",
+        "cert_number": "51561778",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$11.21"
+    },
+    {
+        "auction_seller": "poke.particles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5458368964054196971/-5031206681048326426.jpg",
+        "cert_number": "73448009",
+        "price": "$25.00",
+        "date": "8/22/2023",
+        "grade": "8 (MC)",
+        "auction_type": "Auction",
+        "lot_number": "404440804105",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "52704098",
+        "date": "12/23/2021",
+        "lot_number": "154751187407",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6816454971905585125/5010679572199658205.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7047312421690464386/3524136011307989765.jpg",
+        "date": "12/23/2021",
+        "lot_number": "154751187424",
+        "cert_number": "52704099",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    }
+]

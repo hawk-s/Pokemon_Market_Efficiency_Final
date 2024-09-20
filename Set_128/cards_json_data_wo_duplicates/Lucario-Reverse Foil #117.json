@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$9.23",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6183288035980072435/3809332868515015110.jpg",
+        "cert_number": "44720249",
+        "date": "3/15/2020",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "raijinfujin",
+        "lot_number": "124107330571"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8834023171770316462/7945045050168658807.jpg",
+        "cert_number": "47216494",
+        "price": "$56.00",
+        "date": "9/14/2023",
+        "auction_type": "Auction",
+        "auction_seller": "poke-ballz",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "355021818026"
+    },
+    {
+        "cert_number": "49327892",
+        "date": "8/26/2021",
+        "price": "$36.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7285757224821009272/974430146274627059.jpg",
+        "lot_number": "353633074025",
+        "auction_type": "Auction",
+        "auction_seller": "poke-ballz",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "55258079",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5667429501146901905/8338246468257845849.jpg",
+        "date": "10/7/2021",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "373742028218"
+    }
+]

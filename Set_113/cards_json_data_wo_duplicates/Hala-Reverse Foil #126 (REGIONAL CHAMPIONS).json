@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "retrothrifters1",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2443431933582973221/4344476253383188332.jpg",
+        "lot_number": "303777424555",
+        "date": "11/28/2020",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41412441",
+        "price": "$0.99"
+    },
+    {
+        "auction_seller": "metalheadtcg",
+        "lot_number": "163748233251",
+        "price": "$1.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/2/2019",
+        "cert_number": "41412441",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4259381212175159534/1376485083211989015.jpg"
+    },
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "313003430316",
+        "price": "$16.25",
+        "auction_seller": "kantos_finest",
+        "date": "9/26/2020",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3380669682829390376/-3104741019043509256.jpg",
+        "cert_number": "41412441"
+    }
+]

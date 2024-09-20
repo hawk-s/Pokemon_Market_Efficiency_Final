@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "onepizza",
+        "cert_number": "57905565",
+        "date": "11/4/2022",
+        "price": "$6.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6756711005806117502/6829428731874673093.jpg",
+        "auction_type": "Auction",
+        "lot_number": "255797992269",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "43270642",
+        "date": "3/8/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7937661107213853381/7899610090060228024.jpg",
+        "lot_number": "233511680172",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_seller": "tcgers",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "27879152",
+        "price": "$10.00",
+        "grade": "9",
+        "date": "3/15/2018",
+        "auction_type": "Auction",
+        "auction_seller": "middleclassgold",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6152599556053555538/6251025853720101222.jpg",
+        "lot_number": "192477500865"
+    },
+    {
+        "auction_seller": "onepizza",
+        "price": "$9.50",
+        "cert_number": "57905565",
+        "date": "9/19/2022",
+        "grade": "9",
+        "lot_number": "255717230272",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4761511718663801830/8217837746300879984.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "onepizza",
+        "lot_number": "255859100435",
+        "cert_number": "57905565",
+        "date": "12/10/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4652317702167936905/6829428731874673093.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "363655698450",
+        "price": "$4.26",
+        "grade": "8",
+        "auction_seller": "4_sharp_corners",
+        "cert_number": "53779235",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7218661454679268661/4481843446613516369.jpg",
+        "date": "12/27/2021"
+    }
+]

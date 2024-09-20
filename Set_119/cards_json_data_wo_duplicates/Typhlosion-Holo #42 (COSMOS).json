@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "8",
+        "cert_number": "52641323",
+        "lot_number": "134484460409",
+        "price": "$49.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1051870317521857306/467015701938692099.jpg",
+        "date": "3/18/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "discgolfer32"
+    },
+    {
+        "lot_number": "355052296186",
+        "auction_seller": "dvtech802",
+        "cert_number": "56873485",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4901121314989336373/4279893623920240612.jpg",
+        "price": "$44.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/30/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3231283972500560204/319263950455027790.jpg",
+        "grade": "7",
+        "date": "2/16/2023",
+        "auction_seller": "dndstreasures",
+        "price": "$34.33",
+        "cert_number": "70730245",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "314381850750"
+    }
+]

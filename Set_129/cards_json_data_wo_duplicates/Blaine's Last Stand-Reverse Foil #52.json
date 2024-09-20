@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$4.25",
+        "lot_number": "154743262290",
+        "cert_number": "52849459",
+        "grade": "9",
+        "date": "12/18/2021",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/484470728652421498/-5816715711429715717.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6002868912838679772/6876561692953944902.jpg",
+        "cert_number": "54014250",
+        "date": "1/7/2022",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275075326076",
+        "grade": "10",
+        "price": "$33.00"
+    },
+    {
+        "price": "$48.00",
+        "lot_number": "303955975541",
+        "cert_number": "44040018",
+        "auction_seller": "golbat1",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8367320712791925348/3991937159520898718.jpg",
+        "auction_type": "Auction",
+        "date": "4/18/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "date": "12/11/2021",
+        "grade": "9",
+        "price": "$5.58",
+        "cert_number": "51769620",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/969274433766772947/-2428790463833500477.jpg",
+        "lot_number": "234315681047"
+    },
+    {
+        "date": "4/25/2023",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "58180074",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9065406172127212629/-650861138972727562.jpg",
+        "lot_number": "374637666121",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "154743262309",
+        "grade": "9",
+        "cert_number": "52849458",
+        "date": "12/18/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pc_sportscards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1505567555551153668/2138163568574222865.jpg",
+        "price": "$4.00"
+    }
+]

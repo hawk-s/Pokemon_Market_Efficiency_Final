@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$60.00",
+        "cert_number": "44254970",
+        "date": "3/1/2021",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6658343286196542598/5191453897448773306.jpg",
+        "grade": "9",
+        "lot_number": "124590259942",
+        "auction_seller": "jeff208",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_type": "Best Offer",
+        "cert_number": "27067365",
+        "date": "6/4/2017",
+        "auction_seller": "forgottonn0n",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8374227716453604392/5799494270467839732.jpg",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "252840406772"
+    },
+    {
+        "lot_number": "362674611060",
+        "auction_seller": "rhscards",
+        "auction_type": "Buy It Now",
+        "price": "$24.99",
+        "date": "7/7/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8211880635734785889/-8629035264524690332.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "43511420"
+    },
+    {
+        "lot_number": "225428544678",
+        "grade": "7",
+        "price": "$14.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6026517642617009508/1765800981334077947.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "amoverbee87",
+        "cert_number": "41932480",
+        "date": "2/22/2023"
+    },
+    {
+        "date": "6/30/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5435146119065077170/1412441528180470366.jpg",
+        "lot_number": "305634541650",
+        "grade": "6",
+        "price": "$5.50",
+        "cert_number": "75525525",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "lot_number": "263298770812",
+        "price": "$30.00",
+        "cert_number": "27979771",
+        "auction_type": "Best Offer",
+        "auction_seller": "forgottonn0n",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-950386221697305273/-4511699137459736899.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/19/2017"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5671745903403497525/-5004941947054480972.jpg",
+        "cert_number": "28581727",
+        "grade": "9 (OC)",
+        "auction_type": "Buy It Now",
+        "auction_seller": "ronnyberry1",
+        "date": "4/8/2019",
+        "auction_house": "eBay",
+        "lot_number": "273338108788",
+        "price": "$29.99"
+    }
+]

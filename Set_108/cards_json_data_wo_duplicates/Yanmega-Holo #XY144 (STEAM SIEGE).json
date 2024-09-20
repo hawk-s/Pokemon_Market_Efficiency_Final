@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "87841897",
+        "date": "5/27/2024",
+        "price": "$15.00",
+        "lot_number": "296440389983",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/844431370098421564/8143108227000849804.jpg",
+        "grade": "9",
+        "auction_seller": "poke-monsters",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "28946985",
+        "lot_number": "273876407662",
+        "date": "6/11/2019",
+        "auction_seller": "nath-pain",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2865675256775153402/9145461961118497266.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "date": "11/5/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/3625142577132963853/4452560010623017289.jpg",
+        "lot_number": "182860628846",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "cert_number": "28117798",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

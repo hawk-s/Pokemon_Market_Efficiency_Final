@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "mirmex",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1315558047900762234/-2197587815141454304.jpg",
+        "lot_number": "285572578333",
+        "cert_number": "76202826",
+        "price": "$30.57",
+        "date": "12/3/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/14/2024",
+        "lot_number": "285639144424",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2884353180407903241/1621537918947780204.jpg",
+        "auction_seller": "zandgemporium",
+        "cert_number": "76423463",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "lot_number": "144942960615",
+        "cert_number": "69304869",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1783292548673252295/8329401338670458723.jpg",
+        "auction_seller": "esuprojapan",
+        "auction_type": "Auction",
+        "price": "$54.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/23/2023"
+    }
+]

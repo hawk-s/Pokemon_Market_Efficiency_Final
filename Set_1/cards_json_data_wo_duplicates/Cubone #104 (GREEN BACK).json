@@ -1,0 +1,79 @@
+[
+    {
+        "grade": "7",
+        "auction_seller": "jorluc-39",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1053743503991023320/-7552947945371092075.jpg",
+        "price": "$41.00",
+        "cert_number": "63045150",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "404020615534",
+        "date": "12/5/2022"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352856432958",
+        "cert_number": "42015020",
+        "price": "$19.30",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5948472779495941785/172621491397981048.jpg",
+        "grade": "10"
+    },
+    {
+        "grade": "5",
+        "date": "1/24/2021",
+        "cert_number": "44001921",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3585696194578890354/-5769610308598269783.jpg",
+        "auction_seller": "scion-holo-42",
+        "lot_number": "313384683476",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$48.99"
+    },
+    {
+        "cert_number": "54490674",
+        "date": "9/11/2021",
+        "price": "$10.50",
+        "lot_number": "133864671749",
+        "grade": "3",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6322786224382537556/6200627380418204975.jpg",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "grade": "4",
+        "auction_seller": "iwmtm2000",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8455924656340213070/-6116891338572486018.jpg",
+        "lot_number": "224495864033",
+        "cert_number": "45611371",
+        "price": "$29.88",
+        "auction_type": "Auction",
+        "date": "6/20/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "1steditionpokemon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3037388061974583552/7522378597474039795.jpg",
+        "cert_number": "56807544",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "date": "5/20/2024",
+        "auction_house": "eBay",
+        "lot_number": "176347052104"
+    },
+    {
+        "grade": "7",
+        "date": "3/6/2023",
+        "cert_number": "69741704",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4605539814155620456/-8333761472144489275.jpg",
+        "lot_number": "325542222179",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    }
+]

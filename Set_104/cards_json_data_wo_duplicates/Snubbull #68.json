@@ -1,0 +1,46 @@
+[
+    {
+        "auction_type": "Best Offer",
+        "cert_number": "41568385",
+        "lot_number": "383818218284",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-863135341729885551/7119052072676624516.jpg",
+        "date": "11/22/2020",
+        "auction_seller": "cardboard_collections",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/25/2020",
+        "cert_number": "41568385",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3055677498002676765/3849011239420829201.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$11.01",
+        "grade": "10",
+        "lot_number": "383725333812"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2364727116200465845/-5651680198114619896.jpg",
+        "auction_seller": "duxouspokemon",
+        "grade": "9 (OC)",
+        "cert_number": "69255250",
+        "price": "$10.00",
+        "lot_number": "394566109359",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/20/2023"
+    },
+    {
+        "price": "$3.25",
+        "auction_seller": "hoodyscollectibles",
+        "date": "3/13/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "134472871426",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2732077953755677593/-8909007678650022416.jpg",
+        "cert_number": "68767490"
+    }
+]

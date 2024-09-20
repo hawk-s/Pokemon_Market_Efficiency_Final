@@ -1,0 +1,101 @@
+[
+    {
+        "cert_number": "56081452",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8781315126997489894/-1820327378908223866.jpg",
+        "grade": "9",
+        "price": "$29.33",
+        "date": "9/1/2024",
+        "auction_seller": "slapauction",
+        "lot_number": "135205590332",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "27444391",
+        "auction_seller": "josh_reezy24",
+        "date": "3/9/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6706438241598849679/-8133187712747549349.jpg",
+        "auction_type": "Auction",
+        "lot_number": "174661138708",
+        "auction_house": "eBay",
+        "price": "$255.00",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "29038483",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$192.50",
+        "date": "6/29/2020",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4085505247500294745/154958705203052845.jpg",
+        "lot_number": "402299990120"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "price": "$7.50",
+        "lot_number": "173081567566",
+        "cert_number": "28594079",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/14/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5795095845414118693/2243198050447977751.jpg"
+    },
+    {
+        "grade": "8",
+        "lot_number": "326157283309",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1021069373243418496/8084274158435296334.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "77394084",
+        "price": "$0.99",
+        "date": "6/24/2024",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "cert_number": "27444391",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2720992920103390170/-8355438989762217402.jpg",
+        "auction_seller": "texas_tamugirl",
+        "lot_number": "283313835099",
+        "date": "12/29/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "japan-higasi-116",
+        "cert_number": "53179207",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7826176250705558371/-8298475539585964951.jpg",
+        "price": "$20.50",
+        "date": "10/6/2021",
+        "lot_number": "234204813564",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7397593260304515811/6465188805837841770.jpg",
+        "cert_number": "43639644",
+        "price": "$19.08",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/22/2019",
+        "lot_number": "133273491683",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "cert_number": "53179208",
+        "auction_seller": "japan-higasi-116",
+        "lot_number": "234059324503",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2191056903524180492/-7763358434134490825.jpg",
+        "price": "$27.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/28/2021"
+    }
+]

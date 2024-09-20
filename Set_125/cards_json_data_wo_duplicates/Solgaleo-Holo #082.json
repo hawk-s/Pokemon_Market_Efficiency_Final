@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "63486945",
+        "auction_seller": "tsunagu",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2439904360344051143/-1191673090901935249.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "255280584496",
+        "date": "12/21/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2347493701740593831/-7887671296129355307.jpg",
+        "cert_number": "79028999",
+        "auction_seller": "zandgemporium",
+        "date": "10/15/2023",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285505028528"
+    },
+    {
+        "lot_number": "155983870095",
+        "cert_number": "57093667",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-55158935805023104/-5086674636950889931.jpg",
+        "price": "$22.00",
+        "date": "1/7/2024",
+        "auction_seller": "kanto_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1091417633032935725/8040934904143227061.jpg",
+        "date": "9/11/2021",
+        "auction_seller": "tsunagu",
+        "cert_number": "58092815",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "lot_number": "255124445669",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "date": "3/9/2019",
+        "price": "$10.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4108355389291711122/4524404733892611132.jpg",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "42262068",
+        "lot_number": "273738192516"
+    },
+    {
+        "price": "$4.20",
+        "date": "12/19/2019",
+        "lot_number": "254451895907",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6468796437572929520/5471736708246615517.jpg",
+        "auction_type": "Auction",
+        "cert_number": "44461294",
+        "auction_seller": "danktron",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "27998959",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7175754929968351711/-2601534303904049925.jpg",
+        "lot_number": "152789309287",
+        "auction_seller": "pokemasterab",
+        "auction_type": "Best Offer",
+        "price": "$22.00",
+        "date": "11/26/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

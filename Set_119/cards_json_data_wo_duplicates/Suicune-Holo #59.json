@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$78.00",
+        "date": "11/2/2022",
+        "auction_seller": "koshercraw",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4580769074813005253/-3986221863727579472.jpg",
+        "grade": "9",
+        "lot_number": "225217357182",
+        "cert_number": "60545131",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6943494390835624113/-8702662708876636977.jpg",
+        "date": "5/15/2023",
+        "lot_number": "175716761161",
+        "auction_seller": "pattontradingco",
+        "auction_type": "Auction",
+        "cert_number": "58390816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$71.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1846746386043671336/753197800719220909.jpg",
+        "date": "2/25/2020",
+        "auction_seller": "raijinfujin",
+        "cert_number": "44720426",
+        "price": "$23.16",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "124084089772"
+    },
+    {
+        "price": "$3.25",
+        "lot_number": "326181307999",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8470699649783770549/7601629019887486622.jpg",
+        "date": "7/10/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "83637942",
+        "auction_house": "eBay",
+        "auction_seller": "nothingbutthebestforme"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3165521631942381659/-3174902279563832259.jpg",
+        "auction_seller": "yamikaiba45",
+        "price": "$12.25",
+        "date": "10/15/2023",
+        "cert_number": "76560808",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "256251698526"
+    }
+]

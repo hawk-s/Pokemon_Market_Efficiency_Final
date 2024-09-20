@@ -1,0 +1,134 @@
+[
+    {
+        "price": "$12.00",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2717870874360926708/5853220494647620880.jpg",
+        "cert_number": "93828210",
+        "date": "8/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "lot_number": "305743603530"
+    },
+    {
+        "date": "9/25/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6905322587227917815/2583672691965427781.jpg",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "401884870114",
+        "grade": "10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$21.30",
+        "cert_number": "42784828"
+    },
+    {
+        "date": "6/2/2020",
+        "price": "$42.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "363004224222",
+        "cert_number": "44009338",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5431772193847960565/6678817466564512811.jpg"
+    },
+    {
+        "cert_number": "88175057",
+        "grade": "7",
+        "lot_number": "276399094756",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6453287974185071006/4471665995216015620.jpg",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "auction_seller": "1patrickshea1"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6623955500127919738/4612858865759725883.jpg",
+        "lot_number": "384797392534",
+        "date": "4/1/2022",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "63045131",
+        "auction_house": "eBay",
+        "price": "$56.55"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6068763145862188342/-1213455956688590827.jpg",
+        "cert_number": "42015003",
+        "price": "$14.50",
+        "lot_number": "143443786788",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$16.76",
+        "lot_number": "166793581120",
+        "auction_seller": "cards4kidz",
+        "grade": "9",
+        "date": "6/9/2024",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "cert_number": "79234893",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1392328644348586249/-8571514822917355818.jpg"
+    },
+    {
+        "grade": "7",
+        "lot_number": "225548906136",
+        "date": "4/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2836588940548914123/6288508249650196300.jpg",
+        "auction_seller": "pawnshopandmore",
+        "cert_number": "83542278",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/8/2024",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5927432701504340448/3796459788716338815.jpg",
+        "price": "$31.00",
+        "lot_number": "386971967326",
+        "auction_type": "Auction",
+        "cert_number": "71277318",
+        "auction_house": "eBay",
+        "auction_seller": "cardoracollective"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2843145921288818318/7532730183235821956.jpg",
+        "price": "$127.50",
+        "date": "5/23/2024",
+        "auction_seller": "pokenomics1",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "395400906015",
+        "cert_number": "42784828"
+    },
+    {
+        "cert_number": "41793771",
+        "lot_number": "223580407501",
+        "auction_type": "Best Offer",
+        "date": "9/25/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5579505720667569863/-7296891887250908459.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$130.00",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "auction_type": "Best Offer",
+        "auction_seller": "thepocketinvestor",
+        "lot_number": "353303037538",
+        "price": "$210.00",
+        "cert_number": "44009338",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3588871815432184270/-408553467058694912.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/2/2021"
+    }
+]

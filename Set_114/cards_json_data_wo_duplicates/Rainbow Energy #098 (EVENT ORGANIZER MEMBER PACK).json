@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/28/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1381098712658333713/4327480436470772695.jpg",
+        "cert_number": "41713431",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "lot_number": "143257698118",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-549289671847218386/-1025468086955548848.jpg",
+        "price": "$9.98",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "42481679",
+        "date": "4/7/2019",
+        "lot_number": "133008997999",
+        "auction_seller": "japan-daisuki"
+    }
+]

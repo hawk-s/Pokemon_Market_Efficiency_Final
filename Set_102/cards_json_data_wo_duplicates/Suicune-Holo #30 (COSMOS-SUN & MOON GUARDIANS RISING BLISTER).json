@@ -1,0 +1,79 @@
+[
+    {
+        "date": "7/2/2024",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2014096334681506022/6399537039531743376.jpg",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "lot_number": "235624728829",
+        "auction_house": "eBay",
+        "cert_number": "85702410",
+        "auction_seller": "deathbymrpink"
+    },
+    {
+        "cert_number": "68643767",
+        "grade": "6",
+        "auction_house": "eBay",
+        "price": "$17.50",
+        "auction_type": "Auction",
+        "date": "2/15/2023",
+        "lot_number": "234890179169",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5419682443508753345/-4375136366113488897.jpg",
+        "auction_seller": "deathbymrpink"
+    },
+    {
+        "auction_seller": "dsh4551",
+        "date": "2/8/2023",
+        "cert_number": "59741607",
+        "lot_number": "325518986007",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7885129076873714835/8221377500380640252.jpg",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2501278729137680573/-4375136366113488897.jpg",
+        "cert_number": "68643767",
+        "date": "2/1/2023",
+        "grade": "6",
+        "price": "$10.00",
+        "lot_number": "234873318581",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "deathbymrpink"
+    },
+    {
+        "auction_seller": "dsh4551",
+        "lot_number": "325568123735",
+        "date": "3/17/2023",
+        "cert_number": "59741604",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7511204098326608446/-7584610919734548600.jpg",
+        "grade": "9",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "175645815594",
+        "date": "3/17/2023",
+        "cert_number": "57261940",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$16.74",
+        "auction_house": "eBay",
+        "auction_seller": "bazza123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8146356289870278079/-3643557732748280239.jpg"
+    },
+    {
+        "price": "$26.00",
+        "date": "5/8/2020",
+        "cert_number": "42066088",
+        "auction_seller": "tennisfun5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2584074269416516045/-4054068666612430372.jpg",
+        "grade": "9",
+        "lot_number": "223996192534",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

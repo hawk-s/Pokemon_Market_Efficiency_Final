@@ -1,0 +1,101 @@
+[
+    {
+        "auction_seller": "rofjapan",
+        "date": "1/30/2023",
+        "grade": "7",
+        "cert_number": "65515170",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "125732862485",
+        "price": "$18.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7715022862644534527/5690914753330753431.jpg"
+    },
+    {
+        "cert_number": "62686203",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4923706271363576067/-2777282519772204528.jpg",
+        "grade": "10",
+        "auction_seller": "das_fuchs",
+        "date": "6/16/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$122.91",
+        "lot_number": "166824751713"
+    },
+    {
+        "lot_number": "375541152466",
+        "price": "$13.30",
+        "cert_number": "88030169",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9042304339770718251/-4611031768351695460.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/24/2024"
+    },
+    {
+        "auction_seller": "dndstreasures",
+        "date": "2/2/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3825775639279778607/-4930307144915539776.jpg",
+        "cert_number": "70286403",
+        "grade": "9",
+        "price": "$21.50",
+        "lot_number": "314348951992",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.50",
+        "cert_number": "70286402",
+        "date": "2/11/2023",
+        "auction_seller": "dndstreasures",
+        "lot_number": "314372376886",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2103093018708711479/4844004758316755280.jpg"
+    },
+    {
+        "lot_number": "355569294250",
+        "date": "3/29/2024",
+        "cert_number": "70286401",
+        "auction_seller": "dedizzle24",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7308433835864204527/-998565743795080333.jpg"
+    },
+    {
+        "auction_seller": "1020collectibles",
+        "lot_number": "125776017383",
+        "grade": "10",
+        "price": "$39.78",
+        "cert_number": "67125697",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4762230787712143306/-1070152076529129736.jpg",
+        "date": "2/24/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/488681056373046456/2568287303169050667.jpg",
+        "lot_number": "355495212440",
+        "auction_seller": "dedizzle24",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "48330957",
+        "date": "3/4/2024"
+    },
+    {
+        "auction_seller": "e4westinpieces",
+        "date": "10/22/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/224820354996846214/7794202563705327253.jpg",
+        "price": "$44.00",
+        "lot_number": "276100657180",
+        "auction_type": "Auction",
+        "cert_number": "65763459",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

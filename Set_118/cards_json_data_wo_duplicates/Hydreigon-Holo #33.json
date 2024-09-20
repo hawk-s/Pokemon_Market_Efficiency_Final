@@ -1,0 +1,68 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2709637679666246701/8998764943447557578.jpg",
+        "date": "1/16/2023",
+        "price": "$4.25",
+        "grade": "7",
+        "lot_number": "125712069924",
+        "cert_number": "54301671",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$26.00",
+        "date": "8/4/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2845323176155990522/6346792817630724546.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "275961903398",
+        "grade": "10",
+        "cert_number": "75654269"
+    },
+    {
+        "auction_seller": "slab-town",
+        "lot_number": "324623393487",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5139101212588433113/8680967402137847054.jpg",
+        "price": "$15.50",
+        "cert_number": "47842187",
+        "grade": "9",
+        "date": "5/21/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/29/2021",
+        "lot_number": "324534257866",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4740964948285085529/8315681112446592624.jpg",
+        "cert_number": "47842188",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_seller": "poke_inc",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "lot_number": "325932968428",
+        "cert_number": "54301671",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4210239934573125744/-8117342839367560127.jpg",
+        "date": "12/25/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "mikecarter4411",
+        "price": "$0.99"
+    },
+    {
+        "date": "9/8/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4794654926943359114/-1381063921313036981.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "lot_number": "276010907362",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "75654269"
+    }
+]

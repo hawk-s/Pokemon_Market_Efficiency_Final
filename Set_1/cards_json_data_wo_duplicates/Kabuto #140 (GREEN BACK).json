@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5426925006830940238/-4959802289174002043.jpg",
+        "lot_number": "285389689661",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "date": "7/30/2023",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "61300775"
+    },
+    {
+        "auction_seller": "iwmtm2000",
+        "grade": "6",
+        "date": "6/5/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-110070285148785456/-7006014190982966842.jpg",
+        "cert_number": "54584473",
+        "lot_number": "225007618349",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4681869026095961461/844922299508478422.jpg",
+        "date": "3/27/2023",
+        "cert_number": "67500351",
+        "grade": "8",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "lot_number": "134496795899",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "lot_number": "264723322962",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7304098839123253937/-6260851251127526601.jpg",
+        "price": "$10.50",
+        "grade": "8",
+        "cert_number": "42015048",
+        "date": "5/17/2020",
+        "auction_seller": "arcadiatradingcardstore",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

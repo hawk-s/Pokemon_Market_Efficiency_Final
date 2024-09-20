@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/821364502027621402/-7398087892493349016.jpg",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "cert_number": "52738961",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "373746539680",
+        "date": "10/11/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9054842664216616282/-5856537749176953348.jpg",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "6/23/2023",
+        "auction_house": "eBay",
+        "lot_number": "285332676079",
+        "cert_number": "60899834",
+        "auction_seller": "bentcardboard"
+    },
+    {
+        "cert_number": "46396492",
+        "auction_type": "Best Offer",
+        "lot_number": "164350223170",
+        "date": "8/29/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4213445884782874864/-8294756406300870149.jpg",
+        "auction_seller": "guildwars2mesmer",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "11/2/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2906644994365371694/4772868048279269743.jpg",
+        "price": "$13.25",
+        "cert_number": "62710591",
+        "grade": "9",
+        "lot_number": "125583725887",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3634591816618306186/6023554362131810495.jpg",
+        "grade": "9",
+        "price": "$9.99",
+        "cert_number": "60899840",
+        "auction_type": "Auction",
+        "lot_number": "285337704452",
+        "auction_house": "eBay",
+        "auction_seller": "bentcardboard"
+    },
+    {
+        "cert_number": "46396492",
+        "auction_type": "Best Offer",
+        "lot_number": "164370958072",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3244922826012157460/-8294756406300870149.jpg",
+        "price": "$23.00",
+        "auction_seller": "guildwars2mesmer",
+        "date": "9/6/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "303941747458",
+        "auction_seller": "golbat1",
+        "price": "$76.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4532689279992724029/-2391710940542820507.jpg",
+        "auction_type": "Auction",
+        "cert_number": "44040016",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/11/2021"
+    },
+    {
+        "auction_seller": "lambda_driver",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3119511805929202023/-3628733391725988536.jpg",
+        "cert_number": "46396491",
+        "lot_number": "264767845600",
+        "price": "$18.99",
+        "date": "6/25/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

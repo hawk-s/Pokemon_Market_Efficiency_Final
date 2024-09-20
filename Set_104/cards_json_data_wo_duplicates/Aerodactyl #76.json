@@ -1,0 +1,24 @@
+[
+    {
+        "grade": "10",
+        "price": "$10.00",
+        "cert_number": "42700817",
+        "auction_seller": "liquidationme",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "123841283294",
+        "date": "7/25/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7321859030669161075/1453544337506668630.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4242695540265436393/-2431656915723564877.jpg",
+        "date": "8/17/2021",
+        "auction_seller": "probstein123",
+        "price": "$31.00",
+        "cert_number": "42700817",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "363499600544"
+    }
+]

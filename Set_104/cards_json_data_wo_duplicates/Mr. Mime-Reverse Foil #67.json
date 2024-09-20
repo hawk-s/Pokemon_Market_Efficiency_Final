@@ -1,0 +1,24 @@
+[
+    {
+        "date": "6/10/2019",
+        "cert_number": "43568805",
+        "lot_number": "254252744575",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/721839621039318776/2455957239275952542.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7272356475206616536/-1622356244127370185.jpg",
+        "price": "$4.25",
+        "cert_number": "41283324",
+        "lot_number": "372541329778",
+        "auction_seller": "probstein123",
+        "date": "12/26/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

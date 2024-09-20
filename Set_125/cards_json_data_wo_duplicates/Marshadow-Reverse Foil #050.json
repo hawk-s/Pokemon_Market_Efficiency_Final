@@ -1,0 +1,35 @@
+[
+    {
+        "date": "7/20/2024",
+        "auction_seller": "moe_pokemans",
+        "lot_number": "326198515861",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6168720818174721337/-5357715336450236309.jpg",
+        "grade": "9",
+        "cert_number": "91599040",
+        "price": "$3.75",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "223471631049",
+        "date": "4/9/2019",
+        "price": "$15.50",
+        "grade": "10",
+        "auction_seller": "shadypokemon",
+        "auction_type": "Auction",
+        "cert_number": "42884583",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/796426082562077133/-6577191096424812798.jpg"
+    },
+    {
+        "lot_number": "143473141821",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4392265767985730469/194652956344413596.jpg",
+        "auction_type": "Auction",
+        "cert_number": "43641433",
+        "date": "12/22/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    }
+]

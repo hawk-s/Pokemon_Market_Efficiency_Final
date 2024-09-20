@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2979185580374650853/-3185057841946032416.jpg",
+        "price": "$19.77",
+        "date": "5/7/2022",
+        "lot_number": "175265296205",
+        "auction_seller": "bravepuppygalleries",
+        "cert_number": "54998925",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_vault",
+        "date": "7/16/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6156886445399593587/1407810733123124747.jpg",
+        "grade": "3",
+        "lot_number": "224526281957",
+        "auction_type": "Auction",
+        "cert_number": "47718737",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "grade": "5",
+        "date": "4/26/2017",
+        "cert_number": "27067382",
+        "price": "$10.00",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4518905688950658982/-444601306765303621.jpg",
+        "auction_seller": "forgottonn0n",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "252887050826"
+    }
+]

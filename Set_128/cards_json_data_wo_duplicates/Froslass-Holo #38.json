@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "52856233",
+        "date": "1/31/2022",
+        "lot_number": "134003843473",
+        "auction_seller": "welcome_stranger_collectibles",
+        "price": "$21.68",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3748729807364295745/4912578814199758634.jpg"
+    },
+    {
+        "lot_number": "125824223822",
+        "price": "$2.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3173164962508035288/3254056145079943251.jpg",
+        "cert_number": "70054302",
+        "grade": "8",
+        "auction_seller": "dcsports87",
+        "date": "3/21/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "10/30/2020",
+        "lot_number": "254758744789",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7893224539247613824/-1542876298754366961.jpg",
+        "grade": "8",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "cert_number": "47260125"
+    },
+    {
+        "lot_number": "194283048913",
+        "date": "8/19/2021",
+        "cert_number": "48345550",
+        "grade": "9",
+        "price": "$21.50",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3275851846890180576/-6880160424344395035.jpg",
+        "auction_house": "eBay"
+    }
+]

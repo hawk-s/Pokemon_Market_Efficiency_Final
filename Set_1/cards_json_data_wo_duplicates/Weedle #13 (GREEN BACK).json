@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$26.00",
+        "date": "9/29/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1810444186493039479/2356968913136045398.jpg",
+        "auction_seller": "habbyshobbies",
+        "auction_type": "Best Offer",
+        "cert_number": "45611370",
+        "lot_number": "383743201688",
+        "grade": "9",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "42014935",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143443785406",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8764043923191037753/7027472302644959319.jpg",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7203775444019521234/-4832848907936696814.jpg",
+        "auction_type": "Best Offer",
+        "auction_seller": "cardstockpile",
+        "date": "8/23/2020",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "lot_number": "362727857353",
+        "grade": "10",
+        "cert_number": "43569504"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/392568774325766567/2329905053537084887.jpg",
+        "auction_seller": "petergriffinofcards",
+        "cert_number": "63333535",
+        "date": "10/15/2023",
+        "grade": "9",
+        "price": "$32.55",
+        "lot_number": "355084827101",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "134420635937",
+        "date": "1/30/2023",
+        "grade": "7",
+        "cert_number": "63255836",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1895818842178651237/-8588779725029930557.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6897433584742698597/4748258128351624062.jpg",
+        "cert_number": "54491379",
+        "price": "$10.50",
+        "grade": "8",
+        "date": "10/18/2021",
+        "lot_number": "133900676495",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7562524062883009845/-2032833320323005299.jpg",
+        "lot_number": "285391665628",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "date": "7/30/2023",
+        "auction_type": "Auction",
+        "cert_number": "61300871",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "4kcollectibles",
+        "date": "7/14/2024",
+        "price": "$27.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "135143333543",
+        "cert_number": "92540607",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7041897182711230794/-4099856583860700751.jpg"
+    }
+]

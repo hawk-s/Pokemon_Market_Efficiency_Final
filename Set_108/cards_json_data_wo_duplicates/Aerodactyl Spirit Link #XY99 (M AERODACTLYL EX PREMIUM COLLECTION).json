@@ -1,0 +1,24 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "date": "6/28/2020",
+        "auction_seller": "lka.us.mi3uekag1",
+        "price": "$9.95",
+        "cert_number": "27407498",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7630765021786029323/-7414437920182877860.jpg",
+        "auction_house": "eBay",
+        "lot_number": "372878283797"
+    },
+    {
+        "date": "11/3/2017",
+        "lot_number": "292305774639",
+        "cert_number": "27407498",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7839566506178398660/-7338837039868123473.jpg",
+        "price": "$0.99"
+    }
+]

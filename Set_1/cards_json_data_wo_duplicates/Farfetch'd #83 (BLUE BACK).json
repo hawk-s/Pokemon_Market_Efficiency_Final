@@ -1,0 +1,46 @@
+[
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352790479383",
+        "cert_number": "41511025",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4047465259613984643/4824813457624702272.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/30/2024",
+        "lot_number": "235709866067",
+        "grade": "8",
+        "auction_seller": "hobby_collectorr",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3971918613576028492/5116939113013643118.jpg",
+        "auction_type": "Auction",
+        "cert_number": "80546321",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/26/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4955764667870542391/9164578458173068941.jpg",
+        "auction_seller": "tsunagu",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "cert_number": "45405942",
+        "auction_house": "eBay",
+        "lot_number": "254575496435"
+    },
+    {
+        "grade": "7",
+        "date": "4/18/2024",
+        "price": "$15.50",
+        "lot_number": "204741157882",
+        "auction_seller": "g-51japan",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3357379419886184574/4075965205414355928.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "87185705"
+    }
+]

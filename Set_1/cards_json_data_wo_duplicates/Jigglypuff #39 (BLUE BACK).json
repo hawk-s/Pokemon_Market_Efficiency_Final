@@ -1,0 +1,57 @@
+[
+    {
+        "date": "4/26/2020",
+        "auction_seller": "tsunagu",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5596564212141923980/2860787469396430798.jpg",
+        "price": "$105.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "254575531514",
+        "cert_number": "45405859"
+    },
+    {
+        "lot_number": "234074751913",
+        "auction_seller": "monom-34",
+        "grade": "8",
+        "price": "$122.22",
+        "cert_number": "55660760",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-665583918779475501/9002207495918872874.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/13/2021"
+    },
+    {
+        "grade": "5",
+        "price": "$21.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1683757030720136951/-3889009477450201947.jpg",
+        "date": "9/16/2021",
+        "lot_number": "255127772842",
+        "auction_seller": "sellers_sportscards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53273507"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5383043186932145603/-3889009477450201947.jpg",
+        "auction_seller": "sellers_sportscards",
+        "lot_number": "255162586830",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "date": "10/11/2021",
+        "cert_number": "53273507"
+    },
+    {
+        "auction_seller": "psa",
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6938330165558874380/5036739422369257199.jpg",
+        "grade": "8",
+        "cert_number": "91156972",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "305631692502",
+        "date": "6/29/2024"
+    }
+]

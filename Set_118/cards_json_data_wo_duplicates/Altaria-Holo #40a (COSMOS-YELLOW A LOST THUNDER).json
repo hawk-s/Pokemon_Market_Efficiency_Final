@@ -1,0 +1,35 @@
+[
+    {
+        "date": "6/2/2024",
+        "lot_number": "285874133261",
+        "cert_number": "68757877",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7181500338592771975/2332628814860380079.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$81.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3246755947070950463/-3236723973722840799.jpg",
+        "date": "9/30/2019",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "lot_number": "383170426808",
+        "auction_house": "eBay",
+        "auction_seller": "tcfsupplies",
+        "grade": "10",
+        "cert_number": "43947318"
+    },
+    {
+        "cert_number": "43947317",
+        "date": "11/2/2020",
+        "price": "$27.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6516484060142812778/3916519567380827653.jpg",
+        "auction_type": "Auction",
+        "lot_number": "383780580681",
+        "auction_house": "eBay",
+        "auction_seller": "tcfsupplies",
+        "grade": "10"
+    }
+]

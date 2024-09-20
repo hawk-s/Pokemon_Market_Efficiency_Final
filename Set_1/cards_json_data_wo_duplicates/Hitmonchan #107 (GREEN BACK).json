@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-770309567511520461/7413820936568023960.jpg",
+        "date": "10/1/2023",
+        "lot_number": "285486006311",
+        "auction_seller": "zandgemporium",
+        "cert_number": "76716963",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3914807655437898388/8073127789673403001.jpg",
+        "auction_seller": "pokestorejapan",
+        "date": "7/10/2023",
+        "grade": "9",
+        "price": "$51.50",
+        "auction_type": "Auction",
+        "cert_number": "75408326",
+        "lot_number": "125999761404",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/29/2021",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8619514916838422563/3839780017349076742.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$449.00",
+        "lot_number": "402755507087",
+        "grade": "10",
+        "cert_number": "51586194"
+    },
+    {
+        "auction_type": "Best Offer",
+        "cert_number": "42015023",
+        "grade": "9",
+        "price": "$40.00",
+        "auction_seller": "arcadiatradingcardstore",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5783176473124357550/1397470960636072799.jpg",
+        "auction_house": "eBay",
+        "date": "1/27/2020",
+        "lot_number": "273646892320"
+    },
+    {
+        "date": "9/2/2020",
+        "auction_seller": "calstatelongbeach",
+        "auction_type": "Best Offer",
+        "cert_number": "44490604",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-572513493895604076/8861010821634359342.jpg",
+        "grade": "9",
+        "price": "$52.99",
+        "auction_house": "eBay",
+        "lot_number": "303384138837"
+    },
+    {
+        "lot_number": "116154478704",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3641686474093929673/5831667485135553706.jpg",
+        "grade": "8",
+        "cert_number": "60979292",
+        "auction_type": "Auction",
+        "price": "$21.54",
+        "auction_house": "eBay",
+        "auction_seller": "jason-patrick",
+        "date": "4/28/2024"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "kamcollects98",
+        "date": "3/14/2023",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8589029400181478310/-3182155418222485097.jpg",
+        "auction_type": "Auction",
+        "cert_number": "72138264",
+        "auction_house": "eBay",
+        "lot_number": "314449311557"
+    }
+]

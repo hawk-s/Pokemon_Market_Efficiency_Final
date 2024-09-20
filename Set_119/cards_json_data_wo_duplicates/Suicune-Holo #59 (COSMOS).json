@@ -1,0 +1,68 @@
+[
+    {
+        "date": "6/30/2024",
+        "auction_seller": "nostalgic.investments",
+        "cert_number": "62498147",
+        "grade": "9",
+        "lot_number": "405055506175",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2233382908046157270/6745696357114804479.jpg",
+        "auction_type": "Auction",
+        "price": "$9.48",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$18.95",
+        "lot_number": "123829605162",
+        "auction_type": "Buy It Now",
+        "date": "8/3/2019",
+        "grade": "9",
+        "auction_seller": "palms.off.gaming",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3803834260213630702/2603079841264674809.jpg",
+        "auction_house": "eBay",
+        "cert_number": "43275805"
+    },
+    {
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "lot_number": "324229178414",
+        "cert_number": "43481468",
+        "auction_house": "eBay",
+        "date": "7/16/2020",
+        "auction_seller": "poketcgtrader",
+        "price": "$23.05",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-215668420796284991/-4808899333266915179.jpg"
+    },
+    {
+        "price": "$21.69",
+        "auction_seller": "breakthewheel",
+        "date": "3/24/2023",
+        "grade": "9",
+        "cert_number": "58348321",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5468848298737966138/5207373171652802394.jpg",
+        "auction_type": "Auction",
+        "lot_number": "225484384240",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "175920078625",
+        "date": "10/1/2023",
+        "auction_seller": "barna-jak",
+        "cert_number": "62487496",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7446431850573334641/3917858331218660526.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$29.28"
+    },
+    {
+        "date": "6/30/2024",
+        "auction_seller": "nostalgic.investments",
+        "lot_number": "405055506589",
+        "cert_number": "62498147",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5640343549718377172/6745696357114804479.jpg",
+        "price": "$8.85"
+    }
+]

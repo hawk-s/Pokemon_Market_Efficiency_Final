@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "28182356",
+        "date": "11/6/2017",
+        "lot_number": "362144832323",
+        "auction_seller": "probstein123",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1580205837263213609/5109109285121296729.jpg",
+        "auction_type": "Auction",
+        "price": "$4.01",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "265030009502",
+        "date": "4/6/2021",
+        "price": "$37.59",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-179484738279684272/4654123340574035720.jpg",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "auction_seller": "autographs-for-sale",
+        "auction_house": "eBay",
+        "cert_number": "51649261"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5011256209333607373/-3523950408280973636.jpg",
+        "lot_number": "314390872461",
+        "date": "2/20/2023",
+        "auction_seller": "junkdrawercards2",
+        "grade": "8",
+        "cert_number": "70576197",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$10.48",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5733331453407018372/5475120401421517043.jpg",
+        "date": "3/13/2023",
+        "cert_number": "71084413",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "256006059582",
+        "auction_seller": "bakerzard",
+        "auction_house": "eBay"
+    }
+]

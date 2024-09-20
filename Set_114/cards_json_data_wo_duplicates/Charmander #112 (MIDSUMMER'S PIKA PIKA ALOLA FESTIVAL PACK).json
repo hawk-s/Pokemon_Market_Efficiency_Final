@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "japan-international-trade",
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1783829234599017488/-1648223660552140418.jpg",
+        "cert_number": "44115299",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "123948732422",
+        "grade": "10",
+        "date": "10/29/2019"
+    },
+    {
+        "date": "6/19/2023",
+        "auction_seller": "omegacollectiblesllc",
+        "cert_number": "70369720",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5756032718766175356/-5461962982086359573.jpg",
+        "price": "$31.00",
+        "lot_number": "185938982712",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/4/2022",
+        "lot_number": "144389284773",
+        "grade": "8",
+        "cert_number": "63330538",
+        "price": "$75.00",
+        "auction_seller": "esuprojapan",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3801829420482877247/-1029712306554178824.jpg"
+    }
+]

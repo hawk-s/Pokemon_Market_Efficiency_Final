@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6880443642545527893/-8006070371097679144.jpg",
+        "price": "$12.00",
+        "auction_seller": "comc_consignment",
+        "date": "3/19/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68654267",
+        "lot_number": "234927065755"
+    },
+    {
+        "cert_number": "78345541",
+        "auction_seller": "toydex",
+        "price": "$10.50",
+        "grade": "8",
+        "lot_number": "295939132987",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3347773231172036528/-294040877151926855.jpg",
+        "date": "9/25/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3563923442356225711/-3718962535737684582.jpg",
+        "cert_number": "61645857",
+        "price": "$9.99",
+        "grade": "9",
+        "lot_number": "144933786388",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "astro8collectibles",
+        "date": "2/12/2023"
+    },
+    {
+        "lot_number": "256584156443",
+        "date": "8/6/2024",
+        "price": "$13.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8611870814040268756/1587381161071182353.jpg",
+        "cert_number": "67558926",
+        "grade": "9",
+        "auction_seller": "ab_sportscards_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

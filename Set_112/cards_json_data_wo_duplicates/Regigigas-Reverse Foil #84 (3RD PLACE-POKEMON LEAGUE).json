@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$4.25",
+        "lot_number": "372541468491",
+        "cert_number": "41170863",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-813830551216232500/-3224067211498476869.jpg",
+        "auction_seller": "probstein123",
+        "date": "12/26/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/923128161735657001/5940443000687138042.jpg",
+        "date": "9/25/2020",
+        "auction_seller": "probstein123",
+        "price": "$80.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41170866",
+        "lot_number": "383724936259",
+        "grade": "10"
+    },
+    {
+        "lot_number": "153198454779",
+        "cert_number": "40915321",
+        "date": "10/5/2018",
+        "price": "$5.02",
+        "auction_seller": "fcor_us_swcy6q8lia",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5866328032164195145/6570476847708641627.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "date": "2/13/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9049767445329374482/-8153962199061802856.jpg",
+        "grade": "10",
+        "cert_number": "41170863",
+        "auction_seller": "striker_eureka_mrk5",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285133217863"
+    }
+]

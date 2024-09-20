@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "5",
+        "cert_number": "94048603",
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5248599615388305276/-2402042534580135082.jpg",
+        "lot_number": "305730679862",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "auction_seller": "psa"
+    },
+    {
+        "date": "6/10/2019",
+        "auction_seller": "cardrushinc",
+        "cert_number": "41058285",
+        "auction_type": "Best Offer",
+        "price": "$200.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/499750593064345901/3991422844979609352.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "283123763590"
+    },
+    {
+        "grade": "7",
+        "price": "$34.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6682091318212618855/6205782465668925909.jpg",
+        "date": "8/25/2023",
+        "auction_type": "Auction",
+        "lot_number": "404447865676",
+        "cert_number": "75507491",
+        "auction_house": "eBay",
+        "auction_seller": "dragon_secrets"
+    },
+    {
+        "grade": "8.5",
+        "date": "9/5/2020",
+        "price": "$45.00",
+        "auction_seller": "technologygearwizard",
+        "cert_number": "42856407",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2884664765155550776/-3172777784303433104.jpg",
+        "auction_house": "eBay",
+        "lot_number": "254189602014"
+    },
+    {
+        "auction_seller": "cardrushinc",
+        "auction_type": "Best Offer",
+        "lot_number": "273426625903",
+        "price": "$79.95",
+        "cert_number": "41058250",
+        "grade": "9",
+        "date": "10/23/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8228292957811305515/-3270367122855015095.jpg",
+        "auction_house": "eBay"
+    }
+]

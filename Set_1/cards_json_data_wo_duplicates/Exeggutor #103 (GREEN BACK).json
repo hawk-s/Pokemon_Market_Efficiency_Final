@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "4",
+        "date": "9/11/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1231129767291406648/4664744895733194754.jpg",
+        "cert_number": "54490671",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "144180139646",
+        "price": "$18.50",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "date": "1/14/2021",
+        "cert_number": "44001922",
+        "auction_seller": "scion-holo-42",
+        "grade": "6",
+        "price": "$46.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1636252835028788231/8889682634646858852.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "313375016295"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$13.88",
+        "date": "11/26/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "42015019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2357362796057889950/7251196398014446821.jpg",
+        "grade": "10",
+        "lot_number": "401961075069"
+    },
+    {
+        "date": "6/19/2023",
+        "price": "$61.00",
+        "auction_seller": "vintagetcg",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4871359176303971910/-5652728115677654804.jpg",
+        "lot_number": "166175135970",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "66863965"
+    },
+    {
+        "grade": "7",
+        "cert_number": "69741703",
+        "price": "$15.00",
+        "date": "3/6/2023",
+        "lot_number": "325542221105",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6757794608589062283/-7462959089907814023.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    }
+]

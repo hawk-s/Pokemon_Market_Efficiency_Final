@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/30/2023",
+        "cert_number": "63334551",
+        "auction_seller": "esuprojapan",
+        "price": "$36.80",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-655605002228366424/-3095760303468144010.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "144904827009"
+    },
+    {
+        "date": "12/16/2020",
+        "price": "$65.00",
+        "lot_number": "224273932867",
+        "cert_number": "47049124",
+        "auction_seller": "spore150052",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8131564620037739507/560904550144610356.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9057777254602711339/4028309716052322200.jpg",
+        "date": "10/12/2021",
+        "cert_number": "41604400",
+        "price": "$49.99",
+        "lot_number": "224637803143",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "auction_seller": "tcg_carroll",
+        "date": "12/16/2023",
+        "lot_number": "404669663674",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1394902481285588169/8558249893422769334.jpg",
+        "auction_type": "Auction",
+        "cert_number": "74653756",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

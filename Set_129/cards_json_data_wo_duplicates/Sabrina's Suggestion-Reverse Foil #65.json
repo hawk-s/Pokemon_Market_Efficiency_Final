@@ -1,0 +1,46 @@
+[
+    {
+        "date": "12/16/2021",
+        "auction_seller": "comc_consignment",
+        "grade": "9",
+        "cert_number": "51769609",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9006683989456866168/8935523508983997096.jpg",
+        "auction_type": "Auction",
+        "lot_number": "234315774504",
+        "auction_house": "eBay",
+        "price": "$5.51"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8040285371295472728/3897211622126633523.jpg",
+        "lot_number": "373763140318",
+        "price": "$70.00",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "cert_number": "55258039",
+        "date": "10/26/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1651010179726296560/950476954654881485.jpg",
+        "date": "1/20/2022",
+        "price": "$13.50",
+        "lot_number": "203792733062",
+        "grade": "9",
+        "cert_number": "53691563",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "slab10stradingcards"
+    },
+    {
+        "auction_seller": "secretsite",
+        "price": "$4.25",
+        "lot_number": "175650549184",
+        "date": "3/22/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2717663612174062862/-721375164766190267.jpg",
+        "cert_number": "68611045"
+    }
+]

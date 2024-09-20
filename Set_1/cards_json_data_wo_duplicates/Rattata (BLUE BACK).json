@@ -1,0 +1,35 @@
+[
+    {
+        "date": "1/18/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4473112863511819069/1468442646682846386.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_house": "eBay",
+        "lot_number": "363685661633",
+        "auction_type": "Auction",
+        "price": "$103.50",
+        "cert_number": "54834909"
+    },
+    {
+        "grade": "4",
+        "date": "12/7/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2152888988347720271/6730127879453955132.jpg",
+        "lot_number": "395031697912",
+        "auction_seller": "stretchssportsandtradingcards",
+        "cert_number": "78544307",
+        "auction_type": "Auction",
+        "price": "$14.29",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "40811463",
+        "lot_number": "132730187583",
+        "price": "$36.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5444319141242849322/2652575422253139635.jpg",
+        "date": "8/13/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    }
+]
