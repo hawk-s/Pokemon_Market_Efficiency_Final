@@ -1,0 +1,123 @@
+[
+    {
+        "auction_seller": "poke-zard",
+        "price": "$31.77",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5797045133090082178/-6858807900544483713.jpg",
+        "cert_number": "58206665",
+        "date": "5/21/2024",
+        "lot_number": "404976880706",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "373344890332",
+        "cert_number": "47330729",
+        "auction_type": "Best Offer",
+        "price": "$28.00",
+        "auction_seller": "cnscardstore",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2935378963306870010/-7234585081007547786.jpg",
+        "date": "11/21/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/29/2021",
+        "lot_number": "373432542584",
+        "cert_number": "46293373",
+        "price": "$6.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "tntnorthnj",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-128348698909756951/-1833421840851214324.jpg"
+    },
+    {
+        "cert_number": "47330728",
+        "lot_number": "373359837237",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "date": "12/3/2020",
+        "grade": "9",
+        "auction_seller": "cnscardstore",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2836894596591808554/-6860954630590777971.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$6.50",
+        "grade": "9",
+        "lot_number": "203828647571",
+        "cert_number": "53691572",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/83590586430515674/-320162669153934233.jpg",
+        "date": "2/16/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "slab10stradingcards"
+    },
+    {
+        "cert_number": "53468156",
+        "lot_number": "363673429134",
+        "auction_seller": "4_sharp_corners",
+        "grade": "9",
+        "date": "1/10/2022",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/628871324255613250/6681264963957167013.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1552332218670259418/-1127784081106282597.jpg",
+        "price": "$9.50",
+        "date": "1/21/2022",
+        "cert_number": "54014277",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "lot_number": "275094213190",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "185050305682",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2943256382830481348/6280016452595347237.jpg",
+        "date": "9/26/2021",
+        "price": "$10.50",
+        "auction_seller": "ig_ksamiibo",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "48431832"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6034140560532717830/-5794390713120738825.jpg",
+        "date": "10/8/2021",
+        "lot_number": "274959007261",
+        "cert_number": "52035750",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "auction_seller": "slab10stradingcards",
+        "cert_number": "53596269",
+        "lot_number": "203708229383",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6427002930945047027/-7405820719532275006.jpg",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/24/2021",
+        "grade": "10"
+    },
+    {
+        "cert_number": "53468156",
+        "date": "12/13/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3285002630567806941/-4725577367215137039.jpg",
+        "auction_seller": "4_sharp_corners",
+        "grade": "9",
+        "lot_number": "265428457580",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

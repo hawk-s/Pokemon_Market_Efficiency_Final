@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$15.51",
+        "auction_seller": "elite4master",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2594292471362370973/7413840590043841899.jpg",
+        "cert_number": "83426894",
+        "auction_type": "Auction",
+        "lot_number": "126294651774",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/28/2024"
+    },
+    {
+        "cert_number": "70687536",
+        "date": "3/27/2023",
+        "lot_number": "165989850478",
+        "auction_seller": "tommybodega",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8836826211290302797/-1685583796006010806.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.00"
+    },
+    {
+        "price": "$4.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6813469062923206993/4620180897769469297.jpg",
+        "cert_number": "77022768",
+        "auction_seller": "your_pokedealer",
+        "grade": "9",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "176302510932"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2449084145266088136/2392422134587017999.jpg",
+        "auction_seller": "mhdealsplus",
+        "lot_number": "115655344447",
+        "price": "$18.58",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/2/2023",
+        "grade": "10",
+        "cert_number": "68819516"
+    },
+    {
+        "cert_number": "90813413",
+        "lot_number": "326177577575",
+        "auction_seller": "dsteinthegiant",
+        "price": "$23.50",
+        "date": "7/3/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7343775567457649379/-926633781859541351.jpg"
+    },
+    {
+        "date": "2/20/2023",
+        "lot_number": "374514737458",
+        "price": "$14.75",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5168665835549526060/-6458203132967547294.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "69780768"
+    },
+    {
+        "lot_number": "285144477098",
+        "price": "$15.27",
+        "auction_seller": "supreme-outboard-parts",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8637538492366040402/-4363631338976032618.jpg",
+        "date": "2/19/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70582034",
+        "grade": "10"
+    },
+    {
+        "price": "$7.50",
+        "date": "1/7/2023",
+        "auction_seller": "repom34",
+        "cert_number": "68987514",
+        "grade": "9",
+        "lot_number": "175555964581",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8323102395923135653/-175097802944295581.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

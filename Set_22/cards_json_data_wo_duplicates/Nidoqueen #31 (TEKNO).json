@@ -1,0 +1,24 @@
+[
+    {
+        "date": "7/15/2020",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "363039976749",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$153.50",
+        "cert_number": "45330936",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1307935617456345818/2119378620780550929.jpg"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7162899911468153527/137516859078048331.jpg",
+        "grade": "9",
+        "lot_number": "144043835770",
+        "cert_number": "44038976",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/29/2021",
+        "price": "$330.00"
+    }
+]

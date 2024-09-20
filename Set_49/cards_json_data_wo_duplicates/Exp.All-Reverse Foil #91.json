@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "285776308454",
+        "cert_number": "43165259",
+        "date": "3/31/2024",
+        "auction_seller": "sakuracache",
+        "auction_type": "Auction",
+        "price": "$30.66",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8965319051524562017/-3388838945978097799.jpg"
+    },
+    {
+        "auction_seller": "editionsportscards",
+        "grade": "9",
+        "date": "2/28/2023",
+        "auction_type": "Auction",
+        "lot_number": "115710537417",
+        "cert_number": "68332244",
+        "auction_house": "eBay",
+        "price": "$6.27",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2562598931463901130/-3840633729788727087.jpg"
+    },
+    {
+        "auction_seller": "troll.aus",
+        "lot_number": "165790702772",
+        "cert_number": "55623557",
+        "date": "12/4/2022",
+        "price": "$22.35",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4410027873238298798/4848063650731420768.jpg"
+    },
+    {
+        "lot_number": "375350421637",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2253597496185716689/295264216658493490.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "4/11/2024",
+        "auction_house": "eBay",
+        "cert_number": "86158042"
+    },
+    {
+        "price": "$17.03",
+        "cert_number": "48539616",
+        "lot_number": "285345961072",
+        "auction_seller": "cards_consignments",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6779281606254349816/1179732046083888659.jpg",
+        "auction_type": "Auction",
+        "date": "6/30/2023",
+        "auction_house": "eBay"
+    }
+]

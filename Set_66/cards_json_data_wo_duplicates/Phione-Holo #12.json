@@ -1,0 +1,46 @@
+[
+    {
+        "date": "10/3/2023",
+        "auction_seller": "skizlits",
+        "grade": "6",
+        "lot_number": "305160405740",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2751402615593354327/672349092399242029.jpg",
+        "auction_house": "eBay",
+        "cert_number": "77687470"
+    },
+    {
+        "cert_number": "40965507",
+        "date": "9/9/2018",
+        "grade": "9",
+        "price": "$5.75",
+        "auction_seller": "kampes_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4252084543165091440/4125405562050630605.jpg",
+        "lot_number": "183416635713"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3932856307709005319/6194473846635437463.jpg",
+        "date": "1/16/2023",
+        "auction_seller": "wilber10littlest",
+        "grade": "8",
+        "cert_number": "59151445",
+        "lot_number": "295461304722",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$23.52"
+    },
+    {
+        "date": "12/26/2022",
+        "cert_number": "65683670",
+        "auction_seller": "tcghazardous",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6173843801127120212/-6044844045433249866.jpg",
+        "grade": "8",
+        "lot_number": "185706439870",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    }
+]

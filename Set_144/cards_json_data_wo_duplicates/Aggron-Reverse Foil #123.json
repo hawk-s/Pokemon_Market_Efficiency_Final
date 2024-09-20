@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "sellers_sportscards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6438192249811244094/-6867173678100290627.jpg",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "lot_number": "255346855567",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/30/2022",
+        "cert_number": "55518585"
+    },
+    {
+        "auction_seller": "anythingbutcommons",
+        "cert_number": "53282231",
+        "grade": "9",
+        "price": "$1.76",
+        "date": "1/11/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185722367890",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1064525522979431533/3721670519697950719.jpg"
+    },
+    {
+        "cert_number": "55518584",
+        "grade": "8",
+        "auction_seller": "sellers_sportscards",
+        "price": "$3.24",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1325560206329630506/3920006931252649895.jpg",
+        "auction_type": "Auction",
+        "lot_number": "255346857185",
+        "auction_house": "eBay",
+        "date": "1/30/2022"
+    }
+]

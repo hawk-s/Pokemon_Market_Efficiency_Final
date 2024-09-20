@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "41388421",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4133510912398823635/-389550940420508486.jpg",
+        "auction_type": "Buy It Now",
+        "grade": "10",
+        "lot_number": "203044110938",
+        "auction_seller": "kgvapes402-1",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "date": "8/7/2020"
+    },
+    {
+        "date": "6/10/2021",
+        "cert_number": "48710272",
+        "auction_seller": "obscars",
+        "price": "$43.79",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8746083200806998151/5349838837169230162.jpg",
+        "auction_type": "Auction",
+        "lot_number": "284319588313",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "41388421",
+        "price": "$15.00",
+        "auction_seller": "pokelyfe",
+        "auction_type": "Best Offer",
+        "lot_number": "254552234871",
+        "auction_house": "eBay",
+        "date": "4/29/2020",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5103462986335817278/2877828759032203052.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4065238973711543087/6534448216020615096.jpg",
+        "cert_number": "41388421",
+        "date": "12/21/2020",
+        "auction_type": "Best Offer",
+        "price": "$70.00",
+        "lot_number": "254769919691",
+        "auction_seller": "dannycash86",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "284331161117",
+        "cert_number": "48710272",
+        "auction_seller": "obscars",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-961691591796599798/5349838837169230162.jpg",
+        "price": "$34.50",
+        "auction_type": "Auction",
+        "date": "6/20/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "date": "6/2/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7205774211674466045/2987715203959618991.jpg",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_seller": "vamp2256",
+        "cert_number": "68158075",
+        "auction_type": "Auction",
+        "lot_number": "156232884156",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "robk0215",
+        "lot_number": "174988402776",
+        "date": "11/2/2021",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6092931753521506055/7106243357998729072.jpg",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "50495321"
+    },
+    {
+        "auction_seller": "robk0215",
+        "date": "10/15/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2238823659543108437/-1748401762848323995.jpg",
+        "auction_type": "Auction",
+        "price": "$63.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "50495322",
+        "lot_number": "174969111361"
+    },
+    {
+        "auction_seller": "robk0215",
+        "date": "9/28/2021",
+        "lot_number": "174947419229",
+        "cert_number": "50495324",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6330994738562760120/-6666658868398421993.jpg",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "40780170",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1139222283478601407/7517986920687054364.jpg",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "5/15/2019",
+        "price": "$3.99",
+        "auction_house": "eBay",
+        "lot_number": "192911202220"
+    },
+    {
+        "cert_number": "79294351",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3839870103393986186/8445340687981363175.jpg",
+        "grade": "8",
+        "date": "7/3/2024",
+        "auction_seller": "esolano3",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "186518819170",
+        "price": "$1.25"
+    }
+]

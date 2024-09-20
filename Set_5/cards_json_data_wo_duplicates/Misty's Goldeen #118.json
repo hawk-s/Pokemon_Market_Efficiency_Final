@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$11.52",
+        "date": "12/23/2022",
+        "lot_number": "374408722583",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "68275850",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3010804405497509424/9164695394204736226.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7873508914788646638/8323481932669008415.jpg",
+        "grade": "9",
+        "date": "7/31/2024",
+        "cert_number": "76473257",
+        "auction_type": "Auction",
+        "lot_number": "405119248978",
+        "auction_house": "eBay",
+        "auction_seller": "kantokentoptcg"
+    },
+    {
+        "date": "12/27/2022",
+        "price": "$32.04",
+        "cert_number": "68275849",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3252633970696244939/9174300782566200705.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "385297854257"
+    }
+]

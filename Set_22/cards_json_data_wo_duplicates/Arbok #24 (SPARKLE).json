@@ -1,0 +1,35 @@
+[
+    {
+        "date": "12/20/2022",
+        "lot_number": "115640644056",
+        "auction_seller": "topclassneek101",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/72422646248189056/-4470950548042410854.jpg",
+        "price": "$96.48",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "66068347"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6865411387922727226/424216281754278843.jpg",
+        "auction_seller": "coins_n_rarities",
+        "date": "8/10/2023",
+        "lot_number": "275979412877",
+        "price": "$334.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "65714203",
+        "grade": "10"
+    },
+    {
+        "date": "2/5/2023",
+        "auction_seller": "projectmiu",
+        "cert_number": "70252624",
+        "lot_number": "266105095649",
+        "auction_type": "Auction",
+        "price": "$405.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2137578956221017047/4959663240971884331.jpg"
+    }
+]

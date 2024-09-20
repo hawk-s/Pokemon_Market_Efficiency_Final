@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "285152305855",
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2835309171318018774/-6181283558979052593.jpg",
+        "date": "2/26/2023",
+        "grade": "9",
+        "auction_seller": "clarhenderso2",
+        "cert_number": "69395167",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/6/2021",
+        "auction_seller": "zacharysg",
+        "price": "$26.00",
+        "cert_number": "48977150",
+        "lot_number": "324770285455",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8999923447051289195/-3298788576901515918.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3571113353021143891/-3605291065392411654.jpg",
+        "cert_number": "60422050",
+        "price": "$46.00",
+        "auction_seller": "pokretail",
+        "date": "8/10/2024",
+        "lot_number": "365047641381",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

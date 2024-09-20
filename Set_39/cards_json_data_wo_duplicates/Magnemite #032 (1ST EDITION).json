@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$70.69",
+        "auction_seller": "kingstonticketsandcards",
+        "lot_number": "185107227855",
+        "cert_number": "55729944",
+        "date": "10/25/2021",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4098670396992594065/-8562075614402349248.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/9/2020",
+        "auction_seller": "tsunagu",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7363533894123252757/-7345536600106318696.jpg",
+        "lot_number": "254528397218",
+        "auction_type": "Auction",
+        "price": "$1.52",
+        "auction_house": "eBay",
+        "cert_number": "45433247"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5454425201669196687/-2283442266174433107.jpg",
+        "cert_number": "61163544",
+        "date": "8/6/2023",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "lot_number": "285404156156",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "124863466496",
+        "cert_number": "55729944",
+        "price": "$77.00",
+        "auction_seller": "card_secret",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5392761500306012071/-4239487225812843706.jpg",
+        "grade": "10",
+        "date": "8/30/2021"
+    }
+]

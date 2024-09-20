@@ -1,0 +1,68 @@
+[
+    {
+        "date": "8/22/2021",
+        "grade": "9",
+        "price": "$44.00",
+        "auction_seller": "poke_place",
+        "cert_number": "49197110",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2949395562502102287/-1549039314281294954.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "234141353773"
+    },
+    {
+        "lot_number": "265970808097",
+        "cert_number": "57849371",
+        "price": "$177.50",
+        "auction_seller": "pokehut",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9015634855351721961/8684062338822838239.jpg",
+        "auction_house": "eBay",
+        "date": "11/14/2022",
+        "grade": "10"
+    },
+    {
+        "grade": "7",
+        "cert_number": "65959433",
+        "date": "9/2/2024",
+        "price": "$21.20",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1292887662328560031/5120325420426103854.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "curbu_9679",
+        "auction_house": "eBay",
+        "lot_number": "387331626905"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5106910927362062086/8007537293633914222.jpg",
+        "lot_number": "125885271598",
+        "price": "$15.50",
+        "date": "4/22/2023",
+        "cert_number": "66484964",
+        "grade": "9",
+        "auction_seller": "joshyj1993",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/13/2023",
+        "cert_number": "57849371",
+        "auction_seller": "pokehut",
+        "lot_number": "266113968960",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$81.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8272885430292420189/8684062338822838239.jpg"
+    },
+    {
+        "grade": "7",
+        "lot_number": "285980575205",
+        "auction_seller": "zandgemporium",
+        "cert_number": "65959433",
+        "price": "$14.00",
+        "date": "8/4/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1768397188759402478/-4290948709980942213.jpg",
+        "auction_house": "eBay"
+    }
+]

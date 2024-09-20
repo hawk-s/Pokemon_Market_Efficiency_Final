@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "5",
+        "cert_number": "56793452",
+        "date": "5/31/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3760604453541523113/-204986060907383363.jpg",
+        "price": "$77.00",
+        "lot_number": "265700791404",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "price": "$129.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3015701193506118324/-8296603980574759093.jpg",
+        "lot_number": "315538528069",
+        "cert_number": "41450928",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/24/2024"
+    },
+    {
+        "cert_number": "45872794",
+        "auction_type": "Best Offer",
+        "lot_number": "133526940010",
+        "auction_seller": "cardboardkrackshack",
+        "grade": "9",
+        "date": "9/23/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3566633687661702543/-2133524875269315083.jpg",
+        "auction_house": "eBay",
+        "price": "$150.00"
+    },
+    {
+        "lot_number": "314194081828",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4188329304779275955/960605091561970020.jpg",
+        "price": "$26.00",
+        "cert_number": "44597815",
+        "grade": "8",
+        "date": "10/26/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "auction_seller": "emcoo_2024",
+        "date": "9/26/2021",
+        "cert_number": "50606246",
+        "lot_number": "353680005897",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$41.01",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5321471592557735726/4153221265043779588.jpg"
+    },
+    {
+        "lot_number": "353055633746",
+        "auction_seller": "pwcc_auctions",
+        "date": "4/30/2020",
+        "grade": "9",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4698108087488238791/828682761259856737.jpg",
+        "auction_house": "eBay",
+        "cert_number": "27696076"
+    }
+]

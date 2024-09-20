@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "156307271613",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/561955616152745053/885313565716334502.jpg",
+        "cert_number": "91938695",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/24/2024",
+        "auction_seller": "lunacardsau",
+        "price": "$19.85"
+    },
+    {
+        "lot_number": "4899",
+        "date": "5/18/2023",
+        "price": "$13.00",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-1639293342719079771/images/1.jpg",
+        "grade": "8",
+        "cert_number": "75294212",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions"
+    },
+    {
+        "lot_number": "403958290470",
+        "date": "10/31/2022",
+        "auction_seller": "rysua_94",
+        "cert_number": "48301491",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5891982522707495371/7843846734138487227.jpg",
+        "price": "$16.50"
+    },
+    {
+        "lot_number": "403958292239",
+        "auction_seller": "rysua_94",
+        "cert_number": "48301491",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8665816137055510719/-2335040562961290471.jpg",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "date": "10/31/2022"
+    }
+]

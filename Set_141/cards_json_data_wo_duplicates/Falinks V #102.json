@@ -1,0 +1,101 @@
+[
+    {
+        "price": "$13.50",
+        "date": "9/13/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3769636249050849952/-3808623487491021914.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57526439",
+        "lot_number": "374242282874",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4213119550897513890/-3213032121666362875.jpg",
+        "cert_number": "55670297",
+        "date": "6/6/2022",
+        "price": "$19.52",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "374099507474"
+    },
+    {
+        "date": "3/9/2023",
+        "price": "$10.50",
+        "auction_seller": "kamsh-9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "55162747",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4902165524389959833/7222662559546643161.jpg",
+        "grade": "10",
+        "lot_number": "134471143278"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3537323822388976789/-2089236481783804588.jpg",
+        "cert_number": "60216249",
+        "auction_seller": "dcsports87",
+        "date": "9/18/2023",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "374928642536"
+    },
+    {
+        "price": "$12.19",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4501366531993164510/-5710818375682252858.jpg",
+        "auction_seller": "dcsports87",
+        "date": "9/18/2023",
+        "cert_number": "60216250",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "374928642534"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5210969081615078983/1723068767489733967.jpg",
+        "price": "$113.27",
+        "auction_seller": "tomdawsonclothing",
+        "cert_number": "61657437",
+        "lot_number": "335063928814",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/12/2023"
+    },
+    {
+        "lot_number": "265712799242",
+        "cert_number": "56085582",
+        "date": "6/5/2022",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5823143656711709231/1998134196500130031.jpg",
+        "auction_seller": "disneypins4all"
+    },
+    {
+        "lot_number": "125717285576",
+        "date": "1/19/2023",
+        "cert_number": "59441368",
+        "price": "$20.62",
+        "auction_seller": "dcsports87",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2026113692739456106/2043028808522311990.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "363970478709",
+        "date": "9/13/2022",
+        "cert_number": "57526438",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3802302965290034634/-3026949341734732197.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    }
+]

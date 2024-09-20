@@ -1,0 +1,79 @@
+[
+    {
+        "date": "2/14/2021",
+        "cert_number": "46585055",
+        "lot_number": "373452157913",
+        "auction_type": "Best Offer",
+        "auction_seller": "esp-pokemon",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3111939570827075771/6227850057664439743.jpg",
+        "auction_house": "eBay",
+        "price": "$30.92"
+    },
+    {
+        "cert_number": "51424291",
+        "auction_seller": "apmerchant02",
+        "date": "9/29/2021",
+        "grade": "9",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7065442380451878802/-3825246492672868656.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185058636494"
+    },
+    {
+        "date": "6/23/2024",
+        "grade": "7",
+        "cert_number": "79380284",
+        "lot_number": "285908310937",
+        "auction_seller": "lakegamestore",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$10.73",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1282749215352270879/2563819615895308735.jpg"
+    },
+    {
+        "auction_seller": "numismaticsgmc",
+        "price": "$15.00",
+        "lot_number": "312416267845",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7306129910496628772/-8783527669488909530.jpg",
+        "auction_type": "Auction",
+        "date": "1/12/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41585205"
+    },
+    {
+        "lot_number": "134226873092",
+        "cert_number": "60421867",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2957303807634167845/-7987260275755479599.jpg",
+        "grade": "9",
+        "auction_seller": "zero2992",
+        "price": "$19.99",
+        "date": "9/17/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/2/2024",
+        "lot_number": "285873841751",
+        "cert_number": "79380283",
+        "grade": "9",
+        "price": "$18.46",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8894976345615705020/3564844382541910023.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "date": "5/29/2019",
+        "price": "$2.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8588146463621102724/7532664447918930728.jpg",
+        "grade": "8",
+        "cert_number": "43052750",
+        "auction_seller": "nath-pain",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "273859137488"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "cybersmith7",
+        "cert_number": "49197024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8710726760102289276/1146824539452042938.jpg",
+        "grade": "9",
+        "lot_number": "165204148645",
+        "price": "$51.00",
+        "date": "12/6/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9166506039487319785/3351460557763246685.jpg",
+        "date": "12/17/2021",
+        "grade": "8",
+        "lot_number": "294619590052",
+        "auction_type": "Auction",
+        "auction_seller": "gdktc",
+        "price": "$24.50",
+        "cert_number": "53729568",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$6.05",
+        "date": "10/4/2022",
+        "lot_number": "385132037381",
+        "grade": "6",
+        "auction_seller": "probstein123",
+        "cert_number": "54315669",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6760943815864347376/-4253475381990638220.jpg"
+    },
+    {
+        "cert_number": "47972279",
+        "date": "2/20/2021",
+        "auction_seller": "cardscomicsandmore4u",
+        "auction_type": "Best Offer",
+        "grade": "10",
+        "price": "$300.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1188472159110241091/6938313655916841629.jpg",
+        "auction_house": "eBay",
+        "lot_number": "154318055392"
+    },
+    {
+        "date": "12/18/2018",
+        "price": "$8.99",
+        "auction_seller": "tennisfun5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-107423863971471813/8884750127998788794.jpg",
+        "lot_number": "223283475758",
+        "cert_number": "40848379",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4427743571433525049/-3383989147369597672.jpg",
+        "date": "12/5/2022",
+        "cert_number": "66509087",
+        "grade": "9",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$28.88",
+        "lot_number": "295359122440"
+    }
+]

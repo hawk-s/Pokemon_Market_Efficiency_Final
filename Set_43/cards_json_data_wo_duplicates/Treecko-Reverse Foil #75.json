@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$199.99",
+        "auction_type": "Best Offer",
+        "cert_number": "43455914",
+        "auction_seller": "pbali1",
+        "date": "1/22/2021",
+        "lot_number": "174573219217",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7718488917468014807/1164812598812620860.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "wcs_investments",
+        "date": "1/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-766813392674722940/9080134795812995869.jpg",
+        "grade": "8",
+        "cert_number": "68601679",
+        "lot_number": "354511607868",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "60505528",
+        "auction_seller": "myers3329",
+        "grade": "9",
+        "lot_number": "296117955540",
+        "date": "12/27/2023",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1400955529863090886/2831830798618428227.jpg",
+        "auction_house": "eBay"
+    }
+]

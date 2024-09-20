@@ -1,0 +1,46 @@
+[
+    {
+        "date": "7/30/2024",
+        "cert_number": "94310870",
+        "auction_seller": "rookieandstarcards",
+        "grade": "9",
+        "price": "$8.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-418275107735930620/2227931422504761003.jpg",
+        "lot_number": "176485018378"
+    },
+    {
+        "price": "$9.50",
+        "auction_seller": "retronomic_meteroid",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7521193968565857038/1589002497914321800.jpg",
+        "cert_number": "93108786",
+        "date": "7/11/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "395513163234"
+    },
+    {
+        "date": "10/1/2023",
+        "price": "$26.00",
+        "cert_number": "73366806",
+        "auction_seller": "gemstonegemmints",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5606208229301658615/-2297829799581797507.jpg",
+        "lot_number": "266423914560",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "166366112912",
+        "date": "10/15/2023",
+        "cert_number": "75540021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1444941433130372084/-2925036102653753880.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "itemland",
+        "price": "$0.99"
+    }
+]

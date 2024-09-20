@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "5",
+        "cert_number": "73664814",
+        "lot_number": "186184970583",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7766566894184893977/319659963704662144.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "stubbscards541",
+        "date": "12/5/2023",
+        "price": "$17.25"
+    },
+    {
+        "cert_number": "70142674",
+        "lot_number": "394798356037",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1777190012167224840/800434835677034616.jpg",
+        "date": "8/15/2023",
+        "auction_seller": "andypocketanimals",
+        "grade": "6",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8788183832693034395/-6461596904708533023.jpg",
+        "price": "$123.40",
+        "lot_number": "285884607802",
+        "date": "6/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "79380266",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "lot_number": "314699651432",
+        "date": "7/16/2023",
+        "auction_seller": "tradingcardexchange",
+        "grade": "8",
+        "price": "$10.52",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1941148272872460914/-4755441100234630962.jpg",
+        "auction_type": "Auction",
+        "cert_number": "73670756",
+        "auction_house": "eBay"
+    }
+]

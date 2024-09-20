@@ -1,0 +1,101 @@
+[
+    {
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4018339817430049682/5977932902513525807.jpg",
+        "lot_number": "352890846199",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$55.55",
+        "cert_number": "43709095"
+    },
+    {
+        "cert_number": "47301687",
+        "lot_number": "373453082274",
+        "auction_seller": "surfcitycards",
+        "date": "2/15/2021",
+        "price": "$102.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-933577037256700307/-3973581655988099933.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "king_boring",
+        "price": "$172.01",
+        "cert_number": "48404808",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2151932304351810585/-2038396366765869188.jpg",
+        "date": "8/10/2023",
+        "lot_number": "256163631261",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-484198026991028383/-6195833244700539783.jpg",
+        "lot_number": "185801428241",
+        "price": "$77.00",
+        "cert_number": "68542143",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_seller": "kantowest",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "price": "$78.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2245760260955645433/-3835658260753163363.jpg",
+        "cert_number": "43605453",
+        "lot_number": "352837647185",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "crispyslabs",
+        "price": "$196.43",
+        "date": "9/28/2023",
+        "lot_number": "325821195024",
+        "cert_number": "48186492",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7821553133369733703/493622345685428356.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "sieds_steins",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/3087441340595409422/-4135141961856668612.jpg",
+        "lot_number": "201859481924",
+        "date": "3/26/2017",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "cert_number": "26465403",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "5",
+        "lot_number": "115581447468",
+        "cert_number": "65340552",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3946003237413608729/-6762877550693263830.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retro_sports_co",
+        "price": "$33.00",
+        "date": "11/6/2022"
+    },
+    {
+        "auction_seller": "goldstarccg",
+        "price": "$34.99",
+        "date": "11/26/2019",
+        "lot_number": "153730657424",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "44001537",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-570113450323007476/6865075700243598984.jpg"
+    }
+]

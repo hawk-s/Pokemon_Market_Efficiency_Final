@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "habbyshobbies",
+        "lot_number": "384346546088",
+        "price": "$21.50",
+        "cert_number": "43350691",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7768572508605875745/-1203244242815598775.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8354233403772394587/3623616849638764148.jpg",
+        "date": "4/17/2021",
+        "auction_seller": "tomssportcollectables",
+        "price": "$68.00",
+        "lot_number": "313489366485",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "43350691"
+    },
+    {
+        "price": "$14.83",
+        "cert_number": "44180348",
+        "date": "1/30/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-909739685062917266/3993460298433572102.jpg",
+        "lot_number": "303458575084",
+        "auction_type": "Auction",
+        "auction_seller": "sonofhercules2",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "7",
+        "cert_number": "68783567",
+        "date": "3/5/2023",
+        "auction_seller": "ejbgames_pcs_collectibles_etc",
+        "auction_type": "Auction",
+        "lot_number": "285161018912",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7690236106186819901/-6137231165069299713.jpg"
+    },
+    {
+        "cert_number": "44493913",
+        "grade": "10",
+        "lot_number": "153936811464",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3501162471979924628/-2328908270847146000.jpg",
+        "date": "5/25/2020",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "grade": "4",
+        "cert_number": "69922960",
+        "auction_seller": "oldcardsfromthevault",
+        "date": "3/2/2023",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "lot_number": "404178555330",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1471292136063467002/-2857766088044963378.jpg"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "cert_number": "70358097",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/-3257302225363324869/images/1.jpg",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "auction_type": "Auction",
+        "price": "$54.00",
+        "date": "5/11/2023",
+        "grade": "10",
+        "lot_number": "4834"
+    }
+]

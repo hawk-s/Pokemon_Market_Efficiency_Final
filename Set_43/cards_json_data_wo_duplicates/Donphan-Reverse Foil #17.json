@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "71755789",
+        "grade": "7",
+        "price": "$4.25",
+        "lot_number": "156204794038",
+        "date": "5/19/2024",
+        "auction_seller": "ramcanyon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4018000712144184250/-1874037192620029697.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8409557951857051040/4882426817476438320.jpg",
+        "auction_seller": "tannah12",
+        "cert_number": "60759853",
+        "date": "2/19/2023",
+        "grade": "9",
+        "lot_number": "155401149215",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.82"
+    },
+    {
+        "cert_number": "54868414",
+        "auction_seller": "nikki7934",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7331294899418298474/-1381812847085725301.jpg",
+        "lot_number": "185219596220",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "date": "12/27/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3000220150877727733/1056346413326604378.jpg",
+        "auction_seller": "wcs_investments",
+        "date": "7/17/2023",
+        "grade": "9",
+        "lot_number": "354901623653",
+        "auction_type": "Auction",
+        "price": "$26.50",
+        "cert_number": "68601687",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/14/2018",
+        "lot_number": "273148039396",
+        "price": "$4.95",
+        "grade": "9",
+        "cert_number": "28922350",
+        "auction_seller": "pokejuice",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4747473196655917448/2265147593925862238.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3167031635259146905/-4742862824264840701.jpg",
+        "auction_seller": "bravepuppygalleries",
+        "date": "2/19/2023",
+        "grade": "9",
+        "cert_number": "53957101",
+        "price": "$19.44",
+        "auction_type": "Auction",
+        "lot_number": "175610568444",
+        "auction_house": "eBay"
+    }
+]

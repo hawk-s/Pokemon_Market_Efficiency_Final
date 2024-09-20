@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "49197125",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_seller": "poke_place",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3695994070128936721/4678783722472518977.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/23/2021",
+        "lot_number": "234143186328"
+    },
+    {
+        "lot_number": "233498064199",
+        "price": "$14.99",
+        "date": "2/24/2020",
+        "grade": "9",
+        "auction_seller": "tcgers",
+        "auction_type": "Auction",
+        "cert_number": "44497673",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3683532243428211447/3958070454972555345.jpg"
+    },
+    {
+        "price": "$21.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2491246930501694624/8136340914651083669.jpg",
+        "cert_number": "73360360",
+        "grade": "8",
+        "lot_number": "404447865626",
+        "date": "8/25/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dragon_secrets"
+    },
+    {
+        "lot_number": "275596117691",
+        "auction_seller": "poke-martcollectibles",
+        "grade": "7",
+        "price": "$13.00",
+        "date": "1/7/2023",
+        "cert_number": "68842139",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2964458575915262069/2932810112423237227.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/7/2020",
+        "lot_number": "143569300297",
+        "grade": "9",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "auction_seller": "kodyspokemontcg",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4367286018616771228/-4227520130687030272.jpg",
+        "cert_number": "44497673"
+    },
+    {
+        "price": "$4.25",
+        "cert_number": "74251369",
+        "grade": "6",
+        "date": "7/17/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8565131618652432234/2624475276321028821.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285373569776",
+        "auction_seller": "unifiedcollectors"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "tnolan0816",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-5138910699865038923/-7096677647232727528.jpg",
+        "cert_number": "27743797",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "lot_number": "292314259257",
+        "grade": "10"
+    },
+    {
+        "lot_number": "292337992013",
+        "date": "11/24/2017",
+        "price": "$6.50",
+        "cert_number": "27743797",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/736061350770654978/-7096677647232727528.jpg"
+    },
+    {
+        "date": "11/5/2017",
+        "lot_number": "292310988619",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2245498242261410194/-7096677647232727528.jpg",
+        "cert_number": "27743797",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tnolan0816",
+        "price": "$5.24",
+        "grade": "10"
+    },
+    {
+        "date": "6/19/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1948158917400544670/-8132601691446909674.jpg",
+        "grade": "8",
+        "price": "$6.00",
+        "cert_number": "83210766",
+        "lot_number": "405032014400",
+        "auction_type": "Auction",
+        "auction_seller": "gramwarehouse",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "price": "$13.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6835306786223330255/-2814135704350825095.jpg",
+        "cert_number": "27743797",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "143471128516",
+        "grade": "10"
+    }
+]

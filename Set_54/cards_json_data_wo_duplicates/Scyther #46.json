@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "78742573",
+        "grade": "9",
+        "price": "$20.35",
+        "date": "6/9/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-838548067128267445/7384569314593827786.jpg",
+        "lot_number": "285884607804",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1678205042838596468/5644617585842365933.jpg",
+        "cert_number": "61163382",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285235532100",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "4/23/2023",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9133803210040154555/2646812732855268901.jpg",
+        "lot_number": "295300634062",
+        "date": "11/7/2022",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "cert_number": "66965269",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$60.00",
+        "cert_number": "51079142",
+        "auction_seller": "cloydog_collects",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3129659205127691152/-1467598717616224487.jpg",
+        "date": "9/29/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "255148595269",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "jimetics",
+        "auction_type": "Buy It Now",
+        "lot_number": "163782199668",
+        "grade": "9",
+        "cert_number": "43165325",
+        "price": "$29.00",
+        "date": "3/25/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4502679925400609642/4450169907827859496.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "card-foundry",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8380808551030556333/-3639570155267158408.jpg",
+        "lot_number": "276583139703",
+        "date": "8/18/2024",
+        "grade": "9",
+        "price": "$24.73",
+        "auction_type": "Auction",
+        "cert_number": "87463153",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$20.00",
+        "date": "4/30/2020",
+        "lot_number": "402237159958",
+        "grade": "9",
+        "cert_number": "27696092",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6491762470103974897/1423312447515296074.jpg"
+    },
+    {
+        "lot_number": "276204089555",
+        "date": "12/13/2023",
+        "price": "$138.38",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4237423412370875928/6891726569035886062.jpg",
+        "auction_type": "Auction",
+        "cert_number": "41360273",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "date": "5/7/2018",
+        "price": "$75.00",
+        "lot_number": "282923796043",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3712471003606137762/8648544211758495926.jpg",
+        "grade": "10",
+        "cert_number": "29078310"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-237528432184128566/6896732506835994030.jpg",
+        "auction_seller": "bidoveru",
+        "date": "12/19/2023",
+        "lot_number": "315024851592",
+        "grade": "9",
+        "cert_number": "68640717",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$43.86"
+    }
+]

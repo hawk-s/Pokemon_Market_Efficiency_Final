@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "374825129761",
+        "cert_number": "74400468",
+        "price": "$32.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2393779071749423627/-9203285167293246962.jpg",
+        "date": "7/28/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5349212158799802770/9182992120501192835.jpg",
+        "auction_seller": "ahassl_10",
+        "lot_number": "354631870919",
+        "date": "3/19/2023",
+        "price": "$25.48",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68379233"
+    },
+    {
+        "cert_number": "48964181",
+        "lot_number": "284331115445",
+        "price": "$27.60",
+        "grade": "8",
+        "auction_seller": "obscars",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1444297482034052492/-8581326380462734133.jpg",
+        "auction_type": "Auction",
+        "date": "6/20/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1014857094887416543/-7805549501815694131.jpg",
+        "lot_number": "234869540141",
+        "cert_number": "57041007",
+        "date": "1/29/2023",
+        "auction_seller": "goldrush_cards",
+        "grade": "9",
+        "price": "$38.48",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "50775185",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-672666560801146966/-2570286521813406922.jpg",
+        "price": "$243.32",
+        "lot_number": "324992499889",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/834059018393972544/-2657963646880048567.jpg",
+        "auction_seller": "sgbwill2",
+        "cert_number": "61720417",
+        "price": "$31.80",
+        "grade": "9",
+        "lot_number": "156238648280",
+        "date": "6/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

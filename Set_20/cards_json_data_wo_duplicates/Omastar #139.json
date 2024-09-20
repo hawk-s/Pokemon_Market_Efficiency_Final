@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1739160726563496408/2984747888002854872.jpg",
+        "cert_number": "66192493",
+        "price": "$33.59",
+        "lot_number": "134444011200",
+        "date": "2/19/2023",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "94064981",
+        "lot_number": "286013868674",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2338336036315392580/5386246114818500934.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6413785100518017549/4138016208580524725.jpg",
+        "lot_number": "285235636431",
+        "cert_number": "61169369",
+        "auction_seller": "zandgemporium",
+        "price": "$24.50",
+        "auction_type": "Auction",
+        "date": "4/23/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

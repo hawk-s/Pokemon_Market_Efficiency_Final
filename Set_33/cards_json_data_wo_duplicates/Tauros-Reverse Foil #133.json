@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "41354870",
+        "auction_seller": "tca_gaming",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7528953362309414679/5551987343846911774.jpg",
+        "auction_house": "eBay",
+        "lot_number": "315087876841",
+        "grade": "10",
+        "date": "1/22/2024"
+    },
+    {
+        "date": "8/6/2024",
+        "price": "$20.00",
+        "grade": "6",
+        "cert_number": "88554553",
+        "auction_seller": "gonzo4811",
+        "lot_number": "305701695753",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8020523730459352069/-2928331794358500818.jpg"
+    },
+    {
+        "date": "1/31/2022",
+        "cert_number": "55658771",
+        "price": "$57.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4065850987554389259/4832827288383282124.jpg",
+        "grade": "9",
+        "lot_number": "294762974478",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/31/2021",
+        "price": "$99.99",
+        "auction_seller": "bravepuppygalleries",
+        "cert_number": "54259981",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5855207579304217077/-8098970727587848612.jpg",
+        "lot_number": "384629543379"
+    }
+]

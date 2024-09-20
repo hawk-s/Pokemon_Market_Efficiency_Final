@@ -1,0 +1,90 @@
+[
+    {
+        "date": "10/2/2021",
+        "cert_number": "48244763",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5999252367073895895/4375040635734929804.jpg",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "lot_number": "224622345579",
+        "auction_seller": "u.s.greatestcoins",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "48786519",
+        "price": "$10.50",
+        "date": "5/8/2021",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8379708408571780927/3122337388009582056.jpg",
+        "auction_type": "Auction",
+        "lot_number": "133747879212",
+        "auction_house": "eBay",
+        "auction_seller": "dggamer"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-499187342632344128/3272954275192082351.jpg",
+        "auction_seller": "comicalert",
+        "cert_number": "48969451",
+        "date": "8/17/2021",
+        "lot_number": "265261380026",
+        "auction_type": "Auction",
+        "price": "$21.28",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7556412935580917217/6699321725437796887.jpg",
+        "cert_number": "48733703",
+        "date": "7/5/2021",
+        "auction_seller": "j.s_and_k.s_finds",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "lot_number": "194215409143"
+    },
+    {
+        "cert_number": "47827828",
+        "price": "$10.00",
+        "grade": "9",
+        "lot_number": "126431525698",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7326703590166650171/5737806103068372632.jpg",
+        "auction_type": "Auction",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "auction_seller": "thebumblingbidoof"
+    },
+    {
+        "lot_number": "224641419146",
+        "cert_number": "48244763",
+        "price": "$26.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-232526974974150370/4375040635734929804.jpg",
+        "auction_seller": "u.s.greatestcoins",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/16/2021"
+    },
+    {
+        "cert_number": "47827828",
+        "lot_number": "235179706946",
+        "price": "$4.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7961424065617522479/-7766909339221414935.jpg",
+        "date": "9/12/2023",
+        "grade": "9",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "164571967689",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1444538661828861093/3897559973775493307.jpg",
+        "price": "$99.99",
+        "auction_type": "Best Offer",
+        "cert_number": "47251402",
+        "auction_seller": "mattygstcgstore",
+        "date": "1/28/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

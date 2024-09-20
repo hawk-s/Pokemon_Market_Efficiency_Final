@@ -1,0 +1,24 @@
+[
+    {
+        "date": "5/2/2021",
+        "price": "$82.00",
+        "cert_number": "40932404",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1744112820566162871/-4614670822382468238.jpg",
+        "lot_number": "184790344404",
+        "grade": "10",
+        "auction_seller": "lithiumwade"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4515087404390199194/-2895779463739455049.jpg",
+        "date": "9/3/2018",
+        "auction_seller": "probstein123",
+        "cert_number": "40932404",
+        "price": "$6.60",
+        "auction_type": "Auction",
+        "lot_number": "362421078288",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "date": "2/5/2023",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/971088184664200600/-3008219782995489836.jpg",
+        "lot_number": "285123093019",
+        "cert_number": "57464819",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$29.50",
+        "grade": "10"
+    },
+    {
+        "lot_number": "375505411591",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/434501661532801142/4343310832939633178.jpg",
+        "cert_number": "61163368",
+        "price": "$10.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "7/3/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/21/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4741605906582718273/-3310156386210710894.jpg",
+        "cert_number": "66965266",
+        "lot_number": "374506351947",
+        "auction_seller": "probstein123",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$18.01",
+        "auction_seller": "statsreset",
+        "lot_number": "124039665096",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2905883358017542076/-6616417279177998310.jpg",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "7/2/2020",
+        "cert_number": "44780527"
+    },
+    {
+        "price": "$12.81",
+        "cert_number": "73922130",
+        "grade": "9",
+        "date": "7/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "186502950661",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3888044556122677584/-7160883232240639834.jpg",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "price": "$18.01",
+        "auction_seller": "statsreset",
+        "auction_type": "Best Offer",
+        "date": "8/9/2020",
+        "lot_number": "124245607696",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7862580446336612922/-6616417279177998310.jpg",
+        "auction_house": "eBay",
+        "cert_number": "44780527"
+    }
+]

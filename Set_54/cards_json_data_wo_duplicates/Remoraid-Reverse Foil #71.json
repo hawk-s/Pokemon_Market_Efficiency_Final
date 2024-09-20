@@ -1,0 +1,35 @@
+[
+    {
+        "date": "9/8/2021",
+        "price": "$26.00",
+        "cert_number": "48223800",
+        "auction_seller": "jvccollectiblesandgifts",
+        "lot_number": "234166481242",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3301540213719622040/-6869826411357141383.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "374470233674",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-443280014978336344/6593262960001074844.jpg",
+        "price": "$21.23",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/27/2023",
+        "cert_number": "64633048"
+    },
+    {
+        "price": "$37.38",
+        "lot_number": "324865835195",
+        "cert_number": "48140349",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2399902943442732422/-4376206066192264523.jpg",
+        "date": "11/15/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    }
+]

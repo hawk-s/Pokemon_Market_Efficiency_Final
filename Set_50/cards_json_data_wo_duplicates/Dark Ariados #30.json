@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "285345947095",
+        "cert_number": "75743591",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5810575875956613567/-162765964570477174.jpg",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/2/2023",
+        "price": "$9.83"
+    },
+    {
+        "cert_number": "28455361",
+        "lot_number": "292390971678",
+        "price": "$8.99",
+        "date": "1/5/2018",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2672147485758892249/-1863747397390945624.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "rjkshop",
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7797106352482783151/4891723234684745126.jpg",
+        "grade": "8",
+        "date": "8/14/2024",
+        "lot_number": "186611969800",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "83316477"
+    },
+    {
+        "cert_number": "28455361",
+        "lot_number": "292382089483",
+        "price": "$11.99",
+        "date": "12/30/2017",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1047735171690462810/-1863747397390945624.jpg",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8116533487836840629/1984122356287669734.jpg",
+        "cert_number": "42257186",
+        "auction_seller": "back.to.base",
+        "date": "6/5/2021",
+        "lot_number": "324649658062",
+        "price": "$63.77",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "122918072876",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1769825195687518097/785168961960590417.jpg",
+        "auction_seller": "pokemon_revolution",
+        "price": "$19.99",
+        "cert_number": "28392164",
+        "date": "5/19/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

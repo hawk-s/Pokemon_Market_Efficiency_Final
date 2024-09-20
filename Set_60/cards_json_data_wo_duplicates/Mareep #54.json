@@ -1,0 +1,68 @@
+[
+    {
+        "date": "11/3/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8690223889967849251/-2964592060754892982.jpg",
+        "cert_number": "27503245",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$1.04",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "lot_number": "292305789993"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/6137342017848429218/4012440727847593226.jpg",
+        "date": "9/19/2017",
+        "price": "$9.99",
+        "cert_number": "27503242",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "292251652531"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6717512731200613887/4012440727847593226.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "27503242",
+        "price": "$17.50",
+        "lot_number": "292218671600",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/12/2017"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1064213857273132917/-7887770193702660480.jpg",
+        "date": "12/1/2020",
+        "lot_number": "164537666791",
+        "price": "$26.76",
+        "auction_type": "Auction",
+        "cert_number": "42070117",
+        "auction_seller": "rivalre36",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "73922079",
+        "date": "7/2/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$15.40",
+        "lot_number": "186502942689",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6699948292688904378/-2683119174211824612.jpg",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "price": "$9.99",
+        "lot_number": "292291569918",
+        "cert_number": "27503242",
+        "auction_type": "Auction",
+        "date": "10/22/2017",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4970876905149145763/4012440727847593226.jpg"
+    }
+]

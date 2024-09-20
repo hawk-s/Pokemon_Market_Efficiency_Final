@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "plumosacollectibles",
+        "date": "2/9/2021",
+        "cert_number": "46946146",
+        "lot_number": "383933508191",
+        "price": "$65.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1549877377682509083/-36234944081677907.jpg"
+    },
+    {
+        "price": "$4.25",
+        "cert_number": "41078885",
+        "grade": "9",
+        "lot_number": "192650193694",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7762089298874818299/-621987318388565279.jpg",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "9/14/2018",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7783541613080044562/8619734975478127428.jpg",
+        "cert_number": "46946146",
+        "auction_seller": "queju-43",
+        "price": "$30.69",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "3/17/2021",
+        "grade": "10",
+        "lot_number": "402734791590"
+    }
+]

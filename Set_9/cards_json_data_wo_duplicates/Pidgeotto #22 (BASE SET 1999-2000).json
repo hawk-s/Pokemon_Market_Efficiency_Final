@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "whitewizardcollectables",
+        "cert_number": "55718823",
+        "grade": "9",
+        "price": "$47.00",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1764550884833897853/7576999558381329334.jpg",
+        "auction_house": "eBay",
+        "lot_number": "234845796870"
+    },
+    {
+        "lot_number": "234820188247",
+        "price": "$50.98",
+        "date": "12/21/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5887914894821655416/7576999558381329334.jpg",
+        "auction_seller": "whitewizardcollectables",
+        "cert_number": "55718823",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7286727465002923552/-5539171287173350522.jpg",
+        "date": "1/28/2022",
+        "grade": "8",
+        "lot_number": "265511199892",
+        "price": "$14.02",
+        "auction_type": "Auction",
+        "auction_seller": "richezone",
+        "cert_number": "54598869",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "date": "1/28/2022",
+        "price": "$13.00",
+        "lot_number": "265511211021",
+        "auction_seller": "richezone",
+        "cert_number": "54598868",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2781422764226609724/-4918334822558595023.jpg"
+    },
+    {
+        "date": "1/19/2023",
+        "price": "$24.74",
+        "lot_number": "234857203369",
+        "auction_seller": "whitewizardcollectables",
+        "cert_number": "55718823",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2934101869816184152/7576999558381329334.jpg"
+    }
+]

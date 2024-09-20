@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "cardrushinc",
+        "cert_number": "40757149",
+        "lot_number": "274303475479",
+        "date": "3/16/2020",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7653546725846975588/-7653500301829660246.jpg"
+    },
+    {
+        "cert_number": "61314499",
+        "date": "10/5/2023",
+        "lot_number": "285483169090",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3641211229972247456/6825009488215464521.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "sonofhercules",
+        "price": "$8.52"
+    },
+    {
+        "date": "2/19/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7110311026431878178/185223393790529010.jpg",
+        "cert_number": "68877210",
+        "lot_number": "266127729043",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "auction_seller": "bobcatgolfer24"
+    },
+    {
+        "date": "5/17/2022",
+        "lot_number": "284809040892",
+        "cert_number": "52634013",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6456722374253810739/-714834119846940014.jpg",
+        "grade": "8",
+        "price": "$19.99",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "204221585204",
+        "date": "1/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1031999248059897645/904399883749965979.jpg",
+        "cert_number": "68521310",
+        "grade": "9",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "auction_house": "eBay"
+    }
+]

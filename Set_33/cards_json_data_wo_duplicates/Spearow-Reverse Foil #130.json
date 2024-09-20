@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/969363357348430562/8210065407893962368.jpg",
+        "cert_number": "65774506",
+        "grade": "9",
+        "date": "10/12/2022",
+        "auction_seller": "probstein123",
+        "lot_number": "364004753041",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "price": "$31.02",
+        "lot_number": "402857343062",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5544954646776801846/-9004145954272347869.jpg",
+        "grade": "9",
+        "cert_number": "42527424",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "lot_number": "325577647063",
+        "auction_seller": "dualcollectibleinc",
+        "cert_number": "56013487",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6025184045266222527/-8150020721706665619.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$13.44",
+        "date": "3/26/2023"
+    },
+    {
+        "date": "6/3/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4280927701034501516/3431291891348143010.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "28996692",
+        "auction_seller": "hurl-dall",
+        "grade": "9",
+        "price": "$19.95",
+        "auction_house": "eBay",
+        "lot_number": "143278567649"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7396443303859541675/6807823054321390793.jpg",
+        "auction_seller": "numismaticsgmc",
+        "lot_number": "312119478539",
+        "cert_number": "28996692",
+        "price": "$6.00",
+        "grade": "9",
+        "date": "5/1/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "355611613152",
+        "auction_seller": "sizzle-sales",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1248163482252160135/-7214865376135431046.jpg",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "88731058",
+        "date": "4/13/2024"
+    },
+    {
+        "cert_number": "41354867",
+        "price": "$108.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3385651456141454643/-780605690201544464.jpg",
+        "auction_type": "Auction",
+        "lot_number": "315087876843",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "date": "1/22/2024"
+    }
+]

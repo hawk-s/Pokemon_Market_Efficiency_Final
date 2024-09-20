@@ -1,0 +1,90 @@
+[
+    {
+        "date": "12/21/2022",
+        "grade": "9",
+        "auction_seller": "furbabies3",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5374931969187698093/5912282947429704607.jpg",
+        "lot_number": "275579685531",
+        "cert_number": "55895938"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8672518127301905497/7246685499104065189.jpg",
+        "date": "11/7/2019",
+        "auction_seller": "probstein123",
+        "price": "$14.54",
+        "lot_number": "362795090584",
+        "auction_type": "Auction",
+        "cert_number": "28989815",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "7",
+        "date": "6/26/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6599245532063082770/-1249708441902228441.jpg",
+        "cert_number": "91567182",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid",
+        "lot_number": "395479450527",
+        "price": "$0.80"
+    },
+    {
+        "price": "$3.25",
+        "grade": "8",
+        "auction_seller": "bryandyeo",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3770625701006287435/-8791299383162512227.jpg",
+        "auction_type": "Auction",
+        "lot_number": "256480029778",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "cert_number": "82011417"
+    },
+    {
+        "price": "$3.30",
+        "grade": "4",
+        "cert_number": "78021590",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1887552850643263933/1176529361454116314.jpg",
+        "auction_seller": "flare_blitz_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "266851747850",
+        "date": "6/16/2024"
+    },
+    {
+        "lot_number": "275597034084",
+        "grade": "9",
+        "auction_seller": "furbabies3",
+        "date": "1/4/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5369327546976743864/5912282947429704607.jpg",
+        "auction_house": "eBay",
+        "price": "$5.52",
+        "cert_number": "55895938"
+    },
+    {
+        "date": "1/9/2024",
+        "lot_number": "364659380466",
+        "grade": "8",
+        "auction_seller": "marvelous-cards-collectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4872698457535924684/-8626418270369698562.jpg",
+        "auction_type": "Auction",
+        "price": "$7.52",
+        "auction_house": "eBay",
+        "cert_number": "84158807"
+    },
+    {
+        "cert_number": "54474932",
+        "lot_number": "133989483393",
+        "date": "1/15/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8338024600470366615/-930119936380864272.jpg",
+        "grade": "9",
+        "auction_seller": "guerr.eddy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$13.06"
+    }
+]

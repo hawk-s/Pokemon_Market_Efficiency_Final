@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$7.50",
+        "lot_number": "235339837323",
+        "date": "1/2/2024",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-418089046976361299/313968743599954154.jpg",
+        "cert_number": "61598829"
+    },
+    {
+        "date": "8/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2190291962044640404/-4035153441689515069.jpg",
+        "lot_number": "126057550020",
+        "cert_number": "56332103",
+        "auction_type": "Auction",
+        "auction_seller": "pokerunner",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "price": "$9.05",
+        "lot_number": "235351984713",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2828010018007784274/6535665948181936494.jpg",
+        "cert_number": "59160730",
+        "date": "1/2/2024",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-814104762409531722/6851030558581702040.jpg",
+        "lot_number": "364464577108",
+        "cert_number": "62889373",
+        "auction_seller": "probstein123",
+        "date": "9/14/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3256523310707992710/6534456796124326938.jpg",
+        "date": "4/9/2023",
+        "lot_number": "134507463599",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "price": "$49.17",
+        "auction_house": "eBay",
+        "cert_number": "65201913"
+    },
+    {
+        "price": "$70.69",
+        "auction_seller": "gradedpower",
+        "grade": "8",
+        "lot_number": "224980545159",
+        "cert_number": "55458615",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7472529697231424948/7760147933189134756.jpg",
+        "date": "5/18/2022"
+    },
+    {
+        "date": "7/28/2024",
+        "grade": "7",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2696159964535415799/4693207866081609997.jpg",
+        "price": "$22.40",
+        "auction_seller": "psa",
+        "cert_number": "93588247",
+        "lot_number": "305683350217"
+    },
+    {
+        "lot_number": "175000799190",
+        "date": "11/6/2021",
+        "cert_number": "62666530",
+        "auction_seller": "jasonkking",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1004494287881427950/3157497702386561638.jpg",
+        "auction_type": "Auction",
+        "price": "$83.64",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/17/2021",
+        "cert_number": "62666530",
+        "auction_seller": "jasonkking",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5398053622112518059/3157497702386561638.jpg",
+        "grade": "8",
+        "price": "$61.73",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "175016971651"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "habbyshobbies",
+        "date": "8/2/2021",
+        "cert_number": "48971203",
+        "grade": "9",
+        "price": "$19.99",
+        "lot_number": "384294815011",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9214693148884501898/3811200231072466057.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "troll.aus",
+        "price": "$13.83",
+        "date": "1/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-178497492730030920/5560441041453773150.jpg",
+        "lot_number": "155370293010",
+        "cert_number": "55520291",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "192823343869",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/539573012510772454/-4019569146704753834.jpg",
+        "date": "2/19/2019",
+        "grade": "9",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41933444",
+        "price": "$0.99"
+    },
+    {
+        "date": "3/20/2018",
+        "lot_number": "112867389691",
+        "price": "$11.99",
+        "cert_number": "27835603",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1968317960246903998/-3619660996144205280.jpg",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$4.25",
+        "date": "6/6/2018",
+        "cert_number": "40771223",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "lot_number": "142811257335",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9085077291200294742/-440684006014634019.jpg"
+    },
+    {
+        "lot_number": "352726792958",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "40771223",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5237477729559301769/-223885437639351409.jpg",
+        "grade": "9",
+        "price": "$3.75",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/30/2019"
+    }
+]

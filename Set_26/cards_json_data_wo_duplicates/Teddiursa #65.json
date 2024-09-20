@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$3.25",
+        "lot_number": "256251668516",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6594984215162599396/-1651404115726908566.jpg",
+        "auction_seller": "robbytinc",
+        "cert_number": "76457947",
+        "date": "10/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2699100001836613915/-8816704825433509845.jpg",
+        "date": "10/10/2023",
+        "cert_number": "76457945",
+        "grade": "6",
+        "auction_seller": "robbytinc",
+        "lot_number": "256241319022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    }
+]

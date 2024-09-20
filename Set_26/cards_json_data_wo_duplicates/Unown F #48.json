@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "27737475",
+        "lot_number": "292249929724",
+        "auction_seller": "tnolan0816",
+        "grade": "9",
+        "price": "$7.99",
+        "auction_type": "Auction",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7756883126444418571/6814039286637191064.jpg"
+    },
+    {
+        "lot_number": "193747574875",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1003009863896923251/-7583025724678728699.jpg",
+        "price": "$99.99",
+        "auction_type": "Best Offer",
+        "date": "2/15/2021",
+        "cert_number": "45110401",
+        "auction_seller": "blowoutcards2",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "s5collectables",
+        "lot_number": "325557481825",
+        "price": "$15.00",
+        "grade": "10",
+        "cert_number": "69119333",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1318315874027965823/7538374432644294830.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/10/2023"
+    }
+]

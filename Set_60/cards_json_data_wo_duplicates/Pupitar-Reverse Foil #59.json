@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "cardrushinc",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/653690350751563348/5349920547420462509.jpg",
+        "date": "10/14/2020",
+        "grade": "9",
+        "lot_number": "292606597077",
+        "cert_number": "40774504",
+        "auction_house": "eBay",
+        "price": "$29.95"
+    },
+    {
+        "auction_seller": "cybersmith7",
+        "date": "10/4/2021",
+        "lot_number": "165081620835",
+        "grade": "9",
+        "price": "$46.00",
+        "cert_number": "49196994",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8622068658787025296/6488242038677543060.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "192966864223",
+        "cert_number": "40774506",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4514976869600947957/-2977644782696273919.jpg",
+        "grade": "9",
+        "date": "7/5/2019",
+        "auction_seller": "mvpcardworld888",
+        "auction_type": "Auction",
+        "price": "$10.51",
+        "auction_house": "eBay"
+    }
+]

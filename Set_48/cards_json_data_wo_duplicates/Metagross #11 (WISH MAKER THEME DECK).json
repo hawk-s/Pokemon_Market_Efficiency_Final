@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$30.00",
+        "lot_number": "362594810374",
+        "auction_seller": "ebirdman",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "cert_number": "20645716",
+        "date": "3/4/2021",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/434570150336422384/8993052965408581306.jpg"
+    },
+    {
+        "cert_number": "50611157",
+        "price": "$48.49",
+        "lot_number": "274932847604",
+        "date": "9/12/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/58233418296662344/-4278769226043127125.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "gemcollectables"
+    },
+    {
+        "auction_seller": "pokemonmarketplace",
+        "date": "7/23/2020",
+        "auction_type": "Buy It Now",
+        "lot_number": "274422271395",
+        "cert_number": "45609030",
+        "price": "$82.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2207556678673516078/378537677562078859.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3179160638583474141/-383514426260395079.jpg",
+        "date": "4/23/2018",
+        "lot_number": "292523009340",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "28983938"
+    }
+]

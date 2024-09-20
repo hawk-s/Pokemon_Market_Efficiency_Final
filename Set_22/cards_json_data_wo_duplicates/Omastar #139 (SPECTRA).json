@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "64617010",
+        "price": "$134.50",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7938633018381441380/1928464964255764817.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "12/6/2022",
+        "lot_number": "385256235582",
+        "grade": "10"
+    },
+    {
+        "lot_number": "314873360919",
+        "auction_seller": "r_g_prizms",
+        "cert_number": "78499940",
+        "grade": "8",
+        "date": "10/14/2023",
+        "price": "$46.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5948395500119239629/-4689796842731512922.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "55272642",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6008818184851969994/-1472884349455735772.jpg",
+        "date": "3/22/2022",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "363763506134",
+        "price": "$316.99"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7254240786498933470/-4951203419059413377.jpg",
+        "price": "$46.95",
+        "date": "11/6/2019",
+        "lot_number": "352838660352",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "43605362",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "d2_pokeshop",
+        "date": "3/5/2023",
+        "lot_number": "404179479566",
+        "cert_number": "69766297",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1351945890092626462/4057368748515827294.jpg"
+    },
+    {
+        "cert_number": "64617010",
+        "date": "12/27/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4287417440202807399/1928464964255764817.jpg",
+        "price": "$98.00",
+        "lot_number": "385303184610",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

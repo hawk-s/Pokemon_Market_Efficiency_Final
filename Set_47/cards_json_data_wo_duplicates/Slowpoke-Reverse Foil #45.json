@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "393734698025",
+        "price": "$15.50",
+        "date": "12/4/2021",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5563722453350692467/8975481569485914682.jpg",
+        "cert_number": "48894547",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "60859284",
+        "lot_number": "374349845821",
+        "grade": "8",
+        "price": "$18.52",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "11/22/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9087998413342543882/7785703722464512433.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "tacotruckcollectibles",
+        "cert_number": "85179447",
+        "date": "7/29/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3469521418107779742/-3116269248176656566.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "lot_number": "196514952281"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "255991184336",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7932222308821948201/4041546217895204246.jpg",
+        "auction_seller": "frog-hours",
+        "date": "3/4/2023",
+        "cert_number": "71288920",
+        "price": "$112.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "dandaman333",
+        "cert_number": "48703078",
+        "grade": "9",
+        "price": "$49.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2606019758457930133/-466383310492646425.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "313661118706",
+        "date": "9/17/2021"
+    },
+    {
+        "date": "8/16/2024",
+        "lot_number": "166909879049",
+        "auction_seller": "itemland",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1449057598890355970/3995556833599710332.jpg",
+        "price": "$192.50",
+        "grade": "10",
+        "cert_number": "93746139"
+    }
+]

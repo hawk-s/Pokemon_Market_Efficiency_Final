@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "daves_sports_cards_82",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1547729732530437621/-4354448661890819327.jpg",
+        "cert_number": "65163120",
+        "grade": "9",
+        "lot_number": "175893170343",
+        "date": "9/13/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$87.00"
+    },
+    {
+        "cert_number": "69969861",
+        "lot_number": "1893",
+        "grade": "7",
+        "date": "2/2/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/-6938178501977689651/images/1.jpg",
+        "auction_type": "Auction",
+        "price": "$24.00",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "grade": "7",
+        "price": "$15.00",
+        "lot_number": "285870908216",
+        "date": "5/29/2024",
+        "auction_seller": "derm7406",
+        "auction_type": "Auction",
+        "cert_number": "75704707",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1826437432970472216/-4921826389928257779.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9019450563088678430/5906289727195459465.jpg",
+        "cert_number": "70978819",
+        "grade": "8",
+        "date": "3/13/2023",
+        "auction_seller": "alexhogenson",
+        "price": "$75.00",
+        "lot_number": "225466898560",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "angusismyher0",
+        "cert_number": "94705019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3253059082925209504/-4243087369395265118.jpg",
+        "date": "8/25/2024",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "lot_number": "196567257274"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7461201868183972033/-7159351852717396247.jpg",
+        "lot_number": "315302735012",
+        "price": "$26.17",
+        "cert_number": "85461405",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "nevergonnaletmewdown",
+        "date": "4/28/2024"
+    }
+]

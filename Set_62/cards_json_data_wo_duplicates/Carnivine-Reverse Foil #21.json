@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "7",
+        "lot_number": "1889",
+        "cert_number": "69969881",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/-3346552650233475097/images/1.jpg",
+        "date": "2/2/2023",
+        "price": "$6.00",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "date": "12/25/2021",
+        "cert_number": "53201552",
+        "auction_seller": "donottoscardsandcollectables",
+        "grade": "6",
+        "lot_number": "165237071338",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3702094900272941840/7116077655254300679.jpg",
+        "price": "$7.52",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "tannah12",
+        "price": "$27.27",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2456936645237918934/1512359285816908032.jpg",
+        "lot_number": "155454376440",
+        "date": "3/22/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "60764572"
+    }
+]

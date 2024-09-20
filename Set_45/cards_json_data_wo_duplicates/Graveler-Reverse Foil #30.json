@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "4",
+        "cert_number": "54449760",
+        "price": "$10.50",
+        "lot_number": "353463598986",
+        "date": "4/27/2021",
+        "auction_seller": "gamegoonie",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8748573510704958543/3807714053629368030.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2448429224886079890/-3016012419070854377.jpg",
+        "grade": "7",
+        "auction_seller": "peal7878",
+        "cert_number": "27730457",
+        "price": "$4.54",
+        "auction_type": "Auction",
+        "lot_number": "152755946595",
+        "auction_house": "eBay",
+        "date": "11/6/2017"
+    },
+    {
+        "lot_number": "264904768548",
+        "grade": "7",
+        "date": "10/26/2020",
+        "cert_number": "27730457",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3209250412906289302/6354319993110425545.jpg",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "auction_seller": "biggerscho"
+    },
+    {
+        "cert_number": "68651379",
+        "grade": "9",
+        "price": "$23.50",
+        "date": "2/7/2023",
+        "auction_type": "Auction",
+        "auction_seller": "arthur._7041",
+        "auction_house": "eBay",
+        "lot_number": "404134950137",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6808464421712780307/-3855153165604595736.jpg"
+    },
+    {
+        "date": "8/24/2024",
+        "lot_number": "305724998197",
+        "grade": "8",
+        "cert_number": "94859770",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8429288341735004526/-889276982995093191.jpg"
+    },
+    {
+        "lot_number": "324774941517",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5326488126671102529/-1580060009430714740.jpg",
+        "auction_house": "eBay",
+        "date": "9/13/2021",
+        "auction_type": "Auction",
+        "price": "$28.51",
+        "auction_seller": "dualcollectibleinc",
+        "cert_number": "49764440"
+    }
+]

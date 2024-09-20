@@ -1,0 +1,46 @@
+[
+    {
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 13 Jun - 22 Jun",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "cert_number": "75541941",
+        "lot_number": "5502",
+        "date": "6/26/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/3815309888501543544/-8619916180332542994/images/1.jpg"
+    },
+    {
+        "price": "$2.25",
+        "grade": "9",
+        "date": "7/5/2019",
+        "auction_seller": "mvpcardworld888",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7703593573632124981/-2413814674777131101.jpg",
+        "auction_house": "eBay",
+        "lot_number": "192966796060",
+        "cert_number": "40774565"
+    },
+    {
+        "cert_number": "57846295",
+        "lot_number": "363819944273",
+        "auction_seller": "probstein123",
+        "date": "5/6/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2485392525560335505/-3576191785281219696.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$81.00"
+    },
+    {
+        "auction_seller": "tnolan0816",
+        "cert_number": "27503133",
+        "price": "$5.50",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-5363358955636533289/6967485170272989885.jpg",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "292314784479"
+    }
+]

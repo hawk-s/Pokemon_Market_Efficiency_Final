@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$102.50",
+        "cert_number": "88535712",
+        "lot_number": "296417625319",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2658573046878976833/7917162408107493441.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/12/2024",
+        "grade": "10",
+        "auction_seller": "alonso_collectibles"
+    },
+    {
+        "auction_seller": "thetcgenius",
+        "cert_number": "88446999",
+        "price": "$106.30",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/22/2024",
+        "lot_number": "135015838523",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7980952962060665427/-3581309371870971429.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "183627482121",
+        "price": "$9.50",
+        "cert_number": "41493567",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-556005656034904872/-152616824375655345.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "1/15/2019",
+        "auction_house": "eBay",
+        "auction_seller": "svc051"
+    },
+    {
+        "date": "1/5/2023",
+        "cert_number": "51861149",
+        "price": "$25.01",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2953323324973894850/5252636863532037711.jpg",
+        "auction_seller": "coradcarus_0",
+        "auction_type": "Auction",
+        "lot_number": "185715918972",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/6/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3234260085723787489/-5830495507951680524.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "cert_number": "40771473",
+        "auction_house": "eBay",
+        "lot_number": "142811260000",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2982177337697309106/5657531305380373802.jpg",
+        "date": "4/18/2020",
+        "auction_type": "Buy It Now",
+        "cert_number": "41493567",
+        "auction_seller": "vintagecollectiblesinc",
+        "grade": "9",
+        "lot_number": "383479873358",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    }
+]

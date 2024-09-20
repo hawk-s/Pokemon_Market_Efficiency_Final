@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "67114327",
+        "lot_number": "186502942665",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/928372688749671247/-4295551647056109796.jpg",
+        "date": "7/2/2024",
+        "price": "$18.89",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "price": "$3.25",
+        "date": "7/2/2018",
+        "auction_seller": "cardrushinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/523749595041065321/-7669895943284963496.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "40769165",
+        "lot_number": "283029541730",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$45.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5893383251038740695/2053269410643347825.jpg",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "lot_number": "233808270586",
+        "auction_seller": "kristr_62",
+        "cert_number": "26401338",
+        "date": "12/8/2020",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "tannah10s",
+        "price": "$17.38",
+        "date": "7/10/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8099035678717662061/-5479535469081705249.jpg",
+        "lot_number": "155643379213",
+        "auction_type": "Auction",
+        "cert_number": "69026332",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/17/2020",
+        "cert_number": "40769164",
+        "auction_seller": "cardrushinc",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "lot_number": "273282344865",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8685240501255708554/9091191486490970239.jpg",
+        "auction_house": "eBay",
+        "price": "$49.95"
+    },
+    {
+        "price": "$78.00",
+        "lot_number": "3453",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-165675093497552306/-5669469673782057410/images/1.jpg",
+        "cert_number": "68760656",
+        "auction_seller": "Weekly Auction Mar 21 - Mar 30",
+        "date": "3/30/2023",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "grade": "10"
+    },
+    {
+        "grade": "7",
+        "lot_number": "326178410697",
+        "date": "7/8/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7237868505548854324/2884322493565816929.jpg",
+        "cert_number": "82364826",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    }
+]

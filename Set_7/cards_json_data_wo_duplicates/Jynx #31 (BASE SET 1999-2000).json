@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$21.00",
+        "auction_seller": "ceddimoe01",
+        "date": "3/25/2023",
+        "cert_number": "57647449",
+        "grade": "9",
+        "lot_number": "304846384322",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4505953581392816487/9038537762914180716.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "165789289413",
+        "auction_seller": "troll.aus",
+        "cert_number": "51154216",
+        "date": "12/4/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2526440960423034154/-7326212300582063723.jpg",
+        "price": "$37.93",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "10/18/2022",
+        "price": "$26.69",
+        "cert_number": "57380387",
+        "lot_number": "364011429250",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4158945539825117267/2729701810007923925.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "7",
+        "lot_number": "186634644507",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8521638812571599660/-7536603435496002688.jpg",
+        "date": "8/24/2024",
+        "auction_seller": "bookbizllc",
+        "price": "$9.99",
+        "cert_number": "85043203",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

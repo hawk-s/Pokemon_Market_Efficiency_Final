@@ -1,0 +1,101 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7249569037995526389/189340018581477679.jpg",
+        "cert_number": "51787334",
+        "lot_number": "313780323004",
+        "date": "12/9/2021",
+        "grade": "9",
+        "price": "$13.88",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "karam.03"
+    },
+    {
+        "price": "$19.15",
+        "lot_number": "234907969746",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1996413883481853761/-5254324056445803745.jpg",
+        "date": "3/5/2023",
+        "auction_seller": "ahassl_49",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "68379351",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "46586191",
+        "grade": "8",
+        "lot_number": "175842938378",
+        "auction_seller": "anth_collects",
+        "date": "8/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$11.70",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8395793862151034792/896622469468728883.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1904840639243315511/8993531651345876118.jpg",
+        "auction_seller": "zandgemporium",
+        "cert_number": "56502263",
+        "grade": "9",
+        "date": "3/31/2024",
+        "lot_number": "285779357344",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.19"
+    },
+    {
+        "lot_number": "354665430399",
+        "date": "3/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7691440987513090838/6974215200621038595.jpg",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "cert_number": "72256871",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "chandelure_flame"
+    },
+    {
+        "cert_number": "50170411",
+        "lot_number": "353801765321",
+        "price": "$15.00",
+        "date": "12/12/2021",
+        "auction_seller": "thepocketinvestor",
+        "grade": "8",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-121301720195056780/8521602743213830158.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "lot_number": "255781725481",
+        "auction_seller": "onepizza",
+        "cert_number": "60354666",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8070420440989362648/516517005582004373.jpg",
+        "price": "$8.50",
+        "date": "10/25/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "50170411",
+        "lot_number": "203648946942",
+        "grade": "8",
+        "price": "$9.99",
+        "date": "10/18/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "chriwe-4477",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7923360777858761184/-2387253579882214743.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8665993295880332504/-7183112535440348263.jpg",
+        "price": "$213.86",
+        "auction_type": "Auction",
+        "date": "9/13/2021",
+        "lot_number": "324774966234",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "grade": "10",
+        "cert_number": "48212045"
+    }
+]

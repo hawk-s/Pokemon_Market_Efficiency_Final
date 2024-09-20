@@ -1,0 +1,90 @@
+[
+    {
+        "auction_seller": "zew-shops",
+        "lot_number": "404090951403",
+        "cert_number": "52659202",
+        "date": "1/11/2023",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-288024979052854714/-6616386471421517894.jpg"
+    },
+    {
+        "lot_number": "313826679163",
+        "cert_number": "53409117",
+        "price": "$201.00",
+        "date": "1/17/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1428981845044333749/-3802829064512640970.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "175640006265",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1681242116293377732/7278797318217099398.jpg",
+        "price": "$79.00",
+        "grade": "9",
+        "auction_seller": "pokecbay",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_house": "eBay",
+        "cert_number": "58746893"
+    },
+    {
+        "date": "1/15/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8794711774171599591/-4225366894709800837.jpg",
+        "lot_number": "334692330296",
+        "price": "$77.51",
+        "auction_seller": "juan_7441",
+        "auction_type": "Auction",
+        "cert_number": "66263291",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/27/2023",
+        "auction_seller": "japhil3093",
+        "price": "$74.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8367448135794634844/-7081382661467178.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "49637690",
+        "lot_number": "295536851350"
+    },
+    {
+        "date": "12/12/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7554331758709963999/-3037929293646121709.jpg",
+        "price": "$70.00",
+        "cert_number": "53409121",
+        "auction_type": "Auction",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay",
+        "lot_number": "314259132710",
+        "grade": "10"
+    },
+    {
+        "lot_number": "125581630912",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1024169297077633049/3154281087657605964.jpg",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_seller": "echobasecollectables",
+        "cert_number": "65644802",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/6/2022"
+    },
+    {
+        "lot_number": "254127473786",
+        "auction_seller": "pokelyfe",
+        "auction_type": "Best Offer",
+        "date": "2/28/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8349274342429320069/5890512356679791712.jpg",
+        "cert_number": "42224984",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

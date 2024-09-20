@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "comc_consignment",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5632679735556678720/1981637191332474636.jpg",
+        "cert_number": "51769649",
+        "date": "12/15/2021",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "lot_number": "234315747159",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$14.27",
+        "lot_number": "154751198858",
+        "date": "12/23/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-311996609186505277/-435830072437007881.jpg",
+        "cert_number": "52703930",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "58370151",
+        "date": "3/28/2023",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1741384409230233665/2030099974293381988.jpg",
+        "auction_house": "eBay",
+        "lot_number": "374578878748"
+    },
+    {
+        "lot_number": "154751198575",
+        "date": "12/23/2021",
+        "price": "$12.27",
+        "cert_number": "52703929",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9021460213522660302/-4184847701560668520.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "234315696261",
+        "auction_seller": "comc_consignment",
+        "date": "12/12/2021",
+        "price": "$5.50",
+        "grade": "9",
+        "cert_number": "51769648",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1109601023868609490/3862732468911007729.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$9.38",
+        "date": "3/28/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5170497210446767420/-7699016997020295646.jpg",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "cert_number": "58370150",
+        "auction_type": "Auction",
+        "lot_number": "125838855658",
+        "auction_house": "eBay"
+    }
+]

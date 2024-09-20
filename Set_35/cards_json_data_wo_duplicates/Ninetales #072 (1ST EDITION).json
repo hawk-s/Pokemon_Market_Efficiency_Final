@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$11.84",
+        "auction_seller": "wasik-wasik",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2099421397345788421/4356635383707188964.jpg",
+        "cert_number": "82376031",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/30/2024",
+        "lot_number": "326064291249"
+    },
+    {
+        "auction_seller": "camsinc-5943",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1195706870285307199/7204058384070862404.jpg",
+        "lot_number": "145099738913",
+        "price": "$29.00",
+        "date": "5/30/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "67761453"
+    },
+    {
+        "date": "1/30/2023",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3830751953757982136/-2467505830760313983.jpg",
+        "price": "$41.00",
+        "cert_number": "68608437",
+        "lot_number": "285115149812",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "lot_number": "144992757189",
+        "date": "3/28/2023",
+        "grade": "9",
+        "auction_seller": "esuprojapan",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1016496866884023071/3247346679273991627.jpg",
+        "cert_number": "67761453"
+    },
+    {
+        "cert_number": "41388415",
+        "auction_seller": "pokelyfe",
+        "price": "$15.50",
+        "lot_number": "254539986696",
+        "grade": "9",
+        "date": "3/20/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1348188874468352188/-5519123392169317645.jpg"
+    },
+    {
+        "cert_number": "93277190",
+        "date": "7/12/2024",
+        "lot_number": "156292578360",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2495602188646986880/-1233516800320541425.jpg",
+        "auction_type": "Auction",
+        "price": "$52.99",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "pokedenuk"
+    },
+    {
+        "date": "1/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1695937906354192490/-850807671126395462.jpg",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285115077633",
+        "price": "$47.00",
+        "auction_type": "Auction",
+        "cert_number": "68608459",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

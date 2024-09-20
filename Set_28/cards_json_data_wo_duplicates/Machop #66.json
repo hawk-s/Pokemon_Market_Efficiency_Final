@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "233549656022",
+        "auction_seller": "japan-higasi-116",
+        "price": "$10.00",
+        "date": "4/12/2020",
+        "cert_number": "45415926",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6108230689502061207/-1989467546641310330.jpg"
+    },
+    {
+        "date": "12/27/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-203949142735109545/1488070376054049560.jpg",
+        "auction_seller": "card.galaxy",
+        "cert_number": "58873535",
+        "auction_type": "Auction",
+        "lot_number": "325470411436",
+        "auction_house": "eBay",
+        "price": "$44.62",
+        "grade": "10"
+    },
+    {
+        "lot_number": "256487332211",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3702427647268193030/8521252730633567277.jpg",
+        "date": "4/29/2024",
+        "cert_number": "82011441",
+        "auction_seller": "bryandyeo",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "lot_number": "285391568669",
+        "auction_seller": "zandgemporium",
+        "date": "7/30/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3584469238804322375/7127627833933759622.jpg",
+        "auction_house": "eBay",
+        "cert_number": "61169477",
+        "price": "$8.52"
+    }
+]

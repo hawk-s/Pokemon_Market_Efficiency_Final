@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5106101013522181586/-7873007244925522364.jpg",
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "price": "$29.00",
+        "cert_number": "54999069",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "402857497529"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "cert_number": "54999070",
+        "price": "$28.00",
+        "lot_number": "144044933642",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7947975143253277560/-629625687375671731.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3163627535183894333/-7172691685410791539.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "402857497531",
+        "cert_number": "54999068"
+    }
+]

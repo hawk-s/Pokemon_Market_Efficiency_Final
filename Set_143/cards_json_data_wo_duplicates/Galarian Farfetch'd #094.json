@@ -1,0 +1,24 @@
+[
+    {
+        "date": "4/6/2021",
+        "cert_number": "48660001",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3729070383286660389/-4368945754534300756.jpg",
+        "lot_number": "363338520620",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1159909715300909314/3730943131227414620.jpg",
+        "date": "2/20/2023",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285141903800",
+        "cert_number": "66232803",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    }
+]

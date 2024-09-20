@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "7",
+        "lot_number": "364185015201",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6701557501315277271/1137372573191661230.jpg",
+        "date": "3/24/2023",
+        "price": "$107.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "68959963",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "7/8/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1678343371042125471/7954795845632565087.jpg",
+        "cert_number": "76029921",
+        "lot_number": "325715002933",
+        "grade": "9",
+        "auction_seller": "cmoresstuff",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$187.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3787178725375933250/217071251802448681.jpg",
+        "date": "7/4/2023",
+        "lot_number": "364317334418",
+        "price": "$46.00",
+        "auction_seller": "probstein123",
+        "cert_number": "71731131",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "1"
+    },
+    {
+        "grade": "5",
+        "date": "7/8/2024",
+        "auction_seller": "!natedog",
+        "lot_number": "145863740643",
+        "price": "$64.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7949359398613251156/5816072887249100879.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "87562644"
+    },
+    {
+        "auction_seller": "coso9608",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-226389068164604498/-6069328862195778918.jpg",
+        "lot_number": "185753056122",
+        "date": "2/3/2023",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "cert_number": "63652990",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "375422348199",
+        "date": "5/16/2024",
+        "cert_number": "67539811",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1400755254267653466/5398232043062236237.jpg",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "price": "$460.55",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

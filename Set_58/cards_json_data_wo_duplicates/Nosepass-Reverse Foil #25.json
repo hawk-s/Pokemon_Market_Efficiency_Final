@@ -1,0 +1,24 @@
+[
+    {
+        "date": "3/14/2018",
+        "grade": "8",
+        "lot_number": "112844956932",
+        "auction_seller": "my_honolulu_blue",
+        "cert_number": "28589123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4743038441431761576/-120446461900591545.jpg",
+        "auction_type": "Auction",
+        "price": "$3.99",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "42343235",
+        "date": "11/20/2019",
+        "grade": "9",
+        "price": "$6.06",
+        "lot_number": "174095553227",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7886443237933211643/7192083747378010325.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "svc051"
+    }
+]

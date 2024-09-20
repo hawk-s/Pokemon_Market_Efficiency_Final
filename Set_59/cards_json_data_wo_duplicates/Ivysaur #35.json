@@ -1,0 +1,35 @@
+[
+    {
+        "date": "9/5/2018",
+        "lot_number": "292698906483",
+        "price": "$2.49",
+        "grade": "8",
+        "cert_number": "41072325",
+        "auction_seller": "amtsupply",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4988606336527026340/-1251127297024195422.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.50",
+        "lot_number": "304809290234",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/405067770133772296/-4600713098154027016.jpg",
+        "auction_seller": "strawhatjoey",
+        "auction_type": "Auction",
+        "cert_number": "68507014",
+        "auction_house": "eBay",
+        "date": "2/24/2023"
+    },
+    {
+        "price": "$7.50",
+        "cert_number": "61308688",
+        "grade": "6",
+        "lot_number": "204252652415",
+        "date": "3/4/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/770096871202581546/8198621855243193637.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "ihaveloveforthegame"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "date": "2/3/2023",
+        "cert_number": "68522422",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2812665088243197127/-2840596691827473281.jpg",
+        "price": "$10.00",
+        "lot_number": "275643181028",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "kingindustriesllc925",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8400453309105659870/8718229571253710975.jpg",
+        "cert_number": "68419437",
+        "price": "$26.00",
+        "date": "1/5/2023",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "374430107798"
+    },
+    {
+        "date": "2/5/2023",
+        "auction_seller": "flimflamflips",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2388840453109229944/913911966703087641.jpg",
+        "cert_number": "69407098",
+        "lot_number": "115688281781",
+        "price": "$20.35",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/19/2023",
+        "cert_number": "72390531",
+        "price": "$13.50",
+        "grade": "10",
+        "auction_seller": "supreme-outboard-parts",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6996926494893060201/8115142883842283654.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285326912446"
+    },
+    {
+        "lot_number": "364757555568",
+        "date": "3/6/2024",
+        "price": "$7.80",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "78374648",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8851871558613307542/-953884921589286695.jpg"
+    },
+    {
+        "auction_seller": "cardzdirect",
+        "lot_number": "266159675511",
+        "cert_number": "67913150",
+        "grade": "8",
+        "price": "$5.00",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7265372836207488624/8488949226959124163.jpg"
+    },
+    {
+        "cert_number": "69400935",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7807190118940879365/-1383740927839294131.jpg",
+        "auction_seller": "tntcardsms",
+        "grade": "9",
+        "date": "1/11/2023",
+        "lot_number": "195544133117",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "price": "$20.50",
+        "auction_seller": "collectarare",
+        "date": "2/4/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7657635166231456882/7654926472021768648.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "70571119",
+        "lot_number": "334720833758"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1787170036683256682/-1161114388546042444.jpg",
+        "price": "$4.25",
+        "lot_number": "314577991722",
+        "grade": "9",
+        "auction_seller": "damget0",
+        "cert_number": "66343623",
+        "auction_type": "Auction",
+        "date": "5/14/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "91561597",
+        "auction_seller": "junkdrawercards2",
+        "date": "6/10/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6276250189801471558/-7657098827393443982.jpg",
+        "price": "$5.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "315397539714"
+    },
+    {
+        "date": "12/8/2023",
+        "lot_number": "276193116994",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5163813631354922533/2393749778087879340.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "cert_number": "80285653",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

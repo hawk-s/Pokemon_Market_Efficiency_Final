@@ -1,0 +1,46 @@
+[
+    {
+        "date": "2/18/2023",
+        "price": "$9.50",
+        "cert_number": "68877197",
+        "grade": "9",
+        "lot_number": "266127430073",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "bobcatgolfer24",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4231155687189607768/3050615638389051412.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5894261144242774454/4949984084692853087.jpg",
+        "price": "$13.77",
+        "date": "8/8/2024",
+        "grade": "9",
+        "lot_number": "116274048110",
+        "auction_type": "Auction",
+        "cert_number": "92506096",
+        "auction_house": "eBay",
+        "auction_seller": "lunacardsau"
+    },
+    {
+        "date": "9/5/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3526721326928457950/111203196181515328.jpg",
+        "grade": "8",
+        "lot_number": "292698914878",
+        "auction_seller": "amtsupply",
+        "cert_number": "41072332",
+        "auction_type": "Auction",
+        "price": "$3.99",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "41633699",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8699048796629157145/-3889803027480276840.jpg",
+        "date": "11/2/2019",
+        "lot_number": "153696134671",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_seller": "pokecheese",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

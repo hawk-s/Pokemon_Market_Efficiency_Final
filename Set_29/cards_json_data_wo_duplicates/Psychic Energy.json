@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$19.50",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "353279090061",
+        "cert_number": "45407109",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8963047357955315947/8073323832853971274.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/26/2020"
+    },
+    {
+        "cert_number": "53719662",
+        "price": "$6.68",
+        "date": "2/3/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7660446663688386036/-8031897526765887066.jpg",
+        "grade": "8",
+        "auction_seller": "deadeyemudd",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "325513538044"
+    },
+    {
+        "grade": "7",
+        "cert_number": "56811757",
+        "lot_number": "176330034513",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6214036646082797900/7350009049542797081.jpg",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "price": "$1.25",
+        "auction_seller": "kevinlo92"
+    },
+    {
+        "date": "4/26/2020",
+        "lot_number": "254535890028",
+        "cert_number": "45433318",
+        "auction_type": "Best Offer",
+        "auction_seller": "tsunagu",
+        "price": "$25.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7857209549386094278/4483689532285550371.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "z00kers",
+        "cert_number": "84667047",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6271043911408848767/9188644160124746663.jpg",
+        "auction_type": "Auction",
+        "date": "5/20/2024",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "lot_number": "156204731311"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$13.50",
+        "cert_number": "45407108",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8366287198138713620/2797768527501352015.jpg",
+        "lot_number": "353279089957",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/26/2020"
+    },
+    {
+        "date": "3/9/2020",
+        "price": "$11.60",
+        "cert_number": "45433319",
+        "auction_seller": "tsunagu",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1195400889747978407/444586420659548319.jpg",
+        "lot_number": "254528922040",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3894485991053025771/-1471324558952634936.jpg",
+        "price": "$36.50",
+        "cert_number": "48504692",
+        "lot_number": "184871317795",
+        "date": "6/12/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "tcghit_70"
+    }
+]

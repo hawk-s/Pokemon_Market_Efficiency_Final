@@ -1,0 +1,24 @@
+[
+    {
+        "cert_number": "41441226",
+        "lot_number": "133476401942",
+        "price": "$11.50",
+        "date": "8/3/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1382474179138930834/2836446678388917095.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "mar.thiel",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "41441226",
+        "date": "12/18/2018",
+        "lot_number": "292862755465",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3531252304881780929/-8818880239913093265.jpg",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$0.99"
+    }
+]

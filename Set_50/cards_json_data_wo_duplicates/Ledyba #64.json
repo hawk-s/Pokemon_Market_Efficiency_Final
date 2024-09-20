@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4693299630879992218/3956806953196134440.jpg",
+        "cert_number": "27743836",
+        "price": "$3.25",
+        "auction_seller": "tnolan0816",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "292314264283"
+    },
+    {
+        "date": "2/21/2023",
+        "lot_number": "115699404713",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5383262982189710356/9187786003522590393.jpg",
+        "price": "$17.84",
+        "auction_type": "Auction",
+        "cert_number": "60923086",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "27743836",
+        "lot_number": "292316469114",
+        "date": "11/13/2017",
+        "auction_seller": "tnolan0816",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4643027988792766116/3443919712650558742.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "334997902676",
+        "price": "$10.50",
+        "auction_seller": "cpgcollectibles",
+        "cert_number": "78750425",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5389508078628620704/8842738814843782585.jpg",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

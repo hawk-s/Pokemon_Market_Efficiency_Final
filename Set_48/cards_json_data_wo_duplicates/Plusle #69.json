@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "habbyshobbies",
+        "lot_number": "384346546120",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "cert_number": "48545078",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2085159741721021903/784151974411770327.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    },
+    {
+        "lot_number": "375527575277",
+        "cert_number": "67317385",
+        "date": "7/16/2024",
+        "auction_seller": "probstein123",
+        "price": "$92.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1713102715953617767/-5209369856923510914.jpg"
+    },
+    {
+        "lot_number": "186502950663",
+        "cert_number": "73922069",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$37.95",
+        "auction_house": "eBay",
+        "date": "6/28/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3843557610006450896/3347036602289068584.jpg",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "lot_number": "334600164445",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8350177782378733769/-4025233742627318874.jpg",
+        "price": "$26.00",
+        "cert_number": "59667569",
+        "date": "10/29/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles",
+        "grade": "10"
+    }
+]

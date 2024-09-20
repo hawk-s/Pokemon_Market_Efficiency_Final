@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "letocards",
+        "cert_number": "51389902",
+        "date": "9/12/2021",
+        "lot_number": "124884855655",
+        "price": "$31.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3826588824859114353/7767735644894740507.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "142836549257",
+        "price": "$2.03",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8040594121379816125/-2294836281322057483.jpg",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "cert_number": "40771389"
+    },
+    {
+        "auction_seller": "supercards_vault",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8061228855848370654/-6254753580058187923.jpg",
+        "cert_number": "53179680",
+        "date": "2/26/2023",
+        "grade": "9",
+        "lot_number": "325541411645",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "lot_number": "192275448482",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2177262366368027097/-2607922564225295895.jpg",
+        "auction_type": "Buy It Now",
+        "date": "8/20/2017",
+        "cert_number": "27667877",
+        "price": "$19.99",
+        "auction_seller": "my_honolulu_blue",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/20/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3703657449803368662/7225723033242407257.jpg",
+        "lot_number": "112867389715",
+        "cert_number": "27837013",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "lot_number": "122362840955",
+        "auction_type": "Best Offer",
+        "auction_seller": "pokemon_revolution",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9095132254199177734/-3246089661180539539.jpg",
+        "grade": "9",
+        "date": "7/13/2020",
+        "cert_number": "26693769",
+        "price": "$12.99",
+        "auction_house": "eBay"
+    }
+]

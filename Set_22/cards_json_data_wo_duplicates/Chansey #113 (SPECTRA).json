@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "presidiogaming",
+        "cert_number": "43605340",
+        "price": "$56.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1314004555326427977/3014987771845713220.jpg",
+        "lot_number": "352837663736",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "55272631",
+        "grade": "9",
+        "price": "$90.00",
+        "auction_seller": "probstein123",
+        "lot_number": "373976247847",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/22/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6319067692994776374/-8348427960518338018.jpg"
+    },
+    {
+        "lot_number": "334924167100",
+        "cert_number": "75409586",
+        "grade": "7",
+        "price": "$20.00",
+        "date": "7/1/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4298906756221778439/-5306939556710270474.jpg",
+        "auction_seller": "kadi_8177",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-702597220855678859/-7505104947282651930.jpg",
+        "auction_seller": "danieburges8",
+        "date": "8/2/2024",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "166888272219",
+        "grade": "10",
+        "cert_number": "93626747"
+    },
+    {
+        "auction_seller": "bbcexchange2",
+        "cert_number": "46353026",
+        "price": "$222.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7651711208472384772/6865559476872948096.jpg",
+        "date": "9/21/2020",
+        "lot_number": "373205046038"
+    }
+]

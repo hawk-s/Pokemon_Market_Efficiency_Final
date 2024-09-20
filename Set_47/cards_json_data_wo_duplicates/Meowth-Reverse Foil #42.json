@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "4",
+        "price": "$20.00",
+        "cert_number": "57779947",
+        "date": "12/11/2022",
+        "lot_number": "225276979302",
+        "auction_seller": "havocandtyler",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/245376766771904371/7597461552092911396.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/5/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1994820331671572659/6821659502622303521.jpg",
+        "cert_number": "43350550",
+        "auction_type": "Best Offer",
+        "price": "$39.99",
+        "lot_number": "283565256861",
+        "grade": "9",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "10/4/2021",
+        "grade": "8",
+        "auction_seller": "voochil_0",
+        "cert_number": "48847040",
+        "price": "$10.02",
+        "lot_number": "224630157018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6536206258898134411/-3906663760835552127.jpg"
+    },
+    {
+        "grade": "5",
+        "price": "$12.00",
+        "lot_number": "4806",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/1797813885063820834/images/1.jpg",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "cert_number": "73874674",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "5/11/2023"
+    },
+    {
+        "grade": "5",
+        "date": "6/2/2024",
+        "price": "$13.50",
+        "auction_seller": "jdubzzzzz",
+        "lot_number": "126500823432",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "86405393",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2836896851427848822/-5987348850064891151.jpg"
+    }
+]

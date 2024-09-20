@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5815475230836358836/-606135697117782184.jpg",
+        "lot_number": "115112640387",
+        "date": "12/3/2021",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$4.29",
+        "auction_seller": "french_berg",
+        "auction_house": "eBay",
+        "cert_number": "48141228"
+    },
+    {
+        "price": "$16.10",
+        "grade": "8",
+        "date": "1/20/2021",
+        "auction_type": "Auction",
+        "lot_number": "114629225599",
+        "auction_seller": "french_berg",
+        "auction_house": "eBay",
+        "cert_number": "48141228",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7878834699682368849/-3836562738997120318.jpg"
+    },
+    {
+        "auction_seller": "djbrluton",
+        "date": "8/19/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2618638444539788642/8532561432501118852.jpg",
+        "lot_number": "126049938359",
+        "price": "$8.27",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68657538"
+    },
+    {
+        "price": "$10.50",
+        "date": "11/5/2018",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "28350361",
+        "auction_seller": "pokemon4life101",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8722880405783756239/-616417204108820399.jpg",
+        "lot_number": "253956205011"
+    },
+    {
+        "price": "$13.77",
+        "auction_seller": "djbrluton",
+        "lot_number": "125789037769",
+        "grade": "6",
+        "date": "3/3/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8421859690399159330/-7017802392710563122.jpg",
+        "cert_number": "68657538"
+    }
+]

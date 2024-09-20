@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6368248716304313604/-202916760238743390.jpg",
+        "cert_number": "56293035",
+        "lot_number": "355081571974",
+        "auction_seller": "vispri-21",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/29/2023",
+        "price": "$22.21",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9038220420537970653/5053491678515561821.jpg",
+        "cert_number": "57526446",
+        "date": "9/13/2022",
+        "price": "$19.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "385101001692"
+    },
+    {
+        "grade": "5",
+        "date": "9/13/2022",
+        "cert_number": "57526447",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3430624330747856142/84918983324736268.jpg",
+        "lot_number": "363970470862",
+        "price": "$0.99"
+    },
+    {
+        "lot_number": "374251416524",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5808212624574410538/7753118811454762013.jpg",
+        "date": "9/20/2022",
+        "price": "$15.53",
+        "cert_number": "61214161",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

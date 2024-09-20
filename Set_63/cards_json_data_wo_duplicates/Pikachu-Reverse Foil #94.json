@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "332754363526",
+        "price": "$20.00",
+        "date": "10/22/2018",
+        "auction_seller": "dakatwo",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "cert_number": "28855857",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8503132426760614321/-363910481741712180.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4660658412525996412/3104515734015285965.jpg",
+        "auction_seller": "jormuzz_62",
+        "date": "12/4/2023",
+        "grade": "8",
+        "lot_number": "126208144403",
+        "auction_type": "Auction",
+        "cert_number": "65975181",
+        "auction_house": "eBay",
+        "price": "$19.91"
+    },
+    {
+        "auction_seller": "tannah12",
+        "price": "$135.84",
+        "cert_number": "60764681",
+        "grade": "9",
+        "lot_number": "155498600320",
+        "date": "4/18/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-755627681207099775/-7090458490762300850.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$191.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2522011604215544184/-6483984438030700086.jpg",
+        "cert_number": "55684533",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "294762408118",
+        "date": "1/30/2022"
+    }
+]

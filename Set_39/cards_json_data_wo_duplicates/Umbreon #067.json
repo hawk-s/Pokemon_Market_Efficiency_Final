@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "79279115",
+        "auction_seller": "gymleadertaylor",
+        "date": "10/14/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4438367127782025080/7452356806425695568.jpg",
+        "lot_number": "196013002298",
+        "auction_type": "Auction",
+        "price": "$305.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/19/2024",
+        "lot_number": "355791001994",
+        "price": "$76.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-379205972356278562/-3626406771089627060.jpg",
+        "grade": "9",
+        "auction_seller": "cardkorner",
+        "cert_number": "88373755",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "cert_number": "41972850",
+        "date": "12/2/2018",
+        "lot_number": "123509647793",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/873616971312934378/-2670892900995609364.jpg"
+    }
+]

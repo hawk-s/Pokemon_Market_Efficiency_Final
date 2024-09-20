@@ -1,0 +1,101 @@
+[
+    {
+        "price": "$45.77",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6261429608395385007/-9186467412144898467.jpg",
+        "cert_number": "49764324",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "lot_number": "324912718928",
+        "date": "12/7/2021"
+    },
+    {
+        "lot_number": "134496795883",
+        "date": "3/27/2023",
+        "cert_number": "55667328",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-525698051379484752/-2984326550126039179.jpg",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "auction_seller": "shaneequarayquaza70",
+        "grade": "8",
+        "cert_number": "47748903",
+        "auction_house": "eBay",
+        "price": "$63.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5530827729003455617/1969461506393699614.jpg",
+        "date": "3/26/2021",
+        "lot_number": "265091824072"
+    },
+    {
+        "lot_number": "374263251452",
+        "cert_number": "54889718",
+        "grade": "6",
+        "auction_seller": "probstein123",
+        "price": "$12.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7478566441931017886/7910119261539845137.jpg",
+        "date": "9/27/2022"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-173840018638209374/5804348877431887315.jpg",
+        "date": "10/30/2021",
+        "price": "$46.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "234246776309",
+        "cert_number": "48724685"
+    },
+    {
+        "cert_number": "57372804",
+        "price": "$68.75",
+        "grade": "9",
+        "lot_number": "115510396113",
+        "auction_seller": "ccgcrazy",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2211056642121320377/-4133138665329630403.jpg",
+        "auction_house": "eBay",
+        "date": "9/7/2022"
+    },
+    {
+        "cert_number": "57372804",
+        "lot_number": "374318963350",
+        "auction_seller": "fusionproton",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$108.50",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2676156461539654655/-4092985938041211107.jpg",
+        "date": "10/31/2022"
+    },
+    {
+        "grade": "5",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Apr 25 - May 4",
+        "cert_number": "72609270",
+        "lot_number": "4645",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "date": "5/4/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3698167823570495137/-136860944144500760/images/1.jpg"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2429992227542487665/-4185189202341693219.jpg",
+        "auction_seller": "m-island",
+        "cert_number": "76499520",
+        "date": "4/2/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "156140430238",
+        "price": "$10.98"
+    }
+]

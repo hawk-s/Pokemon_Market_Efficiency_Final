@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "47558586",
+        "price": "$13.00",
+        "date": "5/22/2021",
+        "lot_number": "154453726598",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8665887047139152501/8057901792825052597.jpg",
+        "grade": "9",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/5/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1062162136499804971/-8074975510714135906.jpg",
+        "cert_number": "43350581",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "price": "$49.99",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "lot_number": "283565256952"
+    },
+    {
+        "price": "$4.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6788295156039599281/8369950595727220588.jpg",
+        "grade": "8",
+        "auction_seller": "modeldudewilliam",
+        "lot_number": "292671859610",
+        "cert_number": "41170993",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/12/2018"
+    },
+    {
+        "cert_number": "46647316",
+        "date": "1/25/2021",
+        "lot_number": "184625941960",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "extremecards_collectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4785529719524457564/1497936320426186273.jpg",
+        "price": "$18.50"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "3/27/2023",
+        "price": "$45.00",
+        "cert_number": "71545953",
+        "auction_seller": "ebisu-ya",
+        "grade": "8",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/153414271594700066/8021855426528941480.jpg",
+        "auction_house": "eBay",
+        "lot_number": "394525094982"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4391297887949989670/233848346259413826.jpg",
+        "cert_number": "77225101",
+        "auction_seller": "gymleadertaylor",
+        "price": "$49.00",
+        "date": "9/23/2023",
+        "grade": "9",
+        "lot_number": "195979895720",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/3/2023",
+        "auction_seller": "emcoo5092",
+        "price": "$34.91",
+        "grade": "8",
+        "lot_number": "225492008968",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3964849538930653268/-8703696578389946907.jpg",
+        "cert_number": "69542246"
+    },
+    {
+        "lot_number": "386965209341",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7466302712253033199/6319578689338534815.jpg",
+        "price": "$165.00",
+        "auction_seller": "japan-shop-ninja",
+        "cert_number": "78840240",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/9/2024",
+        "grade": "10"
+    }
+]

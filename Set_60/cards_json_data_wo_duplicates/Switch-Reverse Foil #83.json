@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1812873147826090436/438654489750829504.jpg",
+        "cert_number": "66513014",
+        "lot_number": "374470146925",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/27/2023",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6022838048824590771/-7561729271237379711.jpg",
+        "auction_seller": "rhscards",
+        "price": "$34.99",
+        "auction_type": "Best Offer",
+        "date": "5/2/2020",
+        "auction_house": "eBay",
+        "lot_number": "362782413319",
+        "cert_number": "43938510",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3566014272230038594/-4027911854117087017.jpg",
+        "lot_number": "143659788350",
+        "price": "$27.00",
+        "date": "7/28/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "43938510",
+        "grade": "10"
+    },
+    {
+        "price": "$36.95",
+        "auction_seller": "andad_3967",
+        "cert_number": "68259946",
+        "lot_number": "125811505505",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/16/2023",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6176116137405315154/2453208591070729726.jpg"
+    }
+]

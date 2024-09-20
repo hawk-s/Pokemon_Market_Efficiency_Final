@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$26.00",
+        "cert_number": "57991588",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8430957703715989206/-8823415055882187386.jpg",
+        "date": "12/7/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "lot_number": "314247673597"
+    },
+    {
+        "lot_number": "313467446792",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5891088321685315497/-3493938504100710195.jpg",
+        "cert_number": "52648078",
+        "grade": "9",
+        "date": "4/1/2021",
+        "price": "$51.00",
+        "auction_seller": "shopdrifthouse",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "bonus-oceans",
+        "date": "7/18/2024",
+        "price": "$5.50",
+        "grade": "9",
+        "cert_number": "56602914",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "276546505051",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8706872868920054498/-3534519323109965090.jpg"
+    },
+    {
+        "price": "$14.99",
+        "lot_number": "275297387221",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3786876547258689438/3350372800904759138.jpg",
+        "grade": "9",
+        "auction_seller": "ronnyberry1",
+        "auction_type": "Auction",
+        "date": "5/8/2022",
+        "auction_house": "eBay",
+        "cert_number": "54315615"
+    }
+]

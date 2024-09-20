@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6251775992853252402/97020759092832593.jpg",
+        "price": "$29.04",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "73922141",
+        "lot_number": "186501517627",
+        "grade": "10",
+        "date": "6/24/2024",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "lot_number": "292314776844",
+        "price": "$3.25",
+        "auction_seller": "tnolan0816",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7343904040480948777/1870324368129481151.jpg",
+        "cert_number": "27743672",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "186502942649",
+        "cert_number": "67114360",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4310515977054357757/8912109634289997155.jpg",
+        "date": "7/1/2024",
+        "grade": "9",
+        "price": "$31.60",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokedreammarket"
+    }
+]

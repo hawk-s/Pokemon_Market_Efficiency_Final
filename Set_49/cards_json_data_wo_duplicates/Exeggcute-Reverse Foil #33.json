@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "285776308462",
+        "cert_number": "41034289",
+        "price": "$73.53",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5542199455952803175/4667149834740424119.jpg",
+        "date": "3/31/2024",
+        "auction_seller": "sakuracache",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "286023129307",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2220699762422015752/-5006148036153601023.jpg",
+        "date": "9/2/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "92398171",
+        "price": "$91.00",
+        "grade": "10"
+    },
+    {
+        "date": "6/22/2024",
+        "lot_number": "235608496251",
+        "cert_number": "92267767",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7601489400278699097/5840004962179145930.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "thecoronetcave",
+        "price": "$18.00"
+    },
+    {
+        "lot_number": "383947690278",
+        "price": "$20.00",
+        "cert_number": "47585558",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/827417935582562920/-5481407300015338894.jpg",
+        "grade": "9",
+        "auction_seller": "usasportscardstore",
+        "auction_type": "Auction",
+        "date": "2/16/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1224867993856989103/-4036051387361966476.jpg",
+        "date": "11/7/2021",
+        "lot_number": "373771017546",
+        "auction_seller": "dacardworld",
+        "cert_number": "47001071",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$71.00"
+    },
+    {
+        "date": "11/8/2021",
+        "lot_number": "265377997945",
+        "auction_seller": "4_sharp_corners",
+        "cert_number": "63149007",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2284286245725867370/-7267393479146650964.jpg"
+    },
+    {
+        "date": "12/20/2022",
+        "lot_number": "115637736051",
+        "auction_seller": "editionsportscards",
+        "price": "$62.82",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4508436679225839636/-2124164594515839532.jpg",
+        "grade": "10",
+        "cert_number": "68332259"
+    }
+]

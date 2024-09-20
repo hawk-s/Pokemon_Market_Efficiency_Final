@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$9.50",
+        "auction_seller": "saiko_collectibles",
+        "grade": "8",
+        "lot_number": "405067921876",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6482269325938465013/-9157809280883287508.jpg",
+        "date": "7/7/2024",
+        "cert_number": "76213184",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/30/2023",
+        "grade": "7",
+        "lot_number": "314342544731",
+        "cert_number": "53411424",
+        "price": "$10.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "drews.gaming.galaxy",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2381815304891117286/1049781227893364669.jpg"
+    },
+    {
+        "cert_number": "53411421",
+        "date": "12/13/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/333739234317551469/2088113223534136645.jpg",
+        "grade": "6",
+        "price": "$5.50",
+        "lot_number": "313781931167",
+        "auction_type": "Auction",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "tomczak69",
+        "cert_number": "88887591",
+        "grade": "8",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3182433904402184251/-1921171634763260349.jpg",
+        "auction_house": "eBay",
+        "lot_number": "305495325512",
+        "price": "$29.99",
+        "date": "4/13/2024"
+    },
+    {
+        "date": "4/21/2024",
+        "lot_number": "305505135321",
+        "auction_seller": "pennytrader",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6015391652033657041/7299335361149537255.jpg",
+        "cert_number": "47154929",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "174565268299",
+        "auction_type": "Best Offer",
+        "cert_number": "47154929",
+        "date": "3/9/2021",
+        "auction_seller": "midjetman69_6",
+        "grade": "9",
+        "price": "$220.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-834284867547277110/-4745829311216917467.jpg",
+        "auction_house": "eBay"
+    }
+]

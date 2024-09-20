@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "cardboundllc",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "date": "8/29/2020",
+        "cert_number": "43759050",
+        "lot_number": "223817310777",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4807712661627078539/4031351884455350081.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$99.28",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8339698830082766962/2363739204083892828.jpg",
+        "auction_seller": "goldrush_cards",
+        "cert_number": "73613960",
+        "lot_number": "235064689312",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/2/2023"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "402557626616",
+        "price": "$41.00",
+        "auction_type": "Auction",
+        "cert_number": "46135773",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6266386628185839310/-7988615732713795505.jpg",
+        "date": "11/26/2020"
+    }
+]

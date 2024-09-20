@@ -1,0 +1,46 @@
+[
+    {
+        "date": "3/24/2024",
+        "lot_number": "386865849170",
+        "price": "$20.50",
+        "cert_number": "74782727",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9090700909315051911/-3921791011480947309.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "nimel_3155"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8137206705931504786/2496129792596410671.jpg",
+        "date": "8/15/2023",
+        "lot_number": "364394310507",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "77957712",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "89507906",
+        "price": "$5.50",
+        "auction_seller": "pattontradingco",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7916544098255984586/1469354865255067660.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "5/13/2024",
+        "lot_number": "176361281080"
+    },
+    {
+        "lot_number": "386148837215",
+        "price": "$18.27",
+        "cert_number": "77501298",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5194836866156927717/7020983981599715637.jpg",
+        "auction_seller": "probstein123",
+        "date": "10/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

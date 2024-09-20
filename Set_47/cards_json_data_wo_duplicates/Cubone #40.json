@@ -1,0 +1,35 @@
+[
+    {
+        "date": "5/17/2022",
+        "cert_number": "49867589",
+        "price": "$21.61",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5168925997885880321/-6543353093023820639.jpg",
+        "grade": "9",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "lot_number": "284809045592",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6329524542816289131/5445939817073353872.jpg",
+        "date": "7/8/2024",
+        "cert_number": "91944427",
+        "price": "$52.47",
+        "grade": "10",
+        "auction_seller": "vintagetcg11",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "375515206391"
+    },
+    {
+        "lot_number": "374403633869",
+        "date": "12/20/2022",
+        "cert_number": "65649475",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3655289224694163921/947774740258620169.jpg",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$10.50",
+        "grade": "10",
+        "cert_number": "58376037",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2184904866227990495/1089999069313283307.jpg",
+        "auction_seller": "knwmadcardgroup",
+        "auction_type": "Auction",
+        "date": "6/23/2023",
+        "auction_house": "eBay",
+        "lot_number": "404336939541"
+    },
+    {
+        "date": "2/13/2023",
+        "cert_number": "57000640",
+        "auction_seller": "pokebulb",
+        "lot_number": "185769400652",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6709772928562223373/4849890770202613551.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.00"
+    }
+]

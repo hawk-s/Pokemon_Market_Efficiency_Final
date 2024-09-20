@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "bidoveru",
+        "date": "7/30/2024",
+        "cert_number": "41643888",
+        "price": "$31.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6788360557862072420/8722962711133573720.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "315550260665",
+        "grade": "10"
+    },
+    {
+        "date": "5/16/2021",
+        "auction_seller": "maraval_16",
+        "lot_number": "154449190438",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/974976999154940396/4581994774594206755.jpg",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "50945397"
+    },
+    {
+        "price": "$42.99",
+        "auction_type": "Buy It Now",
+        "auction_seller": "i_love_shoes15",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5070733414305735285/4846807754855372725.jpg",
+        "cert_number": "44771323",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/21/2020",
+        "lot_number": "124041041631"
+    },
+    {
+        "lot_number": "283670305688",
+        "date": "7/23/2020",
+        "auction_type": "Buy It Now",
+        "price": "$39.99",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3301546505951681795/-3991590800504410741.jpg",
+        "cert_number": "44913003",
+        "auction_seller": "cardhouse_eu",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/107909687518527225/7505928662449330151.jpg",
+        "cert_number": "27637237",
+        "price": "$26.01",
+        "date": "9/19/2017",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "192304941351",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6055602742234288925/-7881726027996397943.jpg",
+        "price": "$3.25",
+        "grade": "7",
+        "lot_number": "395479376446",
+        "date": "6/26/2024",
+        "auction_type": "Auction",
+        "cert_number": "91567170",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid"
+    }
+]

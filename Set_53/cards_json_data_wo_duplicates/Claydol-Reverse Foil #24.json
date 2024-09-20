@@ -1,0 +1,46 @@
+[
+    {
+        "date": "11/15/2021",
+        "lot_number": "324865836680",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5605391357734429578/-6783427707985979181.jpg",
+        "cert_number": "49764395",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "price": "$40.56"
+    },
+    {
+        "date": "12/20/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2645729219958226134/-6783427707985979181.jpg",
+        "cert_number": "49764395",
+        "grade": "9",
+        "price": "$33.53",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "lot_number": "324931812905"
+    },
+    {
+        "date": "12/31/2022",
+        "auction_seller": "games_cards_collectibles",
+        "grade": "9",
+        "lot_number": "144872487471",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "48329035",
+        "price": "$32.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7124209323990790365/1802069824505151402.jpg"
+    },
+    {
+        "date": "9/27/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6250980863580563599/9137239877022043055.jpg",
+        "lot_number": "353682470132",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "the1-up",
+        "price": "$28.00",
+        "cert_number": "48329035",
+        "auction_house": "eBay"
+    }
+]

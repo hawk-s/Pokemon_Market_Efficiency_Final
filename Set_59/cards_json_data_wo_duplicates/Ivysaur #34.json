@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "192598632800",
+        "price": "$7.50",
+        "date": "7/21/2018",
+        "auction_seller": "pokegottacatchem",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4626479355259141774/739755629456023657.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41078861"
+    },
+    {
+        "lot_number": "292607569811",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2047271606214174331/4157813343177533417.jpg",
+        "price": "$6.00",
+        "auction_seller": "amtsupply",
+        "cert_number": "41038357",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "grade": "10"
+    },
+    {
+        "lot_number": "292381786649",
+        "auction_seller": "tnolan0816",
+        "cert_number": "28455393",
+        "date": "12/30/2017",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1741645116819180288/998344238560474627.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$9.50",
+        "date": "7/2/2018",
+        "lot_number": "292618156348",
+        "auction_seller": "amtsupply",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7613784424604922581/4157813343177533417.jpg",
+        "auction_type": "Auction",
+        "cert_number": "41038357",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "234347709651",
+        "auction_seller": "comc_consignment",
+        "cert_number": "51346943",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3118565879477231932/-6200988083701623385.jpg",
+        "price": "$15.50",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/1/2022"
+    },
+    {
+        "cert_number": "43350559",
+        "auction_type": "Best Offer",
+        "lot_number": "283565256964",
+        "date": "5/30/2020",
+        "price": "$26.99",
+        "grade": "9",
+        "auction_seller": "cooltrainerryan",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7848924174711936169/3364168698228219159.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6036603485062731307/-7577274695398885219.jpg",
+        "grade": "7",
+        "lot_number": "176457477860",
+        "cert_number": "66691453",
+        "auction_seller": "rainydaycards",
+        "price": "$9.38",
+        "date": "7/12/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "",
+        "cert_number": "43350559",
+        "auction_seller": "tonescards",
+        "auction_type": "Buy It Now",
+        "lot_number": "371016123065",
+        "date": "5/19/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2949074631737240343/4228568139182386830.jpg",
+        "price": "$19.80",
+        "auction_house": "eBay"
+    }
+]

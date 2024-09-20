@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "japan-daisuki",
+        "date": "10/18/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5070755979460133638/-2302866133537017811.jpg",
+        "auction_type": "Auction",
+        "cert_number": "55377433",
+        "auction_house": "eBay",
+        "price": "$10.47",
+        "grade": "10",
+        "lot_number": "133900544078"
+    },
+    {
+        "auction_seller": "fleekkidz",
+        "cert_number": "88155571",
+        "price": "$10.00",
+        "lot_number": "135003173252",
+        "auction_type": "Auction",
+        "date": "4/8/2024",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7283941421936612185/2976514204327359238.jpg"
+    },
+    {
+        "cert_number": "63302422",
+        "price": "$22.60",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8327799475617036968/1911360317892267512.jpg",
+        "auction_seller": "vispri-21",
+        "lot_number": "355007057216",
+        "date": "9/27/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "334913168527",
+        "auction_seller": "tomdawsonclothing",
+        "cert_number": "61657384",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-417804117107878876/-9186261072879456891.jpg",
+        "price": "$22.28",
+        "auction_type": "Auction",
+        "date": "6/22/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "59749196",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2328740707970765314/8324237559842062525.jpg",
+        "auction_seller": "new_in_wv",
+        "lot_number": "145284763526",
+        "date": "9/13/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$20.59",
+        "grade": "10"
+    },
+    {
+        "lot_number": "373817403445",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3233278676069524287/-1488934272583466641.jpg",
+        "cert_number": "58908779",
+        "date": "12/12/2021",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

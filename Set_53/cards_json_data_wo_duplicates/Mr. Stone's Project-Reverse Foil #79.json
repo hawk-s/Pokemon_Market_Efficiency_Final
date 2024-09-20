@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "335388849399",
+        "cert_number": "69004460",
+        "date": "5/18/2024",
+        "price": "$52.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3157118948808756277/4441934863032373103.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "wixtrixtcg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "47558665",
+        "grade": "7",
+        "date": "5/22/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3432272815234463308/-6282753402879845069.jpg",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "lot_number": "154453639116",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3240615463794020372/-6824974718678114796.jpg",
+        "lot_number": "185058676634",
+        "auction_seller": "apmerchant02",
+        "date": "9/29/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "cert_number": "51424300"
+    }
+]

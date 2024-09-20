@@ -1,0 +1,57 @@
+[
+    {
+        "date": "6/11/2021",
+        "lot_number": "384202758087",
+        "auction_seller": "probstein123",
+        "cert_number": "48241396",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1414153597952203952/32942536591549775.jpg",
+        "grade": "10",
+        "price": "$128.50"
+    },
+    {
+        "date": "9/7/2020",
+        "lot_number": "303612621993",
+        "auction_type": "Best Offer",
+        "auction_seller": "pumas_12841",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1764596007537636938/-4101285285431238100.jpg",
+        "cert_number": "45444796",
+        "price": "$45.80",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "44503818",
+        "date": "4/18/2020",
+        "auction_seller": "poketomspokemon",
+        "auction_type": "Buy It Now",
+        "price": "$33.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7498327659317026030/-4807558919253286923.jpg",
+        "lot_number": "283802446139",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/17/2020",
+        "lot_number": "174255198451",
+        "auction_type": "Buy It Now",
+        "auction_seller": "cardcavecentral",
+        "price": "$22.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8025284170055948230/-4085933502190322662.jpg",
+        "cert_number": "45444796",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1284216083082344269/6136517903986601931.jpg",
+        "price": "$15.70",
+        "lot_number": "363648440297",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "12/15/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "51030814"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "date": "11/22/2021",
+        "cert_number": "57589390",
+        "price": "$187.56",
+        "lot_number": "115085449008",
+        "auction_seller": "card_secret",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6818299396719376768/-8695303107943577992.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$80.78",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8697829566742422372/3559465425234651944.jpg",
+        "cert_number": "62871077",
+        "auction_house": "eBay",
+        "date": "8/28/2023",
+        "auction_type": "Auction",
+        "lot_number": "314784709473",
+        "auction_seller": "rudolf0694",
+        "grade": "10"
+    },
+    {
+        "date": "4/26/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2698783549710544179/2782855099636002787.jpg",
+        "cert_number": "68637561",
+        "price": "$74.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "364223833092"
+    },
+    {
+        "cert_number": "72767069",
+        "lot_number": "325618754535",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6210633164055415887/6396188666718103266.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/24/2023",
+        "price": "$32.00",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "auction_seller": "gymleadertaylor",
+        "cert_number": "72046860",
+        "date": "4/22/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2102284713731573002/-7700174748466294799.jpg",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "lot_number": "195703868030",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2246584436635984128/-2567070187616486768.jpg",
+        "lot_number": "155275088574",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_seller": "ash69_91",
+        "cert_number": "68097620",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/5/2022"
+    }
+]

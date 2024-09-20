@@ -1,0 +1,57 @@
+[
+    {
+        "date": "6/27/2023",
+        "price": "$42.69",
+        "auction_seller": "westicide92",
+        "grade": "9",
+        "cert_number": "52659293",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-99258844771485320/2134054947391577009.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "125984337632"
+    },
+    {
+        "price": "$26.00",
+        "cert_number": "49377515",
+        "lot_number": "313614042172",
+        "date": "8/8/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4437775226222326667/6618404771621411052.jpg"
+    },
+    {
+        "date": "11/2/2022",
+        "price": "$42.00",
+        "cert_number": "52633737",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5151345126642169552/324932663662201717.jpg",
+        "lot_number": "285018639842",
+        "grade": "9",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "47949138",
+        "grade": "9",
+        "lot_number": "314461858377",
+        "price": "$51.00",
+        "auction_house": "eBay",
+        "date": "3/20/2023",
+        "auction_seller": "drews.gaming.galaxy",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8459936056928604336/2400966260026078071.jpg",
+        "auction_type": "Auction"
+    },
+    {
+        "grade": "8",
+        "price": "$43.00",
+        "date": "1/23/2023",
+        "auction_seller": "wolffy_collects",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4428213552815777298/-2844095525879576198.jpg",
+        "lot_number": "325492216011",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "67383637"
+    }
+]

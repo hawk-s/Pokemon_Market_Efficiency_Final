@@ -1,0 +1,90 @@
+[
+    {
+        "lot_number": "385563172712",
+        "price": "$132.50",
+        "auction_seller": "probstein123",
+        "cert_number": "42474649",
+        "auction_type": "Auction",
+        "date": "5/2/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5267146369243207438/-512093783694945061.jpg"
+    },
+    {
+        "lot_number": "385296945135",
+        "price": "$128.76",
+        "date": "12/21/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4992570766979846274/-1995869718528656090.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "44718508",
+        "grade": "10",
+        "auction_seller": "primeretro"
+    },
+    {
+        "auction_seller": "cabanscards123",
+        "cert_number": "44001546",
+        "date": "1/7/2021",
+        "lot_number": "193828318783",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9106778845762549021/7519142093475489182.jpg"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "price": "$34.95",
+        "lot_number": "352837647857",
+        "cert_number": "43605459",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/52602495268342041/3575909138368448186.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "7/29/2024",
+        "cert_number": "80337157",
+        "lot_number": "395541321331",
+        "auction_seller": "dfl4tt_collectibles",
+        "price": "$92.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/574898491840696241/-7696021759910094029.jpg"
+    },
+    {
+        "date": "7/19/2024",
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1869131885913970575/-4127683379431969915.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "92492915",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "365004019210"
+    },
+    {
+        "date": "10/5/2020",
+        "cert_number": "46803715",
+        "grade": "9 (MC)",
+        "auction_seller": "surfcitycards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5167903315286236998/-5439589188248665733.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "373233784154",
+        "price": "$29.99"
+    },
+    {
+        "cert_number": "44001546",
+        "auction_seller": "coins_n_rarities",
+        "date": "8/10/2023",
+        "lot_number": "314749390001",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2401514368514624877/1088417616984475167.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$87.99",
+        "grade": "10"
+    }
+]

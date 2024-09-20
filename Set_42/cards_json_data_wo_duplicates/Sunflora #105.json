@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$26.51",
+        "auction_seller": "bidoveru",
+        "date": "7/23/2024",
+        "lot_number": "315532746664",
+        "auction_type": "Auction",
+        "cert_number": "41643874",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4745069703312372349/887157083087096428.jpg"
+    },
+    {
+        "lot_number": "395587107461",
+        "price": "$10.28",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4557186057255033380/6861916376190627387.jpg",
+        "date": "8/15/2024",
+        "grade": "9",
+        "auction_seller": "hedto77",
+        "auction_type": "Auction",
+        "cert_number": "93411608",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8501528838304205399/-793846818403587708.jpg",
+        "auction_seller": "charizardperfection",
+        "auction_house": "eBay",
+        "date": "8/4/2020",
+        "cert_number": "45290656",
+        "lot_number": "324101723890",
+        "grade": "10"
+    },
+    {
+        "cert_number": "58363714",
+        "date": "5/3/2023",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "lot_number": "385572152517",
+        "auction_seller": "krukcards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2600735448389332411/-2613358232595317932.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "flomoney_hobby",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8698782046981168805/-1570390471616722462.jpg",
+        "date": "12/16/2022",
+        "lot_number": "165824096680",
+        "cert_number": "51078987",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "11/21/2021",
+        "lot_number": "275023856301",
+        "cert_number": "52050095",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8336106340459869421/-5780014134676888463.jpg",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "grade": "4",
+        "price": "$2.25",
+        "auction_seller": "scruffy_city_collectibles",
+        "date": "9/24/2023",
+        "cert_number": "56880732",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "225777652498",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4412765439709703088/7181641462861004413.jpg"
+    }
+]

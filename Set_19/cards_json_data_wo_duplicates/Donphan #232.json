@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4826944005979044142/5678204033417385597.jpg",
+        "lot_number": "285424069576",
+        "auction_seller": "zandgemporium",
+        "price": "$8.02",
+        "grade": "9",
+        "cert_number": "71821645",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "darth_grader",
+        "price": "$15.02",
+        "grade": "8.5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6990136300368339999/8984353283257916463.jpg",
+        "cert_number": "53270076",
+        "date": "9/20/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "403147256942"
+    },
+    {
+        "date": "8/27/2023",
+        "price": "$8.53",
+        "cert_number": "73169291",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285431946610",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5244482170869242136/8925377697826676833.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "26164428",
+        "price": "$26.00",
+        "grade": "8",
+        "date": "3/3/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1587080495808963464/1046260139180474786.jpg",
+        "auction_seller": "wildblastoise921",
+        "lot_number": "142290914253",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

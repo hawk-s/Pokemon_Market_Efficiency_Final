@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$2.25",
+        "auction_seller": "tacotruckcollectibles",
+        "cert_number": "85179435",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1887084060617030186/-1405997015765566186.jpg",
+        "lot_number": "196506251126",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/24/2024"
+    },
+    {
+        "lot_number": "283565256900",
+        "date": "4/25/2020",
+        "auction_type": "Best Offer",
+        "price": "$26.99",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/352705077193491177/2697257586095707321.jpg",
+        "cert_number": "43350594",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5170820203068987586/5559040301582023897.jpg",
+        "grade": "7",
+        "cert_number": "47558578",
+        "lot_number": "154518779934",
+        "auction_seller": "ramcanyon",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/12/2021"
+    },
+    {
+        "cert_number": "41170932",
+        "lot_number": "192610784688",
+        "date": "8/14/2018",
+        "auction_type": "Buy It Now",
+        "grade": "9",
+        "auction_seller": "my_honolulu_blue",
+        "price": "$10.79",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3857012717339139860/-7204969961990371501.jpg"
+    },
+    {
+        "lot_number": "285150797120",
+        "auction_seller": "zandgemporium",
+        "date": "2/26/2023",
+        "grade": "9",
+        "cert_number": "57468457",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2791275338392577922/-5359237313168533197.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$42.00",
+        "cert_number": "49031570",
+        "grade": "8",
+        "auction_seller": "matsad0",
+        "date": "12/15/2021",
+        "auction_type": "Auction",
+        "lot_number": "393771950626",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2282965731423933708/6647311352639013318.jpg"
+    },
+    {
+        "auction_seller": "djbrluton",
+        "date": "7/7/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/629279639822160910/6091655055769156560.jpg",
+        "grade": "8",
+        "cert_number": "68657503",
+        "auction_type": "Auction",
+        "price": "$13.97",
+        "auction_house": "eBay",
+        "lot_number": "125996919571"
+    }
+]

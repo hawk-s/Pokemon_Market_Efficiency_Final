@@ -1,0 +1,79 @@
+[
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6604960791348348881/-6845243269826241660.jpg",
+        "lot_number": "324992482522",
+        "price": "$25.53",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "cert_number": "53863796"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5216440446733558806/-3635139064560275574.jpg",
+        "auction_seller": "pwcc_auctions",
+        "date": "4/24/2019",
+        "price": "$8.98",
+        "grade": "9",
+        "lot_number": "143215137943",
+        "cert_number": "28758818",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6099396354406477029/7286522763541038896.jpg",
+        "date": "3/19/2023",
+        "lot_number": "285175784524",
+        "auction_seller": "zandgemporium",
+        "price": "$46.00",
+        "grade": "9",
+        "cert_number": "57468585",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.00",
+        "grade": "8",
+        "auction_seller": "bump-27",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "cert_number": "80141287",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1273687054696672232/3244876722722957741.jpg",
+        "lot_number": "305305264628"
+    },
+    {
+        "auction_seller": "thepackbreaker",
+        "cert_number": "49973640",
+        "grade": "9",
+        "price": "$51.00",
+        "lot_number": "402919509224",
+        "auction_type": "Auction",
+        "date": "6/20/2021",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3478344083798100459/-1094865481036001690.jpg"
+    },
+    {
+        "cert_number": "87363028",
+        "price": "$18.27",
+        "lot_number": "285779341558",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7291072126455030263/-7529355614893277786.jpg"
+    },
+    {
+        "lot_number": "113779862647",
+        "auction_seller": "jnbcards",
+        "auction_type": "Buy It Now",
+        "date": "5/30/2020",
+        "grade": "9",
+        "price": "$19.95",
+        "cert_number": "28758818",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6007521036868549662/-5897775356680748840.jpg",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3605273701477887462/4263648072099093908.jpg",
+        "auction_type": "Auction",
+        "date": "6/23/2023",
+        "auction_seller": "krukcards",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "58363723",
+        "lot_number": "385686068089"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2547019397486238109/-5189050912254864484.jpg",
+        "price": "$15.50",
+        "date": "9/19/2017",
+        "cert_number": "27637269",
+        "lot_number": "192304941354",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "315532711796",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4820609461058916948/4840458394805718658.jpg",
+        "auction_seller": "bidoveru",
+        "date": "7/23/2024",
+        "cert_number": "41643867",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8607619011069876173/-5189050912254864484.jpg",
+        "auction_type": "Buy It Now",
+        "cert_number": "27637269",
+        "price": "$19.99",
+        "lot_number": "192375146872",
+        "auction_seller": "my_honolulu_blue",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/28/2017"
+    },
+    {
+        "price": "$13.50",
+        "date": "6/28/2023",
+        "cert_number": "59228206",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8397319774640901944/886349032814720682.jpg",
+        "auction_seller": "matsad0",
+        "lot_number": "394685200040",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

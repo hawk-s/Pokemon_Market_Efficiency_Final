@@ -1,0 +1,79 @@
+[
+    {
+        "date": "1/28/2019",
+        "cert_number": "41388877",
+        "auction_seller": "faisk8r87",
+        "auction_type": "Best Offer",
+        "price": "$35.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2116299428906433043/8240252280535647374.jpg",
+        "auction_house": "eBay",
+        "lot_number": "273639729269",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "faisk8r87",
+        "auction_type": "Best Offer",
+        "date": "1/16/2021",
+        "price": "$50.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4358255032207892445/-9048264623522860052.jpg",
+        "lot_number": "274623866685",
+        "auction_house": "eBay",
+        "cert_number": "47241347"
+    },
+    {
+        "price": "$52.00",
+        "date": "9/24/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8631160746647257468/3397192250234121845.jpg",
+        "lot_number": "383723408812",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41222716"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8766634516706603961/-28976648240434721.jpg",
+        "grade": "7",
+        "lot_number": "364464499959",
+        "price": "$13.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "62889438",
+        "auction_house": "eBay",
+        "date": "9/14/2023"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8946541413457641428/1152550103164204417.jpg",
+        "price": "$5.02",
+        "auction_seller": "zandgemporium",
+        "cert_number": "83714996",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285630464675"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-5065200265810734495/images/1.jpg",
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "cert_number": "68606418",
+        "price": "$47.00",
+        "auction_type": "Auction",
+        "lot_number": "4865",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pokemonfittrainer00",
+        "cert_number": "41388877",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3270489291552684699/-4478173386034258085.jpg",
+        "date": "8/29/2019",
+        "auction_type": "Auction",
+        "lot_number": "133150916567",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

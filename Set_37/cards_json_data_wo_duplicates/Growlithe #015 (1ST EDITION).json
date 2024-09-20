@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "63469494",
+        "price": "$48.00",
+        "auction_seller": "tsunagu",
+        "lot_number": "255316034362",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3911853049477996512/7929636036579840426.jpg",
+        "date": "1/11/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "mjsheehan",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6886932232076296639/-2452754603990183807.jpg",
+        "cert_number": "62703792",
+        "lot_number": "195600899926",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/23/2023"
+    },
+    {
+        "auction_seller": "thecardhousetexas",
+        "date": "11/1/2023",
+        "lot_number": "394956651652",
+        "cert_number": "79686598",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6320504070467680885/-8098794738028996416.jpg",
+        "price": "$32.00",
+        "grade": "10"
+    }
+]

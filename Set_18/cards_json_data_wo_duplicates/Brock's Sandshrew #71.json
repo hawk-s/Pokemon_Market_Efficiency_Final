@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$14.39",
+        "grade": "7",
+        "auction_seller": "giants-jets6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5957190995661213743/-6677485545788339365.jpg",
+        "lot_number": "284574527770",
+        "cert_number": "54157415",
+        "date": "12/27/2021"
+    },
+    {
+        "auction_seller": "pokecase1983",
+        "grade": "7",
+        "lot_number": "234832019150",
+        "date": "12/29/2022",
+        "cert_number": "68506441",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7968937578134302647/-4325246619155116004.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$3.00"
+    },
+    {
+        "auction_seller": "avolc-41",
+        "date": "11/8/2021",
+        "cert_number": "44926937",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/900283179187991796/-7617020170814862906.jpg",
+        "price": "$46.00",
+        "lot_number": "403272938936",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

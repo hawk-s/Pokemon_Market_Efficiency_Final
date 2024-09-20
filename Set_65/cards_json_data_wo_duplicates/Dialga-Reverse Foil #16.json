@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "the_charizard_cartel",
+        "price": "$21.00",
+        "cert_number": "61753348",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3894790661122348088/-3088414424689016388.jpg",
+        "date": "4/29/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "226110315244"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2801918083171682539/-138780503528962095.jpg",
+        "lot_number": "295361862778",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "66513440",
+        "price": "$159.19",
+        "date": "12/5/2022"
+    },
+    {
+        "auction_seller": "the_charizard_cartel",
+        "date": "6/19/2024",
+        "cert_number": "61753348",
+        "lot_number": "326162084982",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3236512240927242108/-3088414424689016388.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$21.33"
+    },
+    {
+        "cert_number": "64608910",
+        "grade": "8",
+        "price": "$21.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4521239625646510681/-1134743538039142503.jpg",
+        "date": "2/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "viccad_97",
+        "lot_number": "404131270353"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5643155204134837454/-5572648883289061816.jpg",
+        "auction_seller": "poke-martcollectibles",
+        "date": "3/25/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275747122633",
+        "price": "$29.02",
+        "cert_number": "68321593"
+    }
+]

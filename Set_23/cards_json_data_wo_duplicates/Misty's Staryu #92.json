@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "57899383",
+        "date": "2/26/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4996052159130820614/-1958326086488202960.jpg",
+        "price": "$44.00",
+        "lot_number": "234900969853",
+        "auction_seller": "firebirder31",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1391335367599597287/1414390372773661695.jpg",
+        "date": "12/18/2022",
+        "cert_number": "57899370",
+        "lot_number": "234814376335",
+        "price": "$23.50",
+        "auction_seller": "firebirder31",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "jaesco-98",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2897474821806496768/-1651427605574230930.jpg",
+        "date": "8/29/2023",
+        "grade": "9",
+        "cert_number": "49104268",
+        "auction_type": "Auction",
+        "lot_number": "354993358528",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "402557634990",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "45358424",
+        "price": "$76.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-594144315513678563/5649030438358562363.jpg",
+        "grade": "10",
+        "date": "11/26/2020"
+    },
+    {
+        "cert_number": "42012287",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4258787896500440168/4436928515347974380.jpg",
+        "auction_seller": "starlightcove",
+        "lot_number": "254766067486",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "date": "11/9/2020"
+    },
+    {
+        "date": "1/4/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/502411233756388266/8230268415427603419.jpg",
+        "lot_number": "254819074956",
+        "price": "$83.00",
+        "auction_seller": "starlightcove",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "42012292",
+        "grade": "10"
+    },
+    {
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$39.68",
+        "date": "4/23/2023",
+        "auction_house": "eBay",
+        "auction_seller": "chibicollectablesuk",
+        "lot_number": "285218242794",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6106209032497326726/-7504519352939691665.jpg",
+        "cert_number": "71989146"
+    },
+    {
+        "lot_number": "283374402051",
+        "auction_seller": "texas_tamugirl",
+        "cert_number": "42012288",
+        "price": "$39.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9085276595472183799/-4281980297505114611.jpg",
+        "date": "2/16/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3041399437652860485/7699003601028477499.jpg",
+        "date": "5/11/2021",
+        "lot_number": "114793492034",
+        "auction_seller": "ccgcrazy",
+        "auction_type": "Auction",
+        "cert_number": "44201676",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$62.00"
+    },
+    {
+        "cert_number": "43537904",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6461472810663448162/237419754520535480.jpg",
+        "lot_number": "183901364684",
+        "date": "8/3/2019",
+        "grade": "9",
+        "auction_seller": "kampes_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$91.00"
+    }
+]

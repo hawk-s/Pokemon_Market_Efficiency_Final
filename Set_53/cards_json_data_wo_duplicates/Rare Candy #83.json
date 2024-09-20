@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "402333013595",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "23805222",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8028443034645767310/-1187666693987560953.jpg",
+        "price": "$51.00",
+        "date": "7/31/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "402299989220",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7078170391231640720/4500965551885165840.jpg",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "23805222",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/29/2020",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "card-foundry",
+        "date": "9/5/2021",
+        "price": "$32.67",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3915744082177734272/8766631092051997041.jpg",
+        "auction_house": "eBay",
+        "lot_number": "274921295961",
+        "grade": "10",
+        "cert_number": "48603023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6905421111037261022/1357253981689896114.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "23805222",
+        "lot_number": "373452128505",
+        "auction_seller": "esp-pokemon",
+        "price": "$186.42",
+        "date": "2/26/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

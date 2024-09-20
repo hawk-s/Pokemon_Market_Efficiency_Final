@@ -1,0 +1,90 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1134242911390504026/-3685778304314042110.jpg",
+        "cert_number": "60813602",
+        "grade": "7",
+        "auction_seller": "slackiinoff",
+        "date": "5/15/2024",
+        "lot_number": "186429811331",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    },
+    {
+        "cert_number": "67165183",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7998314687776481295/-5125432633787922250.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_seller": "juan_7441",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/26/2023",
+        "lot_number": "334795557839"
+    },
+    {
+        "date": "6/20/2020",
+        "cert_number": "43350546",
+        "auction_type": "Best Offer",
+        "price": "$44.99",
+        "lot_number": "283565254674",
+        "auction_seller": "cooltrainerryan",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2382479779341978317/4962623323861595130.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$24.48",
+        "cert_number": "67165183",
+        "date": "2/26/2023",
+        "grade": "9",
+        "auction_seller": "juan_7441",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/477024141111055845/-7466381049000442688.jpg",
+        "auction_house": "eBay",
+        "lot_number": "334744159297"
+    },
+    {
+        "date": "8/5/2024",
+        "auction_seller": "zandgemporium",
+        "price": "$31.69",
+        "cert_number": "88866795",
+        "grade": "9",
+        "lot_number": "285980283351",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8485341733314477275/-4949804778104858896.jpg"
+    },
+    {
+        "date": "6/5/2020",
+        "auction_type": "Best Offer",
+        "price": "$24.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1588743804672525052/257352908048659998.jpg",
+        "grade": "9",
+        "cert_number": "42734601",
+        "auction_house": "eBay",
+        "auction_seller": "cooltrainerryan",
+        "lot_number": "283446223105"
+    },
+    {
+        "cert_number": "67165183",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2933640070321172158/-2544200528136758270.jpg",
+        "grade": "9",
+        "auction_seller": "juan_7441",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "334677695053",
+        "date": "1/3/2023"
+    },
+    {
+        "auction_seller": "tacotruckcollectibles",
+        "lot_number": "196465586120",
+        "grade": "8",
+        "date": "7/3/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1583157853415266872/9052381955163569246.jpg",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "cert_number": "85179431"
+    }
+]

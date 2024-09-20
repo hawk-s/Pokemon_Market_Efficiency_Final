@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "7",
+        "lot_number": "374373634212",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3800909694915821876/-3601726250579517802.jpg",
+        "auction_seller": "probstein123",
+        "price": "$400.00",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "12/6/2022",
+        "cert_number": "64617003"
+    },
+    {
+        "lot_number": "314772284238",
+        "cert_number": "54987264",
+        "auction_seller": "coins_plus",
+        "price": "$2,887.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3493744737341346366/-8535845429630079516.jpg",
+        "date": "8/22/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "41570943",
+        "price": "$1,886.37",
+        "lot_number": "204612431863",
+        "auction_type": "Auction",
+        "auction_seller": "slabsharksinc",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8632539024349478295/6118975989429018098.jpg",
+        "grade": "10",
+        "date": "1/19/2024"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/16/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1697577924032417447/-642148351123814299.jpg",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "price": "$19.54",
+        "cert_number": "68606432",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185727606188"
+    },
+    {
+        "auction_seller": "robk0215",
+        "date": "10/12/2021",
+        "price": "$18.52",
+        "grade": "9",
+        "cert_number": "49152526",
+        "auction_type": "Auction",
+        "lot_number": "174964901351",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3651955704726926474/-2577693325913508989.jpg"
+    },
+    {
+        "lot_number": "266950084369",
+        "date": "8/21/2024",
+        "auction_seller": "roberzarsk0",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3693601829446489123/2804402084683678864.jpg",
+        "grade": "9",
+        "cert_number": "79165813",
+        "auction_type": "Auction",
+        "price": "$11.40",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "chosenpricecollectibles",
+        "cert_number": "80094858",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8653576473465215045/-1799287613627258731.jpg",
+        "price": "$13.00",
+        "lot_number": "315649026265",
+        "date": "8/17/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "date": "3/20/2018",
+        "lot_number": "192481640203",
+        "cert_number": "27835584",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7486662873259087857/-7405631496943593040.jpg",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "date": "10/1/2023",
+        "auction_seller": "born2collect805",
+        "lot_number": "285487741849",
+        "cert_number": "56952587",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4672040460817219931/7488597422445088993.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$33.00"
+    },
+    {
+        "cert_number": "27667873",
+        "auction_type": "Buy It Now",
+        "date": "8/20/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2629232721688362578/-6260899797114208992.jpg",
+        "price": "$19.99",
+        "auction_seller": "my_honolulu_blue",
+        "lot_number": "192275448494",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$27.49",
+        "lot_number": "384377566766",
+        "auction_seller": "habbyshobbies",
+        "cert_number": "48971173",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8017394901132315314/6671111743801474475.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "9/13/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "142836549115",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8864632265425819052/-5265305693778397128.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "cert_number": "40771224",
+        "price": "$0.99"
+    },
+    {
+        "lot_number": "292313456725",
+        "date": "11/10/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2755934275903549132/-5722036702214855657.jpg",
+        "cert_number": "27798106",
+        "price": "$10.54",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2648495017527298267/5165488231531492393.jpg",
+        "auction_seller": "habbyshobbies",
+        "cert_number": "48971174",
+        "lot_number": "384346546140",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    }
+]

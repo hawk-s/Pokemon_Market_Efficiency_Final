@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "christopherlam20122470",
+        "price": "$616.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3404946434961578187/5064143801747280281.jpg",
+        "lot_number": "185240566888",
+        "grade": "9",
+        "date": "1/10/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "55503538"
+    },
+    {
+        "auction_seller": "sieds_steins",
+        "auction_type": "Best Offer",
+        "lot_number": "222489372999",
+        "cert_number": "27005682",
+        "price": "$40.00",
+        "date": "5/10/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-1701948468191333459/5624655528417008692.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "402854743043",
+        "auction_seller": "pwcc_auctions",
+        "price": "$576.99",
+        "grade": "9",
+        "cert_number": "44038968",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/29/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4308944653445745172/-374020917393629998.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3447591044864661171/-4075103241223833422.jpg",
+        "price": "$510.00",
+        "lot_number": "383369169375",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "45330946",
+        "auction_house": "eBay",
+        "date": "1/23/2020",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1095904198448961188/-592434211451454592.jpg",
+        "cert_number": "46737355",
+        "lot_number": "154719877159",
+        "auction_seller": "pure_carnage_1987",
+        "date": "12/6/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$1,825.00"
+    },
+    {
+        "price": "$510.00",
+        "date": "12/9/2021",
+        "lot_number": "384555182631",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "44038968",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6373753965846812212/-7911039059143829966.jpg"
+    }
+]

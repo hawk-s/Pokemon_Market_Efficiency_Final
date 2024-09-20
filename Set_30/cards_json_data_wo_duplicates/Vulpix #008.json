@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "43116019",
+        "lot_number": "133636743561",
+        "auction_seller": "steka5648",
+        "auction_type": "Best Offer",
+        "date": "1/19/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3728774023691778642/7068361783812603031.jpg",
+        "price": "$90.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4906461457430363579/-2087923006900267599.jpg",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "43518875",
+        "lot_number": "144043840233",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$54.00",
+        "date": "5/29/2021",
+        "grade": "10"
+    },
+    {
+        "date": "11/22/2021",
+        "lot_number": "124993738121",
+        "auction_seller": "card_secret",
+        "cert_number": "57589377",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5844059285679667546/-6323604979182142877.jpg"
+    },
+    {
+        "price": "$26.00",
+        "auction_seller": "smpratte",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4198739890046919717/2253584680028965746.jpg",
+        "cert_number": "47588122",
+        "lot_number": "184871645637",
+        "auction_type": "Auction",
+        "date": "6/20/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/21/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5958658186455674595/-246897695825962233.jpg",
+        "auction_seller": "card_secret",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "lot_number": "116136902018",
+        "cert_number": "66304745"
+    },
+    {
+        "lot_number": "145296379386",
+        "date": "9/22/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4527515059414694000/2697778648672442464.jpg",
+        "grade": "9",
+        "auction_seller": "madgems",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$30.38",
+        "cert_number": "70570011"
+    }
+]

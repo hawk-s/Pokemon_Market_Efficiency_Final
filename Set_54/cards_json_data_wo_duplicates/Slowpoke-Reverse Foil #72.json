@@ -1,0 +1,57 @@
+[
+    {
+        "date": "7/16/2023",
+        "auction_seller": "tradingcardexchange",
+        "lot_number": "314699648736",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "cert_number": "73670750",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3603219202737991987/-2963095897885605699.jpg"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7558318729985877876/-1480182752868185618.jpg",
+        "lot_number": "142382138409",
+        "price": "$22.00",
+        "date": "5/23/2017",
+        "auction_type": "Auction",
+        "cert_number": "25668249",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "53139504",
+        "price": "$38.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-328494767846588037/4849464103007882907.jpg",
+        "grade": "9",
+        "auction_seller": "salva-plasc",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "265434833673",
+        "date": "12/10/2021"
+    },
+    {
+        "price": "$26.14",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5187555643532906707/-7928557544521278019.jpg",
+        "date": "9/7/2023",
+        "auction_seller": "rawotc",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "43214467",
+        "auction_house": "eBay",
+        "lot_number": "204445703434"
+    },
+    {
+        "cert_number": "48322542",
+        "lot_number": "353661414567",
+        "auction_seller": "the1-up",
+        "grade": "8",
+        "price": "$41.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4604018231574993070/8512281755539158107.jpg",
+        "date": "9/13/2021",
+        "auction_house": "eBay"
+    }
+]

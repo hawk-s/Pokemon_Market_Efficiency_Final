@@ -1,0 +1,46 @@
+[
+    {
+        "date": "12/19/2022",
+        "price": "$21.47",
+        "auction_seller": "team_pikachu",
+        "cert_number": "56640971",
+        "grade": "8",
+        "lot_number": "234819757086",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/581719403522119552/-8597007773222958418.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1338321795672712345/311183230825667722.jpg",
+        "lot_number": "404754536947",
+        "cert_number": "82325561",
+        "price": "$82.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "arizona_tcg",
+        "date": "1/28/2024"
+    },
+    {
+        "lot_number": "325395139098",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1228601634816714023/3222001195505264149.jpg",
+        "auction_seller": "trecari",
+        "cert_number": "65695808",
+        "date": "10/31/2022"
+    },
+    {
+        "date": "5/26/2023",
+        "lot_number": "185902070296",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "cert_number": "68768045",
+        "price": "$35.77",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6596885558113252463/-863597614466405412.jpg"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "date": "3/5/2021",
+        "auction_type": "Best Offer",
+        "lot_number": "193752138934",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1741213555260337331/6608981617965758466.jpg",
+        "grade": "9",
+        "auction_seller": "blowoutcards2",
+        "auction_house": "eBay",
+        "price": "$79.99",
+        "cert_number": "46439134"
+    },
+    {
+        "grade": "7",
+        "lot_number": "304760185714",
+        "auction_seller": "anbu_legacy",
+        "price": "$14.52",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2671388350028973302/-4875922370472488216.jpg",
+        "date": "1/11/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "51905660"
+    },
+    {
+        "cert_number": "66392637",
+        "date": "12/11/2022",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4715017395520456098/-8855192864403882390.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285057063850",
+        "price": "$18.50"
+    },
+    {
+        "price": "$7.50",
+        "auction_seller": "cb-hobby",
+        "date": "4/15/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7901553350213756578/-9220484861966518511.jpg",
+        "cert_number": "75729099",
+        "lot_number": "235511302761",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1336701084908881649/6669905330374815633.jpg",
+        "date": "12/20/2021",
+        "cert_number": "46439132",
+        "lot_number": "284565053958",
+        "auction_seller": "zandgemporium-0",
+        "auction_type": "Auction",
+        "price": "$108.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "46439132",
+        "auction_type": "Best Offer",
+        "price": "$164.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2684040286339766471/-2300751735003840799.jpg",
+        "auction_seller": "blowoutcards2",
+        "date": "12/29/2020",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "193752140232"
+    },
+    {
+        "lot_number": "185191392753",
+        "price": "$124.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1350142048585778320/-8346244813736839346.jpg",
+        "grade": "9",
+        "cert_number": "46439133",
+        "auction_type": "Auction",
+        "auction_seller": "zageo-83",
+        "auction_house": "eBay",
+        "date": "12/7/2021"
+    },
+    {
+        "date": "10/10/2021",
+        "cert_number": "51069657",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6580621755450526085/-2654290866539804560.jpg",
+        "price": "$24.99",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "294441325059"
+    },
+    {
+        "date": "5/31/2023",
+        "grade": "7",
+        "auction_seller": "rysua_94",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5604508704633521864/8678533083043574638.jpg",
+        "cert_number": "68862288",
+        "lot_number": "404303731014",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

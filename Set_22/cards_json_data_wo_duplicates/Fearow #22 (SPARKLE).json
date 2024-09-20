@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$122.50",
+        "date": "12/21/2022",
+        "cert_number": "55847049",
+        "grade": "9",
+        "lot_number": "325462540272",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4218564028939131511/-5283147853137661408.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "villentretenmerth_01"
+    },
+    {
+        "cert_number": "43437881",
+        "lot_number": "325400083917",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/3/2022",
+        "price": "$153.50",
+        "auction_seller": "villentretenmerth_01",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9116430380224676471/5368957483577595452.jpg"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "grade": "6",
+        "price": "$76.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6532417271986675832/6736481404902527866.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "44038889",
+        "date": "5/29/2021",
+        "lot_number": "353501442306"
+    },
+    {
+        "lot_number": "314749359694",
+        "auction_seller": "coins_n_rarities",
+        "grade": "8",
+        "date": "8/10/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5611065639724207067/4479501422318191063.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "55847048",
+        "price": "$123.50"
+    },
+    {
+        "price": "$97.14",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8430281823143410057/-7304647794139083619.jpg",
+        "cert_number": "64583207",
+        "lot_number": "235038351765",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "6/18/2023",
+        "auction_seller": "tra_collective",
+        "auction_house": "eBay"
+    }
+]

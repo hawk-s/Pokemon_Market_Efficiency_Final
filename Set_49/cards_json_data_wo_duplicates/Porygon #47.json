@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "92037379",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2198566848426885653/1124047414835359276.jpg",
+        "auction_seller": "emcoltt",
+        "auction_type": "Auction",
+        "price": "$6.49",
+        "lot_number": "395485194061",
+        "auction_house": "eBay",
+        "date": "6/28/2024"
+    },
+    {
+        "cert_number": "27743551",
+        "grade": "10",
+        "price": "$5.50",
+        "date": "11/4/2017",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4358822126626799449/-4040716045763093804.jpg",
+        "lot_number": "292309963121"
+    },
+    {
+        "lot_number": "132939744791",
+        "cert_number": "41454631",
+        "date": "2/11/2019",
+        "auction_seller": "gameelements",
+        "price": "$36.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1681568978417709339/-8137749042701034403.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

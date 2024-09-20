@@ -1,0 +1,68 @@
+[
+    {
+        "date": "7/26/2021",
+        "lot_number": "294283048513",
+        "auction_seller": "pandag24",
+        "grade": "8",
+        "cert_number": "44255547",
+        "price": "$35.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5222667144012985104/-8109704719142937355.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "44255533",
+        "grade": "9",
+        "lot_number": "373722020100",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/25/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-486091936105982195/661784235682632924.jpg",
+        "price": "$38.69",
+        "auction_seller": "aogaming"
+    },
+    {
+        "date": "1/19/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/43987642919295489/2370146686474752952.jpg",
+        "cert_number": "60829099",
+        "price": "$23.01",
+        "grade": "9",
+        "lot_number": "374454070225",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/7/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8600364735437984050/2736630068330398266.jpg",
+        "lot_number": "163859453190",
+        "auction_type": "Best Offer",
+        "cert_number": "44255533",
+        "price": "$24.99",
+        "grade": "9",
+        "auction_house": "eBay",
+        "auction_seller": "ctr_pr"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1845205400632925600/-6165112575777315005.jpg",
+        "grade": "7",
+        "date": "4/15/2024",
+        "auction_seller": "bigman61",
+        "price": "$5.00",
+        "cert_number": "69753045",
+        "auction_type": "Auction",
+        "lot_number": "315280219244",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "85409724",
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-380404782807343197/6271741083796588577.jpg",
+        "grade": "8",
+        "date": "3/31/2024",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "lot_number": "134987977711",
+        "auction_house": "eBay"
+    }
+]

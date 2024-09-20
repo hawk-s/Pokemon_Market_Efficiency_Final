@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$9.05",
+        "date": "11/22/2017",
+        "cert_number": "28103154",
+        "lot_number": "372137623828",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-5430551307106422236/-4116337859024138397.jpg"
+    },
+    {
+        "cert_number": "91845545",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4231020080457177119/-3191122882668753897.jpg",
+        "date": "7/15/2024",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$3.98",
+        "lot_number": "126568983231"
+    },
+    {
+        "date": "8/6/2023",
+        "lot_number": "285404126321",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6511210808858292074/-2336067276925542424.jpg",
+        "grade": "9",
+        "cert_number": "61169418",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/22/2021",
+        "lot_number": "124984333609",
+        "auction_seller": "card_secret",
+        "cert_number": "57509589",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/928404499712395739/-2652191749141011022.jpg",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "165979681213",
+        "auction_seller": "fireball44",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6549909272602455979/-3675258091902821359.jpg",
+        "date": "3/20/2023",
+        "cert_number": "71258320"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3784088511397821801/3713958703189575992.jpg",
+        "lot_number": "166000543580",
+        "grade": "8",
+        "auction_seller": "fireball44",
+        "cert_number": "71258321",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "date": "4/2/2023",
+        "auction_house": "eBay"
+    }
+]

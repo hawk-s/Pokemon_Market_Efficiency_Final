@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$100.79",
+        "lot_number": "156253773278",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5687005777493440903/-8949454663799043741.jpg",
+        "auction_type": "Auction",
+        "cert_number": "67299534",
+        "auction_house": "eBay",
+        "date": "6/20/2024",
+        "auction_seller": "lunacardsau"
+    },
+    {
+        "lot_number": "325505837126",
+        "cert_number": "44032909",
+        "price": "$539.82",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6117310986744447483/7335390685003038842.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/27/2023",
+        "auction_seller": "villentretenmerth_01",
+        "grade": "10"
+    },
+    {
+        "cert_number": "87839851",
+        "price": "$361.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4817326850939441456/-4399450190867090400.jpg",
+        "auction_seller": "havom_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "226059513639",
+        "date": "3/26/2024"
+    },
+    {
+        "cert_number": "43914976",
+        "grade": "8",
+        "price": "$77.00",
+        "lot_number": "334252510743",
+        "date": "12/15/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5983625069049691621/-3295142733585734828.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "shameer718"
+    }
+]

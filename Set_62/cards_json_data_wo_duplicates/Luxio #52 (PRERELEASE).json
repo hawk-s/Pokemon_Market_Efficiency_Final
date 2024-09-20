@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4679058577473840676/-3938321289403869026.jpg",
+        "price": "$15.50",
+        "auction_seller": "cardthrone",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "68215591",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "lot_number": "115729358262"
+    },
+    {
+        "date": "8/18/2021",
+        "price": "$20.00",
+        "grade": "8",
+        "cert_number": "41365582",
+        "auction_seller": "phillyguy123088",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3435350208150114194/8623378488072526269.jpg",
+        "lot_number": "274907910646",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "28469535",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/193931816718387980/5672004867684399094.jpg",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "144115969817",
+        "date": "7/29/2021",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$2.25",
+        "date": "6/6/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9015419218487155088/8539114159342758381.jpg",
+        "grade": "9",
+        "lot_number": "142811259564",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "cert_number": "40771259",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "67260397",
+        "lot_number": "364304349798",
+        "price": "$41.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5794154943111388556/-7168739296726562517.jpg",
+        "auction_type": "Auction",
+        "date": "6/23/2023",
+        "auction_seller": "krukcards",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "robk0215",
+        "price": "$9.52",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8266096115119874310/-4823811572841365635.jpg",
+        "grade": "6",
+        "lot_number": "175117132684",
+        "date": "1/26/2022",
+        "auction_type": "Auction",
+        "cert_number": "54611337",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "68343392",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6460843370700495966/5609612209254748087.jpg",
+        "grade": "9",
+        "lot_number": "394685340850",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "date": "6/30/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "date": "6/15/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/211463744105038201/2756019125635574930.jpg",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "405024212281",
+        "auction_seller": "arizona_tcg",
+        "cert_number": "91802067"
+    },
+    {
+        "date": "4/19/2020",
+        "price": "$29.98",
+        "auction_type": "Best Offer",
+        "lot_number": "233437400967",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8486645734528987248/5810328371669023687.jpg",
+        "cert_number": "45070397",
+        "auction_house": "eBay",
+        "auction_seller": "compusmartpr"
+    }
+]

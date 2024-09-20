@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "43840544",
+        "lot_number": "264767771527",
+        "auction_seller": "dvdsilva17",
+        "date": "6/23/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$84.00",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1639351219537646999/367634077066158461.jpg"
+    },
+    {
+        "date": "9/9/2023",
+        "lot_number": "195958969093",
+        "price": "$59.00",
+        "auction_seller": "gymleadertaylor",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4363950773761605424/6734902329070994058.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "77225036"
+    },
+    {
+        "cert_number": "43840544",
+        "lot_number": "264868124669",
+        "auction_seller": "dvdsilva17",
+        "date": "9/22/2020",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5266985394711808811/5490775117841167284.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$81.00"
+    },
+    {
+        "lot_number": "255212813868",
+        "auction_seller": "tsunagu",
+        "price": "$228.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/251898250933586615/172791930510341613.jpg",
+        "cert_number": "53155386",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/12/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8883060877517308935/3417244137527225521.jpg",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "cert_number": "70493707",
+        "price": "$39.00",
+        "auction_type": "Auction",
+        "date": "4/2/2023",
+        "auction_house": "eBay",
+        "lot_number": "285200299816"
+    }
+]

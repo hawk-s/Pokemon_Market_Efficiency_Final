@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "5",
+        "price": "$17.00",
+        "lot_number": "142892494479",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7246947564137157237/4337879317151136139.jpg",
+        "auction_type": "Auction",
+        "date": "8/12/2018",
+        "cert_number": "28979750",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "auction_seller": "pokemonpacific",
+        "date": "9/29/2020",
+        "auction_type": "Best Offer",
+        "lot_number": "392937352283",
+        "price": "$40.00",
+        "cert_number": "25328846",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8451065957320885924/-5554086758650561248.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "28979751",
+        "date": "6/23/2018",
+        "grade": "4",
+        "lot_number": "142832763643",
+        "auction_type": "Auction",
+        "price": "$6.52",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2024185351325135536/505782552150273959.jpg",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8011524340688083370/2147874181296766333.jpg",
+        "price": "$132.38",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "402998086397",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "25328846",
+        "date": "7/29/2021",
+        "grade": "10"
+    },
+    {
+        "lot_number": "172356325768",
+        "auction_seller": "pokemonpacific",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3572816307012411085/-2837748192617392425.jpg",
+        "date": "12/17/2017",
+        "auction_type": "Best Offer",
+        "price": "$40.00",
+        "cert_number": "25328845",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2575399163299275175/415537187656387982.jpg",
+        "auction_seller": "parkerspokemon",
+        "price": "$23.01",
+        "date": "4/10/2023",
+        "auction_type": "Auction",
+        "lot_number": "314490523540",
+        "cert_number": "66903484",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

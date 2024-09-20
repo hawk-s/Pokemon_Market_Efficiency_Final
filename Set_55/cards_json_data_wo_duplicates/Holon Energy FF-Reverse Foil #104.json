@@ -1,0 +1,46 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "auction_seller": "pokemon_revolution",
+        "lot_number": "122438891416",
+        "cert_number": "27044974",
+        "auction_house": "eBay",
+        "date": "11/29/2017",
+        "grade": "10",
+        "price": "$29.99",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/499765986155332555/3920943744587594114.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/974224449736303415/1751769609093296326.jpg",
+        "auction_seller": "bidoveru",
+        "grade": "9",
+        "price": "$31.00",
+        "date": "3/3/2023",
+        "auction_type": "Auction",
+        "cert_number": "70188470",
+        "lot_number": "314418513952",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "44966885",
+        "auction_seller": "tannah10s",
+        "date": "3/7/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1661970560594342379/-2426278719513154782.jpg",
+        "lot_number": "116083244962",
+        "price": "$38.75",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3259287087486410007/-5209005245774443621.jpg",
+        "auction_seller": "obscars",
+        "grade": "9",
+        "cert_number": "73215930",
+        "price": "$24.93",
+        "auction_type": "Auction",
+        "lot_number": "285273463140",
+        "date": "5/14/2023",
+        "auction_house": "eBay"
+    }
+]

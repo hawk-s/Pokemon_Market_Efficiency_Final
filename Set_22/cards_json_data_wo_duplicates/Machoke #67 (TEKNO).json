@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "45330988",
+        "lot_number": "383369169384",
+        "auction_seller": "probstein123",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/23/2020",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6650335778593665673/-430515406053623050.jpg"
+    },
+    {
+        "price": "$382.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1302276733833254103/1462306789246842695.jpg",
+        "cert_number": "54579843",
+        "date": "10/5/2021",
+        "lot_number": "373736575375",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$191.50",
+        "date": "1/16/2023",
+        "auction_seller": "bidoveru",
+        "lot_number": "314310885659",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5339826511080568339/3014002243638778235.jpg",
+        "grade": "9",
+        "cert_number": "70188235",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "325485265913",
+        "price": "$393.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/774287982737829618/-7976858967542171705.jpg",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "cert_number": "55846976",
+        "auction_house": "eBay",
+        "auction_seller": "villentretenmerth_01",
+        "grade": "10"
+    },
+    {
+        "date": "9/10/2023",
+        "auction_seller": "09mansfield",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4754842240013140995/-322437497170254654.jpg",
+        "grade": "9",
+        "cert_number": "64554112",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "256206390198"
+    }
+]

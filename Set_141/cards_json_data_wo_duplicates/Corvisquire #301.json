@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "61826037",
+        "price": "$15.50",
+        "auction_seller": "zandgemporium",
+        "date": "9/24/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3859666757134167588/-2378099133989369141.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "285472990840"
+    },
+    {
+        "lot_number": "195809271473",
+        "auction_seller": "hothands-tcg",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1691921859606137947/6631343659352040525.jpg",
+        "cert_number": "56778079",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "date": "6/18/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/25/2023",
+        "cert_number": "61332384",
+        "auction_seller": "rme_16_9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-767712278699751399/-3048785471118404164.jpg",
+        "auction_type": "Auction",
+        "lot_number": "394469984195",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$23.88"
+    },
+    {
+        "date": "6/1/2024",
+        "auction_seller": "vispri-21",
+        "cert_number": "62185862",
+        "price": "$23.34",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6704030162695393418/-6915546468125680674.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "355733822253"
+    },
+    {
+        "cert_number": "63236493",
+        "price": "$7.50",
+        "auction_seller": "superj_collection",
+        "lot_number": "296630395997",
+        "date": "8/19/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4707674826650969085/-5462652942796813770.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "55377474",
+        "lot_number": "133900673164",
+        "date": "10/18/2021",
+        "auction_type": "Auction",
+        "price": "$9.97",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1197943016455903330/-5702920410603543252.jpg",
+        "auction_seller": "japan-daisuki"
+    }
+]

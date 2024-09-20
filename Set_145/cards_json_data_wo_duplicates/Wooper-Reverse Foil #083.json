@@ -1,0 +1,35 @@
+[
+    {
+        "date": "9/15/2022",
+        "auction_seller": "audiovideo03",
+        "cert_number": "56388974",
+        "lot_number": "165660651372",
+        "auction_type": "Auction",
+        "price": "$31.30",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6534605425965090051/-5390593646699924576.jpg"
+    },
+    {
+        "date": "2/22/2022",
+        "auction_seller": "probstein123",
+        "price": "$31.00",
+        "cert_number": "56478601",
+        "lot_number": "373927356398",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7953754297031635503/5961827856382538189.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/2/2021",
+        "lot_number": "403317650867",
+        "price": "$50.61",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8052906146904729616/2760372094754215356.jpg",
+        "cert_number": "62390242",
+        "auction_type": "Auction",
+        "auction_seller": "graded_grail",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

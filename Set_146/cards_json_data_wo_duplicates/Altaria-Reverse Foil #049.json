@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$19.50",
+        "date": "9/13/2022",
+        "lot_number": "314134930935",
+        "auction_seller": "kantos_finest",
+        "cert_number": "55551519",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8861919244283672120/1351610633627842365.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "lot_number": "154748086179",
+        "cert_number": "52703919",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4394823055487023349/3827644580042033220.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/21/2021"
+    },
+    {
+        "lot_number": "335135028190",
+        "auction_seller": "comc_consignment",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7198469498614852893/5954935464609063490.jpg",
+        "date": "12/3/2023",
+        "grade": "9",
+        "cert_number": "53691575",
+        "price": "$6.83",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "warehous5store",
+        "date": "12/20/2021",
+        "price": "$17.19",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4204296305455367682/3285873303349617604.jpg",
+        "lot_number": "133963482184",
+        "auction_type": "Auction",
+        "cert_number": "53933807",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8446506898010558251/3584414399342243242.jpg",
+        "price": "$7.50",
+        "cert_number": "52703918",
+        "lot_number": "154748086150",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/21/2021"
+    }
+]

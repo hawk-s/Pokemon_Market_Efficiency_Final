@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$2.25",
+        "date": "12/18/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8407465062647086637/-3095385842274159662.jpg",
+        "auction_seller": "amtsupply",
+        "lot_number": "292862756175",
+        "auction_type": "Auction",
+        "cert_number": "41441229",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/13/2020",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4985731555056946551/4579278516085386001.jpg",
+        "price": "$16.20",
+        "cert_number": "43022709",
+        "auction_house": "eBay",
+        "auction_seller": "mistergemmint",
+        "grade": "10",
+        "lot_number": "283537465062"
+    },
+    {
+        "cert_number": "25496627",
+        "price": "$15.50",
+        "date": "4/4/2020",
+        "auction_seller": "nostalgia-old-bird",
+        "grade": "9",
+        "lot_number": "313040609907",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2313091692342583812/8486376386925499047.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "galactic_tcg",
+        "cert_number": "71885128",
+        "grade": "8",
+        "lot_number": "315260557636",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6627493569062996734/6951589963007821587.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$10.39",
+        "date": "4/10/2024"
+    },
+    {
+        "cert_number": "25496627",
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6366228005658961570/7763922046494672225.jpg",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "143471137264"
+    },
+    {
+        "lot_number": "255720300303",
+        "date": "9/15/2022",
+        "cert_number": "54424054",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7153424533553928380/-2438258193835279109.jpg",
+        "auction_seller": "arkcollectibles",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "315359845195",
+        "price": "$13.50",
+        "auction_seller": "coins_plus",
+        "cert_number": "67317594",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1260398025663110144/-4647188431308032648.jpg",
+        "auction_type": "Auction",
+        "date": "5/20/2024",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/6/2023",
+        "cert_number": "61664822",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1801870732172817287/8808698707039501374.jpg",
+        "grade": "8",
+        "lot_number": "295852632212",
+        "auction_type": "Auction",
+        "auction_seller": "n5_danny14",
+        "auction_house": "eBay",
+        "price": "$10.18"
+    }
+]

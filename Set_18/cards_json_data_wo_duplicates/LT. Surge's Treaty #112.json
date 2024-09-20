@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "28994922",
+        "date": "5/25/2019",
+        "auction_seller": "probstein123",
+        "price": "$17.34",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6858212094848136514/-6161812522928061258.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "362650364277"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/829492502136398007/6409742154483020521.jpg",
+        "lot_number": "374403632836",
+        "price": "$26.00",
+        "cert_number": "62389144",
+        "auction_seller": "yourfash_46",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/17/2022"
+    },
+    {
+        "cert_number": "28994922",
+        "lot_number": "352334081604",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9214911404151831285/-7242807285008013099.jpg",
+        "date": "4/29/2018",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

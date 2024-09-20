@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "bidoveru",
+        "price": "$13.50",
+        "lot_number": "313074110690",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8555362888822696287/-201704561077401058.jpg",
+        "date": "5/14/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41643841"
+    },
+    {
+        "price": "$52.18",
+        "auction_seller": "huhu-3310",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5569168089816766921/-3961058033255268886.jpg",
+        "lot_number": "363561812699",
+        "auction_type": "Auction",
+        "date": "10/3/2021",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "48987677"
+    },
+    {
+        "cert_number": "44913007",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6828374197559574116/4457610600945485318.jpg",
+        "auction_seller": "bidoveru",
+        "price": "$52.00",
+        "date": "7/16/2024",
+        "auction_type": "Auction",
+        "lot_number": "315511108078",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

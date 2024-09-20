@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "anthonyaigner45",
+        "price": "$10.00",
+        "lot_number": "304757489876",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6358410746770628666/940901745278825709.jpg",
+        "auction_type": "Auction",
+        "date": "1/9/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "58802721"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5266101211930466049/6113622110444462751.jpg",
+        "date": "1/16/2023",
+        "price": "$4.25",
+        "grade": "8",
+        "cert_number": "58211987",
+        "lot_number": "115667015768",
+        "auction_seller": "tntcards.mi",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$13.48",
+        "date": "12/27/2022",
+        "lot_number": "304744848383",
+        "auction_seller": "anthonyaigner45",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-331285549371591653/940901745278825709.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "58802721"
+    }
+]

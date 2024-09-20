@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "54248714",
+        "lot_number": "404070077612",
+        "price": "$11.52",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1064323796760121766/312776193118259123.jpg",
+        "date": "12/30/2022",
+        "auction_seller": "bootsy81",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$20.40",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5851855229670253953/-7796409716075299323.jpg",
+        "auction_seller": "wonderland_retro",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "58602094",
+        "lot_number": "275661038244",
+        "date": "2/9/2023"
+    },
+    {
+        "cert_number": "26278468",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2307684344858457216/-3597591202357553819.jpg",
+        "date": "4/29/2018",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$2.75",
+        "lot_number": "142763817900"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "date": "6/28/2020",
+        "grade": "8",
+        "price": "$9.95",
+        "lot_number": "143607673108",
+        "auction_seller": "spaceman1958",
+        "cert_number": "24708112",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/519853758441382411/-2753524047168755098.jpg"
+    },
+    {
+        "price": "$21.00",
+        "date": "4/29/2024",
+        "grade": "9",
+        "lot_number": "285824676206",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1577078728822136735/-1876781215473345698.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "87449547",
+        "auction_seller": "nido_cards_and_collectibles"
+    },
+    {
+        "price": "$9.50",
+        "date": "9/20/2022",
+        "cert_number": "62030134",
+        "grade": "8",
+        "auction_seller": "sellers_sportscards",
+        "auction_type": "Auction",
+        "lot_number": "265882879601",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4528883930719916999/5221489889989758735.jpg",
+        "auction_house": "eBay"
+    }
+]

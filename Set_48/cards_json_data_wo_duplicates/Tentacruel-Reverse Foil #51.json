@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4803864990712709992/-8121236070260436721.jpg",
+        "cert_number": "47741233",
+        "lot_number": "304781782951",
+        "price": "$10.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dylaprovident_0"
+    },
+    {
+        "auction_type": "Best Offer",
+        "auction_seller": "cardboardkrackshack",
+        "grade": "9",
+        "price": "$35.00",
+        "cert_number": "45152990",
+        "date": "9/16/2020",
+        "auction_house": "eBay",
+        "lot_number": "133437095490",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9041348787144193698/-2342365814870017178.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2798253876234367663/-1975225596681655081.jpg",
+        "cert_number": "94265699",
+        "date": "8/11/2024",
+        "grade": "8",
+        "price": "$16.40",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "135174410612"
+    },
+    {
+        "date": "12/23/2023",
+        "lot_number": "134851171761",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8737494351598137126/-2288788424686325209.jpg",
+        "grade": "9",
+        "cert_number": "82623858",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "price": "$31.39",
+        "auction_house": "eBay"
+    }
+]

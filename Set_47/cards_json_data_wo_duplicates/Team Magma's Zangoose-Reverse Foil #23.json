@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "lot_number": "115744542707",
+        "price": "$12.86",
+        "auction_type": "Auction",
+        "cert_number": "60760014",
+        "date": "4/2/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3481640153523038741/3349004177077538902.jpg"
+    },
+    {
+        "price": "$250.08",
+        "lot_number": "324353017956",
+        "cert_number": "43350531",
+        "auction_seller": "edac6942",
+        "auction_type": "Best Offer",
+        "date": "4/3/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5268762169043398487/-2502980658804982117.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7792478448856384562/3349004177077538902.jpg",
+        "auction_seller": "tannah12",
+        "date": "3/6/2023",
+        "price": "$17.51",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "60760014",
+        "lot_number": "115717686021",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "155400226821",
+        "date": "2/20/2023",
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "price": "$19.19",
+        "auction_type": "Auction",
+        "cert_number": "60760014",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3205803559133827421/3349004177077538902.jpg"
+    },
+    {
+        "auction_seller": "tacotruckcollectibles",
+        "lot_number": "196456694369",
+        "cert_number": "85179437",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9041553069587630400/4281845238634441748.jpg",
+        "price": "$3.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/28/2024"
+    }
+]

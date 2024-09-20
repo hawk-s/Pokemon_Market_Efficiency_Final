@@ -1,0 +1,156 @@
+[
+    {
+        "auction_house": "Goldin Auctions",
+        "cert_number": "75258448",
+        "grade": "7",
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "lot_number": "4958",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/4387666395259363799/images/1.jpg"
+    },
+    {
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4622755995835190573/-745451114778190381.jpg",
+        "grade": "9",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "date": "6/30/2023",
+        "cert_number": "68343404",
+        "auction_house": "eBay",
+        "lot_number": "394685331696"
+    },
+    {
+        "date": "4/19/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2442651339039030124/-1421057209655353004.jpg",
+        "cert_number": "42343196",
+        "auction_type": "Best Offer",
+        "auction_seller": "hurl-dall",
+        "grade": "9",
+        "price": "$19.95",
+        "lot_number": "143427169629",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "price": "$52.00",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "cert_number": "70358092",
+        "lot_number": "4838",
+        "auction_type": "Auction",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/-6888943686390005666/images/1.jpg",
+        "date": "5/11/2023",
+        "grade": "10"
+    },
+    {
+        "lot_number": "142811259469",
+        "date": "6/6/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9039793420209396065/2411867690462773998.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "price": "$0.99",
+        "cert_number": "40771255"
+    },
+    {
+        "date": "8/11/2017",
+        "price": "$19.00",
+        "auction_type": "Best Offer",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6456727194149850019/7611442593316218301.jpg",
+        "lot_number": "182699390261",
+        "auction_seller": "kevinh703",
+        "cert_number": "27476648",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3178120515746328141/4537077800049145185.jpg",
+        "price": "$14.99",
+        "cert_number": "67260388",
+        "grade": "8",
+        "date": "12/28/2022",
+        "auction_type": "Auction",
+        "auction_seller": "krukcards",
+        "auction_house": "eBay",
+        "lot_number": "134376402063"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "price": "$10.50",
+        "date": "9/17/2023",
+        "lot_number": "314813035769",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4238006335326971158/-7519260233802087460.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68640474"
+    },
+    {
+        "grade": "9",
+        "cert_number": "42343195",
+        "date": "11/1/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6449234229008398895/5990081403209724141.jpg",
+        "lot_number": "174078471887",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "svc051",
+        "price": "$6.59"
+    },
+    {
+        "price": "$4.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3332216526580849316/-3660791605852821077.jpg",
+        "cert_number": "28184997",
+        "lot_number": "292385445230",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "12/31/2017",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/15/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7514695052754292387/-6734335934958478702.jpg",
+        "auction_seller": "treheb-51",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "cert_number": "42343194",
+        "grade": "9",
+        "lot_number": "203180925552",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "184165595964",
+        "price": "$3.25",
+        "date": "2/16/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8582425335655073881/-7650963707351281184.jpg",
+        "cert_number": "42343194",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "svc051"
+    },
+    {
+        "date": "10/13/2019",
+        "cert_number": "42343196",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5417032288204275120/8137558540779165916.jpg",
+        "price": "$4.13",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "svc051",
+        "lot_number": "183987717141"
+    },
+    {
+        "price": "$14.99",
+        "date": "7/12/2019",
+        "auction_type": "Best Offer",
+        "lot_number": "292752108140",
+        "cert_number": "40771255",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5462004050868631598/-120228890919232536.jpg",
+        "auction_seller": "cabalcoffers"
+    }
+]

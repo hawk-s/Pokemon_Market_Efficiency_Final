@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "robk0215",
+        "cert_number": "49959117",
+        "lot_number": "174988166261",
+        "price": "$15.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "11/1/2021",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7521618338510849987/-2959528653586288763.jpg"
+    },
+    {
+        "date": "3/24/2024",
+        "cert_number": "54126148",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5906341705724300617/2340535411943610591.jpg",
+        "price": "$20.50",
+        "lot_number": "156125897822",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "quinlan_collectibles"
+    },
+    {
+        "auction_seller": "robk0215",
+        "date": "10/15/2021",
+        "cert_number": "49959116",
+        "lot_number": "174971737974",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$66.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6758551301418786754/-9200398912744545434.jpg"
+    },
+    {
+        "date": "2/8/2021",
+        "auction_seller": "daniel6495",
+        "lot_number": "133653050850",
+        "cert_number": "48673656",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6809932970526553324/-5727931617476133268.jpg",
+        "price": "$24.50",
+        "auction_house": "eBay"
+    }
+]

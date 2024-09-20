@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "155644520579",
+        "price": "$66.64",
+        "cert_number": "73951567",
+        "auction_seller": "rey-collector",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3616315824999899056/7602563751254790750.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/9/2023"
+    },
+    {
+        "date": "10/2/2020",
+        "lot_number": "293753938841",
+        "cert_number": "44183547",
+        "price": "$38.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dowva-68",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5405244513672799363/8699500887410219724.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7083124123414102397/-9160734856705789646.jpg",
+        "cert_number": "44183547",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "date": "8/28/2020",
+        "auction_house": "eBay",
+        "auction_seller": "dowva-68",
+        "lot_number": "293655981508",
+        "price": "$130.00"
+    },
+    {
+        "auction_seller": "pokemonpacific",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2192815451978897189/7030410240874240243.jpg",
+        "cert_number": "41930789",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "lot_number": "392205852814",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/8/2019"
+    }
+]

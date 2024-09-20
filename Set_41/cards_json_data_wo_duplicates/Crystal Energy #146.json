@@ -1,0 +1,35 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-120054262240640597/7359996982332125744.jpg",
+        "auction_seller": "pokemon_revolution",
+        "cert_number": "26693811",
+        "grade": "9",
+        "lot_number": "122362908988",
+        "date": "10/10/2017",
+        "price": "$12.99",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "40771376",
+        "date": "6/6/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4745167497374106340/2897901521640138745.jpg",
+        "lot_number": "142811260129",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "lot_number": "202674133665",
+        "cert_number": "41933448",
+        "grade": "3",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2586699053413154381/4988064590388842599.jpg",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "5/15/2019",
+        "price": "$3.99",
+        "auction_house": "eBay"
+    }
+]

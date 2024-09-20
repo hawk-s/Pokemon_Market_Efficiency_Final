@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$2.25",
+        "date": "6/21/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4654118465479094276/3607273123526676519.jpg",
+        "lot_number": "372335599878",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27835621"
+    },
+    {
+        "date": "6/6/2018",
+        "cert_number": "40771217",
+        "price": "$5.60",
+        "lot_number": "142811260043",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1692663758988757640/-5704191479280032293.jpg",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "122362897247",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4240068456314443421/-1456635598184939854.jpg",
+        "auction_seller": "pokemon_revolution",
+        "cert_number": "26693815",
+        "grade": "9",
+        "date": "8/13/2020",
+        "price": "$12.99",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "10/10/2021",
+        "auction_seller": "von-2598",
+        "price": "$39.99",
+        "grade": "9",
+        "lot_number": "353704838710",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27835621",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4738801472914924472/1831904560958846170.jpg"
+    },
+    {
+        "price": "$15.00",
+        "auction_seller": "dylanewma_6",
+        "auction_type": "Best Offer",
+        "lot_number": "323673512223",
+        "cert_number": "28864083",
+        "auction_house": "eBay",
+        "date": "4/15/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8522774583362937368/4172272131704627500.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "353808988303",
+        "date": "12/17/2021",
+        "auction_seller": "von-2598",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4657664890927376366/1831904560958846170.jpg",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27835621"
+    },
+    {
+        "price": "$4.99",
+        "cert_number": "93216899",
+        "auction_seller": "bds1973",
+        "grade": "8",
+        "lot_number": "204963750478",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/4/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4245519123221831934/7499768967587608700.jpg"
+    }
+]

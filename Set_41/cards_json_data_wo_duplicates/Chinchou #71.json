@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "letocards",
+        "lot_number": "124885002174",
+        "date": "9/12/2021",
+        "cert_number": "51389904",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-767652523659463071/7520395428383980832.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27667871",
+        "lot_number": "192309247951",
+        "auction_type": "Buy It Now",
+        "price": "$11.99",
+        "auction_seller": "my_honolulu_blue",
+        "auction_house": "eBay",
+        "date": "9/18/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4783476080418760609/-514550913099321912.jpg",
+        "grade": "10"
+    },
+    {
+        "price": "$38.00",
+        "lot_number": "284606437203",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2283638490955848661/-658192715566367897.jpg",
+        "auction_seller": "zandgemporium-0",
+        "cert_number": "63597399",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "114884204252",
+        "cert_number": "48079292",
+        "date": "7/16/2021",
+        "auction_seller": "cardthrone",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$31.01",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/50905768778976507/3097841167074305993.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1233420390775220900/3097841167074305993.jpg",
+        "lot_number": "114901219621",
+        "cert_number": "48079292",
+        "auction_seller": "cardthrone",
+        "grade": "9",
+        "date": "7/28/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1314871920104335088/-6440021957335467456.jpg",
+        "lot_number": "142836549186",
+        "grade": "9",
+        "cert_number": "40771360",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "price": "$0.99"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$3.94",
+        "date": "2/22/2022",
+        "cert_number": "56478538",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4954616099396442227/-7063528463708820825.jpg",
+        "lot_number": "384728995048"
+    },
+    {
+        "cert_number": "57874582",
+        "price": "$7.01",
+        "date": "6/3/2022",
+        "auction_seller": "sellers_sportscards",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5119323059569569716/-6562648347890830354.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255554813078"
+    }
+]

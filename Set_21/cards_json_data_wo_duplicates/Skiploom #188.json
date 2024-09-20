@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "toaielloj-0",
+        "cert_number": "45910114",
+        "lot_number": "224243877406",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-781487401583380886/3907620606991325591.jpg",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "date": "11/26/2020"
+    },
+    {
+        "auction_seller": "bryalope-92",
+        "cert_number": "45910114",
+        "lot_number": "363638318479",
+        "grade": "9",
+        "date": "12/6/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$3.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4419303539626473146/2919099958740898896.jpg"
+    },
+    {
+        "lot_number": "353279084884",
+        "cert_number": "45910114",
+        "auction_seller": "pwcc_auctions",
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1635730090500848196/9001764234722042913.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/26/2020"
+    },
+    {
+        "date": "12/1/2020",
+        "auction_seller": "toaielloj-0",
+        "cert_number": "45910114",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4034958200956497361/3907620606991325591.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "224251750091",
+        "price": "$33.00"
+    },
+    {
+        "auction_seller": "luckyluke177",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4192040291673359074/181740386839426896.jpg",
+        "lot_number": "286024779199",
+        "grade": "8",
+        "cert_number": "69701319",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$2.75",
+        "date": "9/3/2024"
+    }
+]

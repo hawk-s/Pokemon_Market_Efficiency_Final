@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "5493",
+        "price": "$6.00",
+        "grade": "9",
+        "date": "6/15/2023",
+        "cert_number": "74865239",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/1113633344600900645/images/1.jpg",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/23/2017",
+        "price": "$7.55",
+        "lot_number": "401326759371",
+        "auction_type": "Auction",
+        "cert_number": "25668285",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2108880604461680315/-8907155289243969612.jpg"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "price": "$41.00",
+        "lot_number": "384346546133",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1954828113980482348/1646055105694369678.jpg",
+        "cert_number": "48545088",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    }
+]

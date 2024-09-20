@@ -1,0 +1,90 @@
+[
+    {
+        "lot_number": "5500",
+        "cert_number": "75343406",
+        "grade": "7",
+        "auction_seller": "Weekly Auction 13 Jun - 22 Jun",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/3815309888501543544/1610117232959851478/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "price": "$25.00",
+        "date": "6/26/2023"
+    },
+    {
+        "lot_number": "324820604203",
+        "price": "$30.77",
+        "cert_number": "50774575",
+        "grade": "9",
+        "date": "10/18/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3506044069088972917/-1386137841753407728.jpg"
+    },
+    {
+        "grade": "7",
+        "cert_number": "92037458",
+        "auction_seller": "clarrkie",
+        "date": "7/2/2024",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "387117126024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6846762211648497319/1276577867141571400.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1990680864363665841/5379753851264215654.jpg",
+        "lot_number": "305305309663",
+        "grade": "9",
+        "auction_seller": "bump-27",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "cert_number": "80141240",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "lot_number": "374753954583",
+        "date": "6/21/2023",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "73838135",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7130431048177333926/-348197644655211798.jpg"
+    },
+    {
+        "auction_seller": "dryfieri",
+        "lot_number": "185941715269",
+        "date": "6/21/2023",
+        "price": "$24.50",
+        "cert_number": "73768482",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3714680262310914922/6893354805947380603.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "cert_number": "75030800",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/7763611323398618523/images/1.jpg",
+        "lot_number": "5390",
+        "price": "$6.00",
+        "date": "6/15/2023",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun"
+    },
+    {
+        "price": "$17.05",
+        "cert_number": "75448033",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7345489985226141191/-6716268394464491048.jpg",
+        "date": "7/16/2024",
+        "lot_number": "387178475578",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

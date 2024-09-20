@@ -1,0 +1,90 @@
+[
+    {
+        "auction_seller": "pwcc_vault",
+        "cert_number": "44032927",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1261603382863585497/-2312153858212347831.jpg",
+        "lot_number": "224531091834",
+        "grade": "9",
+        "date": "7/19/2021",
+        "price": "$143.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "43437901",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9175297146289893053/-3554708796914250158.jpg",
+        "auction_type": "Buy It Now",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "6/15/2020",
+        "lot_number": "223749144973",
+        "price": "$130.00",
+        "auction_seller": "thecardgurutcg"
+    },
+    {
+        "date": "1/18/2024",
+        "auction_seller": "card_crazy11",
+        "lot_number": "166545337231",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-390688300258888856/-6134074969628498652.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "59970733",
+        "price": "$84.00"
+    },
+    {
+        "lot_number": "314818806229",
+        "auction_seller": "r_g_prizms",
+        "grade": "6",
+        "date": "9/15/2023",
+        "auction_type": "Auction",
+        "cert_number": "65729507",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2575721656832046677/-5321059471614948231.jpg"
+    },
+    {
+        "grade": "8",
+        "price": "$77.65",
+        "cert_number": "59970733",
+        "lot_number": "334782710453",
+        "auction_seller": "dacardworld",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5403922754497717042/4987164880525525700.jpg",
+        "date": "3/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "55847122",
+        "price": "$149.00",
+        "auction_seller": "villentretenmerth_01",
+        "lot_number": "325616715035",
+        "date": "4/21/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2751479431424960944/7512858880878729702.jpg"
+    },
+    {
+        "date": "12/28/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7103360076333150389/4052387301665231855.jpg",
+        "price": "$42.00",
+        "auction_seller": "ketchumallcollectibles",
+        "cert_number": "49358649",
+        "grade": "6",
+        "lot_number": "203758719080",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "43258092",
+        "date": "8/6/2023",
+        "lot_number": "275973068954",
+        "auction_seller": "coins_n_rarities",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2932143856631677239/1747515571569098768.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$384.00"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$20.51",
+        "grade": "9",
+        "auction_seller": "pokeota",
+        "cert_number": "45431397",
+        "auction_type": "Auction",
+        "date": "1/24/2022",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1212035150177352785/2989868373166037882.jpg",
+        "lot_number": "353864651824"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3819686863921204125/4938754192453594666.jpg",
+        "lot_number": "143844314636",
+        "cert_number": "45431398",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "date": "11/26/2020"
+    },
+    {
+        "cert_number": "58270465",
+        "auction_seller": "rocky_mountain_graded_cards",
+        "price": "$39.00",
+        "lot_number": "185708847395",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-883844661976981200/2433377147189046694.jpg",
+        "date": "12/30/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

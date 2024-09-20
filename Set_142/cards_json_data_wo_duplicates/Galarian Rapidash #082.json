@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "59769879",
+        "auction_seller": "sellers_sportscards",
+        "lot_number": "265862798829",
+        "date": "9/8/2022",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7129189040290100969/-2787448221713335266.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/265724518549209275/-2009971323610347861.jpg",
+        "date": "3/5/2021",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "auction_seller": "poketrade-uk",
+        "cert_number": "46102761",
+        "price": "$51.18",
+        "lot_number": "203293533112",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "60336193",
+        "auction_seller": "silver_dog94",
+        "grade": "9",
+        "lot_number": "116212712464",
+        "price": "$3.75",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7093315217721059009/4891416614850385663.jpg",
+        "auction_house": "eBay",
+        "date": "6/16/2024"
+    }
+]

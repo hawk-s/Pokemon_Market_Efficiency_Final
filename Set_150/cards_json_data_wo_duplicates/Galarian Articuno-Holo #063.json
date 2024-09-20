@@ -1,0 +1,24 @@
+[
+    {
+        "cert_number": "75245657",
+        "grade": "8",
+        "auction_seller": "my-slab-dealer",
+        "price": "$11.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2612806711280284860/-3229881271449226089.jpg",
+        "date": "1/13/2024",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "186239908008"
+    },
+    {
+        "cert_number": "75540027",
+        "lot_number": "166365998300",
+        "auction_seller": "itemland",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/13/2023",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9028775273024251053/-5225376187574641658.jpg"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "date": "12/31/2021",
+        "cert_number": "46335838",
+        "auction_seller": "kantos_finest",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8398410754971940710/6343833901024077703.jpg",
+        "grade": "9",
+        "price": "$40.00",
+        "lot_number": "313807706617",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "89012386",
+        "lot_number": "296608566738",
+        "date": "8/13/2024",
+        "auction_seller": "wildbnch69",
+        "price": "$15.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6927727652847738789/-4491764597640449492.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "Weekly Auction Apr 25 - May 4",
+        "price": "$26.00",
+        "lot_number": "4677",
+        "cert_number": "72609351",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3698167823570495137/9115976935004049739/images/1.jpg",
+        "date": "5/4/2023"
+    },
+    {
+        "cert_number": "44690218",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "5/31/2020",
+        "lot_number": "233502337906",
+        "auction_seller": "compusmartpr",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8826177650947583306/-2673314965953227310.jpg",
+        "price": "$44.98"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6147337627417213129/-2284014782420960489.jpg",
+        "grade": "7",
+        "auction_seller": "tannah12",
+        "cert_number": "60759850",
+        "lot_number": "155401116021",
+        "date": "2/19/2023",
+        "price": "$17.98",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "7/10/2020",
+        "lot_number": "113856384634",
+        "auction_type": "Buy It Now",
+        "auction_seller": "shizzlemetimbers",
+        "cert_number": "43779093",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6048140765516051997/-8626199281844069644.jpg",
+        "price": "$38.17",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "314529789342",
+        "price": "$26.69",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5763620548829943344/8047750985166095280.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "4/24/2023",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay",
+        "cert_number": "67947581"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$16.90",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4890386748915737142/3412725861207030273.jpg",
+        "date": "7/1/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "186502990948",
+        "auction_seller": "pokedreammarket",
+        "cert_number": "67114309"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4563888231390178021/3412725861207030273.jpg",
+        "lot_number": "186502985807",
+        "date": "7/8/2024",
+        "price": "$18.56",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokedreammarket",
+        "cert_number": "67114309"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6022657661580521519/-5909790132128874879.jpg",
+        "date": "1/5/2021",
+        "auction_seller": "faisk8r87",
+        "auction_type": "Best Offer",
+        "lot_number": "274623882755",
+        "price": "$90.00",
+        "cert_number": "47241348",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

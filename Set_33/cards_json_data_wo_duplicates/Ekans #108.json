@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "55485158",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6647843632407100467/4463978805488087813.jpg",
+        "price": "$40.64",
+        "auction_seller": "tannah12",
+        "date": "12/4/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115615988849",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6355946949098490193/690178206102637382.jpg",
+        "lot_number": "256374760160",
+        "grade": "6",
+        "cert_number": "54761564",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "auction_seller": "frenzy_collectors",
+        "date": "1/19/2024"
+    },
+    {
+        "date": "8/27/2024",
+        "auction_seller": "looted.cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2722712142339845107/-8507655946413803191.jpg",
+        "grade": "9",
+        "lot_number": "355969676102",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "cert_number": "78181800",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "frenzy_collectors",
+        "date": "4/15/2024",
+        "price": "$8.99",
+        "grade": "6",
+        "cert_number": "54761564",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6673630447226519352/-176978889402836863.jpg",
+        "lot_number": "256473100559"
+    },
+    {
+        "date": "6/30/2024",
+        "price": "$15.80",
+        "lot_number": "186502942678",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7096319082600663016/-1526189839258435144.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "73922098",
+        "auction_house": "eBay",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "price": "$3.25",
+        "auction_seller": "tnolan0816",
+        "cert_number": "27798160",
+        "lot_number": "292314264281",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6117058489391742402/-5381416378384982619.jpg",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "hitsquad70",
+        "date": "6/3/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5112338399287050998/-2838064458854385079.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "284829337558",
+        "cert_number": "57475694"
+    },
+    {
+        "cert_number": "27798160",
+        "date": "11/27/2017",
+        "price": "$5.50",
+        "lot_number": "292341701285",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1876692693983737325/-8085598542862419948.jpg",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

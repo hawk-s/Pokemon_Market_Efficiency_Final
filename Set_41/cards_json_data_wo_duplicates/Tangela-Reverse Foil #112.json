@@ -1,0 +1,134 @@
+[
+    {
+        "cert_number": "41493572",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3962453473497022653/5134167678581423584.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "183627483650",
+        "date": "1/15/2019",
+        "auction_house": "eBay",
+        "auction_seller": "svc051"
+    },
+    {
+        "lot_number": "224254777821",
+        "price": "$54.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7470753466564107077/-8395877854916134934.jpg",
+        "cert_number": "45261813",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "12/8/2020",
+        "auction_house": "eBay",
+        "auction_seller": "cartlus2014"
+    },
+    {
+        "auction_seller": "andr-rent",
+        "date": "8/24/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8708009761491771148/-4542276624989859397.jpg",
+        "price": "$41.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "24858077",
+        "lot_number": "265272859085"
+    },
+    {
+        "date": "8/11/2017",
+        "price": "$19.00",
+        "auction_type": "Best Offer",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6050313248630051206/5999297565748287127.jpg",
+        "auction_seller": "kevinh703",
+        "cert_number": "27476630",
+        "lot_number": "182699387536",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/24/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8077916300319070467/5687583056447652836.jpg",
+        "cert_number": "66127397",
+        "price": "$85.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "quinlan_collectibles",
+        "lot_number": "156125924281"
+    },
+    {
+        "date": "4/19/2020",
+        "auction_type": "Buy It Now",
+        "cert_number": "42704113",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3123940274629968635/7046844631040419846.jpg",
+        "grade": "9",
+        "price": "$22.00",
+        "auction_seller": "colddinosaur",
+        "auction_house": "eBay",
+        "lot_number": "164154422525"
+    },
+    {
+        "date": "1/5/2023",
+        "lot_number": "185715889846",
+        "cert_number": "51861170",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_seller": "coradcarus_0",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3316646210113845909/1541762733667976126.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/6/2018",
+        "lot_number": "142811259474",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5608644271213627366/-2867094259450340571.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "price": "$3.00",
+        "cert_number": "40771256"
+    },
+    {
+        "date": "12/13/2023",
+        "cert_number": "41354988",
+        "price": "$171.50",
+        "auction_type": "Auction",
+        "lot_number": "276204089546",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2080980665844436231/6738522024527331089.jpg"
+    },
+    {
+        "price": "$26.00",
+        "date": "11/3/2021",
+        "grade": "8",
+        "lot_number": "313725244501",
+        "cert_number": "51269484",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5700097320616663242/-9010648142543992900.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "auction_seller": "nuclaray",
+        "lot_number": "133318007463",
+        "cert_number": "45261813",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5514227482586534314/-6911838836371560763.jpg",
+        "price": "$9.20",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/4/2020"
+    },
+    {
+        "auction_seller": "ethanoid",
+        "cert_number": "41493572",
+        "lot_number": "224774657001",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3075432585152982992/8746591747673896799.jpg",
+        "grade": "9",
+        "price": "$31.00",
+        "date": "1/11/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

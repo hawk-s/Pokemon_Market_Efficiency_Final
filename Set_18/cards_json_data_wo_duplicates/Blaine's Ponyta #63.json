@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3468824564716847779/2933878014993447737.jpg",
+        "date": "7/15/2018",
+        "grade": "9",
+        "cert_number": "41011990",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "192593028165"
+    },
+    {
+        "auction_seller": "tradingbee_0",
+        "cert_number": "44418802",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4763475263844815542/677542333439556502.jpg",
+        "lot_number": "402790957640",
+        "auction_type": "Auction",
+        "price": "$32.99",
+        "date": "4/18/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$42.99",
+        "date": "9/28/2020",
+        "lot_number": "114129952791",
+        "auction_type": "Best Offer",
+        "cert_number": "44418802",
+        "auction_seller": "blowoutcards2",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5189613314573617079/-7582298707017685897.jpg"
+    },
+    {
+        "date": "7/26/2019",
+        "lot_number": "113824337471",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8444144230666731163/1810329279355138963.jpg",
+        "cert_number": "43136451",
+        "price": "$8.99",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "gymleadermomma"
+    }
+]

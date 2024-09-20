@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "7",
+        "lot_number": "175707181208",
+        "cert_number": "55943109",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5194636260838274222/3824993273208601773.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "pcbtcgs",
+        "auction_house": "eBay",
+        "date": "5/5/2023",
+        "price": "$0.99"
+    },
+    {
+        "auction_seller": "sprys",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4177192695111796264/2024521867484799498.jpg",
+        "grade": "9",
+        "cert_number": "53412080",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "lot_number": "125101792454"
+    },
+    {
+        "cert_number": "75539786",
+        "lot_number": "166366049868",
+        "price": "$15.00",
+        "auction_seller": "itemland",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2771610516669952861/-3674870916665857903.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/13/2023",
+        "grade": "10"
+    }
+]

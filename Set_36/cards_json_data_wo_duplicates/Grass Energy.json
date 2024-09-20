@@ -1,0 +1,79 @@
+[
+    {
+        "date": "7/1/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8318163420243753747/-6070449868175609954.jpg",
+        "price": "$76.00",
+        "auction_type": "Auction",
+        "lot_number": "142840895355",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "28988639",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "date": "6/30/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2938113656381044335/-158569970418075680.jpg",
+        "auction_seller": "goldrush_cards",
+        "cert_number": "91377149",
+        "price": "$35.90",
+        "lot_number": "235621381941",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/996505218738793341/8936792361645851721.jpg",
+        "cert_number": "46135776",
+        "lot_number": "402654622017",
+        "date": "2/1/2021",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$13.50",
+        "cert_number": "42304919",
+        "date": "4/28/2019",
+        "lot_number": "183780100338",
+        "auction_seller": "kampes_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5530383376096788993/-3576767259791072966.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "46135776",
+        "date": "12/13/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5259912271713592299/4217396988936738430.jpg",
+        "grade": "9",
+        "lot_number": "353303175409",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/2/2024",
+        "auction_seller": "goldrush_cards",
+        "cert_number": "91377149",
+        "lot_number": "235589874126",
+        "auction_type": "Auction",
+        "price": "$24.43",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3139066282928688811/-158569970418075680.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "235064682904",
+        "auction_seller": "goldrush_cards",
+        "price": "$38.73",
+        "cert_number": "73615797",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1230587272741031077/-6286156705801705020.jpg",
+        "grade": "10",
+        "date": "7/2/2023"
+    }
+]

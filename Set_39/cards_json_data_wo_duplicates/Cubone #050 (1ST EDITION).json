@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "74160902",
+        "price": "$68.43",
+        "lot_number": "285445910072",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6728609903541057094/-379680123054520638.jpg",
+        "date": "9/1/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tcgcollector05",
+        "grade": "10"
+    },
+    {
+        "date": "8/27/2023",
+        "auction_seller": "scc_consignments",
+        "lot_number": "305080141404",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1101292039958229505/-8813019282751779369.jpg",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "cert_number": "73658572",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "124669403863",
+        "price": "$102.50",
+        "auction_seller": "card_secret",
+        "cert_number": "47668074",
+        "auction_type": "Auction",
+        "date": "4/18/2021",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1956263151706325010/72860050654661181.jpg",
+        "grade": "10"
+    }
+]

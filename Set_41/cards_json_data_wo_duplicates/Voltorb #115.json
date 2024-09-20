@@ -1,0 +1,123 @@
+[
+    {
+        "auction_seller": "habbyshobbies",
+        "cert_number": "48971171",
+        "lot_number": "384377785879",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "date": "9/13/2021",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5250358996417800043/-3427323884654168282.jpg"
+    },
+    {
+        "date": "5/20/2020",
+        "price": "$17.95",
+        "auction_seller": "gemmintpokemon",
+        "auction_type": "Best Offer",
+        "lot_number": "183875649816",
+        "cert_number": "43851632",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8846099540589209793/-7205311149413555108.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5614922031195689384/1219282133675814990.jpg",
+        "auction_seller": "cardthrone",
+        "date": "7/21/2021",
+        "grade": "8",
+        "cert_number": "48079291",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$20.52",
+        "lot_number": "114890631170"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "price": "$13.00",
+        "date": "10/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3336202664765109034/83747376360659403.jpg",
+        "cert_number": "78198516",
+        "lot_number": "186128176745",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "113611046544",
+        "date": "6/17/2020",
+        "auction_type": "Best Offer",
+        "price": "$26.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2153370021494032739/-25045617133310948.jpg",
+        "auction_seller": "blowoutcards2",
+        "cert_number": "42070146",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$9.50",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4707983334267913627/-244520355406945824.jpg",
+        "auction_seller": "probstein123",
+        "cert_number": "27868400",
+        "auction_type": "Auction",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "362100052753"
+    },
+    {
+        "date": "2/19/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1337639111683707573/5895223813754686203.jpg",
+        "grade": "9",
+        "lot_number": "202595277374",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99",
+        "cert_number": "41933442"
+    },
+    {
+        "date": "4/2/2020",
+        "cert_number": "41319778",
+        "auction_type": "Buy It Now",
+        "auction_seller": "kantos_finest",
+        "price": "$21.50",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8781433652959030363/8523697368041278433.jpg",
+        "grade": "10",
+        "lot_number": "312855682187"
+    },
+    {
+        "cert_number": "27798105",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4177946525066090779/22377735919977093.jpg",
+        "date": "11/10/2017",
+        "lot_number": "292313458042",
+        "auction_type": "Auction",
+        "price": "$12.56",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5767023590658475285/-2034690988153305635.jpg",
+        "lot_number": "142836549210",
+        "cert_number": "40771244",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "grade": "10"
+    },
+    {
+        "lot_number": "254416347940",
+        "cert_number": "41319778",
+        "price": "$10.50",
+        "auction_seller": "okemos16",
+        "date": "11/14/2019",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5938543746518990394/-6253006495711916727.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

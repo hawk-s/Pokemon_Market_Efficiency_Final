@@ -1,0 +1,46 @@
+[
+    {
+        "date": "4/3/2023",
+        "auction_seller": "emcoo5092",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3885906827165841537/8270703582618273930.jpg",
+        "price": "$26.18",
+        "lot_number": "225492008983",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "69542269"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4962119363659587794/7066992464372136442.jpg",
+        "lot_number": "145661061085",
+        "auction_seller": "esuprojapan",
+        "price": "$137.50",
+        "cert_number": "85311198",
+        "auction_type": "Auction",
+        "date": "3/22/2024",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-748421729112628859/-8027418589937763173.jpg",
+        "auction_seller": "zandgemporium",
+        "date": "9/2/2024",
+        "lot_number": "286023129370",
+        "auction_type": "Auction",
+        "cert_number": "68896850",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/2/2024",
+        "cert_number": "88226889",
+        "price": "$102.50",
+        "lot_number": "204807376476",
+        "auction_seller": "popcollect_jp",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1860285101333395406/-7850671332537102991.jpg"
+    }
+]

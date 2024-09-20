@@ -1,0 +1,68 @@
+[
+    {
+        "date": "2/5/2023",
+        "auction_seller": "grahamj1994",
+        "lot_number": "266105452373",
+        "grade": "8",
+        "cert_number": "69021145",
+        "price": "$16.22",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9098220017867730444/-2986623170669192296.jpg"
+    },
+    {
+        "date": "2/20/2023",
+        "auction_seller": "tannah12",
+        "cert_number": "60760010",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-557076626159422023/-1843123737116272618.jpg",
+        "lot_number": "155400224901",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$16.11"
+    },
+    {
+        "cert_number": "75751872",
+        "price": "$26.00",
+        "date": "8/10/2023",
+        "lot_number": "364391372302",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7034674439998785181/-1764871582593192576.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$9.50",
+        "auction_seller": "pwcc_auctions",
+        "date": "4/24/2019",
+        "lot_number": "143215137672",
+        "auction_type": "Auction",
+        "cert_number": "28758826",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8089516487011757197/3580108150760372290.jpg"
+    },
+    {
+        "date": "6/5/2020",
+        "lot_number": "283565256903",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8003938568660326705/6345351230379955953.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "43350527",
+        "price": "$28.99",
+        "grade": "9",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "53863822",
+        "date": "12/20/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5697917370390086371/-765000176419519756.jpg",
+        "grade": "9",
+        "lot_number": "324931803272",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.09",
+        "auction_seller": "dualcollectibleinc"
+    }
+]

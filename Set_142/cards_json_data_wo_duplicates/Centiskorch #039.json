@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$14.99",
+        "auction_seller": "1steditionpokemon",
+        "date": "6/26/2023",
+        "auction_type": "Auction",
+        "cert_number": "55566232",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "175768902232",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2167607575369300109/3363811022760337320.jpg"
+    },
+    {
+        "auction_seller": "onepizza",
+        "cert_number": "58174043",
+        "grade": "9",
+        "price": "$8.50",
+        "date": "10/25/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/968879473885590645/-3456232498087977220.jpg",
+        "lot_number": "255781744019",
+        "auction_house": "eBay"
+    }
+]

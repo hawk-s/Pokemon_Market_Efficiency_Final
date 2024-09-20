@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "40771399",
+        "lot_number": "293175740145",
+        "auction_type": "Best Offer",
+        "auction_seller": "apspeeze",
+        "date": "6/28/2020",
+        "grade": "8",
+        "price": "$9.99",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3446515932598944714/6034169444756468442.jpg"
+    },
+    {
+        "cert_number": "40771399",
+        "date": "6/6/2018",
+        "lot_number": "142811259390",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4924128667402614398/-724238854015370069.jpg",
+        "price": "$3.51",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "cert_number": "48971195",
+        "auction_seller": "habbyshobbies",
+        "lot_number": "384377818069",
+        "auction_type": "Auction",
+        "date": "9/13/2021",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7068020570331758396/1114463468252185129.jpg"
+    },
+    {
+        "lot_number": "372073039251",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7916802963347523936/2252283790109747083.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27868403",
+        "price": "$8.46"
+    },
+    {
+        "cert_number": "26693814",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6888604401516106817/7391751715671511429.jpg",
+        "auction_type": "Buy It Now",
+        "auction_seller": "pokemon_revolution",
+        "grade": "9",
+        "lot_number": "122362903902",
+        "date": "8/13/2020",
+        "price": "$12.99",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/-6348322233560725087/images/1.jpg",
+        "cert_number": "74289865",
+        "price": "$6.00",
+        "grade": "9",
+        "date": "6/15/2023",
+        "lot_number": "5523",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun"
+    },
+    {
+        "date": "10/30/2020",
+        "price": "$28.01",
+        "lot_number": "264909459497",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5740150147743293252/1064230049011458715.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "biggerscho",
+        "grade": "10",
+        "cert_number": "27868403"
+    },
+    {
+        "cert_number": "40771399",
+        "price": "$2.25",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2324259496533979736/8662373344247706561.jpg",
+        "lot_number": "401822056645",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/30/2019"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "59404449",
+        "date": "3/8/2023",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2309224953160012163/-8881982794268848968.jpg",
+        "price": "$17.74",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "155431910141"
+    },
+    {
+        "price": "$26.00",
+        "auction_seller": "vulpix_nightmare",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7235493748212158540/4834119692780272253.jpg",
+        "cert_number": "44387728",
+        "date": "9/29/2019",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "283620282751",
+        "grade": "10"
+    },
+    {
+        "price": "$45.00",
+        "lot_number": "315532605892",
+        "auction_seller": "bidoveru",
+        "date": "7/23/2024",
+        "cert_number": "41643861",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3047057216460303750/6530581916702930103.jpg"
+    },
+    {
+        "date": "12/14/2022",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5265524492416396474/7790567114560613546.jpg",
+        "grade": "9",
+        "lot_number": "115630392472",
+        "price": "$19.27",
+        "auction_type": "Auction",
+        "cert_number": "56612944",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "neoinvestments",
+        "auction_type": "Best Offer",
+        "cert_number": "47796217",
+        "date": "3/13/2021",
+        "lot_number": "324517640698",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3428373880215111389/-1131899323144171952.jpg",
+        "grade": "9",
+        "price": "$40.00",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6055768390065088062/-8086856652716178403.jpg",
+        "lot_number": "155376236411",
+        "date": "2/1/2023",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "cert_number": "70580435",
+        "auction_house": "eBay",
+        "auction_seller": "cheeses-treasures-llc"
+    },
+    {
+        "date": "4/18/2020",
+        "auction_type": "Buy It Now",
+        "lot_number": "324101704846",
+        "auction_seller": "conshap",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/593946163213150211/7914407814701111621.jpg",
+        "cert_number": "45290647",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "grade": "10"
+    },
+    {
+        "lot_number": "285091540536",
+        "auction_seller": "starcraft956",
+        "grade": "9",
+        "date": "1/8/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8336841530941480037/239665193983040234.jpg",
+        "cert_number": "68958886",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$15.01"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "auction_house": "Goldin Auctions",
+        "date": "2/2/2023",
+        "price": "$16.00",
+        "grade": "6",
+        "lot_number": "1976",
+        "auction_type": "Auction",
+        "cert_number": "69969827",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/699515408533435676/images/1.jpg",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6325879772977744663/4213839812307462076.jpg",
+        "grade": "4",
+        "cert_number": "62474378",
+        "lot_number": "355271199715",
+        "auction_seller": "pokelounge.eu",
+        "price": "$25.38",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3436492193968687689/-5403243581113617818.jpg",
+        "lot_number": "135082072024",
+        "auction_seller": "slapauction",
+        "date": "6/9/2024",
+        "price": "$53.02",
+        "auction_type": "Auction",
+        "cert_number": "89183662",
+        "auction_house": "eBay"
+    }
+]

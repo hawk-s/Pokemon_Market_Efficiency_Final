@@ -1,0 +1,57 @@
+[
+    {
+        "date": "6/16/2019",
+        "lot_number": "183838694613",
+        "cert_number": "42343229",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7092876235450259618/-8770328066565725200.jpg",
+        "auction_seller": "svc051",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "46818412",
+        "auction_seller": "schwifty87",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/142599728546228181/-871700379665154350.jpg",
+        "price": "$43.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "284117271348",
+        "date": "12/24/2020"
+    },
+    {
+        "date": "1/6/2024",
+        "grade": "6",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2853476356515553184/-7261697387580536150.jpg",
+        "auction_house": "eBay",
+        "lot_number": "204597459456",
+        "cert_number": "82669530"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7834468377209501832/-6025983467622516348.jpg",
+        "auction_seller": "jmsgaragellc",
+        "price": "$14.99",
+        "cert_number": "68084266",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "355620030275",
+        "date": "4/16/2024"
+    },
+    {
+        "cert_number": "60949632",
+        "auction_seller": "tannah10s",
+        "price": "$79.77",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/9/2023",
+        "grade": "10",
+        "lot_number": "115876859081",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2519606732909730500/-2287990003537889970.jpg"
+    }
+]

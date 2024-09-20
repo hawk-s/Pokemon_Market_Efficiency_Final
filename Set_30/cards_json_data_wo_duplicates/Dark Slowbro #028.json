@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "tradingcardgamesshop",
+        "lot_number": "256387595566",
+        "cert_number": "70570840",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1917880046377928083/-1767453069215053062.jpg",
+        "price": "$46.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/31/2024"
+    },
+    {
+        "date": "1/26/2024",
+        "auction_seller": "tradingcardgamesshop",
+        "lot_number": "256382002214",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5195895812973370406/-7503553284693137879.jpg",
+        "grade": "8",
+        "cert_number": "63480331",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/22/2021",
+        "cert_number": "57589395",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2945445783047355180/-7339934705492549746.jpg",
+        "auction_seller": "card_secret",
+        "lot_number": "115085479236",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

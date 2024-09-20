@@ -1,0 +1,46 @@
+[
+    {
+        "date": "10/13/2022",
+        "price": "$11.52",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "385152936688",
+        "auction_type": "Auction",
+        "cert_number": "57709674",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2050211499814664955/1182543024344800882.jpg"
+    },
+    {
+        "cert_number": "52739553",
+        "auction_seller": "houseofcards777",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2466923645275392495/-9108781815762206688.jpg",
+        "price": "$16.35",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "234313914091",
+        "date": "12/10/2021"
+    },
+    {
+        "price": "$23.80",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3090254707993029019/6051644799184024369.jpg",
+        "date": "10/27/2022",
+        "cert_number": "65176331",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "394295984363",
+        "auction_seller": "radela10",
+        "grade": "10"
+    },
+    {
+        "date": "7/27/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9025407881584748499/-3064212659784436187.jpg",
+        "grade": "9",
+        "price": "$21.50",
+        "lot_number": "355884852346",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "jastau_23",
+        "cert_number": "54962937"
+    }
+]

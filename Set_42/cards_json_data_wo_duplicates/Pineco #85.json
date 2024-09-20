@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$34.99",
+        "auction_type": "Best Offer",
+        "date": "4/30/2020",
+        "cert_number": "44461576",
+        "lot_number": "283701798630",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2183887401986428690/-5101688527881260185.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "68640665",
+        "auction_seller": "bidoveru",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4217158455140553560/-311386198476905087.jpg",
+        "date": "9/15/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "314811387013",
+        "price": "$19.50"
+    },
+    {
+        "lot_number": "383220995458",
+        "auction_seller": "habbyshobbies",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1250781645708300954/7817114654732331231.jpg",
+        "auction_type": "Auction",
+        "price": "$31.01",
+        "cert_number": "44306546",
+        "date": "10/24/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2837029969064704205/7943980249054106596.jpg",
+        "auction_seller": "bidoveru",
+        "price": "$49.00",
+        "cert_number": "44461576",
+        "date": "7/16/2024",
+        "lot_number": "315511272911",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "cert_number": "41643854",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-313070808244930275/8373097762051671061.jpg",
+        "lot_number": "313074116908",
+        "grade": "9",
+        "date": "5/14/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$15.01"
+    },
+    {
+        "cert_number": "41283356",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5347095804146655682/6643795141054886795.jpg",
+        "price": "$19.99",
+        "lot_number": "113232252728",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/10/2018",
+        "grade": "10"
+    },
+    {
+        "lot_number": "354048256761",
+        "date": "5/14/2022",
+        "auction_seller": "gemmint-10",
+        "price": "$34.22",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3234550251027278022/5306037646139890266.jpg",
+        "grade": "10",
+        "cert_number": "56120784"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "date": "2/6/2023",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8563378532380747468/-6954782672928302036.jpg",
+        "cert_number": "62572767",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "314358539220",
+        "auction_seller": "migmur-99",
+        "price": "$18.50"
+    },
+    {
+        "cert_number": "60577424",
+        "lot_number": "175643308035",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6026439632443219957/-6129787962577873735.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$7.52",
+        "auction_house": "eBay",
+        "date": "3/15/2023",
+        "auction_seller": "shabagel"
+    },
+    {
+        "cert_number": "60424718",
+        "auction_seller": "ztcards_5",
+        "price": "$10.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7668251144807747744/-7513709249149826710.jpg",
+        "lot_number": "204206113036",
+        "date": "1/12/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "385301683466",
+        "date": "12/23/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5965085795015095158/3608980582179540412.jpg",
+        "price": "$27.00",
+        "auction_seller": "dk0991",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "61712531"
+    },
+    {
+        "date": "10/11/2022",
+        "price": "$15.50",
+        "auction_seller": "gicollectable",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8032585790085241603/-3974518544660421023.jpg",
+        "grade": "9",
+        "lot_number": "314173315779",
+        "cert_number": "58588347",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/17/2023",
+        "price": "$38.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4454298227160959303/1136933774366804278.jpg",
+        "cert_number": "62226161",
+        "lot_number": "364408910701",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "uhohgames",
+        "price": "$20.00",
+        "date": "8/4/2023",
+        "cert_number": "62952892",
+        "lot_number": "295843721437",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8253594162937064844/-8675037273205794995.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4905891851322412067/-8752485864890551150.jpg",
+        "lot_number": "273876344765",
+        "date": "6/11/2019",
+        "cert_number": "43052760",
+        "auction_seller": "nath-pain",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$17.00",
+        "lot_number": "4012",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "cert_number": "72609220",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/207852853934236812/images/1.jpg",
+        "date": "4/20/2023"
+    },
+    {
+        "price": "$78.00",
+        "auction_seller": "i_love_shoes15",
+        "date": "9/4/2023",
+        "cert_number": "65323941",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4116275394322475596/-2683016166622566596.jpg",
+        "auction_house": "eBay",
+        "lot_number": "126070127597",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1619056678479885228/-4516532652166360408.jpg",
+        "price": "$7.50",
+        "lot_number": "165973484257",
+        "grade": "7",
+        "auction_seller": "tommybodega",
+        "cert_number": "71003416",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/15/2023"
+    },
+    {
+        "cert_number": "61807855",
+        "lot_number": "394903003592",
+        "auction_seller": "forevercollectorofficial",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9016595970151287712/-3551420919592290545.jpg",
+        "price": "$80.00",
+        "date": "10/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

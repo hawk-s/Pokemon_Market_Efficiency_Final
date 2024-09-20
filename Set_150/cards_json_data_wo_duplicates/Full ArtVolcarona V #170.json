@@ -1,0 +1,79 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6115036235833186431/4029286832323344727.jpg",
+        "date": "12/21/2022",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$15.52",
+        "cert_number": "68638627",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "385292879907"
+    },
+    {
+        "cert_number": "69085749",
+        "date": "2/8/2023",
+        "grade": "10",
+        "price": "$37.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2627180866978644977/-1040470910901571012.jpg",
+        "auction_seller": "rocketronnies",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275657528215"
+    },
+    {
+        "auction_seller": "psa",
+        "price": "$26.00",
+        "date": "8/28/2024",
+        "lot_number": "305738126694",
+        "cert_number": "94329092",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1001500962764666862/-2283279141456175628.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1076802678590942417/9166425655754820122.jpg",
+        "lot_number": "285140571637",
+        "cert_number": "70582016",
+        "auction_seller": "supreme-outboard-parts",
+        "date": "2/19/2023",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2654206082640775252/-5420331441896409616.jpg",
+        "auction_seller": "mosbabe",
+        "price": "$52.00",
+        "cert_number": "70524948",
+        "lot_number": "165920855706",
+        "date": "2/10/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/20/2022",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8703701335160079002/1694271495599599278.jpg",
+        "lot_number": "155306486258",
+        "cert_number": "65253582",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$24.11",
+        "grade": "10"
+    },
+    {
+        "date": "2/5/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4514865729063502335/-1923143817398249417.jpg",
+        "lot_number": "204227972649",
+        "grade": "8",
+        "price": "$10.52",
+        "auction_type": "Auction",
+        "cert_number": "70572904",
+        "auction_house": "eBay",
+        "auction_seller": "marlindajh16"
+    }
+]

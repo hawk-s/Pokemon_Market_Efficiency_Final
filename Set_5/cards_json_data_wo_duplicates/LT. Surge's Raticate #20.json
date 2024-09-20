@@ -1,0 +1,24 @@
+[
+    {
+        "date": "10/1/2023",
+        "cert_number": "65452543",
+        "auction_seller": "tcg_stockpile",
+        "lot_number": "355055037820",
+        "grade": "9",
+        "price": "$8.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/896679455561775044/6671209366668580900.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "285404111347",
+        "date": "8/6/2023",
+        "cert_number": "61474924",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1907322480344703554/-2290561277745544592.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$8.52"
+    }
+]

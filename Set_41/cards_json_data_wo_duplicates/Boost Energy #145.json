@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "26693817",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4594546628564147353/283986407635350727.jpg",
+        "auction_type": "Buy It Now",
+        "auction_seller": "pokemon_revolution",
+        "grade": "9",
+        "date": "8/13/2020",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "lot_number": "112309213307"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4400702658112118829/4454208870688734530.jpg",
+        "lot_number": "384377829775",
+        "cert_number": "48971204",
+        "auction_seller": "habbyshobbies",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "date": "9/13/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "142811260020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1661257244822915861/1969628865170505542.jpg",
+        "date": "6/6/2018",
+        "price": "$5.60",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "cert_number": "40771375",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4355311838556197653/8453904572445192555.jpg",
+        "date": "12/4/2021",
+        "price": "$10.00",
+        "cert_number": "63545452",
+        "grade": "9",
+        "lot_number": "393734407535",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

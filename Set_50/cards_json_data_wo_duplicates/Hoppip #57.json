@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7184536605314228186/927290536866025996.jpg",
+        "price": "$6.00",
+        "auction_type": "Auction",
+        "lot_number": "143471128592",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27743833"
+    },
+    {
+        "date": "11/5/2017",
+        "lot_number": "292310988624",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/3985053184003550455/7105207864754455303.jpg",
+        "price": "$1.74",
+        "cert_number": "27743834",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "28392184",
+        "auction_type": "Best Offer",
+        "grade": "10",
+        "auction_seller": "pokemon_revolution",
+        "price": "$19.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-285361078194680840/932509944430438605.jpg",
+        "date": "5/19/2020",
+        "auction_house": "eBay",
+        "lot_number": "112759147669"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7216630805336825560/-282763817105341616.jpg",
+        "auction_seller": "rockets_horde",
+        "lot_number": "284434601023",
+        "date": "9/8/2021",
+        "price": "$15.00",
+        "grade": "8",
+        "cert_number": "46864548",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "tnolan0816",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4991507115950210155/7105207864754455303.jpg",
+        "lot_number": "292314259248",
+        "price": "$6.50",
+        "cert_number": "27743834",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

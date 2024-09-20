@@ -1,0 +1,24 @@
+[
+    {
+        "date": "11/21/2021",
+        "auction_seller": "thepokehive",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2656201242231218786/6640673363029625711.jpg",
+        "price": "$39.99",
+        "cert_number": "52132926",
+        "grade": "9",
+        "lot_number": "284528181842",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/10/2021",
+        "cert_number": "47557055",
+        "price": "$41.00",
+        "grade": "9",
+        "auction_seller": "pokecheese",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8896530705026084989/-7757234144859716171.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "154433787624"
+    }
+]

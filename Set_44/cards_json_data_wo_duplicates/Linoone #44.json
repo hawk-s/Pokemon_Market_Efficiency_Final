@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "45558209",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5414510101806388652/2928401311372571847.jpg",
+        "date": "7/2/2024",
+        "lot_number": "375503599152",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "cert_number": "62191333",
+        "auction_seller": "4thetcg",
+        "date": "12/24/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7900405317263946556/5814641604583198076.jpg",
+        "lot_number": "285614644447",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$30.17"
+    },
+    {
+        "cert_number": "45558209",
+        "price": "$13.50",
+        "date": "12/4/2023",
+        "auction_seller": "mastertrainer_red",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-696687487349504817/-7433174470950752853.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "134826510554",
+        "grade": "10"
+    }
+]

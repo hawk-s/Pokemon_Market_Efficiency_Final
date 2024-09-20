@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "75939368",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "price": "$11.50",
+        "date": "9/6/2023",
+        "lot_number": "126073758911",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5446698459262390634/1237968684333877225.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "japan-higasi-116",
+        "cert_number": "53614522",
+        "lot_number": "234000222636",
+        "price": "$10.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/961928143532208368/-8020205808165179400.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/15/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-288607598922692462/8512541626223088016.jpg",
+        "cert_number": "65452537",
+        "auction_seller": "tcg_stockpile",
+        "date": "12/3/2023",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "355234211579"
+    }
+]

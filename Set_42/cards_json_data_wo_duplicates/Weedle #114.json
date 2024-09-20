@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "315532876758",
+        "auction_seller": "bidoveru",
+        "date": "7/23/2024",
+        "cert_number": "41643883",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6520520450352583090/-137066025713087244.jpg",
+        "grade": "10",
+        "price": "$33.00"
+    },
+    {
+        "date": "2/9/2020",
+        "cert_number": "45009085",
+        "auction_seller": "poketrader007",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1525212347022529130/-5023930462629739069.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$33.00",
+        "lot_number": "324061179698"
+    },
+    {
+        "lot_number": "283755384795",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1438870669418746501/70122351980704535.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "44461451",
+        "grade": "9",
+        "price": "$17.99",
+        "auction_house": "eBay",
+        "auction_seller": "cooltrainerryan",
+        "date": "7/11/2020"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-519527794454185742/2352651012504973930.jpg",
+        "date": "9/19/2017",
+        "cert_number": "27637236",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "lot_number": "192304941358",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    }
+]

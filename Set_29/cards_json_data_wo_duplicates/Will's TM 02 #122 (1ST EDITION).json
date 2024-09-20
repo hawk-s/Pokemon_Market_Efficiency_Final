@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "5",
+        "price": "$2.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7105872428139797302/-7889809201448663052.jpg",
+        "cert_number": "58059322",
+        "auction_seller": "rysua_94",
+        "lot_number": "403956564120",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "176093585598",
+        "cert_number": "73868678",
+        "price": "$36.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/568407185969506238/-1424458262228435773.jpg",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "ronsoscards"
+    },
+    {
+        "date": "3/9/2020",
+        "price": "$1.82",
+        "cert_number": "45433296",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8435847711315715381/7408851674540020409.jpg",
+        "auction_seller": "tsunagu",
+        "lot_number": "254528685918",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$21.53",
+        "lot_number": "184876448156",
+        "date": "6/13/2021",
+        "cert_number": "48504513",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8647023259281738586/1319405725359586018.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tcghit_70"
+    },
+    {
+        "date": "5/26/2024",
+        "price": "$15.00",
+        "auction_seller": "cardboundllc",
+        "lot_number": "326132320060",
+        "cert_number": "88892874",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6058406451653660584/96581398917633193.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

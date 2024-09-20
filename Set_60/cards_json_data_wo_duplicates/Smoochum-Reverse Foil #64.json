@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "45921370",
+        "date": "6/16/2020",
+        "price": "$41.33",
+        "auction_seller": "apmerchant02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5154653855858198222/-3089234492162668921.jpg",
+        "lot_number": "184320103947",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "185964076418",
+        "auction_seller": "poke_paradise",
+        "price": "$79.00",
+        "cert_number": "47033294",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1480862424335254017/2792141148080363079.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/9/2023"
+    },
+    {
+        "price": "$55.00",
+        "date": "1/29/2021",
+        "auction_seller": "guildwars2mesmer",
+        "lot_number": "164660618713",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8892894266590793326/-3280611366305211924.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "46875003"
+    },
+    {
+        "date": "7/26/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3193237741440871461/5740388392784135625.jpg",
+        "cert_number": "49559728",
+        "lot_number": "294283073601",
+        "price": "$90.69",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "pacifistchris"
+    },
+    {
+        "auction_seller": "famousfox_collects",
+        "price": "$26.51",
+        "date": "2/11/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8184929847659262195/4907558581146197175.jpg",
+        "auction_house": "eBay",
+        "cert_number": "70622353",
+        "lot_number": "285128792577"
+    }
+]

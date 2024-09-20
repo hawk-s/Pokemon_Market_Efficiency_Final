@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "ceddimoe01",
+        "cert_number": "57647623",
+        "lot_number": "304832088624",
+        "grade": "9",
+        "price": "$11.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4774623615767379697/1132159058522989251.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/15/2023"
+    },
+    {
+        "date": "5/17/2022",
+        "grade": "8.5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2399930522024671293/-782837652729318131.jpg",
+        "cert_number": "52630968",
+        "lot_number": "284809052775",
+        "price": "$19.99",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4211537127487985044/-7184221776284674665.jpg",
+        "date": "1/15/2022",
+        "grade": "9",
+        "lot_number": "133989274164",
+        "cert_number": "54474873",
+        "auction_seller": "guerr.eddy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "auction_seller": "iconic.cards",
+        "cert_number": "51539932",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6928565477598842725/6672883343010130606.jpg",
+        "date": "1/16/2021",
+        "lot_number": "203243012398",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "203790540370",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2903290521020847134/-5302780310881377211.jpg",
+        "cert_number": "44926939",
+        "price": "$15.50",
+        "grade": "8",
+        "auction_type": "Auction",
+        "date": "1/24/2022",
+        "auction_house": "eBay",
+        "auction_seller": "dbut877"
+    }
+]

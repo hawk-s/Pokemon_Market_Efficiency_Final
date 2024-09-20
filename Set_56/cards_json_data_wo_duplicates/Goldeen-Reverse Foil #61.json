@@ -1,0 +1,123 @@
+[
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "date": "5/22/2023",
+        "lot_number": "185892427342",
+        "cert_number": "73270681",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8907967714162274842/-8961803228310911609.jpg",
+        "auction_type": "Auction",
+        "price": "$205.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "48873303",
+        "auction_seller": "thunder_moo",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5734259272036563419/-7237220434131891402.jpg",
+        "lot_number": "235488528674",
+        "price": "$92.00",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7648228990761083648/-5265023002835004141.jpg",
+        "lot_number": "175785134090",
+        "cert_number": "73270930",
+        "date": "7/3/2023",
+        "price": "$27.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "price": "$20.00",
+        "lot_number": "4035",
+        "cert_number": "72609142",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/4766957076983689716/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "date": "4/20/2023"
+    },
+    {
+        "lot_number": "125047133676",
+        "auction_seller": "sbunney28",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4166852302372590016/-680248833766234274.jpg",
+        "price": "$27.00",
+        "grade": "9",
+        "date": "12/18/2021",
+        "auction_type": "Auction",
+        "cert_number": "52549765",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/12/2022",
+        "lot_number": "234807382037",
+        "auction_seller": "goats-n-pros",
+        "price": "$15.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4378727561310630195/8605765647321115006.jpg",
+        "cert_number": "68934702",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "thunder_moo",
+        "cert_number": "42734515",
+        "date": "3/31/2024",
+        "lot_number": "235488528676",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4809292005419017251/-1588485899543262254.jpg",
+        "auction_house": "eBay",
+        "price": "$87.99",
+        "grade": "10"
+    },
+    {
+        "date": "1/16/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/511958773961520123/-6404104820780051711.jpg",
+        "lot_number": "304760763878",
+        "cert_number": "66509679",
+        "price": "$82.00",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "lot_number": "284609309015",
+        "cert_number": "53952896",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2728433299462349694/-9014200757664724132.jpg",
+        "grade": "9",
+        "auction_seller": "zandgemporium-0",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "304760763872",
+        "price": "$61.00",
+        "date": "1/16/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6198923345259716571/4525857454413004627.jpg",
+        "cert_number": "66509679",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "84609951",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9029412080538934132/-5933160566199890038.jpg",
+        "date": "4/1/2024",
+        "auction_type": "Auction",
+        "auction_seller": "w16807",
+        "auction_house": "eBay",
+        "lot_number": "226061847168",
+        "price": "$29.99"
+    }
+]

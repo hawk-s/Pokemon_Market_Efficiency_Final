@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "195958374249",
+        "price": "$10.50",
+        "grade": "8",
+        "date": "9/6/2023",
+        "auction_type": "Auction",
+        "cert_number": "73594503",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4425156158539347625/-3959794214455001324.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "pokepuller77"
+    },
+    {
+        "lot_number": "223995303132",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8230148654234428508/3903151654142117826.jpg",
+        "date": "5/8/2020",
+        "cert_number": "40848376",
+        "auction_seller": "tennisfun5",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "tannah12",
+        "lot_number": "115706825683",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2692293368960315487/-6647404456531085796.jpg",
+        "auction_type": "Auction",
+        "price": "$14.82",
+        "auction_house": "eBay",
+        "cert_number": "60754749",
+        "date": "2/22/2023"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "7",
+        "cert_number": "70293165",
+        "price": "$12.52",
+        "lot_number": "325571037816",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4327384090412279910/-438076404699802685.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "auction_seller": "pokemonpacific",
+        "date": "9/29/2020",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4243397045495664177/6325637291978349783.jpg",
+        "price": "$40.00",
+        "cert_number": "25328840",
+        "lot_number": "392937352012",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "353577831244",
+        "price": "$86.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3806065746361826978/-2722522652998605427.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "25328840",
+        "date": "7/29/2021",
+        "grade": "10"
+    }
+]

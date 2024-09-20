@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "226053880897",
+        "price": "$10.00",
+        "grade": "9",
+        "cert_number": "54779094",
+        "auction_seller": "caspers_cards",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6324929062001240921/3041964793603458402.jpg",
+        "auction_house": "eBay",
+        "date": "3/26/2024"
+    },
+    {
+        "lot_number": "285418747625",
+        "cert_number": "61169492",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "date": "8/13/2023",
+        "price": "$17.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7708630430657605379/1424047705558037605.jpg"
+    },
+    {
+        "date": "3/9/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6838584119288569393/3258080138665571473.jpg",
+        "auction_seller": "japan-higasi-116",
+        "lot_number": "233512318395",
+        "price": "$10.00",
+        "auction_type": "Auction",
+        "cert_number": "45415932",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "54439682",
+        "lot_number": "393792878421",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7206804316707465679/-8665112169761291897.jpg",
+        "price": "$20.00",
+        "grade": "9",
+        "date": "12/22/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "lucianguye0"
+    },
+    {
+        "date": "8/10/2021",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-525114899539278502/2862229062418859403.jpg",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "lot_number": "373668817194",
+        "auction_house": "eBay",
+        "cert_number": "50237270",
+        "grade": "10"
+    },
+    {
+        "date": "12/27/2022",
+        "price": "$37.39",
+        "lot_number": "325470417424",
+        "cert_number": "58873566",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5588485150358750534/4145523945906254587.jpg",
+        "auction_seller": "card.galaxy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

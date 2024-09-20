@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$112.10",
+        "date": "8/2/2021",
+        "auction_seller": "skywindowheavenproduct",
+        "cert_number": "44129675",
+        "lot_number": "114907429823",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8883946550888754460/4614345148218261936.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5386200999579141696/5986024242402241855.jpg",
+        "auction_type": "Buy It Now",
+        "cert_number": "28887721",
+        "auction_seller": "mastertrainer_red",
+        "lot_number": "132630504256",
+        "date": "12/29/2018",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$38.99"
+    },
+    {
+        "date": "10/22/2022",
+        "lot_number": "225207906855",
+        "auction_house": "eBay",
+        "price": "$41.68",
+        "auction_type": "Auction",
+        "auction_seller": "kane.williams14",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/573459730898646398/9025318015288883927.jpg",
+        "grade": "10",
+        "cert_number": "44129674"
+    }
+]

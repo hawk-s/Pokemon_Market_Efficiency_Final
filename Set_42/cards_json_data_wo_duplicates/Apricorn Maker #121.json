@@ -1,0 +1,57 @@
+[
+    {
+        "date": "4/26/2023",
+        "lot_number": "374640681728",
+        "price": "$9.50",
+        "cert_number": "43851551",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/489812390670222533/6956218706597198633.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "134348163949",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5059188708763341749/-2998943700966237156.jpg",
+        "date": "12/8/2022",
+        "cert_number": "58363696",
+        "auction_type": "Auction",
+        "auction_seller": "krukcards",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$33.00"
+    },
+    {
+        "price": "$12.00",
+        "grade": "7",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4303266049340556311/-1167888507173439276.jpg",
+        "date": "4/16/2020",
+        "lot_number": "223944636058",
+        "auction_seller": "conshap",
+        "auction_house": "eBay",
+        "cert_number": "45290642"
+    },
+    {
+        "grade": "7",
+        "lot_number": "264948325884",
+        "auction_seller": "topqualitythreads",
+        "price": "$16.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8386909056208931317/8800563015152749322.jpg",
+        "cert_number": "45290642",
+        "date": "11/29/2020"
+    },
+    {
+        "auction_seller": "hoodyscollectibles",
+        "price": "$9.52",
+        "cert_number": "67905637",
+        "grade": "8",
+        "lot_number": "144883945153",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6368217932995105023/7918610305975394019.jpg",
+        "auction_house": "eBay"
+    }
+]

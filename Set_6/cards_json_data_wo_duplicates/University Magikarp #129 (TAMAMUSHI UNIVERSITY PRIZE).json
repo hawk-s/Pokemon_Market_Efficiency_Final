@@ -1,0 +1,112 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "26344060",
+        "price": "$50,100.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/665465094919559760/9068960154570508877.jpg",
+        "date": "10/28/2020",
+        "auction_type": "Auction",
+        "lot_number": "143792832259",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/11/2023",
+        "auction_seller": "zandgemporium",
+        "price": "$14,099.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4176621251944977954/-59243652244033072.jpg",
+        "cert_number": "83775377",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285582088372"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "43365859",
+        "date": "2/28/2021",
+        "auction_type": "Auction",
+        "lot_number": "402697245146",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3967274632558348065/181216011539774128.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$66,100.00"
+    },
+    {
+        "lot_number": "353111644846",
+        "date": "6/29/2020",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "45859564",
+        "grade": "9",
+        "price": "$17,500.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7201813685570606183/-6651525587718670601.jpg"
+    },
+    {
+        "lot_number": "253106213262",
+        "grade": "9",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7377102722428460391/1523776596297088079.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$2,525.06",
+        "cert_number": "26098677",
+        "date": "8/30/2017",
+        "auction_seller": "giovannismew"
+    },
+    {
+        "date": "10/15/2018",
+        "lot_number": "372463098289",
+        "cert_number": "40679321",
+        "auction_seller": "ebirdman",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1794640164006066812/5528174716780652790.jpg",
+        "auction_type": "Auction",
+        "price": "$10,095.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$2,123.46",
+        "auction_seller": "japan-international-trade",
+        "lot_number": "112492436229",
+        "grade": "8",
+        "date": "7/30/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7564912256140538581/5714541991011882562.jpg",
+        "auction_type": "Auction",
+        "cert_number": "27472985",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "cert_number": "46249151",
+        "auction_seller": "kantoshark",
+        "price": "$5,100.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7177616010285674802/-7078979507235644034.jpg",
+        "lot_number": "143655882973",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/20/2020"
+    },
+    {
+        "grade": "5",
+        "lot_number": "166773676229",
+        "cert_number": "46249151",
+        "date": "5/27/2024",
+        "auction_seller": "vintagetcg",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-85411617397631419/-7868407257494958812.jpg",
+        "auction_type": "Auction",
+        "price": "$3,930.00",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "2023 Winter Comics, Video Games & TCG Elite Auctio",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-208044181643284901/5555673194245940457/images/1.jpg",
+        "date": "3/8/2023",
+        "lot_number": "144",
+        "price": "$9,000.00",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "cert_number": "66114780"
+    }
+]

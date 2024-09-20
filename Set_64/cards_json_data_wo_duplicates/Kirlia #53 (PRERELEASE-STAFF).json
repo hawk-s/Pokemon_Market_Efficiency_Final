@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$124.99",
+        "date": "4/18/2020",
+        "auction_type": "Buy It Now",
+        "cert_number": "44255477",
+        "lot_number": "163859453330",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4093165605866052022/7449930117945290781.jpg",
+        "grade": "10",
+        "auction_seller": "ctr_pr"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4626506066431646257/9067739760585000294.jpg",
+        "lot_number": "192792713318",
+        "grade": "9",
+        "date": "1/23/2019",
+        "price": "$26.78",
+        "auction_seller": "ltandbug",
+        "auction_type": "Auction",
+        "cert_number": "41643952",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/10/2021",
+        "lot_number": "265389710003",
+        "grade": "6",
+        "price": "$23.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5896887080033542792/-12784069026528302.jpg",
+        "auction_type": "Auction",
+        "cert_number": "47202451",
+        "auction_house": "eBay",
+        "auction_seller": "cupcakes_cards"
+    },
+    {
+        "cert_number": "84792662",
+        "price": "$47.66",
+        "lot_number": "395235478030",
+        "date": "3/10/2024",
+        "grade": "9",
+        "auction_seller": "peachescollectables",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6075918040274310898/4421303084335542541.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7880873942367581257/5005026162982322814.jpg",
+        "lot_number": "315193248905",
+        "cert_number": "63396822",
+        "grade": "8",
+        "price": "$41.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "date": "3/12/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6952133966230915956/8805139073227659744.jpg",
+        "auction_seller": "poke_friends",
+        "auction_type": "Best Offer",
+        "cert_number": "27193142",
+        "date": "4/16/2020",
+        "price": "$75.00",
+        "lot_number": "164161829038",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "6/23/2024",
+        "cert_number": "60829133",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5730062939940970895/5461258642856217283.jpg",
+        "lot_number": "156258798996",
+        "grade": "9",
+        "auction_seller": "chipha14",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "jeannietate1954",
+        "cert_number": "41442744",
+        "date": "3/10/2019",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "lot_number": "254148810964",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7736870284690337771/6333833682049769559.jpg"
+    },
+    {
+        "date": "1/28/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6955604975324526461/4204774945849475451.jpg",
+        "price": "$14.99",
+        "cert_number": "41442744",
+        "auction_seller": "pokelyfe",
+        "lot_number": "254094459624",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "41442744",
+        "date": "9/24/2020",
+        "auction_seller": "probstein123",
+        "price": "$20.50",
+        "auction_house": "eBay",
+        "lot_number": "363108666165",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9030174453142591749/-9181505814623772328.jpg",
+        "grade": "10"
+    }
+]

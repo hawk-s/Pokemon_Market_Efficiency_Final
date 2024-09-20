@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8446532831546724194/7658315039864988250.jpg",
+        "lot_number": "334626140664",
+        "auction_house": "eBay",
+        "date": "11/19/2022",
+        "auction_type": "Auction",
+        "price": "$17.99",
+        "auction_seller": "zoozcollectibles",
+        "cert_number": "66148323"
+    },
+    {
+        "auction_seller": "frog-hours",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5433399425238863952/-2779730960444010308.jpg",
+        "grade": "8",
+        "price": "$107.50",
+        "cert_number": "70446821",
+        "date": "2/4/2023",
+        "auction_type": "Auction",
+        "lot_number": "255943955502",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$104.19",
+        "date": "2/18/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3371755198632740869/-2779730960444010308.jpg",
+        "auction_seller": "frog-hours",
+        "grade": "8",
+        "cert_number": "70446821",
+        "auction_type": "Auction",
+        "lot_number": "255968500591",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/6/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4647913921084468409/-2779730960444010308.jpg",
+        "auction_seller": "frog-hours",
+        "grade": "8",
+        "cert_number": "70446821",
+        "price": "$87.69",
+        "lot_number": "255990173016",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$55.00",
+        "auction_seller": "the_charizard_cartel",
+        "lot_number": "325707973068",
+        "date": "7/3/2023",
+        "cert_number": "74392495",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4021728002960167757/988730866528688561.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$30.74",
+        "cert_number": "68415553",
+        "date": "2/3/2023",
+        "lot_number": "175589521119",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5901532870355103183/750409678967740259.jpg",
+        "auction_seller": "olipartner"
+    },
+    {
+        "date": "7/4/2023",
+        "auction_seller": "iron_grotto_tcg",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5379166888135161856/1938346691264505240.jpg",
+        "lot_number": "394713514000",
+        "auction_type": "Auction",
+        "cert_number": "74949768",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "cert_number": "49812174",
+        "date": "11/16/2021",
+        "lot_number": "224686834585",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8321371480634632079/6983542619389562316.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$222.33",
+        "grade": "10",
+        "auction_seller": "entre_collector"
+    }
+]

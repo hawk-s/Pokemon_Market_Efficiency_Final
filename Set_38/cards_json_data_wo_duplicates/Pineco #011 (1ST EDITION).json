@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143844333426",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/354968901464637473/-4926928120592870916.jpg",
+        "cert_number": "45407084",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/26/2020"
+    },
+    {
+        "lot_number": "125634152631",
+        "auction_seller": "stokjockey",
+        "price": "$39.99",
+        "cert_number": "45407084",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4938522634786852988/207923597250748396.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/5/2022"
+    }
+]

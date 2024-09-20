@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/187404913328423544/-4652395339161587693.jpg",
+        "auction_seller": "tull_068",
+        "date": "7/20/2024",
+        "lot_number": "365013138949",
+        "cert_number": "90765979",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "364977600632",
+        "auction_seller": "tull_068",
+        "price": "$26.00",
+        "date": "7/4/2024",
+        "cert_number": "90765979",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1238979456940275549/-3788164894463273052.jpg"
+    },
+    {
+        "auction_seller": "tull_068",
+        "lot_number": "364992657267",
+        "date": "7/13/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7249979455413074438/-3258425732387823321.jpg",
+        "cert_number": "90765979",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "cert_number": "58873547",
+        "date": "12/27/2022",
+        "price": "$34.37",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1922771452939283104/-3097558969186168641.jpg",
+        "auction_seller": "card.galaxy",
+        "lot_number": "325470427744",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

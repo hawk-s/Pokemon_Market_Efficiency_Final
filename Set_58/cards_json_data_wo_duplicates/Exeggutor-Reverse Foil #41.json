@@ -1,0 +1,24 @@
+[
+    {
+        "date": "9/29/2017",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "price": "$9.99",
+        "cert_number": "27674576",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-5673758811527217914/-505390646330106703.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "prdcr111",
+        "lot_number": "142520600216"
+    },
+    {
+        "auction_seller": "the_charizard_cartel",
+        "cert_number": "61753332",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1907253291298582243/-6713974313641460691.jpg",
+        "grade": "8",
+        "lot_number": "226192626541",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$27.55",
+        "date": "6/21/2024"
+    }
+]

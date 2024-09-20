@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3545429075398544079/-8804726131126304002.jpg",
+        "cert_number": "85310532",
+        "auction_seller": "psa-pikachu",
+        "lot_number": "325955585503",
+        "date": "1/13/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3645486881066839764/2424062952456746299.jpg",
+        "auction_seller": "comc_consignment",
+        "lot_number": "256314280369",
+        "price": "$3.50",
+        "cert_number": "61730835",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/5/2023"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1567152311979704506/-1844971159185794261/images/1.jpg",
+        "price": "$12.00",
+        "cert_number": "68330278",
+        "grade": "9",
+        "date": "12/28/2022",
+        "lot_number": "1255",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": " 2022 Banksy, Rare Autographs, Comics & Video Game"
+    }
+]

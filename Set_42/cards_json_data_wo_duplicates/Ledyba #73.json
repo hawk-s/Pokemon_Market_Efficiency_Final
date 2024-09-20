@@ -1,0 +1,46 @@
+[
+    {
+        "date": "8/29/2021",
+        "price": "$50.00",
+        "lot_number": "224581421413",
+        "auction_seller": "micgre_5310",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5574348327054798686/-8774128671738454603.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "51843856"
+    },
+    {
+        "lot_number": "192304941340",
+        "price": "$15.50",
+        "date": "9/19/2017",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "cert_number": "27637181",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-9181295436413995635/4691630204484950406.jpg"
+    },
+    {
+        "date": "12/11/2023",
+        "lot_number": "276172612628",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/26320702037863143/6117668916694046927.jpg",
+        "price": "$41.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "cert_number": "44461584"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "price": "$24.72",
+        "date": "7/16/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/368313627185215004/1227205762452674010.jpg",
+        "auction_type": "Auction",
+        "lot_number": "315511113843",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41643842"
+    }
+]

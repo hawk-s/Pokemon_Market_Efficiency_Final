@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "ntbroach",
+        "cert_number": "48550524",
+        "grade": "9",
+        "date": "5/5/2021",
+        "lot_number": "284274704062",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$22.51",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6673524051017565935/6300113503536136685.jpg"
+    },
+    {
+        "cert_number": "56910747",
+        "lot_number": "155714566125",
+        "date": "8/18/2023",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9145517733736954781/-4865291890035702028.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "mistercardcollect"
+    },
+    {
+        "date": "4/19/2021",
+        "price": "$42.00",
+        "auction_seller": "alcamite",
+        "lot_number": "254939554229",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5670249972526541550/-1032394300655475047.jpg",
+        "cert_number": "48852391"
+    },
+    {
+        "auction_seller": "alcamite",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-680379725733705315/7528067268408887628.jpg",
+        "date": "4/7/2021",
+        "price": "$50.00",
+        "grade": "9",
+        "cert_number": "48852390",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "254923826586"
+    }
+]

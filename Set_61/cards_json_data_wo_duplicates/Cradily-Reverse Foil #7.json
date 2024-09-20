@@ -1,0 +1,46 @@
+[
+    {
+        "date": "9/22/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5295177130039937357/-6824465354735887231.jpg",
+        "lot_number": "403161398410",
+        "price": "$41.00",
+        "grade": "9",
+        "auction_seller": "camla_7238",
+        "auction_type": "Auction",
+        "cert_number": "50115182",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "date": "5/6/2024",
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2078288971699042070/-4883885630242477322.jpg",
+        "grade": "9",
+        "lot_number": "186407049188",
+        "cert_number": "88149503",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "41249703",
+        "auction_seller": "sketchup590",
+        "grade": "9",
+        "date": "4/12/2021",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "lot_number": "224408939322",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5567718601695728075/713122772427107514.jpg"
+    },
+    {
+        "cert_number": "69931592",
+        "auction_seller": "ketchumallcollectibles",
+        "lot_number": "204832556944",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-722304810892976602/7956651532947865265.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "date": "6/24/2024"
+    }
+]

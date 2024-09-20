@@ -1,0 +1,101 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6802246230651564011/6815520045400852565.jpg",
+        "cert_number": "73838114",
+        "date": "12/4/2023",
+        "grade": "9",
+        "lot_number": "296073130268",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00"
+    },
+    {
+        "auction_seller": "lunacardsau",
+        "price": "$57.90",
+        "date": "7/10/2024",
+        "cert_number": "91937952",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2498910087832766341/8225689981058325814.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "156284928136"
+    },
+    {
+        "date": "10/30/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6544832793707854570/4790066570080290528.jpg",
+        "auction_seller": "ramcanyon",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "155844732888",
+        "cert_number": "69698198"
+    },
+    {
+        "cert_number": "74400477",
+        "lot_number": "364363208260",
+        "grade": "9",
+        "price": "$22.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4148434756906905837/-4794495584364840728.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/28/2023"
+    },
+    {
+        "lot_number": "364450880840",
+        "cert_number": "68641862",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9187628821703197940/-5557825986721003812.jpg",
+        "date": "9/7/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "mont_9",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "cert_number": "63366453",
+        "price": "$15.56",
+        "lot_number": "385194226830",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/3/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7808036666255991637/-9075220625716266852.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5296312839942805695/4790066570080290528.jpg",
+        "lot_number": "155823996441",
+        "price": "$28.02",
+        "grade": "8",
+        "date": "10/19/2023",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "69698198"
+    },
+    {
+        "grade": "7",
+        "cert_number": "82364774",
+        "date": "7/8/2024",
+        "price": "$10.50",
+        "lot_number": "326178410698",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2286143410142587349/4828935044806069611.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "date": "5/16/2023",
+        "cert_number": "43362858",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6763787572977538011/-8220921050469690654.jpg",
+        "price": "$67.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "364245805002",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

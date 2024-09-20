@@ -1,0 +1,35 @@
+[
+    {
+        "date": "10/10/2021",
+        "cert_number": "48545094",
+        "price": "$38.19",
+        "auction_seller": "pokichloe",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8118744101875590612/4874575443243363587.jpg",
+        "grade": "10",
+        "lot_number": "255161890327"
+    },
+    {
+        "price": "$4.99",
+        "date": "11/27/2017",
+        "cert_number": "27737286",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/196269260415989600/-1186919820030771822.jpg",
+        "lot_number": "292341595978",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "48545094",
+        "auction_seller": "habbyshobbies",
+        "lot_number": "384346546124",
+        "price": "$41.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9067875869461486125/-8070048172223095990.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    }
+]

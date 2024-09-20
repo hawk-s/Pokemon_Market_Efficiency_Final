@@ -1,0 +1,35 @@
+[
+    {
+        "date": "3/27/2023",
+        "price": "$4.25",
+        "cert_number": "59878266",
+        "grade": "8",
+        "lot_number": "134496795877",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/639471376048596096/-4016248867710695292.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "grade": "7",
+        "cert_number": "50313957",
+        "auction_seller": "welcome_stranger_collectibles",
+        "price": "$33.33",
+        "date": "12/6/2021",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3115840136064979113/-5063021379691095429.jpg",
+        "lot_number": "133948183681"
+    },
+    {
+        "date": "7/6/2023",
+        "auction_seller": "Weekly Auction 27 Jun - 6 Jul",
+        "price": "$13.00",
+        "grade": "8",
+        "cert_number": "75127300",
+        "auction_type": "Auction",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/8389681089415402212/-8821574595852861412/images/1.jpg",
+        "auction_house": "Goldin Auctions",
+        "lot_number": "6174"
+    }
+]

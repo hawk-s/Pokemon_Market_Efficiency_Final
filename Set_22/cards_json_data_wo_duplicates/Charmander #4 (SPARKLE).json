@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "vitamindmixer",
+        "lot_number": "295565778605",
+        "price": "$946.96",
+        "cert_number": "71312264",
+        "grade": "9",
+        "date": "3/21/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4768361956602024383/-4372845649252017850.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$202.50",
+        "grade": "5",
+        "auction_seller": "bidoveru",
+        "cert_number": "68849331",
+        "date": "12/4/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-555586955550509153/8173644178193729693.jpg",
+        "lot_number": "314248140084"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5518992257566825532/1609642986613630166.jpg",
+        "auction_seller": "sieds_steins",
+        "date": "9/25/2017",
+        "auction_type": "Buy It Now",
+        "cert_number": "27136218",
+        "lot_number": "222479719958",
+        "auction_house": "eBay",
+        "price": "$79.79",
+        "grade": "10"
+    }
+]

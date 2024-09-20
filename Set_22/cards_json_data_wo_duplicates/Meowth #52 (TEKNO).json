@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "coins_n_rarities",
+        "date": "5/10/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7010939650896414153/-8433274551259006612.jpg",
+        "cert_number": "54987253",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$405.00",
+        "lot_number": "313516522608"
+    },
+    {
+        "price": "$179.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-395474386479692689/7071027651566979966.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "373801365564",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/30/2021",
+        "cert_number": "63594260"
+    },
+    {
+        "grade": "10",
+        "lot_number": "325485265358",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "cert_number": "55846960",
+        "price": "$449.00",
+        "auction_house": "eBay",
+        "auction_seller": "villentretenmerth_01",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8954986928920649776/5303558098235518388.jpg"
+    },
+    {
+        "lot_number": "275973081221",
+        "date": "8/6/2023",
+        "cert_number": "45330980",
+        "auction_seller": "coins_n_rarities",
+        "price": "$393.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5446981936482106472/1130890050816952629.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "383369169388",
+        "cert_number": "45330980",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1378210498142905782/-2953440442208290347.jpg",
+        "price": "$177.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/23/2020",
+        "grade": "10"
+    },
+    {
+        "date": "1/6/2021",
+        "auction_seller": "cabanscards123",
+        "lot_number": "193828337198",
+        "price": "$814.00",
+        "cert_number": "45330980",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6639861158445775543/-5792578578360441132.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

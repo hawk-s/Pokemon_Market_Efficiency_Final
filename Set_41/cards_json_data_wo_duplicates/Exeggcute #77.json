@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$55.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6789165701156507515/-5702396836772209807.jpg",
+        "cert_number": "55228522",
+        "auction_seller": "tal_collectibles",
+        "date": "10/17/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "174967788157"
+    },
+    {
+        "lot_number": "142811260075",
+        "date": "6/6/2018",
+        "price": "$5.60",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4760877589148077088/-5803748855281242574.jpg",
+        "cert_number": "40771387",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_type": "Best Offer",
+        "cert_number": "26693786",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6585292655507811203/-7298753034321782533.jpg",
+        "auction_seller": "pokemon_revolution",
+        "grade": "9",
+        "lot_number": "112309176604",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "date": "5/5/2020"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5433591065515737757/5606736798791850046.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$11.99",
+        "auction_seller": "my_honolulu_blue",
+        "lot_number": "112567373747",
+        "cert_number": "27667876",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "384857169298",
+        "date": "5/4/2022",
+        "cert_number": "57536709",
+        "price": "$41.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6163522176479854775/-3395842726005389486.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "48032381",
+        "price": "$63.92",
+        "lot_number": "363673716897",
+        "auction_seller": "serperiorcollectibles",
+        "date": "1/10/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1557514630754701227/-6106671627004905691.jpg"
+    },
+    {
+        "price": "$8.05",
+        "cert_number": "27868440",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6764830222866506180/2106973326041665781.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "372094812811",
+        "date": "10/10/2017",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5622629431894182896/-4950430054804187866.jpg",
+        "auction_seller": "habbyshobbies",
+        "price": "$27.00",
+        "auction_type": "Auction",
+        "cert_number": "48971186",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021",
+        "lot_number": "384346546139"
+    }
+]

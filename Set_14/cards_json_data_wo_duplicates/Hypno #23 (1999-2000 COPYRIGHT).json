@@ -1,0 +1,35 @@
+[
+    {
+        "date": "5/20/2024",
+        "cert_number": "74961329",
+        "price": "$393.65",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1868513089930879430/-862495538909460215.jpg",
+        "auction_house": "eBay",
+        "lot_number": "204791458981",
+        "grade": "10",
+        "auction_seller": "melissgladston88"
+    },
+    {
+        "cert_number": "43397773",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3238059015655719680/5134693744197863084.jpg",
+        "date": "7/22/2024",
+        "price": "$20.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "lot_number": "266899028825"
+    },
+    {
+        "cert_number": "74961328",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6761448077094956845/440616633591198120.jpg",
+        "auction_seller": "jacqufarro-0",
+        "price": "$222.63",
+        "lot_number": "186512894205",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/28/2024",
+        "grade": "10"
+    }
+]

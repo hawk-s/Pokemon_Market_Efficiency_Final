@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$42.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2614345407732200589/-8520843888076414629.jpg",
+        "auction_seller": "tsunagu",
+        "cert_number": "53463430",
+        "lot_number": "255316030569",
+        "date": "1/11/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3871657749194425461/-7229203107454688814.jpg",
+        "lot_number": "285115246466",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "cert_number": "68608488",
+        "auction_house": "eBay"
+    }
+]

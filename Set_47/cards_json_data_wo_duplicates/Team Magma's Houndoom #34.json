@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "25824866",
+        "lot_number": "142382134197",
+        "price": "$11.50",
+        "date": "5/23/2017",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1228785843482885592/-324742694802502789.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "91944431",
+        "date": "7/8/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7048815838278380717/-6841317106161000223.jpg",
+        "lot_number": "375515050046",
+        "price": "$25.60",
+        "auction_seller": "vintagetcg11",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "25824866",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2410779205430854339/2371885463533821732.jpg",
+        "price": "$7.55",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "401365112578",
+        "date": "7/23/2017",
+        "grade": "10"
+    },
+    {
+        "price": "$19.88",
+        "cert_number": "60760018",
+        "lot_number": "155400181688",
+        "date": "2/20/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2867212412265640996/8576068477420678523.jpg",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "41975964",
+        "auction_seller": "masterset_collector",
+        "lot_number": "183770791068",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2486338270916355295/-6790819222937594153.jpg",
+        "price": "$24.99",
+        "date": "10/8/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "7/20/2024",
+        "lot_number": "186571003720",
+        "auction_seller": "collector-cards-antiques",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3967375078189059649/-2531430271404492585.jpg",
+        "cert_number": "87678795",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$117.50"
+    },
+    {
+        "price": "$382.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1523213950789137043/-2531430271404492585.jpg",
+        "lot_number": "186560821302",
+        "auction_seller": "collector-cards-antiques",
+        "date": "7/16/2024",
+        "cert_number": "87678795",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "156307353628",
+        "grade": "7",
+        "price": "$14.49",
+        "cert_number": "69698259",
+        "date": "7/22/2024",
+        "auction_seller": "ramcanyon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7507917136994120228/-5282531203589665089.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "wcs_investments",
+        "price": "$30.02",
+        "lot_number": "354901623656",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2746054250790449155/-4796110494756734310.jpg",
+        "cert_number": "68601690",
+        "date": "7/17/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "54867323",
+        "grade": "8",
+        "price": "$18.52",
+        "date": "5/10/2022",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "374054336938",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6266778991442377531/5857700628261186395.jpg"
+    },
+    {
+        "auction_seller": "card-foundry",
+        "cert_number": "48603036",
+        "date": "9/5/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7566703330646728299/-594412507181749033.jpg",
+        "lot_number": "274921296004",
+        "auction_house": "eBay",
+        "price": "$60.59"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7927645279198242005/-1619849356739749318.jpg",
+        "cert_number": "47001122",
+        "lot_number": "393507949547",
+        "grade": "9",
+        "auction_seller": "matsad0",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/23/2021"
+    },
+    {
+        "price": "$26.73",
+        "auction_seller": "tannah12",
+        "cert_number": "60759845",
+        "lot_number": "115701723397",
+        "date": "2/19/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4557358178781345877/3572053659349577122.jpg"
+    },
+    {
+        "lot_number": "186351821642",
+        "price": "$13.50",
+        "date": "3/29/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8141585085874900586/761356885854464953.jpg",
+        "auction_seller": "poke_paradise",
+        "grade": "8",
+        "cert_number": "74061519",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

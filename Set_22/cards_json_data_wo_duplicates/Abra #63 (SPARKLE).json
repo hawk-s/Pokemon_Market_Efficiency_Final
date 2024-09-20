@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "145010651191",
+        "grade": "8",
+        "date": "4/6/2023",
+        "auction_type": "Auction",
+        "price": "$113.50",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7190136473385259864/7967458894043650960.jpg",
+        "cert_number": "70170893",
+        "auction_seller": "pokederry"
+    },
+    {
+        "grade": "5",
+        "cert_number": "83139458",
+        "price": "$85.00",
+        "lot_number": "305359057995",
+        "auction_seller": "signsofthetimesvintagecollectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/29/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7833946101596523664/-4745364525551611809.jpg"
+    },
+    {
+        "date": "7/1/2021",
+        "auction_seller": "casablanca_comics",
+        "lot_number": "384241892657",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5704947433553913640/8675673966746665027.jpg",
+        "cert_number": "48565243",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$328.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5730450599420056573/-4127661729591232494.jpg",
+        "lot_number": "315283273917",
+        "auction_seller": "coins_plus",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "64580512",
+        "price": "$355.00",
+        "grade": "10",
+        "date": "4/17/2024"
+    }
+]

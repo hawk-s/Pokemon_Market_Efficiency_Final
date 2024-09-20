@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$67.00",
+        "date": "10/28/2020",
+        "cert_number": "45862095",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "353241780017",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5152879186349048914/-518969769450001472.jpg"
+    },
+    {
+        "date": "7/8/2024",
+        "price": "$10.50",
+        "cert_number": "81534603",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5008486946127439208/-411970973784362595.jpg",
+        "auction_seller": "pokeking_auz",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "226206032349"
+    },
+    {
+        "price": "$60.00",
+        "cert_number": "51649589",
+        "auction_type": "Best Offer",
+        "date": "2/27/2021",
+        "lot_number": "265030025111",
+        "grade": "9",
+        "auction_seller": "autographs-for-sale",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8824064259868874707/2480142071694961111.jpg"
+    },
+    {
+        "auction_seller": "nostalgiahigh02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1607937350761528630/-5799757342759903836.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185743456888",
+        "date": "1/27/2023",
+        "price": "$24.52",
+        "cert_number": "70160063"
+    },
+    {
+        "auction_seller": "tannah12",
+        "cert_number": "60754616",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8175504779436399279/-1124097771240398994.jpg",
+        "grade": "9",
+        "lot_number": "115766100260",
+        "date": "4/18/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$23.09"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6206216984268524804/-3239369201000479484.jpg",
+        "date": "3/24/2024",
+        "grade": "8",
+        "price": "$13.23",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "315223650397",
+        "auction_seller": "nevergonnaletmewdown",
+        "cert_number": "85384009"
+    }
+]

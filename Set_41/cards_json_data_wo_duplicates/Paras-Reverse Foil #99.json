@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "57846243",
+        "lot_number": "363819915956",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "5/6/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9161478850217120679/-845836185463038642.jpg",
+        "price": "$32.00"
+    },
+    {
+        "date": "4/19/2020",
+        "cert_number": "43083667",
+        "auction_type": "Best Offer",
+        "price": "$39.99",
+        "lot_number": "283449466756",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2992806281344721198/-6352506858927944076.jpg",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$2.25",
+        "grade": "9",
+        "cert_number": "40771499",
+        "lot_number": "142836549145",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8521977909533860963/-1669549411047635051.jpg"
+    },
+    {
+        "cert_number": "53732843",
+        "auction_seller": "bravepuppygalleries",
+        "lot_number": "175610568446",
+        "date": "2/19/2023",
+        "grade": "9",
+        "price": "$26.86",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-103951857748990747/7442370135183398425.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

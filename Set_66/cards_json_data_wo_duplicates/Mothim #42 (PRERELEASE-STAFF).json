@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$36.95",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-5514182270746127930/-2171709453242321332.jpg",
+        "auction_seller": "dacardworld",
+        "lot_number": "371911897020",
+        "date": "6/29/2017",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "25731561"
+    },
+    {
+        "lot_number": "264947606554",
+        "cert_number": "47948830",
+        "auction_type": "Best Offer",
+        "auction_seller": "gregory2362",
+        "grade": "9",
+        "price": "$47.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2186924927712655495/-6831828223745045368.jpg",
+        "auction_house": "eBay",
+        "date": "12/24/2020"
+    },
+    {
+        "date": "3/24/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8952668106947044448/9212968703788147036.jpg",
+        "grade": "8",
+        "cert_number": "85451563",
+        "price": "$51.67",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "315223813026",
+        "auction_seller": "nevergonnaletmewdown"
+    },
+    {
+        "date": "4/21/2024",
+        "lot_number": "135014216388",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4587602005357790178/61424479209496816.jpg",
+        "grade": "8",
+        "cert_number": "85411637",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$43.21"
+    },
+    {
+        "grade": "7",
+        "price": "$13.00",
+        "auction_type": "Buy It Now",
+        "cert_number": "44922174",
+        "date": "5/10/2020",
+        "auction_seller": "philspullz",
+        "auction_house": "eBay",
+        "lot_number": "223871370787",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1774030158497183495/-3319881647601664454.jpg"
+    }
+]

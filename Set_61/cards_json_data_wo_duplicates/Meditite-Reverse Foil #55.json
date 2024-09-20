@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$15.00",
+        "cert_number": "28455753",
+        "auction_type": "Best Offer",
+        "auction_seller": "theoriginal151",
+        "lot_number": "293058902190",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3509522901170958269/-7184614435436721054.jpg",
+        "date": "5/30/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$11.00",
+        "auction_seller": "tnolan0816",
+        "date": "12/28/2017",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8990149541540473474/4128268946004091296.jpg",
+        "auction_type": "Auction",
+        "cert_number": "28455752",
+        "lot_number": "292381767681",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "28455753",
+        "price": "$8.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1179749894861104623/-459230109507825606.jpg",
+        "lot_number": "292381765685",
+        "date": "12/30/2017",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "forbidden_forest_collectibles",
+        "date": "3/31/2024",
+        "price": "$64.00",
+        "auction_type": "Auction",
+        "cert_number": "43455619",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3490110475760563758/2022864190634461898.jpg",
+        "grade": "10",
+        "lot_number": "364800526514"
+    }
+]

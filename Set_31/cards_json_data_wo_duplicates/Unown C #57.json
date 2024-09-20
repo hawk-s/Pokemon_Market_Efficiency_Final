@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "robk0215",
+        "lot_number": "174988394380",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8555400779647314136/-5441883257990030519.jpg",
+        "price": "$15.50",
+        "date": "11/2/2021",
+        "cert_number": "49625743",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/16/2023",
+        "auction_seller": "zoozcollectibles",
+        "lot_number": "335022218276",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-182736840589552165/-1842478034640826891.jpg",
+        "grade": "10",
+        "cert_number": "67321490"
+    },
+    {
+        "auction_seller": "robk0215",
+        "date": "9/27/2021",
+        "cert_number": "49625741",
+        "lot_number": "174946349428",
+        "price": "$6.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1371350821016474038/-664180296720288906.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

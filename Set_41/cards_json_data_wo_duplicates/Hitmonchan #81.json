@@ -1,0 +1,79 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "date": "7/10/2019",
+        "auction_seller": "pokemon_revolution",
+        "cert_number": "27937334",
+        "lot_number": "123414019774",
+        "price": "$19.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-263467085922144973/5139376323564619158.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "ure_deals",
+        "cert_number": "75892824",
+        "price": "$10.50",
+        "grade": "8",
+        "date": "7/3/2024",
+        "lot_number": "156275115132",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6537224870291130371/-2427699928448247094.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$14.99",
+        "date": "9/17/2017",
+        "lot_number": "192304940487",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27667879",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5272369841838065385/-998044943833649871.jpg",
+        "grade": "10"
+    },
+    {
+        "price": "$11.05",
+        "date": "3/6/2024",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "cert_number": "75892825",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-528175130646221629/-6983679763663000082.jpg",
+        "lot_number": "375280632523",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "dreamcovedeals",
+        "cert_number": "75892824",
+        "price": "$13.50",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-903238950062321695/-6606387923030177050.jpg",
+        "date": "8/19/2024",
+        "lot_number": "296627393668",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.00",
+        "lot_number": "285630523261",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7622638716012185253/-1519942332055209455.jpg",
+        "grade": "8",
+        "cert_number": "83715161",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/8/2024"
+    },
+    {
+        "date": "6/6/2018",
+        "cert_number": "40771225",
+        "price": "$7.00",
+        "lot_number": "142811260124",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7744183139703004613/7290040502237601815.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

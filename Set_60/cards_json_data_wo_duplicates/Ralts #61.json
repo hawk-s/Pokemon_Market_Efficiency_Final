@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "5",
+        "auction_seller": "jayzscollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-287486850769048224/-5373875223387042913.jpg",
+        "price": "$11.99",
+        "date": "6/6/2024",
+        "lot_number": "126506593700",
+        "auction_type": "Auction",
+        "cert_number": "89741907",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4683919252684151056/3421125532016462073.jpg",
+        "price": "$4.99",
+        "cert_number": "27503239",
+        "date": "11/27/2017",
+        "lot_number": "292341772513",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/6980188078642003144/3421125532016462073.jpg",
+        "price": "$4.99",
+        "cert_number": "27503239",
+        "date": "11/27/2017",
+        "lot_number": "292341772016",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "tnolan0816",
+        "cert_number": "27503239",
+        "price": "$2.29",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5925617134197101700/-598793849690087527.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/11/2017",
+        "lot_number": "292314784471",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/236252410406217275/3421125532016462073.jpg",
+        "date": "11/27/2017",
+        "cert_number": "27503239",
+        "price": "$5.50",
+        "lot_number": "292341771568",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

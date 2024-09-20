@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$7.50",
+        "date": "1/20/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2661491125012346819/-7539142891289346984.jpg",
+        "lot_number": "203792730851",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "53691450",
+        "auction_house": "eBay",
+        "auction_seller": "slab10stradingcards"
+    },
+    {
+        "lot_number": "363723292468",
+        "cert_number": "56478641",
+        "auction_seller": "probstein123",
+        "price": "$13.33",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5753976451059045560/6214571491223685673.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/18/2022"
+    },
+    {
+        "price": "$13.39",
+        "date": "1/27/2022",
+        "grade": "10",
+        "auction_seller": "sellers_sportscards",
+        "auction_type": "Auction",
+        "cert_number": "55518627",
+        "auction_house": "eBay",
+        "lot_number": "265509522613",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6124727417465503345/-5522222586154633284.jpg"
+    }
+]

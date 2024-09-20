@@ -1,0 +1,101 @@
+[
+    {
+        "cert_number": "68259973",
+        "price": "$18.52",
+        "date": "3/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8097022083594658107/-4459485147940530697.jpg",
+        "grade": "9",
+        "lot_number": "374580988168",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/28/2021",
+        "grade": "7",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7638532589189875932/-5558082140306166815.jpg",
+        "lot_number": "144012073951",
+        "price": "$15.50",
+        "cert_number": "45442115",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5441733590105459620/8310698059166988720.jpg",
+        "lot_number": "185715913930",
+        "cert_number": "51896662",
+        "date": "1/5/2023",
+        "price": "$18.52",
+        "grade": "9",
+        "auction_seller": "coradcarus_0",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "numismaticsgmc",
+        "date": "5/11/2019",
+        "lot_number": "273833266677",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "cert_number": "41412180",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6126982509722996442/1842945661866054472.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "293103801104",
+        "date": "6/8/2019",
+        "auction_type": "Buy It Now",
+        "auction_seller": "apspeeze",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3990929241169506946/4589821911582297022.jpg",
+        "cert_number": "28105674",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$10.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2501240431812738543/1393525969015579801.jpg",
+        "lot_number": "313593629637",
+        "date": "7/16/2021",
+        "price": "$76.00",
+        "grade": "9",
+        "cert_number": "49287158",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "lot_number": "353502670280",
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "price": "$53.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5479836177327431924/1122868283787788216.jpg",
+        "cert_number": "41044055",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2183028788776398049/-6796866256066312828.jpg",
+        "auction_type": "Buy It Now",
+        "cert_number": "41412180",
+        "auction_seller": "kantos_finest",
+        "date": "5/29/2020",
+        "price": "$49.99",
+        "auction_house": "eBay",
+        "lot_number": "313003416959",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7500947107253851294/-319402187363513585.jpg",
+        "price": "$69.00",
+        "lot_number": "266516897277",
+        "auction_type": "Auction",
+        "cert_number": "41412180",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "date": "12/5/2023"
+    }
+]

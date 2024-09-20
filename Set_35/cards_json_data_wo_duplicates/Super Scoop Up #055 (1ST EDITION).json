@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "bryalope-92",
+        "price": "$3.04",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3698758779472465955/-8324640056965711326.jpg",
+        "grade": "7",
+        "lot_number": "363638351384",
+        "cert_number": "46135761",
+        "date": "12/6/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$13.50",
+        "cert_number": "77587412",
+        "lot_number": "326245381656",
+        "date": "9/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8201317895240873296/-6271423492905714347.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "46135761",
+        "price": "$10.50",
+        "lot_number": "353279089197",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1166669412965034449/-7642146576808799875.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/26/2020"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "iceangels2003",
+        "price": "$185.50",
+        "lot_number": "266348842008",
+        "cert_number": "46353029",
+        "auction_house": "eBay",
+        "date": "8/2/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/251369093613925351/666618001477873717.jpg",
+        "grade": "10"
+    },
+    {
+        "price": "$102.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7649935108953882002/-4873063899564695895.jpg",
+        "auction_seller": "bbcexchange2",
+        "cert_number": "46353029",
+        "lot_number": "353200217147",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "9/21/2020"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "cert_number": "43605355",
+        "price": "$83.00",
+        "lot_number": "352837672570",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-338595576926003156/7219237136184116705.jpg",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "grandpas-pokemon",
+        "cert_number": "88240168",
+        "date": "7/9/2024",
+        "lot_number": "135129151281",
+        "price": "$222.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4788391507718440317/3531856927451822505.jpg"
+    }
+]

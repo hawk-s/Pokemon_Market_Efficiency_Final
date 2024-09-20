@@ -1,0 +1,101 @@
+[
+    {
+        "date": "3/6/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1308700070999605437/8359817827625365367.jpg",
+        "price": "$15.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "svnaded",
+        "auction_house": "eBay",
+        "cert_number": "60531566",
+        "lot_number": "225439063467"
+    },
+    {
+        "lot_number": "225471809367",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5067815556169517755/8359817827625365367.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "svnaded",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "cert_number": "60531566"
+    },
+    {
+        "price": "$7.50",
+        "auction_seller": "jakal2nd",
+        "cert_number": "41232101",
+        "lot_number": "123938818022",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "10/20/2019",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8482401389344872490/-2178388445420097745.jpg"
+    },
+    {
+        "price": "$61.00",
+        "lot_number": "143871145143",
+        "cert_number": "41071960",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4460968003775437405/4512411491904803319.jpg",
+        "date": "12/10/2020",
+        "auction_seller": "supremeguy16",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "theweedlepeddler",
+        "cert_number": "41232101",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5518360413848674528/-2775149653208393398.jpg",
+        "lot_number": "164093206552",
+        "price": "$49.99",
+        "date": "6/7/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "robk0215",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6760557440504176708/-7418227098043793066.jpg",
+        "lot_number": "174901967362",
+        "cert_number": "49833984",
+        "price": "$26.02",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/30/2021"
+    },
+    {
+        "cert_number": "41053287",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7548648115314039270/5294424606892847248.jpg",
+        "price": "$47.00",
+        "date": "6/19/2020",
+        "lot_number": "192596782522",
+        "auction_seller": "blowoutcards2",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "323995099251",
+        "price": "$2.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1200674323869581146/145337652344134489.jpg",
+        "cert_number": "43733627",
+        "grade": "9",
+        "date": "12/5/2019",
+        "auction_seller": "poketrader007",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "43353320",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2253987999310378398/-801177765055272757.jpg",
+        "grade": "9",
+        "auction_seller": "whippersnappers.ks",
+        "lot_number": "223629601263",
+        "price": "$24.00",
+        "auction_house": "eBay",
+        "date": "7/20/2020"
+    }
+]

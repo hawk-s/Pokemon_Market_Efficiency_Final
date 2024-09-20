@@ -1,0 +1,90 @@
+[
+    {
+        "lot_number": "355256611623",
+        "price": "$19.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3036281539927301145/2507917423718704436.jpg",
+        "date": "12/11/2023",
+        "auction_seller": "tcg_stockpile",
+        "auction_type": "Auction",
+        "cert_number": "65452506",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7386394836587403398/6285050472375123850.jpg",
+        "cert_number": "60872356",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_seller": "probstein123",
+        "lot_number": "364160181426",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/7/2023"
+    },
+    {
+        "lot_number": "256350069675",
+        "cert_number": "54761568",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8390800543900642520/-7789540245921724055.jpg",
+        "date": "12/28/2023",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "auction_seller": "frenzy_collectors"
+    },
+    {
+        "date": "5/17/2022",
+        "grade": "9",
+        "price": "$19.99",
+        "lot_number": "284809045703",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "cert_number": "49867724",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7844678510670280593/6222877619973212339.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "blackmambamarket",
+        "cert_number": "85141788",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3645998049449655524/2860906790018979820.jpg",
+        "price": "$21.50",
+        "date": "4/27/2024",
+        "lot_number": "285822130345",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27739675",
+        "date": "2/12/2019",
+        "auction_type": "Buy It Now",
+        "auction_seller": "pokemon_revolution",
+        "lot_number": "122688309283",
+        "price": "$19.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4680840173821589817/4788366537017380077.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/21/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4847459939746867324/6875872505374680465.jpg",
+        "auction_seller": "apb1992",
+        "grade": "8",
+        "cert_number": "82712862",
+        "lot_number": "126441952855",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$13.06"
+    },
+    {
+        "auction_seller": "wezzer_collectables",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8106523063367119651/2658482119151863840.jpg",
+        "price": "$35.48",
+        "lot_number": "126066042849",
+        "date": "9/1/2023",
+        "auction_type": "Auction",
+        "cert_number": "71821412",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

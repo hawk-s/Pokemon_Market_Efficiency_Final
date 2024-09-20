@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$30.00",
+        "date": "2/26/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2163652050195762798/-3326706527559442676.jpg",
+        "grade": "9",
+        "auction_seller": "juan_7441",
+        "cert_number": "68801044",
+        "lot_number": "334744912022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-887606451556073314/1822738018358253142.jpg",
+        "lot_number": "395503250027",
+        "auction_seller": "abyssxviii-starlight-toy-store",
+        "grade": "6",
+        "price": "$11.50",
+        "date": "7/7/2024",
+        "auction_type": "Auction",
+        "cert_number": "91421590",
+        "auction_house": "eBay"
+    }
+]

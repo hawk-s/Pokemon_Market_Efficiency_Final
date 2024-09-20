@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "114305479698",
+        "auction_seller": "card_secret",
+        "cert_number": "46642178",
+        "price": "$31.00",
+        "date": "7/26/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-892787326796243832/-5794100792781924347.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "10",
+        "auction_seller": "prayforshinys",
+        "price": "$31.69",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2677136617058113682/3772295541816588921.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "373802862462",
+        "cert_number": "51914945",
+        "date": "11/28/2021"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "price": "$24.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2119870066824985388/473969475499645215.jpg",
+        "cert_number": "61489879",
+        "auction_type": "Auction",
+        "lot_number": "285247184727",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/30/2023"
+    }
+]

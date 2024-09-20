@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "25065879",
+        "date": "10/13/2017",
+        "price": "$10.00",
+        "lot_number": "253194855766",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4077916600894133219/-3800546628518269430.jpg",
+        "auction_seller": "pinhead1989"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2534262113643058573/675201463954852752.jpg",
+        "cert_number": "25065879",
+        "price": "$6.01",
+        "date": "12/20/2016",
+        "grade": "9",
+        "lot_number": "152358053587",
+        "auction_type": "Auction",
+        "auction_seller": "frozenbeartrading",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "61163186",
+        "lot_number": "285267177037",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6337850485496085511/-2157070413244386076.jpg",
+        "auction_seller": "zandgemporium",
+        "price": "$17.49",
+        "auction_type": "Auction",
+        "date": "5/14/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

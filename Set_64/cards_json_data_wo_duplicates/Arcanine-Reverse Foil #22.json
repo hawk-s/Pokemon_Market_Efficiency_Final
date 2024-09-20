@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "8",
+        "date": "4/29/2024",
+        "price": "$21.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2867384203564147197/-3256642082764029605.jpg",
+        "lot_number": "135027674505",
+        "cert_number": "88192211",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "price": "$45.00",
+        "lot_number": "285116379279",
+        "date": "1/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4414349502660115724/5297876395346722759.jpg",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "56272477",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$227.50",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "353111662395",
+        "cert_number": "44190729",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8176245909610825797/8734550363911368949.jpg",
+        "grade": "AUTHENTIC",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/29/2020"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8386920113859794995/6121215647839046672.jpg",
+        "cert_number": "59151398",
+        "grade": "7",
+        "date": "1/16/2023",
+        "auction_seller": "wilber10littlest",
+        "price": "$18.52",
+        "auction_type": "Auction",
+        "lot_number": "295462608709",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$24.55",
+        "lot_number": "204491542474",
+        "grade": "8",
+        "auction_seller": "rawotc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8987746722256953381/3379386679848915888.jpg",
+        "auction_type": "Auction",
+        "cert_number": "60967319",
+        "auction_house": "eBay",
+        "date": "10/16/2023"
+    },
+    {
+        "date": "7/11/2023",
+        "lot_number": "364335084376",
+        "price": "$70.00",
+        "cert_number": "68311550",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4921167963420423940/-6158299774028374760.jpg",
+        "auction_seller": "rayquaza4eva"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "72865142",
+        "price": "$26.00",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285504210712",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8355809984389459238/6674706299792912644.jpg",
+        "date": "10/15/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "285424079533",
+        "cert_number": "72775760",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "price": "$8.02",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3848206368358118725/4796756616019079547.jpg"
+    },
+    {
+        "cert_number": "72608253",
+        "grade": "9",
+        "price": "$12.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/5/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3863108186131811364/-5932161507101816211.jpg",
+        "lot_number": "394710768072",
+        "auction_seller": "radela10"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "jamiga9",
+        "date": "12/11/2021",
+        "cert_number": "48075619",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5744342219518644126/4387929591848224479.jpg",
+        "price": "$50.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "304251327162",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6041038719037738042/-6519493341964650580.jpg",
+        "cert_number": "47907295",
+        "price": "$65.00",
+        "date": "3/9/2021",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "363308663004",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/5/2020",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_seller": "kawaii-japanshop",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/864962551023905627/-8867998130350857055.jpg",
+        "auction_type": "Auction",
+        "lot_number": "124102024986",
+        "cert_number": "45416721",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "175056602502",
+        "date": "12/16/2021",
+        "cert_number": "48075619",
+        "price": "$19.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5455713883475220926/-8193401822645611418.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "hayatox",
+        "grade": "10"
+    },
+    {
+        "price": "$58.80",
+        "auction_type": "Best Offer",
+        "date": "11/1/2020",
+        "auction_seller": "prestomil0",
+        "lot_number": "124214111296",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4981186747240279635/206685182465710473.jpg",
+        "auction_house": "eBay",
+        "cert_number": "45631699",
+        "grade": "10"
+    },
+    {
+        "price": "$20.40",
+        "lot_number": "155443035284",
+        "auction_seller": "paulgeorge24",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1209501788176781352/-8020206746059939576.jpg",
+        "auction_type": "Auction",
+        "cert_number": "50366503",
+        "auction_house": "eBay",
+        "date": "3/10/2023"
+    }
+]

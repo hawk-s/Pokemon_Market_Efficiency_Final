@@ -1,0 +1,79 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6250878405252478499/2740527353701634286.jpg",
+        "grade": "8",
+        "lot_number": "176066134242",
+        "auction_seller": "jmxprime",
+        "price": "$20.50",
+        "cert_number": "78581683",
+        "date": "12/6/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1951537958221543864/5112534249504627691.jpg",
+        "lot_number": "176064068892",
+        "cert_number": "78581681",
+        "grade": "8",
+        "auction_seller": "jmxprime",
+        "date": "12/3/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "date": "6/23/2024",
+        "auction_seller": "supercards_vault",
+        "lot_number": "326165862508",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "88242530",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3074318208555755718/6136581172416704791.jpg",
+        "price": "$22.72"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6467210860422321779/-4957786506772186720.jpg",
+        "date": "8/29/2021",
+        "grade": "4",
+        "lot_number": "114944721320",
+        "auction_seller": "card_secret",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "cert_number": "50453616"
+    },
+    {
+        "lot_number": "285364739746",
+        "date": "7/16/2023",
+        "auction_seller": "zandgemporium",
+        "price": "$43.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4084281086991753059/-5946152118309445021.jpg",
+        "cert_number": "73240459"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4274039274705538687/895332981400465992.jpg",
+        "auction_seller": "da_flipping_legend",
+        "grade": "8",
+        "date": "2/27/2023",
+        "auction_type": "Auction",
+        "price": "$15.05",
+        "auction_house": "eBay",
+        "lot_number": "314412501311",
+        "cert_number": "70233234"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6179451051804941403/-3452286640747234411.jpg",
+        "lot_number": "364526885759",
+        "date": "10/19/2023",
+        "auction_type": "Auction",
+        "cert_number": "68999594",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "auction_seller": "hm09_boxsmash"
+    }
+]

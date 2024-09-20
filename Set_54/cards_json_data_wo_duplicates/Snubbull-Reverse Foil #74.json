@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "troll.aus",
+        "cert_number": "55525365",
+        "lot_number": "165789307916",
+        "date": "12/4/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4043854203723844544/-3504813117493368435.jpg",
+        "price": "$44.70",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "57846275",
+        "price": "$27.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "5/6/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-499558545876416666/-5024046309646627283.jpg",
+        "auction_house": "eBay",
+        "lot_number": "374047067780"
+    },
+    {
+        "auction_seller": "ssgtusmc99",
+        "date": "4/9/2024",
+        "grade": "9",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "72472004",
+        "lot_number": "126405717368",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4406012989670141194/-820473194470397311.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7406912411835744366/-6573469365485218141.jpg",
+        "cert_number": "72181325",
+        "auction_seller": "thepocketinvestor",
+        "lot_number": "355092446127",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/16/2023",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4858694112607327176/-4720111047303639868.jpg",
+        "cert_number": "48322536",
+        "date": "9/27/2021",
+        "lot_number": "353682395529",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "the1-up",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "date": "12/31/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4154390010271170595/6940847821911487921.jpg",
+        "auction_seller": "games_cards_collectibles",
+        "cert_number": "48322536",
+        "lot_number": "144872499248",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$27.02"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "date": "1/1/2024",
+        "cert_number": "82878958",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "lot_number": "285619946470",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3415385230956306957/-2388536347592457911.jpg"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "cert_number": "70861782",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8803368365798500876/-1573218904618038741.jpg",
+        "date": "5/21/2023",
+        "price": "$48.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "235005049050"
+    },
+    {
+        "auction_seller": "thunder_moo",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1384043859252715478/-1787125581705963068.jpg",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "cert_number": "43630302",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$66.00",
+        "lot_number": "235488521103"
+    },
+    {
+        "price": "$25.65",
+        "cert_number": "68332243",
+        "auction_seller": "editionsportscards",
+        "lot_number": "115710535446",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3051936535456754047/-4703853364068963723.jpg",
+        "date": "2/28/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4096546781939024978/-6751250304464367043.jpg",
+        "cert_number": "63149071",
+        "auction_seller": "collectible_showcase",
+        "price": "$11.51",
+        "grade": "9",
+        "lot_number": "133927756531",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/14/2021"
+    },
+    {
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "86158045",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/11/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3319418298511725113/704310631757742638.jpg",
+        "lot_number": "386905268908"
+    }
+]

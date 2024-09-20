@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "363631053909",
+        "price": "$214.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8461048452991260852/6614136603802834081.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "63594256",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/30/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6605732994439476434/2627458337283547429.jpg",
+        "lot_number": "173809587044",
+        "auction_type": "Best Offer",
+        "price": "$200.00",
+        "date": "4/5/2019",
+        "cert_number": "42012326",
+        "auction_seller": "kampes_cards",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "45899881",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8748064941225125497/8123728598147106636.jpg",
+        "date": "8/6/2023",
+        "auction_seller": "coins_n_rarities",
+        "lot_number": "275973086134",
+        "price": "$504.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "274971606990",
+        "auction_seller": "coins_n_rarities",
+        "price": "$377.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9007763637370590937/-7362697391273403080.jpg",
+        "auction_type": "Auction",
+        "cert_number": "63251419",
+        "date": "10/9/2021",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2441087917216420515/-4069149093584277128.jpg",
+        "cert_number": "28185016",
+        "price": "$8.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tnolan0816",
+        "date": "12/2/2017",
+        "lot_number": "292348520628"
+    },
+    {
+        "date": "6/6/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4597369779053533994/172513635121777171.jpg",
+        "lot_number": "142811260014",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "cert_number": "40771445",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "grade": "5",
+        "cert_number": "41933406",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4863001509707006249/2975975622446148869.jpg",
+        "lot_number": "192781470946",
+        "price": "$7.99",
+        "date": "1/12/2019",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pokefratboi",
+        "grade": "7",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/32417468127703349/7079164716832659464.jpg",
+        "cert_number": "67520713",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/21/2024",
+        "lot_number": "116102766288"
+    },
+    {
+        "cert_number": "57846235",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "5/6/2022",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1302581444481994895/8066446248592632085.jpg",
+        "lot_number": "374046804312"
+    },
+    {
+        "auction_seller": "old-skool-pokemon",
+        "date": "3/27/2023",
+        "price": "$18.52",
+        "grade": "9",
+        "cert_number": "49398664",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5449169022093186904/5181288183222612963.jpg",
+        "auction_house": "eBay",
+        "lot_number": "325579977949"
+    }
+]

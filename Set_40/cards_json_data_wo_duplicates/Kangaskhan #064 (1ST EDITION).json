@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$45.00",
+        "auction_seller": "gymleadertaylor",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2179834884374415065/3320127439456609266.jpg",
+        "date": "10/21/2023",
+        "lot_number": "196027389219",
+        "auction_type": "Auction",
+        "cert_number": "78848984",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "115632840781",
+        "cert_number": "54131589",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1511290673834677374/-7936710913836258360.jpg",
+        "auction_house": "eBay",
+        "price": "$82.10",
+        "grade": "10",
+        "auction_seller": "abstrakd",
+        "date": "12/13/2022"
+    },
+    {
+        "cert_number": "60957541",
+        "grade": "7",
+        "lot_number": "334897114812",
+        "price": "$5.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1178922849562188432/8051232903335164375.jpg",
+        "auction_seller": "commacards",
+        "auction_type": "Auction",
+        "date": "6/23/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2898361516070470427/-5605353464826221969.jpg",
+        "auction_seller": "zandgemporium",
+        "date": "9/2/2024",
+        "lot_number": "286023129392",
+        "auction_type": "Auction",
+        "cert_number": "78848984",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3666782473665155384/2356217494821363780.jpg",
+        "price": "$9.50",
+        "cert_number": "77719668",
+        "lot_number": "387119791434",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "7/3/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "335018930265",
+        "auction_seller": "cpgcollectibles",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1065019900946106920/-4382041818228328163.jpg",
+        "date": "9/13/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "79660587",
+        "price": "$1.25"
+    },
+    {
+        "date": "11/24/2017",
+        "price": "$5.99",
+        "lot_number": "292337993454",
+        "auction_type": "Auction",
+        "cert_number": "27743827",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-1013863551169909087/-8744901281939723069.jpg",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "292314264269",
+        "auction_seller": "tnolan0816",
+        "price": "$6.50",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7996298673954540204/7185895159671980361.jpg",
+        "auction_type": "Auction",
+        "cert_number": "27743827",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "292317668529",
+        "auction_seller": "tnolan0816",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-815287398116324267/7185895159671980361.jpg",
+        "auction_type": "Auction",
+        "cert_number": "27743827",
+        "price": "$8.00",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "11/13/2017",
+        "price": "$6.50",
+        "lot_number": "292317040453",
+        "auction_type": "Auction",
+        "cert_number": "27743827",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7511047049624355411/7185895159671980361.jpg",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

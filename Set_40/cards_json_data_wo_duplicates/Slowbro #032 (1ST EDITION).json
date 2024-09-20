@@ -1,0 +1,57 @@
+[
+    {
+        "date": "8/7/2024",
+        "price": "$127.50",
+        "auction_seller": "superj_collection",
+        "lot_number": "296606682302",
+        "cert_number": "91249941",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7499202265682731804/1909385757650993084.jpg"
+    },
+    {
+        "date": "10/23/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8618017763203984844/-1919109644319314748.jpg",
+        "lot_number": "305206371403",
+        "auction_seller": "scc_consignments",
+        "price": "$83.00",
+        "cert_number": "73476503",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "83080666",
+        "auction_seller": "gymleadertaylor",
+        "date": "3/23/2024",
+        "price": "$15.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8219304887470018340/8113622545930570411.jpg",
+        "lot_number": "196295418113",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/13/2022",
+        "auction_seller": "abstrakd",
+        "cert_number": "54131557",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5086189031110603990/723874144732889110.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "115632846266",
+        "price": "$318.59"
+    },
+    {
+        "cert_number": "83102832",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8602912478887776445/4689064151318674708.jpg",
+        "date": "7/5/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "momocatsg",
+        "lot_number": "405065670290",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    }
+]

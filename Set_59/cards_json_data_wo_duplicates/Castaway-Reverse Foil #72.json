@@ -1,0 +1,24 @@
+[
+    {
+        "date": "3/5/2023",
+        "auction_seller": "zandgemporium",
+        "cert_number": "71225466",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-894862981328671031/3301621067515288166.jpg",
+        "lot_number": "285157938494",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1652385273669297737/6280700544488888793.jpg",
+        "lot_number": "315576925337",
+        "price": "$114.69",
+        "auction_seller": "galactic_tcg",
+        "cert_number": "66328663",
+        "date": "7/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

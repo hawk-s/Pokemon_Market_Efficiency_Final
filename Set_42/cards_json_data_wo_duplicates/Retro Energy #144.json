@@ -1,0 +1,101 @@
+[
+    {
+        "cert_number": "65865137",
+        "lot_number": "145485731946",
+        "price": "$7.02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5297597931345978188/7413212245410408676.jpg",
+        "auction_seller": "sky_up_signings",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "12/15/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/3/2023",
+        "price": "$13.56",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3763979021736330889/6819019871353348746.jpg",
+        "grade": "9",
+        "cert_number": "45485864",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185710326161",
+        "auction_seller": "kantocollectionstcg"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4873023337941347699/9106984289828412527.jpg",
+        "lot_number": "314363160467",
+        "grade": "9",
+        "cert_number": "68698537",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/9/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-153485905809915603/-3265513275973309077.jpg",
+        "lot_number": "134504859925",
+        "price": "$13.00",
+        "auction_seller": "hoodyscollectibles",
+        "cert_number": "58363690",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/4/2023",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3319484943074166209/-2563853897844535894.jpg",
+        "auction_seller": "bidoveru",
+        "date": "1/29/2023",
+        "cert_number": "68698538",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "314339082767",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6865308966005670620/-174867181090140883.jpg",
+        "grade": "9",
+        "price": "$8.50",
+        "cert_number": "40965208",
+        "auction_type": "Auction",
+        "lot_number": "401884886572",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "date": "7/30/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6443637170634687412/1333376702072681149.jpg",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "44913035",
+        "lot_number": "315550554609"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "cert_number": "41643913",
+        "price": "$13.01",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4795831394238991698/-8773908031691471006.jpg",
+        "lot_number": "313074139019",
+        "date": "5/14/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$5.50",
+        "grade": "9",
+        "lot_number": "352856448897",
+        "date": "11/26/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5667767690657159865/-6838128824313584891.jpg",
+        "auction_type": "Auction",
+        "cert_number": "40965208",
+        "auction_house": "eBay"
+    }
+]

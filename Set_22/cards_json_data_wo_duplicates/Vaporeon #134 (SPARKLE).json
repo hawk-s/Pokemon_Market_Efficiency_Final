@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "elijah13us",
+        "lot_number": "325773141765",
+        "cert_number": "45899901",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7516180235424937076/-4350920414477980121.jpg",
+        "grade": "6",
+        "price": "$787.00",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "124265538871",
+        "auction_type": "Best Offer",
+        "cert_number": "46993852",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1515684968763615801/2859777883000068676.jpg",
+        "auction_seller": "dh2523",
+        "auction_house": "eBay",
+        "date": "8/9/2020",
+        "price": "$1,500.00",
+        "grade": "10"
+    }
+]

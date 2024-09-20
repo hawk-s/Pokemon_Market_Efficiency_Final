@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "384379948735",
+        "auction_seller": "habbyshobbies",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1050977896839851157/8865268452055539119.jpg",
+        "grade": "9",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "cert_number": "48545082",
+        "date": "9/13/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/8/2024",
+        "cert_number": "84387405",
+        "auction_seller": "probstein123",
+        "auction_house": "eBay",
+        "price": "$113.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2385901896908920979/2740221123957255766.jpg",
+        "auction_type": "Auction",
+        "lot_number": "365041994552",
+        "grade": "10"
+    },
+    {
+        "lot_number": "375527230006",
+        "date": "7/16/2024",
+        "cert_number": "84387405",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3554984273118722236/2740221123957255766.jpg"
+    },
+    {
+        "date": "10/7/2023",
+        "price": "$51.43",
+        "cert_number": "52859793",
+        "auction_seller": "cardsandgamingau",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5384952023690855967/-4093806843943834896.jpg",
+        "lot_number": "386157604689"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "midlandscollectables",
+        "date": "3/14/2023",
+        "lot_number": "204270884789",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5290465816887209180/-7580061886157685718.jpg",
+        "grade": "9",
+        "cert_number": "56562460",
+        "auction_type": "Auction",
+        "price": "$10.51",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4353180635744369134/-1582996631798670732.jpg",
+        "lot_number": "375165822877",
+        "price": "$20.50",
+        "date": "1/12/2024",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "51697177",
+        "grade": "10"
+    },
+    {
+        "date": "12/11/2023",
+        "lot_number": "266513080265",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1591812073037625411/5310228272149252620.jpg",
+        "price": "$14.50",
+        "cert_number": "41983215",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "cert_number": "74215276",
+        "price": "$3.02",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285424874761",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/20/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7124001031871473631/-5901143720074319911.jpg"
+    },
+    {
+        "lot_number": "373965397500",
+        "cert_number": "55389315",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3257350168775537248/-3702826486774314165.jpg",
+        "price": "$20.50",
+        "date": "3/15/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

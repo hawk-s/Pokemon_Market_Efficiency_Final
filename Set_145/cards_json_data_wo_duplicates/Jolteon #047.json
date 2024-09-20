@@ -1,0 +1,68 @@
+[
+    {
+        "date": "1/18/2022",
+        "price": "$26.00",
+        "auction_seller": "jakha_3796",
+        "lot_number": "384676219123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2122224692597731181/-5059061114685045796.jpg",
+        "cert_number": "54123911",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/14/2024",
+        "lot_number": "135008766529",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4707654401007426496/-2655253612481271268.jpg",
+        "price": "$8.10",
+        "auction_seller": "ssjpokenate",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "61053895",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "warehous5store",
+        "cert_number": "54150482",
+        "price": "$16.50",
+        "date": "12/29/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2309413720025167113/-8101451851409832138.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "133971237505"
+    },
+    {
+        "auction_seller": "warehous5store",
+        "cert_number": "54150484",
+        "date": "12/29/2021",
+        "price": "$15.50",
+        "auction_type": "Auction",
+        "lot_number": "133971237776",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7976746401066967737/5620148486812539911.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "warehous5store",
+        "cert_number": "54150483",
+        "date": "12/29/2021",
+        "price": "$10.00",
+        "grade": "9",
+        "lot_number": "133971238139",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7210141542215379482/5978530441554944826.jpg"
+    },
+    {
+        "cert_number": "56740713",
+        "lot_number": "325658415702",
+        "auction_seller": "jam3850",
+        "price": "$15.50",
+        "date": "5/24/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8155322636993082322/-3893968478229023591.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

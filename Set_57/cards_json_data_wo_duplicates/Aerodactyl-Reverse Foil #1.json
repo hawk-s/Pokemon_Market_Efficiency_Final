@@ -1,0 +1,68 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8441752297061440604/489068037587099041.jpg",
+        "date": "7/14/2023",
+        "cert_number": "73838104",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "lot_number": "364337365765",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "45809251",
+        "auction_seller": "zacharysg",
+        "lot_number": "324424390464",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1155767243278847277/9111552146147906005.jpg",
+        "grade": "9",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "date": "12/20/2020"
+    },
+    {
+        "grade": "7",
+        "lot_number": "305305234629",
+        "price": "$20.50",
+        "auction_seller": "bump-27",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1225192746557031705/-7858428325095767006.jpg",
+        "auction_house": "eBay",
+        "cert_number": "80141196"
+    },
+    {
+        "price": "$37.09",
+        "date": "1/18/2023",
+        "cert_number": "54352356",
+        "grade": "8",
+        "auction_seller": "cardmasterlegends",
+        "lot_number": "385346927593",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8199438508658732408/2133276033536663090.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3518484149789754786/4093208512163270949.jpg",
+        "lot_number": "286001762594",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "date": "8/18/2024",
+        "auction_type": "Auction",
+        "cert_number": "92114895",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "price": "$99.67",
+        "lot_number": "324912660074",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7675970163172242157/-970729481285246645.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "cert_number": "50774547",
+        "date": "12/7/2021"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "42499961",
+        "price": "$14.50",
+        "auction_seller": "svc051",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2321324415287298033/8114650791120884960.jpg",
+        "auction_house": "eBay",
+        "date": "5/27/2019",
+        "grade": "10",
+        "lot_number": "183819171473"
+    },
+    {
+        "lot_number": "173916964648",
+        "price": "$4.25",
+        "cert_number": "42499961",
+        "date": "6/4/2019",
+        "auction_seller": "svc051",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8606535267979159481/8114650791120884960.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/21/2024",
+        "cert_number": "61176980",
+        "price": "$15.50",
+        "auction_seller": "thepocketinvestor",
+        "lot_number": "355626753789",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5396082444655643376/3422428211208163489.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2462840592822252400/1378674968939123783.jpg",
+        "cert_number": "61176981",
+        "date": "9/10/2023",
+        "auction_seller": "thepocketinvestor",
+        "price": "$23.50",
+        "lot_number": "355016092360",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/3/2023",
+        "auction_seller": "dapper-tradesmith",
+        "cert_number": "61176975",
+        "price": "$26.00",
+        "lot_number": "204442235270",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7704096149441451915/-6162526820827720381.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "z00kers",
+        "cert_number": "58059319",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8235757514318375790/-1339225656555567231.jpg",
+        "date": "5/20/2024",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "lot_number": "156204733778"
+    },
+    {
+        "cert_number": "88892883",
+        "date": "5/26/2024",
+        "auction_seller": "cardboundllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8329859311337227035/1699235566951685836.jpg",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "lot_number": "226152587187",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$101.81",
+        "lot_number": "125715077035",
+        "date": "1/15/2023",
+        "auction_seller": "schult007",
+        "cert_number": "69836246",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7214350665939065949/1525892185182579557.jpg"
+    },
+    {
+        "date": "6/29/2023",
+        "lot_number": "125986004543",
+        "grade": "8",
+        "auction_seller": "cardrich",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5177415873019077408/7929878439997231164.jpg",
+        "price": "$40.02",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "73407279"
+    },
+    {
+        "auction_seller": "pwcc_vault",
+        "lot_number": "224440154547",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6183309798767849767/-3112298983949496361.jpg",
+        "grade": "9",
+        "cert_number": "53337563",
+        "date": "5/3/2021",
+        "auction_type": "Auction",
+        "price": "$172.50",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$199.53",
+        "cert_number": "70544032",
+        "lot_number": "115792403003",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-595410198738813620/159272509629312297.jpg",
+        "auction_seller": "the_card_center",
+        "auction_type": "Auction",
+        "date": "5/14/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$310.00",
+        "cert_number": "47668242",
+        "auction_seller": "card_secret",
+        "lot_number": "114755340874",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-950992181224249624/6069245915534090863.jpg",
+        "auction_type": "Auction",
+        "date": "4/18/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "386147676913",
+        "auction_seller": "cardsbymax",
+        "cert_number": "78995097",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4245658690273225639/4748231292140640643.jpg",
+        "price": "$139.50",
+        "date": "10/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "166247086803",
+        "date": "7/31/2023",
+        "auction_seller": "jtra8398",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4247640830720207202/-2002087638178051072.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "75742767",
+        "price": "$150.00"
+    }
+]

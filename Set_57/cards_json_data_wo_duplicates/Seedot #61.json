@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "26273123",
+        "price": "$20.00",
+        "lot_number": "353055655617",
+        "date": "4/30/2020",
+        "grade": "8 (MC)",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1783200459072452276/8279873694163348529.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "53860333",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4908798857994773663/7868591820216852704.jpg",
+        "grade": "7",
+        "auction_seller": "comc_consignment",
+        "price": "$10.52",
+        "lot_number": "234909908859",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "3/7/2023"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "285530894374",
+        "date": "11/1/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4148206946762095761/-4084660072380017471.jpg",
+        "cert_number": "61311133",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_seller": "rarecardrealm",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "364403709879",
+        "date": "8/15/2023",
+        "price": "$15.75",
+        "cert_number": "68955189",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8277613202066549011/7869877015115826662.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "7/9/2020",
+        "price": "$27.99",
+        "cert_number": "44001862",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7098370014990748138/2706173733379081463.jpg",
+        "auction_type": "Best Offer",
+        "auction_seller": "master_set_collector",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "184282348253"
+    },
+    {
+        "cert_number": "91944430",
+        "price": "$33.58",
+        "grade": "10",
+        "date": "7/15/2024",
+        "auction_seller": "vintagetcg11",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7286350129926902885/5143351644409236223.jpg",
+        "lot_number": "375534208196"
+    },
+    {
+        "cert_number": "41975969",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3483452162889170886/-7671364501198421938.jpg",
+        "auction_seller": "masterset_collector",
+        "auction_type": "Best Offer",
+        "price": "$24.99",
+        "auction_house": "eBay",
+        "date": "4/29/2020",
+        "grade": "10",
+        "lot_number": "183753275493"
+    }
+]

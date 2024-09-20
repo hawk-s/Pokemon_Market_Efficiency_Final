@@ -1,0 +1,24 @@
+[
+    {
+        "date": "12/31/2022",
+        "cert_number": "51570853",
+        "auction_seller": "games_cards_collectibles",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7174900103058452602/1656874558781631248.jpg",
+        "auction_type": "Auction",
+        "lot_number": "144872506275",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$60.69",
+        "lot_number": "324857253500",
+        "date": "11/8/2021",
+        "auction_type": "Auction",
+        "cert_number": "51570853",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3496248549117821891/1246247049568719043.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "old-skool-pokemon"
+    }
+]

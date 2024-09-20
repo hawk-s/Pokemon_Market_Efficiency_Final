@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "61338877",
+        "price": "$15.48",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2768751217083489956/3907387510417735720.jpg",
+        "lot_number": "155466607257",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "4/2/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "troll.aus",
+        "cert_number": "70372815",
+        "date": "3/19/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4582000861390136248/-5589595889841082003.jpg",
+        "price": "$18.31",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "155444799515"
+    },
+    {
+        "grade": "4",
+        "date": "11/9/2021",
+        "lot_number": "304211748037",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5982680628788983097/-6642278488221195727.jpg",
+        "auction_seller": "pokemonjoee",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "52641264",
+        "price": "$41.49"
+    },
+    {
+        "auction_seller": "rysua_94",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3162367314527929679/3003787911416059669.jpg",
+        "date": "12/7/2022",
+        "cert_number": "54887547",
+        "auction_type": "Auction",
+        "lot_number": "404025257685",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "lot_number": "404487798761",
+        "auction_seller": "rysua_94",
+        "cert_number": "54963081",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4125709311127459862/5405339791038895426.jpg",
+        "price": "$13.52",
+        "date": "9/19/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "4",
+        "price": "$30.02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7138611505160102053/-6642278488221195727.jpg",
+        "lot_number": "304218161352",
+        "auction_seller": "pokemonjoee",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "52641264",
+        "date": "11/14/2021"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "41643824",
+        "auction_seller": "bidoveru",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2549839861255441936/8917062939555790616.jpg",
+        "lot_number": "315479622788",
+        "date": "7/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$66.55",
+        "grade": "10"
+    },
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "133522212224",
+        "auction_seller": "cardboardkrackshack",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7171316023168473561/-7117886385855312366.jpg",
+        "date": "10/12/2020",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "45872724",
+        "price": "$150.00"
+    },
+    {
+        "cert_number": "27667825",
+        "date": "8/12/2017",
+        "price": "$20.50",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7500813542446572406/-5533263966401206184.jpg",
+        "grade": "10",
+        "lot_number": "112511561649"
+    },
+    {
+        "lot_number": "192304941363",
+        "cert_number": "27667825",
+        "price": "$15.50",
+        "date": "9/19/2017",
+        "auction_seller": "my_honolulu_blue",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5394350212101656781/-5533263966401206184.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "283632640817",
+        "date": "10/11/2019",
+        "price": "$81.42",
+        "auction_seller": "vulpix_nightmare",
+        "cert_number": "44387738",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-703980623639953187/5313033831700623467.jpg"
+    },
+    {
+        "date": "3/8/2023",
+        "auction_seller": "tannah12",
+        "cert_number": "59404429",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6373109002618259196/-5390333092746884982.jpg",
+        "price": "$17.28",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115718945836"
+    }
+]

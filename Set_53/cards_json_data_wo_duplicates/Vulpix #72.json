@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$9.50",
+        "auction_seller": "retronomic_meteroid",
+        "lot_number": "395483605611",
+        "cert_number": "92101893",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5670173873048505906/-618277952486658075.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/28/2024"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "price": "$243.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2248122519202023014/898044335865956580.jpg",
+        "lot_number": "285779436658",
+        "date": "3/31/2024",
+        "grade": "AUTHENTIC",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "83353689"
+    },
+    {
+        "auction_seller": "poke-zard",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5609112158461770742/-5392119582755397453.jpg",
+        "price": "$18.20",
+        "cert_number": "61964282",
+        "lot_number": "404939305576",
+        "grade": "9",
+        "date": "4/30/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

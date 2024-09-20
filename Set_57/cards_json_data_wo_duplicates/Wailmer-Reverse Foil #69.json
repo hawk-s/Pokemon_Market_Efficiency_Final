@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "75127288",
+        "date": "6/1/2023",
+        "grade": "8",
+        "price": "$10.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6608454649298971802/-6563317468290428104/images/1.jpg",
+        "auction_seller": "Weekly Auction May 23 - Jun 1",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "lot_number": "5509"
+    },
+    {
+        "cert_number": "70784591",
+        "date": "2/4/2024",
+        "price": "$13.00",
+        "lot_number": "176204792951",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6157251393544537793/5310844934817777776.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "jscottyson"
+    },
+    {
+        "cert_number": "68641863",
+        "price": "$31.30",
+        "lot_number": "364464735952",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5775694034117848303/-1770278937774896882.jpg",
+        "auction_seller": "mont_9",
+        "auction_house": "eBay",
+        "date": "9/14/2023"
+    },
+    {
+        "cert_number": "79151102",
+        "auction_seller": "jhockn",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5447829418544099526/-1032534584628879970.jpg",
+        "grade": "8",
+        "lot_number": "266443110666",
+        "price": "$24.37",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/13/2023"
+    },
+    {
+        "cert_number": "67464109",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7910044952462429184/-3122497011327180064.jpg",
+        "lot_number": "375375546682",
+        "price": "$43.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "4/26/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7346061435676136516/349842028650280930.jpg",
+        "price": "$29.68",
+        "date": "9/27/2021",
+        "auction_seller": "dualcollectibleinc",
+        "grade": "9",
+        "cert_number": "50774591",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "324792544490"
+    }
+]

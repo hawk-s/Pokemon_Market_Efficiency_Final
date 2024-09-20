@@ -1,0 +1,134 @@
+[
+    {
+        "cert_number": "68219502",
+        "grade": "8",
+        "price": "$5.50",
+        "auction_seller": "matterandmotiongames",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6654260835861525846/7225854615677685347.jpg",
+        "date": "1/9/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364096918085"
+    },
+    {
+        "lot_number": "373802863237",
+        "cert_number": "51914944",
+        "price": "$43.00",
+        "auction_seller": "prayforshinys",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-670564415148030969/-1279782824390693971.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/28/2021"
+    },
+    {
+        "cert_number": "80132415",
+        "auction_seller": "venusaur_island",
+        "lot_number": "256326491128",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5318861622298015469/-3237916108554745681.jpg",
+        "date": "12/6/2023",
+        "auction_type": "Auction",
+        "price": "$71.34",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "7",
+        "price": "$3.25",
+        "cert_number": "74992502",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3999940264039836669/-40549075962127404.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "auction_seller": "psa",
+        "lot_number": "305734122073"
+    },
+    {
+        "cert_number": "91299464",
+        "date": "8/15/2024",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1352260876120534753/1525605574757284406.jpg",
+        "price": "$6.00",
+        "lot_number": "305709548268",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7665840015435552245/-2676525456131273564.jpg",
+        "auction_seller": "venusaur_island",
+        "lot_number": "256006141846",
+        "date": "3/13/2023",
+        "cert_number": "71084496",
+        "grade": "9",
+        "price": "$14.09",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$1.29",
+        "cert_number": "41038347",
+        "grade": "9",
+        "date": "6/20/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7904004696812284519/3760084778686009978.jpg",
+        "lot_number": "292605386300",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3471942491965991935/-4447307860355722161.jpg",
+        "price": "$25.23",
+        "cert_number": "80132417",
+        "auction_seller": "venusaur_island",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "256391582645",
+        "date": "2/1/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6906003863044468521/8753405503066892144.jpg",
+        "lot_number": "255929767869",
+        "date": "1/18/2023",
+        "price": "$65.65",
+        "auction_type": "Auction",
+        "auction_seller": "bakerzard",
+        "cert_number": "68827725",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/20/2022",
+        "price": "$20.00",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "cert_number": "68219504",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4618508597037647631/4821920063042320543.jpg",
+        "lot_number": "364080173446",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$1.29",
+        "cert_number": "41038347",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1790014509890947268/3760084778686009978.jpg",
+        "auction_type": "Auction",
+        "date": "6/30/2018",
+        "auction_house": "eBay",
+        "lot_number": "292618150116"
+    },
+    {
+        "cert_number": "91299465",
+        "grade": "7",
+        "date": "8/28/2024",
+        "lot_number": "305732414157",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5519345435563424652/1231144000098392082.jpg",
+        "auction_seller": "psa"
+    }
+]

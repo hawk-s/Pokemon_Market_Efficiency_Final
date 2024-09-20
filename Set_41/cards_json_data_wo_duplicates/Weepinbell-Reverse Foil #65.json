@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "42343154",
+        "date": "11/17/2019",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "174092272443",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6173550982526909133/8000848472012390505.jpg",
+        "auction_house": "eBay",
+        "price": "$6.34",
+        "auction_seller": "svc051"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1678089012883738709/-2444277979609344297.jpg",
+        "auction_seller": "pwcc_auctions",
+        "price": "$10.50",
+        "lot_number": "352726793169",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "40771463",
+        "auction_house": "eBay",
+        "date": "7/30/2019"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2198905640352090367/7793934246292211723.jpg",
+        "price": "$127.50",
+        "auction_type": "Auction",
+        "cert_number": "41354955",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "lot_number": "266611004073",
+        "date": "1/22/2024"
+    },
+    {
+        "auction_seller": "robk0215",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3718415766321377704/5417318818893924106.jpg",
+        "date": "8/26/2021",
+        "lot_number": "174898705546",
+        "price": "$46.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "49874155"
+    },
+    {
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3194091889394389692/-7133599815557871905.jpg",
+        "lot_number": "133304633363",
+        "grade": "9",
+        "date": "1/21/2020",
+        "auction_seller": "gopack177",
+        "auction_type": "Auction",
+        "cert_number": "42343154",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "384769795830",
+        "price": "$48.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "3/15/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "55389451",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3974621562270971786/337691883513733954.jpg"
+    },
+    {
+        "date": "8/17/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2272432706413628353/1374910218512808551.jpg",
+        "auction_seller": "cardboardkrackshack",
+        "cert_number": "59468379",
+        "lot_number": "134685465127",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$62.00"
+    },
+    {
+        "cert_number": "40771463",
+        "date": "6/6/2018",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6194919385545906917/-3804294667571582797.jpg",
+        "lot_number": "142811255950",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "price": "$4.00"
+    }
+]

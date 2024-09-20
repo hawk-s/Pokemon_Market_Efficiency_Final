@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "254539976912",
+        "auction_seller": "pokelyfe",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4181661916651412788/-5606079315939131463.jpg",
+        "grade": "9",
+        "price": "$5.50",
+        "date": "3/20/2020",
+        "auction_type": "Auction",
+        "cert_number": "41388418",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "stokjockey",
+        "price": "$42.89",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5404222530816805366/2667418135406206007.jpg",
+        "cert_number": "46135792",
+        "lot_number": "125634272443",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/5/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1265774746605936854/6047841289657936756.jpg",
+        "date": "1/29/2023",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285115055549",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "68608423",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5547040629341633154/911657581734787160.jpg",
+        "price": "$63.98",
+        "date": "8/5/2021",
+        "auction_seller": "venusaur_island",
+        "cert_number": "48710269",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "255075313389"
+    },
+    {
+        "lot_number": "402557621395",
+        "auction_seller": "pwcc_auctions",
+        "price": "$26.00",
+        "cert_number": "46135792",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1261813980500114751/5106270714963265158.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/26/2020"
+    }
+]

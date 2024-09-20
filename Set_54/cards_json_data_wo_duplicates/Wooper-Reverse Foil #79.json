@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "374046762848",
+        "cert_number": "57846278",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7207543157010178084/-2921357924482927191.jpg",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_seller": "probstein123",
+        "date": "5/6/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "48212044",
+        "auction_seller": "dualcollectibleinc",
+        "date": "10/18/2021",
+        "lot_number": "324820577006",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8453234068166831909/8656667231477165076.jpg",
+        "auction_house": "eBay",
+        "price": "$83.75",
+        "grade": "10"
+    },
+    {
+        "cert_number": "70208306",
+        "lot_number": "315240794102",
+        "price": "$22.19",
+        "auction_seller": "bidoveru",
+        "grade": "9",
+        "date": "4/1/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7446024041574867775/4789500080468796239.jpg"
+    },
+    {
+        "date": "2/19/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1330720646573305151/-5918797469548457844.jpg",
+        "auction_seller": "wolffy_collects",
+        "cert_number": "67514143",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "lot_number": "325527491191"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "lot_number": "175785135620",
+        "price": "$13.50",
+        "date": "7/3/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4165593500760290102/5027220472800402158.jpg",
+        "auction_type": "Auction",
+        "cert_number": "73270652",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "date": "3/27/2023",
+        "auction_seller": "dualcollectibleinc",
+        "grade": "8",
+        "cert_number": "56013498",
+        "price": "$11.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/932205533861581990/-4159675600389635299.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "325577650308"
+    },
+    {
+        "cert_number": "28391588",
+        "auction_seller": "superdave",
+        "lot_number": "324271940958",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5933725276097703976/1954858792099746616.jpg",
+        "date": "12/24/2020",
+        "price": "$18.00"
+    },
+    {
+        "lot_number": "285403726951",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8261827980158558009/-4347745786967292273.jpg",
+        "date": "8/6/2023",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "cert_number": "68877125"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "price": "$31.02",
+        "cert_number": "42465930",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2017533440233516677/4490448060538653898.jpg",
+        "lot_number": "402857343425",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/29/2023",
+        "lot_number": "394685289583",
+        "price": "$13.56",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-636763654517704732/2062176121857846188.jpg",
+        "cert_number": "73946059",
+        "grade": "9",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$9.50",
+        "cert_number": "67510979",
+        "lot_number": "375407960556",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "auction_house": "eBay",
+        "date": "5/10/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2358838007573238197/-7011777964879710343.jpg"
+    }
+]

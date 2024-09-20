@@ -1,0 +1,90 @@
+[
+    {
+        "date": "1/19/2023",
+        "auction_seller": "poke-martcollectibles",
+        "price": "$52.00",
+        "cert_number": "68842090",
+        "grade": "9",
+        "lot_number": "275618041474",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2628270429723139626/-7130979324796878468.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "182425566170",
+        "price": "$10.49",
+        "grade": "9",
+        "auction_seller": "lordblastoise",
+        "date": "1/24/2017",
+        "auction_type": "Auction",
+        "cert_number": "26325567",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8457728371144512864/-750802217145108144.jpg"
+    },
+    {
+        "auction_seller": "hl-products",
+        "lot_number": "335000456306",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2226011635831623788/-3568239528417868847.jpg",
+        "grade": "9",
+        "cert_number": "70649012",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "auction_house": "eBay",
+        "price": "$99.33"
+    },
+    {
+        "date": "2/12/2019",
+        "cert_number": "28933891",
+        "price": "$13.49",
+        "lot_number": "202589070730",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5815099472408655697/-6661850794299773197.jpg",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "58746891",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7099894168312550526/-1653820313725381283.jpg",
+        "date": "7/3/2023",
+        "lot_number": "185954406204",
+        "grade": "9",
+        "auction_seller": "pokecbay",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "auction_type": "Best Offer",
+        "price": "$200.00",
+        "auction_seller": "gamefreak96",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8581898649425320847/-4960963410726174243.jpg",
+        "cert_number": "28900028",
+        "grade": "9",
+        "date": "4/15/2021",
+        "auction_house": "eBay",
+        "lot_number": "164651581713"
+    },
+    {
+        "date": "1/19/2023",
+        "cert_number": "57414715",
+        "auction_seller": "tannah12",
+        "lot_number": "115670338677",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4591358075098758785/-4503199328760756215.jpg",
+        "price": "$22.43",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "41004739",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7685487179068075538/-1763006949248860820.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$36.31",
+        "auction_seller": "beaum_kyl",
+        "auction_house": "eBay",
+        "date": "8/12/2018",
+        "grade": "10",
+        "lot_number": "183332191417"
+    }
+]

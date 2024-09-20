@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$47.45",
+        "auction_seller": "collectorbirch",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6902547891531219756/5345068912029639936.jpg",
+        "grade": "8",
+        "cert_number": "52319773",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "265501255876",
+        "date": "1/30/2022"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "12/13/2020",
+        "cert_number": "46135777",
+        "price": "$56.00",
+        "lot_number": "143870274895",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2603943564017807045/-7814211477350788090.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3339465817895866602/-1904049914079267706.jpg",
+        "date": "6/30/2024",
+        "price": "$30.54",
+        "auction_seller": "goldrush_cards",
+        "cert_number": "91377152",
+        "lot_number": "235621381921",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5100948443128011073/-1904049914079267706.jpg",
+        "date": "6/2/2024",
+        "auction_seller": "goldrush_cards",
+        "cert_number": "91377152",
+        "price": "$28.77",
+        "lot_number": "235589874129",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "2/1/2021",
+        "price": "$65.00",
+        "cert_number": "46135777",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5867949631523411314/3488079999112568219.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "402654622147"
+    },
+    {
+        "cert_number": "47668247",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1770311275536697286/7562599767673269738.jpg",
+        "auction_seller": "card_secret",
+        "price": "$76.00",
+        "grade": "9",
+        "lot_number": "124672578215",
+        "auction_type": "Auction",
+        "date": "4/18/2021",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "6/2/2024",
+        "lot_number": "145790835806",
+        "auction_seller": "esuprojapan",
+        "auction_type": "Auction",
+        "cert_number": "82436604",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4845715559289619924/-1351059084646291188.jpg",
+        "grade": "10",
+        "price": "$62.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-760351950005568792/-6553124872634306587.jpg",
+        "cert_number": "85294307",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "3/15/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$8.00",
+        "lot_number": "375298227692"
+    },
+    {
+        "lot_number": "115089724095",
+        "date": "11/22/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6853795730030674500/6968978568746146553.jpg",
+        "price": "$83.00",
+        "auction_seller": "card_secret",
+        "cert_number": "57509545",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "285821286056",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-722302739489036497/-8202619674734341064.jpg",
+        "grade": "9",
+        "auction_seller": "sakuracache",
+        "auction_type": "Auction",
+        "price": "$13.38",
+        "cert_number": "83394771",
+        "auction_house": "eBay",
+        "date": "4/28/2024"
+    }
+]

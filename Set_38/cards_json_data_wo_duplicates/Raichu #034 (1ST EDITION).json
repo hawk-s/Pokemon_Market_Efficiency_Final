@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "354631870945",
+        "price": "$24.78",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5962598598809366948/-4804134538833747890.jpg",
+        "auction_seller": "ahassl_10",
+        "date": "3/19/2023",
+        "grade": "9",
+        "cert_number": "69542230",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-367550656349664411/-4255075063091909473.jpg",
+        "lot_number": "122812329252",
+        "date": "11/23/2017",
+        "cert_number": "27767646",
+        "auction_seller": "psa10gem101",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "41404065",
+        "auction_seller": "numismaticsgmc",
+        "lot_number": "273666322372",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1258103849770052106/5202831615680111660.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "date": "1/27/2019"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1772130846705144805/-2660552009660423434.jpg",
+        "auction_seller": "andri_emman",
+        "price": "$68.13",
+        "lot_number": "235000820321",
+        "grade": "9",
+        "cert_number": "69542230",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/11/2023"
+    },
+    {
+        "cert_number": "55729960",
+        "price": "$91.11",
+        "lot_number": "114947344431",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5120883087106566998/3814674972028081582.jpg",
+        "auction_seller": "card_secret",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    },
+    {
+        "cert_number": "41404065",
+        "date": "6/13/2020",
+        "auction_type": "Buy It Now",
+        "lot_number": "233535115385",
+        "auction_seller": "pokemon_singles",
+        "price": "$49.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4328482309270687855/9004485208007871643.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/18/2020",
+        "auction_type": "Buy It Now",
+        "price": "$45.37",
+        "grade": "9",
+        "cert_number": "43900246",
+        "lot_number": "113972053485",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4960095536490673052/-4062839931888311740.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "sad_dragoon"
+    }
+]

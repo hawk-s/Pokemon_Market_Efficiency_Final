@@ -1,0 +1,35 @@
+[
+    {
+        "date": "5/15/2024",
+        "auction_seller": "ahassl_49",
+        "price": "$12.64",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5267143178279405079/6212483205169040021.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "235554923873",
+        "auction_house": "eBay",
+        "cert_number": "78133222"
+    },
+    {
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3230911545013395129/-3983522452684753342.jpg",
+        "date": "7/11/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "395513147431",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid",
+        "cert_number": "93108782"
+    },
+    {
+        "lot_number": "234921094855",
+        "auction_seller": "benmar7779",
+        "cert_number": "70928116",
+        "price": "$13.05",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3641838318027487770/692910245403288136.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

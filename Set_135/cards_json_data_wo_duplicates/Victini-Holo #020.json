@@ -1,0 +1,35 @@
+[
+    {
+        "date": "3/11/2023",
+        "lot_number": "266160939768",
+        "auction_seller": "boss-robot",
+        "cert_number": "71261139",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2178170713420361919/8723786605753523816.jpg",
+        "grade": "10"
+    },
+    {
+        "date": "6/20/2023",
+        "auction_seller": "fawsulliva_0",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7654401225007890290/-7708414174225394613.jpg",
+        "auction_type": "Auction",
+        "cert_number": "63142653",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "115831964992"
+    },
+    {
+        "date": "5/6/2024",
+        "cert_number": "90739894",
+        "price": "$9.01",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4322772767154183991/-4758594956629857206.jpg",
+        "lot_number": "116164069201",
+        "auction_type": "Auction",
+        "auction_seller": "lordhiten",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

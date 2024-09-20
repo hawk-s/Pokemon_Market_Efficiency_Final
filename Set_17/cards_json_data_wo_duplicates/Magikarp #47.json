@@ -1,0 +1,79 @@
+[
+    {
+        "grade": "7",
+        "lot_number": "305622901160",
+        "cert_number": "91958675",
+        "date": "6/25/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7692358138681647257/-890320526399837052.jpg",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8246894104724379853/1292129943452467821.jpg",
+        "date": "5/27/2024",
+        "lot_number": "256516329041",
+        "cert_number": "82011430",
+        "grade": "8",
+        "price": "$5.50",
+        "auction_seller": "bryandyeo",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "poke_paradise",
+        "price": "$15.50",
+        "date": "8/29/2024",
+        "grade": "8",
+        "cert_number": "74293004",
+        "lot_number": "186641831182",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4606383374746241776/-8700519439437977902.jpg"
+    },
+    {
+        "date": "9/26/2021",
+        "lot_number": "185060399274",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7108788736719920213/9207290362869242410.jpg",
+        "auction_seller": "hansenshouseofwax213",
+        "price": "$65.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "52825979"
+    },
+    {
+        "date": "6/4/2024",
+        "lot_number": "404997489875",
+        "price": "$14.99",
+        "auction_seller": "maq1der",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/707951552128798211/2133898594945871993.jpg",
+        "cert_number": "90936340",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/17/2022",
+        "cert_number": "53092642",
+        "grade": "9",
+        "lot_number": "374067111264",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6662375591805294652/1385226980551778320.jpg",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "57856583",
+        "date": "9/11/2022",
+        "price": "$11.52",
+        "lot_number": "225144778640",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4506905602098697336/7966869723302344177.jpg",
+        "auction_seller": "hilux808",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

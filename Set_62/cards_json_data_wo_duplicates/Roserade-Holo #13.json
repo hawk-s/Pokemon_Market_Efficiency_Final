@@ -1,0 +1,101 @@
+[
+    {
+        "date": "1/18/2024",
+        "auction_seller": "gili_928",
+        "cert_number": "81338489",
+        "lot_number": "296158323183",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3758596358882474179/-3100320671874212964.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "price": "$49.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/366176549155243635/-8504857991560279540.jpg",
+        "auction_seller": "arkcollectibles",
+        "grade": "9",
+        "date": "9/17/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "64383744",
+        "lot_number": "255722212339"
+    },
+    {
+        "price": "$39.99",
+        "cert_number": "55684552",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/882337484126133967/-3228697194483660712.jpg",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "294762346275",
+        "date": "1/30/2022"
+    },
+    {
+        "lot_number": "155452729321",
+        "cert_number": "60764534",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "date": "3/21/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7628474468483505377/-418580917885284330.jpg",
+        "auction_house": "eBay",
+        "price": "$52.34"
+    },
+    {
+        "cert_number": "77156992",
+        "price": "$3.48",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1606135193687103192/-1120233404660870826.jpg",
+        "lot_number": "166382184270",
+        "grade": "8",
+        "auction_seller": "swolien",
+        "auction_type": "Auction",
+        "date": "10/24/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.50",
+        "grade": "7",
+        "cert_number": "80443895",
+        "date": "7/8/2024",
+        "lot_number": "326178410720",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8060812746462065763/-1284709618346106620.jpg",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "lot_number": "404178429076",
+        "auction_seller": "gami-tcg",
+        "cert_number": "56257521",
+        "date": "3/4/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3488728633008110411/-9161099505949880623.jpg",
+        "price": "$33.00"
+    },
+    {
+        "cert_number": "42226025",
+        "grade": "8",
+        "date": "1/17/2019",
+        "auction_seller": "svc051",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "183630813893",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8743494975099596736/5941563580921774481.jpg",
+        "price": "$3.58"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6304800161348607228/-146801298826943068.jpg",
+        "grade": "7",
+        "lot_number": "395479693952",
+        "cert_number": "92101881",
+        "date": "6/26/2024",
+        "price": "$7.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid"
+    }
+]

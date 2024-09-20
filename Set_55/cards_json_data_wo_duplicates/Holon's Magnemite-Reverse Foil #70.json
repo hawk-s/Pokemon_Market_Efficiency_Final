@@ -1,0 +1,101 @@
+[
+    {
+        "lot_number": "314418413035",
+        "auction_seller": "bidoveru",
+        "cert_number": "70188435",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3979144004241159978/-3641466818126874258.jpg",
+        "grade": "9",
+        "date": "3/3/2023",
+        "price": "$20.19",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/27/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8330448212326441619/-4374751584229243626.jpg",
+        "price": "$19.00",
+        "lot_number": "323218646491",
+        "auction_seller": "poketrader007",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "28572844"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2078343902324495142/-8496454468855329723.jpg",
+        "auction_seller": "goldstarccg",
+        "lot_number": "153051119700",
+        "price": "$10.53",
+        "date": "6/10/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "28793046",
+        "grade": "10"
+    },
+    {
+        "date": "12/23/2021",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-141071318328180597/-7823017164598902428.jpg",
+        "price": "$39.00",
+        "lot_number": "384601545183",
+        "auction_type": "Auction",
+        "cert_number": "53781083",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5965754332653306505/16981164864977650.jpg",
+        "grade": "8",
+        "cert_number": "80292415",
+        "auction_seller": "eyez3500",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "lot_number": "276216122004",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3306016580283097801/-8200170099408717749.jpg",
+        "grade": "9",
+        "cert_number": "65695798",
+        "auction_type": "Auction",
+        "lot_number": "325391598330",
+        "auction_house": "eBay",
+        "auction_seller": "trecari",
+        "date": "10/31/2022"
+    },
+    {
+        "grade": "10",
+        "lot_number": "404232937367",
+        "auction_seller": "goosescards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/23/2023",
+        "cert_number": "42954113",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4000467208367126758/8161640312574795677.jpg",
+        "price": "$102.50"
+    },
+    {
+        "lot_number": "404822217708",
+        "cert_number": "54430574",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6366558390606003317/3898097285057618769.jpg",
+        "auction_seller": "jimmythefluff",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$25.31",
+        "auction_house": "eBay",
+        "date": "3/4/2024"
+    },
+    {
+        "price": "$122.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8644424825949123801/-5516286190337847816.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "374349890000",
+        "cert_number": "60808905",
+        "auction_type": "Auction",
+        "date": "11/22/2022",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

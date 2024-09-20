@@ -1,0 +1,123 @@
+[
+    {
+        "auction_seller": "entre_collector",
+        "date": "11/23/2021",
+        "auction_type": "Auction",
+        "cert_number": "49812183",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7731662817399510228/-5254229578591536794.jpg",
+        "lot_number": "224698161627"
+    },
+    {
+        "auction_seller": "tsunagu",
+        "lot_number": "255864419527",
+        "cert_number": "68482248",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5179704501760771648/-3787395920409948247.jpg",
+        "grade": "10",
+        "date": "12/13/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1429709056251592915/-7787097291175436885.jpg",
+        "price": "$26.00",
+        "cert_number": "85772791",
+        "auction_seller": "notoriouscollectorsllc",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "404879974817",
+        "grade": "10"
+    },
+    {
+        "date": "12/27/2022",
+        "lot_number": "374410623371",
+        "auction_seller": "probstein123",
+        "cert_number": "60665294",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4131033786662936093/538269513883071408.jpg"
+    },
+    {
+        "cert_number": "55541938",
+        "auction_seller": "pwcc_auctions",
+        "date": "7/30/2021",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "lot_number": "353581416499",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6668758303084573650/6058329482722803722.jpg",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7446823548784227328/9102615123362906832.jpg",
+        "date": "8/7/2023",
+        "auction_type": "Auction",
+        "cert_number": "68482248",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "lot_number": "275967871205"
+    },
+    {
+        "lot_number": "144119429433",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "55541939",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4821614684955697520/-5125629757858978002.jpg",
+        "price": "$47.00",
+        "date": "7/30/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/10/2022",
+        "lot_number": "225277672172",
+        "auction_seller": "flowfection",
+        "cert_number": "59716518",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1551900940295268095/3691218042389344872.jpg",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-365742775427687565/-6206471263676794306.jpg",
+        "price": "$20.51",
+        "auction_seller": "tsunagu",
+        "lot_number": "255282200607",
+        "cert_number": "63455903",
+        "date": "12/22/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8361315234805615711/4870244511683821073.jpg",
+        "lot_number": "365007558981",
+        "auction_seller": "jakkedupduck",
+        "price": "$50.28",
+        "auction_type": "Auction",
+        "cert_number": "79856441",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/24/2024"
+    },
+    {
+        "price": "$19.50",
+        "cert_number": "60986243",
+        "date": "9/19/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1678249388985708418/-1374400978096360677.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "hot.stuff.gaming",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "275456641225"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "date": "9/25/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5596406450754146409/6967320898955131049.jpg",
+        "auction_seller": "pwcc_auctions",
+        "price": "$15.50",
+        "cert_number": "42882195",
+        "auction_type": "Auction",
+        "lot_number": "143382901951",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/19/2023",
+        "auction_seller": "omegacollectiblesllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4850936371438017004/-7965738491052531303.jpg",
+        "cert_number": "70369554",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185938982721",
+        "price": "$32.00",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8111811014925295112/5270544705198965332.jpg",
+        "lot_number": "353577816355",
+        "cert_number": "55525793",
+        "price": "$41.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/29/2021"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "cert_number": "61055775",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8532559667997214314/423382571223309142.jpg",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "lot_number": "285007766244",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$62.00"
+    },
+    {
+        "lot_number": "305718602443",
+        "auction_seller": "psa",
+        "date": "8/17/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1404951129439358378/5271008539140524686.jpg",
+        "cert_number": "93090631",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "47660303",
+        "price": "$53.79",
+        "grade": "8",
+        "auction_seller": "obscars",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6663423968117415020/2564695568797945271.jpg",
+        "auction_type": "Auction",
+        "lot_number": "284219356669",
+        "auction_house": "eBay",
+        "date": "3/28/2021"
+    },
+    {
+        "cert_number": "55795076",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8534828749848781899/8229503469172410848.jpg",
+        "price": "$102.50",
+        "date": "10/29/2021",
+        "lot_number": "363590017432",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "poke.jp-kawaii_shop",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "gradedpokemon",
+        "price": "$54.45",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7082775495110837872/4785854538058131376.jpg",
+        "date": "12/23/2021",
+        "cert_number": "43519005",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "265460956557"
+    },
+    {
+        "price": "$45.00",
+        "date": "1/27/2022",
+        "lot_number": "284612988917",
+        "auction_seller": "shinjuku-donquixote",
+        "cert_number": "57142845",
+        "grade": "8",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3412955669503053041/-3648466029926811442.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ahassl_10",
+        "price": "$27.27",
+        "date": "3/19/2023",
+        "lot_number": "354631870935",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6652735133411391197/8921147758461406866.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "69542185"
+    },
+    {
+        "auction_seller": "trainertony",
+        "lot_number": "263035691792",
+        "price": "$8.40",
+        "cert_number": "27048553",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2299898616918288522/-9045309692047609564.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "6/20/2017"
+    }
+]

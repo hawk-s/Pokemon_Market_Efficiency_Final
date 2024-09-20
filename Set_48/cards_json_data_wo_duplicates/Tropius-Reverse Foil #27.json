@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$10.50",
+        "cert_number": "74578784",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4855598014311660228/-3293810526202337367.jpg",
+        "auction_type": "Auction",
+        "date": "8/2/2023",
+        "auction_house": "eBay",
+        "lot_number": "225692774348",
+        "auction_seller": "austronaut777"
+    },
+    {
+        "auction_seller": "myers3329",
+        "auction_type": "Best Offer",
+        "cert_number": "41469323",
+        "grade": "9",
+        "date": "4/26/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1465074181250176852/8398025350251670045.jpg",
+        "price": "$13.34",
+        "auction_house": "eBay",
+        "lot_number": "292988504453"
+    },
+    {
+        "auction_seller": "myers3329",
+        "date": "3/23/2021",
+        "auction_type": "Best Offer",
+        "cert_number": "41469322",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4758208069673699489/-3366218436365496153.jpg",
+        "price": "$44.00",
+        "auction_house": "eBay",
+        "lot_number": "293876935193"
+    },
+    {
+        "cert_number": "43052747",
+        "date": "6/11/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5555444942811372669/-3487757494860068116.jpg",
+        "lot_number": "273876340698",
+        "auction_seller": "nath-pain",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "thisisdohpe",
+        "lot_number": "313113659959",
+        "auction_type": "Buy It Now",
+        "cert_number": "44493925",
+        "grade": "9",
+        "date": "8/2/2020",
+        "price": "$21.52",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5725863617253248717/-6809003843632763495.jpg"
+    }
+]

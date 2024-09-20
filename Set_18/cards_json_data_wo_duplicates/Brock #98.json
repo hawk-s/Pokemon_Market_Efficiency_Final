@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$55.00",
+        "date": "11/16/2020",
+        "auction_type": "Best Offer",
+        "lot_number": "113156588318",
+        "cert_number": "27888216",
+        "auction_seller": "blowoutcards2",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1781462039360666157/2296990087319286303.jpg"
+    },
+    {
+        "lot_number": "285098344094",
+        "date": "1/15/2023",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "price": "$14.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4552531977490750460/211923440548219290.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68833014"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-790348165985441155/497058515190349119.jpg",
+        "price": "$4.25",
+        "cert_number": "92010735",
+        "date": "8/8/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "skylinegtr09",
+        "lot_number": "276575345778",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$35.68",
+        "cert_number": "57092027",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-175886888951431805/-1917677051738603232.jpg",
+        "auction_seller": "tannah12",
+        "lot_number": "155377460041",
+        "date": "2/2/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/28/2021",
+        "price": "$20.00",
+        "auction_seller": "corys_cards37",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-265353842124859216/8337554419574715958.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "51579530",
+        "auction_house": "eBay",
+        "lot_number": "203606911969"
+    },
+    {
+        "cert_number": "60620489",
+        "lot_number": "314368059123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7605846791126700474/2505245665245593134.jpg",
+        "date": "2/20/2023",
+        "auction_seller": "parkerspokemon",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$15.61"
+    }
+]

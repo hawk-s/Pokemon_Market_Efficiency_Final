@@ -1,0 +1,90 @@
+[
+    {
+        "date": "12/13/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3485109884871333545/2364468505904860628.jpg",
+        "price": "$171.50",
+        "lot_number": "276204089529",
+        "cert_number": "43083692",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "date": "1/28/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "mont_9",
+        "lot_number": "364118952636",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8179396125341757305/3380294798763810373.jpg",
+        "cert_number": "65689071"
+    },
+    {
+        "lot_number": "312392031082",
+        "auction_seller": "bidoveru",
+        "price": "$26.00",
+        "date": "12/31/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-106221129012528160/-7746568667514185341.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41033131"
+    },
+    {
+        "cert_number": "68640475",
+        "auction_seller": "bidoveru",
+        "date": "9/17/2023",
+        "grade": "8",
+        "lot_number": "314813043309",
+        "price": "$17.55",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8736823425769189084/-1115434738454212264.jpg"
+    },
+    {
+        "price": "$21.00",
+        "auction_seller": "charizard_trendsetter",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3671193053316196121/-256069274704050129.jpg",
+        "grade": "9",
+        "cert_number": "40771258",
+        "auction_type": "Auction",
+        "lot_number": "193647763749",
+        "auction_house": "eBay",
+        "date": "9/10/2020"
+    },
+    {
+        "date": "6/6/2018",
+        "price": "$5.50",
+        "grade": "9",
+        "cert_number": "40771258",
+        "lot_number": "142811259381",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5492597575077293480/-65269144069590575.jpg",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "unbreakables_tcg",
+        "cert_number": "92977873",
+        "price": "$15.50",
+        "lot_number": "226259290271",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6972566942367746033/1573582503654712385.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/1/2024"
+    },
+    {
+        "cert_number": "51896653",
+        "date": "1/5/2023",
+        "lot_number": "185715908824",
+        "price": "$27.76",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5199780259697415466/1358198838859726780.jpg",
+        "auction_seller": "coradcarus_0",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

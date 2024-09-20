@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "airsoftplayarich",
+        "auction_type": "Best Offer",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1813916340115461742/-5149284338758488793.jpg",
+        "date": "8/18/2018",
+        "cert_number": "40771337",
+        "lot_number": "173459323816",
+        "price": "$9.00",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "142836549030",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6132922726792622494/-289514175419508365.jpg",
+        "cert_number": "40771337",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "price": "$1.25"
+    },
+    {
+        "price": "$3.26",
+        "lot_number": "123550174221",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7163361434022884592/-4458670773156364282.jpg",
+        "auction_seller": "psa10gem101",
+        "cert_number": "40780161",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/24/2018",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6331391325235263805/1151042909159736915.jpg",
+        "cert_number": "40780161",
+        "date": "6/27/2019",
+        "lot_number": "401788898487",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    }
+]

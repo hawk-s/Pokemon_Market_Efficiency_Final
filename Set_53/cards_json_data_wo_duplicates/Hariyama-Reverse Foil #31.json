@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "204597459447",
+        "price": "$15.50",
+        "date": "1/6/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6511592048271292763/-7513191256843806256.jpg",
+        "cert_number": "76244642",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "285100880420",
+        "date": "1/16/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6495560220577972197/-1395633202101184172.jpg",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "cert_number": "69435113",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "53781163",
+        "date": "12/23/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1637724470888233286/576048205913094533.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "373828313803",
+        "price": "$28.00",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "47558651",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3012884500871911907/4887306886725908308.jpg",
+        "price": "$46.00",
+        "grade": "9",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "154518738115",
+        "date": "7/12/2021"
+    }
+]

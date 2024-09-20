@@ -1,0 +1,79 @@
+[
+    {
+        "date": "12/26/2022",
+        "auction_seller": "pawnline",
+        "grade": "6",
+        "cert_number": "69095184",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2798317007377965239/9045007160685091992.jpg",
+        "price": "$16.51",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "134373381151"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143584910926",
+        "date": "4/30/2020",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "cert_number": "45390889",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1988233657315014045/5106351583132502986.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "48022810",
+        "date": "9/23/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2812785912597548361/4275377421700237409.jpg",
+        "grade": "9",
+        "lot_number": "393576942227",
+        "auction_seller": "charizardtcg",
+        "auction_type": "Auction",
+        "price": "$132.50",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "84446483",
+        "price": "$7.50",
+        "date": "7/8/2024",
+        "lot_number": "326178410700",
+        "grade": "6",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5408419395403587322/4375464267494829686.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7420879384246941980/-4278270649409044066.jpg",
+        "date": "5/9/2022",
+        "grade": "6",
+        "lot_number": "144535184766",
+        "auction_type": "Auction",
+        "cert_number": "55598291",
+        "auction_seller": "thecardzard",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "lot_number": "225339689820",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-751516636759234149/2339328728933481146.jpg",
+        "date": "1/15/2023",
+        "auction_seller": "harrmar-15",
+        "grade": "8",
+        "price": "$19.02",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "66970928"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "grade": "7",
+        "lot_number": "5506",
+        "cert_number": "74551621",
+        "date": "6/1/2023",
+        "auction_seller": "Weekly Auction May 23 - Jun 1",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6608454649298971802/7990237385373015441/images/1.jpg"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "395513028720",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4519314535079135992/5721669613649470294.jpg",
+        "price": "$9.50",
+        "cert_number": "93108769",
+        "date": "7/11/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "grade": "8",
+        "cert_number": "74986257",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "lot_number": "4627",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-7197216328233186594/images/1.jpg"
+    },
+    {
+        "price": "$11.00",
+        "lot_number": "4628",
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/3400823075848289977/images/1.jpg",
+        "cert_number": "74986252",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions"
+    },
+    {
+        "cert_number": "78133226",
+        "lot_number": "235507204279",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2965498684255135765/5143434413408278558.jpg",
+        "auction_seller": "ahassl_49",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.66",
+        "date": "4/10/2024"
+    },
+    {
+        "date": "7/6/2023",
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7905106671949320745/8178321266452850262.jpg",
+        "grade": "9",
+        "auction_seller": "jmcomicsandcards",
+        "auction_type": "Auction",
+        "lot_number": "125995815994",
+        "auction_house": "eBay",
+        "cert_number": "73998117"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "cert_number": "60764642",
+        "lot_number": "115730244398",
+        "grade": "9",
+        "date": "3/21/2023",
+        "auction_house": "eBay",
+        "price": "$20.80",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3672369924080530030/-4285491925064267849.jpg"
+    },
+    {
+        "auction_seller": "gami-tcg",
+        "date": "3/1/2023",
+        "lot_number": "404173859887",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-46895993938217283/9033280645587911692.jpg",
+        "auction_house": "eBay",
+        "cert_number": "49197021"
+    }
+]

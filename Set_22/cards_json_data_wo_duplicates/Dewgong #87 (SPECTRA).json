@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "presidiogaming",
+        "cert_number": "43605470",
+        "lot_number": "352837654760",
+        "date": "11/5/2019",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7540768960137346417/907789774434122475.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$105.00",
+        "lot_number": "373205046027",
+        "cert_number": "46353020",
+        "auction_seller": "bbcexchange2",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/924331173994236611/-3073445284419236079.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "9/21/2020"
+    },
+    {
+        "lot_number": "185979468511",
+        "cert_number": "46353020",
+        "date": "7/17/2023",
+        "auction_seller": "xthepokespacex",
+        "price": "$133.99",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5245598721407881879/7707605512989063796.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

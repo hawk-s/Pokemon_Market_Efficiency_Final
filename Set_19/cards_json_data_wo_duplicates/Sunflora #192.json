@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "61169403",
+        "date": "8/6/2023",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "lot_number": "285404125889",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/394467846702093392/8484628402552704117.jpg",
+        "auction_house": "eBay",
+        "price": "$8.52"
+    },
+    {
+        "date": "7/4/2023",
+        "lot_number": "314671868207",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6623291923977982803/-1440471210744797994.jpg",
+        "price": "$29.00",
+        "cert_number": "65990570",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "price": "$2.25",
+        "lot_number": "232579708446",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-206596935072133936/-7849277007169508861.jpg",
+        "grade": "6",
+        "cert_number": "27998580",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "geno1959",
+        "date": "12/9/2017"
+    }
+]

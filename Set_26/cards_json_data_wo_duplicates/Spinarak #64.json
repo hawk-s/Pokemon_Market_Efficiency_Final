@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "85596090",
+        "grade": "8",
+        "date": "3/10/2024",
+        "price": "$16.99",
+        "lot_number": "134957442383",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/209522491330835296/-671950493789474456.jpg"
+    },
+    {
+        "price": "$8.51",
+        "lot_number": "387164923707",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/363184131781451218/1187643299708899509.jpg",
+        "date": "7/12/2024",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "79579701"
+    },
+    {
+        "cert_number": "60322428",
+        "date": "9/13/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6383699438435580902/-1691197919908001538.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "363966487673",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "68676675",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8797532611786528376/-8608984358334051416.jpg",
+        "lot_number": "364629987660",
+        "grade": "8",
+        "date": "12/22/2023",
+        "auction_seller": "marvelous-cards-collectibles",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/20/2021",
+        "lot_number": "284565036485",
+        "cert_number": "49764404",
+        "price": "$74.00",
+        "auction_seller": "zandgemporium-0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5842013048461589911/-8600335177454004054.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "cashmeregames",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2267610856163418616/-1257441906947391591.jpg",
+        "date": "12/21/2023",
+        "price": "$14.50",
+        "grade": "9",
+        "lot_number": "364628786575",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "66814326"
+    },
+    {
+        "date": "6/6/2018",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8499694191179810465/-721603996391342947.jpg",
+        "grade": "9",
+        "cert_number": "27237799",
+        "auction_seller": "forgottonn0n",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "lot_number": "263101926204"
+    },
+    {
+        "price": "$15.00",
+        "date": "8/14/2020",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1611576805425714121/-4739826414659355144.jpg",
+        "cert_number": "45827197",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "283971692424",
+        "auction_seller": "bivas4184"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8415476373871383024/7713692481872608035.jpg",
+        "auction_seller": "pattatt100_4",
+        "price": "$10.00",
+        "grade": "9",
+        "lot_number": "163458170683",
+        "cert_number": "27237799",
+        "auction_type": "Auction",
+        "date": "1/5/2019",
+        "auction_house": "eBay"
+    }
+]

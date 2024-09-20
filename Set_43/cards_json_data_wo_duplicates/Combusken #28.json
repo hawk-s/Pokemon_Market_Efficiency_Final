@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "285150896496",
+        "auction_seller": "zandgemporium",
+        "date": "2/26/2023",
+        "grade": "8",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57468413",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6500316554554848423/-7812762039932957182.jpg"
+    },
+    {
+        "price": "$39.55",
+        "lot_number": "255159216101",
+        "auction_seller": "pokichloe",
+        "cert_number": "48545090",
+        "auction_type": "Auction",
+        "date": "10/9/2021",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1956265693585109304/4360286761608563817.jpg"
+    },
+    {
+        "lot_number": "384346546145",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9095872545088619778/-4617514730746820122.jpg",
+        "auction_seller": "habbyshobbies",
+        "cert_number": "48545090",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    },
+    {
+        "date": "4/5/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1968948738708428237/-7353782028083399779.jpg",
+        "cert_number": "61311329",
+        "lot_number": "196319221308",
+        "price": "$5.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "guaplord"
+    }
+]

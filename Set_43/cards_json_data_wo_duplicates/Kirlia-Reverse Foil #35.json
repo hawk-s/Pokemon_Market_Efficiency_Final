@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$50.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4457782422510032450/37535504264050684.jpg",
+        "auction_seller": "jvccollectiblesandgifts",
+        "cert_number": "48223806",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "234113416656",
+        "auction_house": "eBay",
+        "date": "8/9/2021"
+    },
+    {
+        "auction_seller": "popculturekingz",
+        "lot_number": "163927710511",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8161956685944599931/8517086891422429414.jpg",
+        "grade": "9",
+        "price": "$19.95",
+        "cert_number": "43976975",
+        "auction_house": "eBay",
+        "date": "6/6/2020"
+    },
+    {
+        "price": "$44.54",
+        "cert_number": "90740593",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2115537419765536307/-5892709284936556160.jpg",
+        "auction_seller": "nickstcgcollectables",
+        "date": "5/23/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "387011292577"
+    },
+    {
+        "lot_number": "274253026303",
+        "date": "2/16/2020",
+        "grade": "8",
+        "price": "$5.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5828320565354457636/7661223891287443344.jpg",
+        "cert_number": "44935034",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "date": "1/1/2024",
+        "auction_seller": "zandgemporium",
+        "price": "$18.16",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7664669677728071061/-5296390474657864580.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285619958296",
+        "cert_number": "82878992"
+    },
+    {
+        "auction_seller": "thk_loot_store",
+        "date": "3/29/2024",
+        "lot_number": "176302768779",
+        "grade": "6",
+        "price": "$5.50",
+        "cert_number": "68031783",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2080607800144500927/159888754801712437.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "67169896",
+        "lot_number": "165978005661",
+        "price": "$14.50",
+        "grade": "9",
+        "auction_seller": "dragontrainer.drew",
+        "date": "3/18/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4048252655245733281/8568081376549981779.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

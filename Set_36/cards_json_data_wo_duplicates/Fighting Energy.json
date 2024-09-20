@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$1.12",
+        "cert_number": "73615807",
+        "auction_seller": "goldrush_cards",
+        "date": "7/16/2023",
+        "grade": "9",
+        "lot_number": "235082811636",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4456211473980827828/1778376017311111423.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "71427637",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285420301198",
+        "price": "$75.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/40484246676141087/227941902995635270.jpg",
+        "date": "8/20/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "46135770",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "402557672427",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2505778921939948368/-6296938020906484454.jpg",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/26/2020"
+    },
+    {
+        "lot_number": "195531399188",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5422189524290800803/1613744760345533492.jpg",
+        "date": "12/29/2022",
+        "auction_seller": "blastoisemaster",
+        "auction_type": "Auction",
+        "cert_number": "68400535",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "cardboundllc",
+        "auction_type": "Best Offer",
+        "price": "$10.00",
+        "grade": "9",
+        "lot_number": "223817314997",
+        "date": "8/27/2020",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3071358242634867668/7655910360582111060.jpg",
+        "cert_number": "43759048"
+    },
+    {
+        "cert_number": "43213560",
+        "date": "2/11/2020",
+        "auction_seller": "cardscomicsandmore4u",
+        "lot_number": "153821818259",
+        "price": "$31.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6674598746617438938/6944524834399086449.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8315987480050638608/7856321507784832707.jpg",
+        "price": "$51.90",
+        "date": "2/8/2023",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364128907230",
+        "grade": "10",
+        "cert_number": "66509139"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3706027172276998808/-5856455749894737945.jpg",
+        "cert_number": "43350658",
+        "auction_type": "Best Offer",
+        "price": "$22.99",
+        "grade": "9",
+        "lot_number": "283647481736",
+        "date": "5/3/2020",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "lot_number": "176457477837",
+        "auction_seller": "rainydaycards",
+        "date": "7/12/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2628319438919283597/480577745589677894.jpg",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "cert_number": "66691463",
+        "auction_house": "eBay"
+    }
+]

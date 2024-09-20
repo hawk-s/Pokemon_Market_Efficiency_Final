@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$16.19",
+        "date": "12/4/2023",
+        "auction_seller": "zandgemporium",
+        "cert_number": "59334339",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5852597431591756045/-3303656105085743744.jpg",
+        "lot_number": "285568999483",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "poke-zard",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-686489264410581313/-2712600901894345134.jpg",
+        "price": "$12.49",
+        "grade": "9",
+        "lot_number": "404958930569",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/12/2024",
+        "cert_number": "61964290"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "date": "9/18/2019",
+        "price": "$15.50",
+        "cert_number": "43355048",
+        "auction_seller": "probstein123",
+        "lot_number": "362752007695",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1813124925488965123/-3203933679560367626.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$11.52",
+        "lot_number": "275505216844",
+        "grade": "8",
+        "cert_number": "55676273",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/30/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5383980740037323830/1449791694657098618.jpg",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6700691783870530509/1050637606100110797.jpg",
+        "auction_seller": "obscars",
+        "cert_number": "68379452",
+        "grade": "9",
+        "price": "$24.27",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285147960456",
+        "date": "2/22/2023"
+    },
+    {
+        "date": "2/5/2023",
+        "lot_number": "285125408197",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/524286161114687083/1050637606100110797.jpg",
+        "price": "$24.20",
+        "auction_seller": "obscars",
+        "cert_number": "68379452",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/27/2022",
+        "price": "$37.39",
+        "lot_number": "325470381278",
+        "cert_number": "58873593",
+        "auction_seller": "card.galaxy",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8193900622990094778/144884123625612953.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

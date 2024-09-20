@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "155361181976",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1472904430433007565/-1346603511399877667.jpg",
+        "price": "$11.52",
+        "grade": "8",
+        "date": "1/23/2023",
+        "cert_number": "69001800",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "cheeses-treasures-llc"
+    },
+    {
+        "grade": "7",
+        "cert_number": "68020907",
+        "price": "$5.50",
+        "date": "1/20/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1300103351359975275/-6766421923508861587.jpg",
+        "auction_type": "Auction",
+        "lot_number": "374458557931",
+        "auction_house": "eBay",
+        "auction_seller": "matu7006"
+    },
+    {
+        "date": "10/1/2022",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3065102188403858215/-4142777415702104426.jpg",
+        "price": "$59.68",
+        "cert_number": "54796794",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "354295704894",
+        "auction_seller": "comicconnection_ca"
+    }
+]

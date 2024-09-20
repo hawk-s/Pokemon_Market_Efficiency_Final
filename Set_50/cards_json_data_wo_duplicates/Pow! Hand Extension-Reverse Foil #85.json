@@ -1,0 +1,101 @@
+[
+    {
+        "auction_house": "Goldin Auctions",
+        "grade": "7",
+        "auction_seller": "Weekly Auction Apr 25 - May 4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3698167823570495137/5322765191577833459/images/1.jpg",
+        "lot_number": "4643",
+        "cert_number": "71339207",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "date": "5/4/2023"
+    },
+    {
+        "price": "$12.88",
+        "cert_number": "78572105",
+        "grade": "7",
+        "auction_seller": "ycgaming",
+        "date": "8/18/2024",
+        "lot_number": "296626040891",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4045896290009908719/-6133944701323983031.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$19.80",
+        "grade": "8",
+        "lot_number": "314484198884",
+        "auction_type": "Auction",
+        "date": "4/2/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1612332180796735765/-4662741786659964493.jpg",
+        "auction_seller": "nevergonnaletmewdown",
+        "cert_number": "68714988"
+    },
+    {
+        "date": "8/30/2020",
+        "cert_number": "46156634",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6157585427670036951/-4797043383633376904.jpg",
+        "auction_seller": "zooz_collectible_universe",
+        "lot_number": "333697238792",
+        "price": "$28.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7431095453976970711/4299433524239109281.jpg",
+        "date": "12/23/2021",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "53781149",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "384601665076"
+    },
+    {
+        "price": "$61.00",
+        "auction_seller": "Weekly Auction Apr 4 - Apr 13",
+        "grade": "10",
+        "cert_number": "70569914",
+        "auction_type": "Auction",
+        "date": "4/13/2023",
+        "auction_house": "Goldin Auctions",
+        "lot_number": "4111",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/5478780097335161028/-2301867729835709386/images/1.jpg"
+    },
+    {
+        "cert_number": "68379271",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8504773440887017251/-1486298918369310760.jpg",
+        "grade": "9",
+        "price": "$28.86",
+        "auction_seller": "alhas-4448",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "304847140263",
+        "date": "3/26/2023"
+    },
+    {
+        "cert_number": "48140740",
+        "price": "$24.65",
+        "date": "11/15/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8658714503520528141/-1699635578024390217.jpg",
+        "grade": "9",
+        "lot_number": "324865841400",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "lot_number": "192639711422",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4427524409991821241/-3711642766490464540.jpg",
+        "cert_number": "41319821",
+        "date": "9/3/2018",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

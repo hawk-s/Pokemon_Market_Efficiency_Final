@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$15.69",
+        "date": "12/4/2023",
+        "auction_seller": "zandgemporium",
+        "cert_number": "58550170",
+        "lot_number": "285569000045",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5380561692183665258/3543124419012584091.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "48545111",
+        "lot_number": "384346546157",
+        "auction_seller": "habbyshobbies",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6051947002625453856/4872518338458911280.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "grade": "10",
+        "date": "8/30/2021"
+    }
+]

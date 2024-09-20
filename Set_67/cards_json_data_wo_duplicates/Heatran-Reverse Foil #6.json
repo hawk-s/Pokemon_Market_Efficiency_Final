@@ -1,0 +1,46 @@
+[
+    {
+        "date": "4/27/2020",
+        "price": "$14.99",
+        "auction_seller": "pokelyfe",
+        "auction_type": "Buy It Now",
+        "lot_number": "254501749464",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8097473484108461385/-2817702498433666314.jpg",
+        "grade": "9",
+        "auction_house": "eBay",
+        "cert_number": "41388517"
+    },
+    {
+        "auction_seller": "cardsandgamingau",
+        "grade": "9",
+        "date": "6/25/2023",
+        "cert_number": "60754655",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "385679104119",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4891756464386216426/4512773927357822158.jpg",
+        "price": "$12.35"
+    },
+    {
+        "price": "$9.50",
+        "cert_number": "75640288",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4542692057565548416/7138302367494789334.jpg",
+        "grade": "8",
+        "lot_number": "387216058621",
+        "auction_seller": "probstein123",
+        "date": "7/26/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "155454409126",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8259484874793944851/-5363880932558373129.jpg",
+        "auction_seller": "tannah12",
+        "price": "$15.63",
+        "date": "3/22/2023",
+        "grade": "9",
+        "cert_number": "60754655",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

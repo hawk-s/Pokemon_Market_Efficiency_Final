@@ -1,0 +1,123 @@
+[
+    {
+        "date": "4/19/2020",
+        "price": "$26.00",
+        "auction_type": "Buy It Now",
+        "auction_seller": "kantos_finest",
+        "grade": "9",
+        "cert_number": "42343171",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7156648884628019866/-756059634315956445.jpg",
+        "lot_number": "312857142189"
+    },
+    {
+        "cert_number": "24857986",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/9165159172088612630/-8474907722841109404.jpg",
+        "lot_number": "322868398455",
+        "auction_seller": "pelozas",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "24857986",
+        "auction_type": "Best Offer",
+        "auction_seller": "legendarycardz",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1947311703339077483/6838429422791676817.jpg",
+        "price": "$35.00",
+        "date": "7/29/2018",
+        "lot_number": "122833884360",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/6/2018",
+        "lot_number": "142811259532",
+        "grade": "9",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7493590639285423840/-6742858914745387161.jpg",
+        "auction_house": "eBay",
+        "cert_number": "40771263",
+        "price": "$0.99"
+    },
+    {
+        "price": "$24.95",
+        "auction_seller": "gemmintpokemon",
+        "auction_type": "Best Offer",
+        "date": "6/11/2020",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7435181448795086903/2953540917131205816.jpg",
+        "auction_house": "eBay",
+        "cert_number": "41044839",
+        "lot_number": "183312421437"
+    },
+    {
+        "cert_number": "91802068",
+        "date": "7/10/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1091267006953948130/-1475448149172738156.jpg",
+        "grade": "9",
+        "lot_number": "405074686428",
+        "price": "$4.81",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "arizona_tcg"
+    },
+    {
+        "auction_seller": "chrito_4542",
+        "date": "7/12/2023",
+        "cert_number": "68343443",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1197545769885158082/8922931158901739854.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$17.99",
+        "lot_number": "134642288989"
+    },
+    {
+        "price": "$89.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8621413951354268272/5000590044301051745.jpg",
+        "cert_number": "43083704",
+        "lot_number": "266516897268",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "date": "12/5/2023"
+    },
+    {
+        "lot_number": "405117329821",
+        "date": "7/30/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5991484298914597991/-1626962933907646385.jpg",
+        "cert_number": "91802068",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "arizona_tcg"
+    },
+    {
+        "lot_number": "184031197357",
+        "date": "11/17/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1220579185300429140/-8219858437072502524.jpg",
+        "grade": "9",
+        "cert_number": "42343171",
+        "auction_seller": "svc051",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$4.27"
+    },
+    {
+        "price": "$7.50",
+        "lot_number": "405149675229",
+        "cert_number": "91802068",
+        "grade": "9",
+        "date": "8/14/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6033049079639484822/-4177892409202345025.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "arizona_tcg"
+    }
+]

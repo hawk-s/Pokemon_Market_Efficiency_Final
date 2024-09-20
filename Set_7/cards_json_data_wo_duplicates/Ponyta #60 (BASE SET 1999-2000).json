@@ -1,0 +1,101 @@
+[
+    {
+        "auction_seller": "jvccollectiblesandgifts",
+        "cert_number": "48223862",
+        "date": "8/23/2021",
+        "lot_number": "234136822054",
+        "price": "$46.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3778324654859119034/-2341570988977584901.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "77774800",
+        "date": "10/27/2023",
+        "lot_number": "155843939415",
+        "auction_seller": "fayeyork23",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4270769904275772438/-9090971770057440919.jpg",
+        "price": "$49.75",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/7/2024",
+        "price": "$25.55",
+        "auction_seller": "jakrob_14",
+        "grade": "9",
+        "cert_number": "91399442",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2205430680634466192/-7446639088480075015.jpg",
+        "lot_number": "226170967396",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "266548233435",
+        "date": "12/11/2023",
+        "price": "$6.99",
+        "cert_number": "83153516",
+        "grade": "8",
+        "auction_seller": "richezone",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6951347428499664398/7422248644829421677.jpg"
+    },
+    {
+        "auction_seller": "tripleplayvintagestore",
+        "grade": "10",
+        "cert_number": "53093060",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2335632065434709545/7968340321846040435.jpg",
+        "date": "11/26/2021",
+        "auction_house": "eBay",
+        "lot_number": "373792830137",
+        "price": "$55.55"
+    },
+    {
+        "price": "$41.64",
+        "cert_number": "74708123",
+        "auction_seller": "jakrob_14",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-516546894433177174/-7906942879614505970.jpg",
+        "grade": "10",
+        "lot_number": "225638750016"
+    },
+    {
+        "date": "1/16/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6963418149250738417/8651004579190912195.jpg",
+        "auction_seller": "yimleej",
+        "grade": "9",
+        "lot_number": "394413086436",
+        "auction_type": "Auction",
+        "price": "$6.52",
+        "cert_number": "68668898",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "266548234030",
+        "grade": "7",
+        "date": "12/11/2023",
+        "price": "$6.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2279879359680988182/891434382223834365.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "richezone",
+        "cert_number": "83153515",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "74708124",
+        "auction_seller": "jakrob_14",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/803092321031675491/4678665738031205977.jpg",
+        "price": "$18.30",
+        "auction_type": "Auction",
+        "date": "6/30/2023",
+        "auction_house": "eBay",
+        "lot_number": "225638758118"
+    }
+]

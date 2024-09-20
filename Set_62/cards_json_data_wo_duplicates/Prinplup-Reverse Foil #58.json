@@ -1,0 +1,24 @@
+[
+    {
+        "lot_number": "4763",
+        "price": "$13.00",
+        "grade": "6",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/5650893365182719181/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "5/11/2023",
+        "cert_number": "71339199"
+    },
+    {
+        "cert_number": "50115176",
+        "lot_number": "403166872207",
+        "grade": "9",
+        "date": "9/24/2021",
+        "auction_seller": "camla_7238",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4578833279409510189/6264348829763941308.jpg",
+        "auction_type": "Auction",
+        "price": "$36.99",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "date": "5/17/2022",
+        "price": "$171.50",
+        "auction_seller": "probstein123",
+        "cert_number": "54056240",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3389956273217248410/-995194754305023643.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "374061472905"
+    },
+    {
+        "auction_seller": "killerkards",
+        "lot_number": "254910785826",
+        "auction_type": "Best Offer",
+        "cert_number": "45358516",
+        "price": "$325.00",
+        "date": "4/4/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4184171233638231849/-7717044550591782957.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2978885635723571043/6099448387601536383.jpg",
+        "date": "10/24/2022",
+        "grade": "8",
+        "cert_number": "65340546",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retro_sports_co",
+        "lot_number": "115565602448"
+    },
+    {
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3001903726661509955/8330198347902698594.jpg",
+        "grade": "8",
+        "date": "9/17/2020",
+        "cert_number": "42474657",
+        "price": "$23.00",
+        "auction_seller": "dr_cardsandgaming",
+        "auction_house": "eBay",
+        "lot_number": "203035913621"
+    },
+    {
+        "lot_number": "264866050266",
+        "cert_number": "44492105",
+        "auction_seller": "pokemonsteve13",
+        "grade": "8",
+        "date": "9/20/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4431155241652036235/679566158399915452.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$10.59"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4778182044656541199/-6792112556022045387.jpg",
+        "date": "4/23/2021",
+        "price": "$224.50",
+        "cert_number": "55280540",
+        "grade": "9",
+        "lot_number": "373542271669",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "cert_number": "49247993",
+        "date": "8/5/2021",
+        "auction_seller": "coins_n_rarities",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-123518027488838030/4904844977430332512.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "313620405764"
+    },
+    {
+        "cert_number": "55280540",
+        "date": "5/4/2021",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "363374209145",
+        "price": "$103.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1518883078753252313/-6792112556022045387.jpg"
+    },
+    {
+        "price": "$59.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/526649359634243327/-7009210237287441826.jpg",
+        "lot_number": "334782710810",
+        "cert_number": "58253361",
+        "grade": "9",
+        "auction_seller": "dacardworld",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay"
+    }
+]

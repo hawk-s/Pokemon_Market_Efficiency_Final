@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$1.82",
+        "lot_number": "182725848807",
+        "grade": "9",
+        "date": "8/27/2017",
+        "auction_seller": "kevinh703",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/722358030524857987/3282431899037164081.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27476626"
+    },
+    {
+        "lot_number": "385393961824",
+        "auction_seller": "bravepuppygalleries",
+        "cert_number": "53732829",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$27.44",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/118721310222057568/7911188597040671299.jpg",
+        "date": "2/12/2023"
+    },
+    {
+        "grade": "7",
+        "price": "$10.50",
+        "lot_number": "166212114635",
+        "date": "7/17/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5620395408523355757/-2998804616592421402.jpg",
+        "auction_seller": "jebr4566",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "69625773"
+    },
+    {
+        "price": "$7.50",
+        "auction_seller": "numismaticsgmc",
+        "lot_number": "273036950896",
+        "date": "1/27/2018",
+        "cert_number": "27833434",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-419207240031846807/-3087580493834221710.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6197615237207997823/-3089006393089658281.jpg",
+        "price": "$60.00",
+        "date": "12/11/2023",
+        "lot_number": "314967224877",
+        "cert_number": "42527515",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "price": "$25.13",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2063501951080400477/-4136149057233301791.jpg",
+        "auction_seller": "tannah12",
+        "cert_number": "59305934",
+        "date": "3/19/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "155448751621",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "59305934",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8584505932094519290/2141352553366101351.jpg",
+        "grade": "9",
+        "date": "8/22/2023",
+        "auction_type": "Auction",
+        "lot_number": "295882012419",
+        "price": "$19.82",
+        "auction_house": "eBay",
+        "auction_seller": "dabri-9872"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2177694373777577803/-558510408434059422.jpg",
+        "grade": "9",
+        "cert_number": "40771474",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "lot_number": "142836549190",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "price": "$0.99"
+    }
+]

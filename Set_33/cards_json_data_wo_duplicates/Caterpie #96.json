@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "126443143307",
+        "price": "$10.57",
+        "auction_seller": "apb1992",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "cert_number": "82813143",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3360060168786840228/-5968883332036443394.jpg"
+    },
+    {
+        "cert_number": "55434823",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4453730690146469923/4443620706331112488.jpg",
+        "auction_seller": "card_secret",
+        "lot_number": "114947250075",
+        "auction_type": "Auction",
+        "price": "$172.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    },
+    {
+        "auction_seller": "tnolan0816",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6521349755553964270/-4259527863765800519.jpg",
+        "price": "$6.50",
+        "cert_number": "27798158",
+        "lot_number": "292314264299",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/9/2017",
+        "auction_type": "Buy It Now",
+        "auction_seller": "pokemon_revolution",
+        "lot_number": "122361227429",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4798175736411046599/7993069368558709269.jpg",
+        "cert_number": "26510519",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$29.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-80239170400404814/-6993373018717882314.jpg",
+        "date": "9/18/2021",
+        "lot_number": "174936706655",
+        "cert_number": "50461257",
+        "auction_seller": "rainydaycards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$145.50"
+    }
+]

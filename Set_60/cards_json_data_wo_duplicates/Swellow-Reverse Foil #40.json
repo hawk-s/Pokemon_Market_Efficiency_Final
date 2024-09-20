@@ -1,0 +1,68 @@
+[
+    {
+        "date": "6/4/2024",
+        "cert_number": "75510043",
+        "price": "$19.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4096314475083672134/2749275102223000877.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "375453266963",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "273282356336",
+        "auction_seller": "cardrushinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8739446892501928521/6614327627341372295.jpg",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "12/11/2020",
+        "price": "$49.95",
+        "cert_number": "40769159"
+    },
+    {
+        "date": "8/10/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5484563620454080827/933589240057360840.jpg",
+        "cert_number": "49559720",
+        "lot_number": "294309883197",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$103.50",
+        "grade": "10",
+        "auction_seller": "pacifistchris"
+    },
+    {
+        "date": "7/26/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4963311989765985199/933589240057360840.jpg",
+        "cert_number": "49559720",
+        "lot_number": "294283071205",
+        "auction_type": "Auction",
+        "price": "$140.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "pacifistchris"
+    },
+    {
+        "cert_number": "82878879",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "date": "12/31/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9143748752547061396/-2246114069311986939.jpg",
+        "lot_number": "285619958666",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "auction_seller": "Weekly Auction 13 Jun - 22 Jun",
+        "cert_number": "75916911",
+        "price": "$13.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/3815309888501543544/-4584808112413440146/images/1.jpg",
+        "auction_house": "Goldin Auctions",
+        "date": "6/26/2023",
+        "lot_number": "5509"
+    }
+]

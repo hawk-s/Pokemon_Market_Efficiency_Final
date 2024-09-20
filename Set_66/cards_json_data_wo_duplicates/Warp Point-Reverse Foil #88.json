@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "85451587",
+        "price": "$27.07",
+        "grade": "8",
+        "date": "8/18/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8355028252510037296/-4644861168008481968.jpg",
+        "lot_number": "315640746797",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "nevergonnaletmewdown"
+    },
+    {
+        "cert_number": "85451587",
+        "date": "6/2/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7715943741656803649/-4644861168008481968.jpg",
+        "grade": "8",
+        "price": "$15.57",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "nevergonnaletmewdown",
+        "lot_number": "315385072128"
+    },
+    {
+        "date": "6/30/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3177511996518687900/-4644861168008481968.jpg",
+        "cert_number": "85451587",
+        "price": "$13.27",
+        "grade": "8",
+        "lot_number": "315448640933",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "nevergonnaletmewdown"
+    }
+]

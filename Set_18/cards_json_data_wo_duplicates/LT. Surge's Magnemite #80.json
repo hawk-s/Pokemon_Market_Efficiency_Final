@@ -1,0 +1,101 @@
+[
+    {
+        "date": "1/30/2023",
+        "price": "$20.50",
+        "lot_number": "295487094334",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/204130545419074837/-6860725292828111587.jpg",
+        "auction_seller": "lumalama",
+        "grade": "10",
+        "cert_number": "58294835"
+    },
+    {
+        "grade": "7",
+        "date": "1/12/2022",
+        "auction_seller": "jah102",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4608903651619428299/-7751960166466983739.jpg",
+        "lot_number": "194703918623",
+        "price": "$48.89",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "54425487"
+    },
+    {
+        "cert_number": "44418914",
+        "price": "$14.99",
+        "date": "11/16/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7732723424930656938/1288357904584819726.jpg",
+        "auction_seller": "thepokedude",
+        "lot_number": "193745341283",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$60.00",
+        "date": "1/27/2022",
+        "lot_number": "133999717688",
+        "cert_number": "54474884",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5542505676266585394/-1196361306425130459.jpg",
+        "auction_seller": "guerr.eddy",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/12/2022",
+        "auction_seller": "rysua_94",
+        "cert_number": "54962925",
+        "lot_number": "404034929003",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7706636968093622705/-3753011188599523282.jpg",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "date": "12/26/2022",
+        "price": "$10.50",
+        "auction_seller": "rysua_94",
+        "cert_number": "54962925",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1651929552098152007/-3753011188599523282.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "404063047172"
+    },
+    {
+        "date": "5/5/2019",
+        "cert_number": "42876995",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7696128927232472908/-1089411514169782391.jpg",
+        "price": "$6.00",
+        "grade": "9",
+        "lot_number": "113731610096",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "gymleadermomma"
+    },
+    {
+        "lot_number": "404053285279",
+        "date": "12/21/2022",
+        "auction_seller": "rysua_94",
+        "grade": "10",
+        "cert_number": "54962926",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2229887448751649424/-6274807069605405509.jpg",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "price": "$4.99",
+        "grade": "8",
+        "cert_number": "82011422",
+        "date": "4/29/2024",
+        "lot_number": "256487326705",
+        "auction_seller": "bryandyeo",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3664570123757352516/-3688340927085405631.jpg",
+        "auction_house": "eBay"
+    }
+]

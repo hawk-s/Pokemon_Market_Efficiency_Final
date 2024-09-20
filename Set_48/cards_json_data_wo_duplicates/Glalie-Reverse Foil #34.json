@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "dandaman333",
+        "date": "8/13/2021",
+        "cert_number": "48703038",
+        "grade": "9",
+        "price": "$59.99",
+        "lot_number": "304083567732",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6026794725873218105/2727790434525732226.jpg"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "cert_number": "77504957",
+        "lot_number": "285495332219",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7358223092595847389/-2138597199058689785.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$20.52",
+        "date": "10/8/2023"
+    },
+    {
+        "date": "1/7/2023",
+        "price": "$21.61",
+        "auction_seller": "jesustorres99",
+        "lot_number": "255904886989",
+        "cert_number": "48703038",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8565567606892665272/-5875454966224791894.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7904271615221719306/-1017623752379927925.jpg",
+        "cert_number": "70857691",
+        "auction_seller": "cardboardkrackshack",
+        "date": "3/4/2023",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "134461357933"
+    },
+    {
+        "date": "2/23/2023",
+        "cert_number": "70857690",
+        "price": "$50.00",
+        "grade": "9",
+        "auction_seller": "hot_doggie_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "266133192766",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2027850461017912960/-5535058269113718898.jpg"
+    },
+    {
+        "price": "$20.21",
+        "date": "8/11/2024",
+        "grade": "8",
+        "cert_number": "94265688",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3524227646141017338/3266945752589413329.jpg",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "lot_number": "135174406658",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/30/2020",
+        "lot_number": "303458601056",
+        "price": "$15.17",
+        "cert_number": "42563311",
+        "auction_type": "Auction",
+        "auction_seller": "sonofhercules2",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8397760045477331536/-2787114229496031316.jpg",
+        "grade": "10"
+    }
+]

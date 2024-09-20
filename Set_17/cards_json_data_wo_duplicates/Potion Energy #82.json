@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$15.00",
+        "auction_seller": "hilliardhits",
+        "grade": "9",
+        "date": "9/8/2022",
+        "cert_number": "56264970",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3726042647759662896/-3710030165482487336.jpg",
+        "auction_type": "Auction",
+        "lot_number": "325325739758",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$9.50",
+        "cert_number": "46768956",
+        "auction_seller": "spencerscollectibles",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7544501953602443455/-95707172550704859.jpg",
+        "auction_type": "Auction",
+        "date": "4/2/2021",
+        "auction_house": "eBay",
+        "lot_number": "353429702575"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3520158078558222378/1235086966477404025.jpg",
+        "auction_seller": "monmar_1087",
+        "lot_number": "355064692114",
+        "grade": "6",
+        "date": "10/5/2023",
+        "cert_number": "74451890",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/17/2022",
+        "cert_number": "56730415",
+        "lot_number": "384880536350",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3001392334411141090/-3556711350791558065.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$5.01"
+    },
+    {
+        "auction_seller": "mrseiler1",
+        "grade": "6",
+        "price": "$3.95",
+        "date": "1/28/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6516049110659634472/-7619787231904921564.jpg",
+        "auction_type": "Auction",
+        "cert_number": "55810455",
+        "auction_house": "eBay",
+        "lot_number": "314343953721"
+    }
+]

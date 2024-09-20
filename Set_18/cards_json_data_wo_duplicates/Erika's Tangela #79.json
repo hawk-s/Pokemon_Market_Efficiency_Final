@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "362795090442",
+        "date": "11/7/2019",
+        "auction_seller": "probstein123",
+        "cert_number": "28989814",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$14.04",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8814555835681124844/-6260111713849780338.jpg"
+    },
+    {
+        "auction_seller": "gymleadermomma",
+        "cert_number": "42876989",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3102588048760689176/3699691088626864431.jpg",
+        "lot_number": "113790211618",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/24/2019",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "iconic.cards",
+        "price": "$15.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3007769379518688613/-507807514535907098.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "203688223945",
+        "date": "11/14/2021",
+        "cert_number": "53041867"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6863848255217707634/4619482372596235453.jpg",
+        "lot_number": "155443453844",
+        "date": "3/13/2023",
+        "price": "$27.00",
+        "grade": "9",
+        "cert_number": "70448524",
+        "auction_type": "Auction",
+        "auction_seller": "fourthwall2",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "42876989",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7995169740207783835/8599246404932923228.jpg",
+        "price": "$15.50",
+        "date": "6/9/2020",
+        "auction_seller": "tomdgra0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "203011738009",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5619855679698951527/-3690010690947672333.jpg",
+        "date": "5/8/2020",
+        "auction_type": "Best Offer",
+        "price": "$28.99",
+        "cert_number": "44418912",
+        "lot_number": "193358854406",
+        "auction_seller": "blowoutcards2",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "54962934",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1299774573776618657/-2466403854822625141.jpg",
+        "lot_number": "404487797399",
+        "auction_seller": "rysua_94",
+        "date": "9/19/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$33.00"
+    }
+]

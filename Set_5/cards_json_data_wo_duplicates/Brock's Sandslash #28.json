@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "74260269",
+        "lot_number": "275994544648",
+        "auction_seller": "world_of_geek",
+        "date": "8/20/2023",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/576805311238440210/5478043067125793473.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$9.50",
+        "cert_number": "56372532",
+        "grade": "8",
+        "lot_number": "374937651296",
+        "date": "9/26/2023",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7600737519028248989/-2520902044624912929.jpg"
+    },
+    {
+        "cert_number": "68275828",
+        "date": "12/23/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4864329498073091968/-71801912791680857.jpg",
+        "auction_seller": "probstein123",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "lot_number": "385295958792",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

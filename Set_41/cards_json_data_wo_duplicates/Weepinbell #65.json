@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-58037895792963919/3652177342495234178.jpg",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "5/15/2019",
+        "price": "$3.99",
+        "auction_house": "eBay",
+        "cert_number": "41933422",
+        "lot_number": "192911202221"
+    },
+    {
+        "price": "$14.99",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6550780904122975104/-6150860113047927647.jpg",
+        "auction_seller": "pokemon_revolution",
+        "date": "7/13/2020",
+        "grade": "9",
+        "auction_house": "eBay",
+        "cert_number": "26693793",
+        "lot_number": "112309172247"
+    },
+    {
+        "cert_number": "40771345",
+        "date": "6/6/2018",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1815214201859702980/2368859245214480915.jpg",
+        "auction_house": "eBay",
+        "price": "$4.00",
+        "lot_number": "142811257344"
+    },
+    {
+        "date": "12/14/2022",
+        "auction_seller": "tannah12",
+        "cert_number": "56612885",
+        "grade": "9",
+        "lot_number": "155295595328",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6030176601247689199/-3549289708220692017.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$11.34"
+    },
+    {
+        "auction_seller": "letocards",
+        "date": "9/12/2021",
+        "lot_number": "124884859535",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "51389897",
+        "auction_house": "eBay",
+        "price": "$25.30",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5242407329308658967/-4424721170110612523.jpg"
+    }
+]

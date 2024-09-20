@@ -1,0 +1,46 @@
+[
+    {
+        "date": "3/3/2021",
+        "auction_seller": "japan-higasi-116",
+        "lot_number": "233907229663",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6906468235375757356/5339415798213570675.jpg",
+        "auction_type": "Auction",
+        "cert_number": "45415930",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "date": "11/8/2020",
+        "auction_seller": "japan-higasi-116",
+        "price": "$20.00",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8086762829384434292/-4629562682329832031.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "45415930",
+        "lot_number": "233764585881"
+    },
+    {
+        "grade": "4",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5894695198921167109/3998731514251038320.jpg",
+        "cert_number": "57974712",
+        "auction_seller": "tcgchampion",
+        "lot_number": "354272851580",
+        "price": "$8.50",
+        "date": "9/17/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3649570918698681895/-7821493064798449158.jpg",
+        "lot_number": "185745585020",
+        "cert_number": "59257121",
+        "auction_seller": "rocky_mountain_graded_cards",
+        "price": "$39.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/27/2023",
+        "grade": "10"
+    }
+]

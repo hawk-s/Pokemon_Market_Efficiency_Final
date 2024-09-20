@@ -1,0 +1,112 @@
+[
+    {
+        "auction_house": "Goldin Auctions",
+        "grade": "7",
+        "lot_number": "1898",
+        "cert_number": "69969878",
+        "date": "2/2/2023",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/7618368522182320278/images/1.jpg",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "date": "2/11/2020",
+        "auction_type": "Buy It Now",
+        "auction_seller": "i_love_shoes15",
+        "price": "$28.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6468519540023888394/3155262131034916112.jpg",
+        "cert_number": "43630283",
+        "lot_number": "123968007927",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "numismaticsgmc",
+        "cert_number": "41130434",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6173478740786321054/473151924419082118.jpg",
+        "lot_number": "273960554231",
+        "date": "8/15/2019"
+    },
+    {
+        "lot_number": "266139498554",
+        "auction_seller": "bobcatgolfer24",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3024420787385331109/-8803728772300289128.jpg",
+        "date": "2/27/2023",
+        "cert_number": "67170308",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/15/2019",
+        "price": "$10.50",
+        "lot_number": "133272248746",
+        "cert_number": "41130434",
+        "auction_seller": "todayshaul",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3527772352926249142/7152821037120750977.jpg"
+    },
+    {
+        "price": "$15.00",
+        "auction_seller": "von-2598",
+        "date": "12/12/2021",
+        "lot_number": "353801598910",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7340187626866245521/-2647123441583877844.jpg",
+        "cert_number": "44238965"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5567033086941073863/-709075657784545898.jpg",
+        "date": "4/15/2024",
+        "lot_number": "266763723821",
+        "cert_number": "53712339",
+        "auction_seller": "warner2faulk",
+        "auction_type": "Auction",
+        "price": "$65.10",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "354617803352",
+        "grade": "7",
+        "date": "3/8/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/883394618838356746/5350304587593868632.jpg",
+        "price": "$10.49",
+        "auction_type": "Auction",
+        "cert_number": "70900167",
+        "auction_house": "eBay",
+        "auction_seller": "joberm_62"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "cert_number": "73270734",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/846647880572788496/4025991708776198793.jpg",
+        "date": "7/3/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$36.89",
+        "auction_house": "eBay",
+        "lot_number": "175785147423"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-306142274670327988/8071128088396433759.jpg",
+        "date": "9/27/2021",
+        "grade": "9",
+        "cert_number": "50774590",
+        "auction_type": "Auction",
+        "lot_number": "324792545878",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "price": "$24.42"
+    }
+]

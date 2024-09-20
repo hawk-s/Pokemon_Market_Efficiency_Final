@@ -1,0 +1,24 @@
+[
+    {
+        "cert_number": "54987244",
+        "lot_number": "275973090341",
+        "date": "8/6/2023",
+        "auction_seller": "coins_n_rarities",
+        "grade": "9",
+        "price": "$371.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9077941782431247484/-8967549599629745567.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "lot_number": "254456639358",
+        "date": "4/4/2020",
+        "cert_number": "44039000",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7469502526431748611/-4807719504276411784.jpg",
+        "price": "$400.00",
+        "auction_seller": "holopokemon",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/-8397009820328232242/images/1.jpg",
+        "grade": "6",
+        "cert_number": "72609355",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "price": "$25.00",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "date": "4/20/2023",
+        "lot_number": "4081"
+    },
+    {
+        "price": "$7.50",
+        "lot_number": "225927783125",
+        "date": "12/29/2023",
+        "auction_seller": "sid.chawla",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2481029067830288917/7492715067545436719.jpg",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "83855820"
+    },
+    {
+        "cert_number": "69922951",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3178661628878441265/-7110346258874890808.jpg",
+        "grade": "6",
+        "auction_seller": "oldcardsfromthevault",
+        "lot_number": "404184701863",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/7/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7539046376962128017/-3160354457969916900.jpg",
+        "grade": "8",
+        "lot_number": "265439419929",
+        "price": "$56.00",
+        "auction_type": "Auction",
+        "cert_number": "52779800",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "date": "12/14/2021"
+    },
+    {
+        "lot_number": "124884864460",
+        "auction_seller": "letocards",
+        "price": "$66.78",
+        "date": "9/12/2021",
+        "cert_number": "51389889",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-221078399386055699/-742290466476222163.jpg"
+    },
+    {
+        "auction_seller": "toomuchp0kemon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5028137694005673554/4769853974668855929.jpg",
+        "grade": "7",
+        "lot_number": "234748246193",
+        "cert_number": "65281703",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "price": "$16.02",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "66778204",
+        "lot_number": "325565202431",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9172636266785663403/-8071811683499458554.jpg",
+        "grade": "9",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_house": "eBay",
+        "auction_seller": "pokecollects302"
+    },
+    {
+        "cert_number": "66778204",
+        "date": "2/12/2023",
+        "grade": "9",
+        "price": "$53.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8813067858083049470/-2806640026705982990.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "325523768470",
+        "auction_seller": "bibscollectibles"
+    }
+]

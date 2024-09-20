@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "46353031",
+        "price": "$107.50",
+        "lot_number": "353200216163",
+        "auction_seller": "bbcexchange2",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4631912850077542399/4618880537249408011.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "9/21/2020"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2564047047205446707/1537419035108712213.jpg",
+        "lot_number": "144115951407",
+        "cert_number": "55503522",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$222.00",
+        "auction_type": "Auction",
+        "date": "7/29/2021"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "cert_number": "43605365",
+        "date": "11/6/2019",
+        "price": "$58.11",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "352838661932",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1507981654517501805/-8740661940278655061.jpg"
+    },
+    {
+        "auction_seller": "wcs_investments",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1951369452924705607/7966507166208826932.jpg",
+        "cert_number": "67580639",
+        "lot_number": "354759746735",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/14/2023",
+        "price": "$338.00",
+        "grade": "10"
+    },
+    {
+        "price": "$191.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "55272646",
+        "lot_number": "363763506583",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/22/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2558479542310483446/-9112175742215608247.jpg"
+    },
+    {
+        "date": "5/26/2024",
+        "grade": "7",
+        "auction_seller": "grandpas-pokemon",
+        "price": "$76.00",
+        "lot_number": "135059618291",
+        "cert_number": "88240154",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7403093415327568552/-978666468433916237.jpg"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "62889392",
+        "lot_number": "364464558104",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2592882181152703320/2893102918955855681.jpg",
+        "auction_seller": "probstein123",
+        "price": "$20.50",
+        "date": "9/14/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "55377408",
+        "price": "$13.00",
+        "lot_number": "133897863108",
+        "grade": "9",
+        "date": "10/18/2021",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3557263927901642683/-4634704128212780189.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "cert_number": "62732472",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1891123020740001907/-116140955302368709.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364790389230",
+        "price": "$12.50",
+        "grade": "10",
+        "date": "3/26/2024"
+    }
+]

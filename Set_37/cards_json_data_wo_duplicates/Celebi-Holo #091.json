@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "smpratte",
+        "auction_type": "Best Offer",
+        "lot_number": "362610910429",
+        "cert_number": "42942619",
+        "date": "9/2/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5561660903128902746/2035391280383245728.jpg",
+        "price": "$900.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "183947031116",
+        "auction_seller": "smpratte",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-886845399943027606/2035391280383245728.jpg",
+        "cert_number": "42942619",
+        "price": "$600.00",
+        "date": "5/19/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "43178334",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1810956195378638266/3622872348947873547.jpg",
+        "lot_number": "364439970175",
+        "auction_seller": "probstein123",
+        "date": "9/1/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$3,665.00"
+    },
+    {
+        "auction_seller": "lancmacasia_0",
+        "auction_type": "Best Offer",
+        "date": "2/6/2021",
+        "cert_number": "53454291",
+        "grade": "9",
+        "price": "$1,100.00",
+        "lot_number": "233885979332",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1826655378753937110/-1708562012517488867.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/9/2018",
+        "lot_number": "273030662247",
+        "auction_type": "Buy It Now",
+        "auction_seller": "zapcollection",
+        "price": "$249.00",
+        "cert_number": "27790921",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-448604957973062539/5711616246602187008.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "2015-idi",
+        "auction_type": "Best Offer",
+        "cert_number": "27312214",
+        "price": "$265.00",
+        "auction_house": "eBay",
+        "lot_number": "192443340357",
+        "date": "2/24/2018",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5187516884953274902/-8495656786046172805.jpg"
+    },
+    {
+        "cert_number": "27312724",
+        "auction_type": "Best Offer",
+        "grade": "10",
+        "price": "$285.00",
+        "date": "10/10/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4097662627717310781/4532469848339752607.jpg",
+        "auction_house": "eBay",
+        "lot_number": "222672082735",
+        "auction_seller": "screamdead92"
+    }
+]

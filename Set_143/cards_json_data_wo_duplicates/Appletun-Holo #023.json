@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "barking-galaxy",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2086450178559335515/-4287956482196176168.jpg",
+        "price": "$16.16",
+        "auction_type": "Auction",
+        "lot_number": "324939898158",
+        "auction_house": "eBay",
+        "cert_number": "54338551",
+        "date": "12/21/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6727191153110678766/4306464447229048884.jpg",
+        "lot_number": "224787057840",
+        "auction_seller": "barking-galaxy",
+        "cert_number": "54338552",
+        "grade": "9",
+        "price": "$16.16",
+        "date": "1/19/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "arkcollectibles",
+        "date": "9/16/2022",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4018284596588926997/5018646209884180040.jpg",
+        "auction_house": "eBay",
+        "lot_number": "255720535915",
+        "cert_number": "54260979"
+    },
+    {
+        "lot_number": "275094236549",
+        "grade": "9",
+        "cert_number": "54014255",
+        "auction_seller": "jacanddan_collectibles",
+        "price": "$9.00",
+        "date": "1/21/2022",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1609745210435112123/-378875933557732858.jpg"
+    },
+    {
+        "cert_number": "62281266",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5429659492716648848/-1097283839303389027.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "375377300138",
+        "auction_type": "Auction",
+        "date": "4/25/2024",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$10.01"
+    },
+    {
+        "lot_number": "304991066287",
+        "date": "6/28/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/689746978239828240/-8263936746752400949.jpg",
+        "price": "$8.50",
+        "cert_number": "56103557",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "rrr70"
+    }
+]

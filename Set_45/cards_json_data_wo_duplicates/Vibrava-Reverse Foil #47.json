@@ -1,0 +1,24 @@
+[
+    {
+        "auction_house": "Goldin Auctions",
+        "date": "5/18/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-4886417837759744389/images/1.jpg",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "grade": "8",
+        "cert_number": "75293742",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "lot_number": "4947"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6203634181108161279/-2638765800813861936.jpg",
+        "auction_seller": "habbyshobbies",
+        "auction_type": "Buy It Now",
+        "lot_number": "383500881320",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "6/6/2020",
+        "price": "$29.99",
+        "cert_number": "45611419"
+    }
+]

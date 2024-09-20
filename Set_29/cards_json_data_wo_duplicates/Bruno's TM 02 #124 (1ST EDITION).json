@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "90817125",
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4970038252774726540/-2443256748464463152.jpg",
+        "date": "7/2/2024",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "387106663796"
+    },
+    {
+        "cert_number": "88892875",
+        "date": "5/26/2024",
+        "auction_seller": "cardboundllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6511101589556514614/2894402522238123938.jpg",
+        "price": "$5.50",
+        "grade": "9",
+        "lot_number": "326132320064",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$13.50",
+        "cert_number": "61176735",
+        "lot_number": "126401763304",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9091338818412366390/-6684701100793155714.jpg",
+        "auction_type": "Auction",
+        "date": "4/4/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.02",
+        "auction_seller": "rysua_94",
+        "cert_number": "58059321",
+        "grade": "8",
+        "auction_type": "Auction",
+        "lot_number": "403958318270",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3606245141190904001/1024301174688237257.jpg",
+        "date": "10/31/2022"
+    }
+]

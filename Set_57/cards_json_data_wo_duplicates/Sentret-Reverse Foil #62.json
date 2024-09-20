@@ -1,0 +1,123 @@
+[
+    {
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8041830295059108499/6921060876805693155.jpg",
+        "date": "10/20/2020",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "biggerscho",
+        "auction_house": "eBay",
+        "cert_number": "27737388",
+        "lot_number": "264897531977"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "grade": "7",
+        "cert_number": "75127287",
+        "date": "6/1/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6608454649298971802/-2822644579095377580/images/1.jpg",
+        "price": "$8.00",
+        "auction_seller": "Weekly Auction May 23 - Jun 1",
+        "auction_type": "Auction",
+        "lot_number": "5510"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5592362197207553772/7023266833708247106.jpg",
+        "grade": "9",
+        "date": "9/14/2017",
+        "price": "$7.99",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "cert_number": "27737388",
+        "lot_number": "292244687194"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "lot_number": "185975188708",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8423768501338648472/8756148248993453298.jpg",
+        "grade": "8",
+        "cert_number": "73270952",
+        "date": "7/17/2023",
+        "price": "$10.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "grade": "7",
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "lot_number": "4882",
+        "cert_number": "75294571",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-1153932275791499934/images/1.jpg"
+    },
+    {
+        "auction_seller": "charizardchief",
+        "date": "5/18/2024",
+        "price": "$10.50",
+        "grade": "8",
+        "cert_number": "51141036",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1004976467288372897/2881166910243487277.jpg",
+        "lot_number": "145770237064"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/478201226957969879/7734707574952666883.jpg",
+        "cert_number": "68641852",
+        "grade": "9",
+        "price": "$10.52",
+        "auction_type": "Auction",
+        "lot_number": "364476690187",
+        "auction_seller": "mont_9",
+        "auction_house": "eBay",
+        "date": "9/20/2023"
+    },
+    {
+        "date": "2/3/2022",
+        "cert_number": "46948668",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-184129214264729761/7998002254095253239.jpg",
+        "auction_seller": "pokeblt",
+        "lot_number": "255353948870",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$24.19",
+        "date": "6/2/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2476816041638582024/-1873347388692014199.jpg",
+        "cert_number": "79380259",
+        "grade": "9",
+        "lot_number": "285873841777",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "price": "$20.00",
+        "date": "7/3/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/186732076450698528/2773733224666961699.jpg",
+        "cert_number": "73270953",
+        "grade": "9",
+        "lot_number": "175785148059",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "cert_number": "73270730",
+        "date": "5/15/2023",
+        "lot_number": "175713528431",
+        "price": "$68.80",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2761537280302124727/-5981854127333726798.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

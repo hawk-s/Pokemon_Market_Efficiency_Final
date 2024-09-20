@@ -1,0 +1,68 @@
+[
+    {
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1130481254199742356/3396395521329819264.jpg",
+        "cert_number": "44039020",
+        "date": "10/31/2020",
+        "price": "$2,500.00",
+        "lot_number": "254596373560",
+        "auction_seller": "holopokemon",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "114221289031",
+        "auction_type": "Buy It Now",
+        "date": "8/11/2020",
+        "price": "$1,199.99",
+        "cert_number": "44419500",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6984152860741983124/5826337239958908764.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "amerlegends",
+        "grade": "10"
+    },
+    {
+        "lot_number": "386976701227",
+        "price": "$2,619.00",
+        "auction_seller": "jakha_3796",
+        "date": "5/8/2024",
+        "cert_number": "79444411",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6168613944168609899/-8428465293279728202.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "cert_number": "44039020",
+        "price": "$2,200.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3168687388317610127/3396395521329819264.jpg",
+        "date": "5/14/2020",
+        "auction_seller": "holopokemon",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "254441571293"
+    },
+    {
+        "date": "8/27/2023",
+        "price": "$2,325.00",
+        "cert_number": "78902494",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285431440742",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5373400274448036030/151854948658913234.jpg"
+    },
+    {
+        "auction_seller": "psa",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/476462532749894366/4172669771797488037.jpg",
+        "lot_number": "305628271240",
+        "date": "6/27/2024",
+        "cert_number": "79444411",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$2,136.00"
+    }
+]

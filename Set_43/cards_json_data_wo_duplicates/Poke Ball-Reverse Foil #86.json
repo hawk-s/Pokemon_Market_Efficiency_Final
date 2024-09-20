@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "pokeexchange",
+        "lot_number": "254798432650",
+        "cert_number": "46364233",
+        "grade": "8",
+        "price": "$39.81",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2417127542572735642/2105732185499693217.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/11/2020"
+    },
+    {
+        "cert_number": "61614678",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1319669534288685578/2104430854572362278.jpg",
+        "grade": "6",
+        "auction_seller": "probstein123",
+        "price": "$8.50",
+        "lot_number": "364193897429",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "4/4/2023"
+    },
+    {
+        "cert_number": "43354907",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8716787709715435138/-2162468855634872741.jpg",
+        "date": "7/15/2019",
+        "price": "$4.25",
+        "lot_number": "383035794106",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "125691736351",
+        "price": "$15.00",
+        "date": "1/7/2023",
+        "grade": "8",
+        "cert_number": "48307983",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4101278961126193980/1385313952557973388.jpg",
+        "auction_seller": "walker85x1",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

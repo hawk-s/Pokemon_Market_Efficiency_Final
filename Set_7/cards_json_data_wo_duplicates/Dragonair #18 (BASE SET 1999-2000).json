@@ -1,0 +1,101 @@
+[
+    {
+        "price": "$23.48",
+        "grade": "9",
+        "date": "10/29/2022",
+        "cert_number": "57751866",
+        "auction_seller": "swailord",
+        "lot_number": "374319884916",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5621070662353400950/-8611488425769691055.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "airplanelunchboxhead",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "54598871",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8306806594371127385/-5373525483871638528.jpg",
+        "date": "2/17/2022",
+        "lot_number": "275161965123"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4854024921081113020/406903848258883100.jpg",
+        "grade": "8",
+        "cert_number": "53729775",
+        "lot_number": "314285663453",
+        "auction_seller": "tca_gaming",
+        "auction_type": "Auction",
+        "price": "$11.40",
+        "auction_house": "eBay",
+        "date": "1/2/2023"
+    },
+    {
+        "price": "$44.56",
+        "cert_number": "53093034",
+        "auction_seller": "tripleplayvintagestore",
+        "date": "9/12/2021",
+        "lot_number": "133865405577",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3678130249690618157/6431209022135399860.jpg"
+    },
+    {
+        "lot_number": "313802581026",
+        "date": "12/29/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3902474869793394080/5670359362821830562.jpg",
+        "auction_seller": "kantos_finest",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$61.01",
+        "cert_number": "53093033"
+    },
+    {
+        "date": "1/28/2022",
+        "price": "$17.00",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3319791034462884048/2603785273891225477.jpg",
+        "lot_number": "334299357358",
+        "auction_type": "Auction",
+        "auction_seller": "richezone",
+        "auction_house": "eBay",
+        "cert_number": "54598870"
+    },
+    {
+        "lot_number": "275990143602",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2965823952556852321/3261372546377246529.jpg",
+        "price": "$40.73",
+        "auction_seller": "world_of_geek",
+        "grade": "8",
+        "cert_number": "74260144",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4545893310431354629/2864364776545451299.jpg",
+        "grade": "9",
+        "date": "7/30/2021",
+        "price": "$36.00",
+        "auction_seller": "kevin_highlife",
+        "cert_number": "49173569",
+        "auction_type": "Auction",
+        "lot_number": "274876007465",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-572140392391461585/-3630878743616165534.jpg",
+        "grade": "4",
+        "date": "7/28/2024",
+        "cert_number": "93588249",
+        "lot_number": "305683350163",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    }
+]

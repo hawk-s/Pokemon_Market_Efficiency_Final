@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "52633787",
+        "date": "9/14/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-566294477168638017/-2404686607113421633.jpg",
+        "grade": "9",
+        "auction_seller": "cardhouse_eu",
+        "lot_number": "284961131441",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    },
+    {
+        "date": "12/19/2021",
+        "auction_seller": "sbunney28",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6724070254771649287/8846746053947528186.jpg",
+        "lot_number": "125047237939",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "cert_number": "52549773"
+    },
+    {
+        "auction_seller": "tannah10s",
+        "date": "3/6/2024",
+        "cert_number": "52753766",
+        "lot_number": "116081872351",
+        "price": "$52.82",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3374819597200637167/-4635246150806236587.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "cardrushinc",
+        "cert_number": "28314108",
+        "grade": "9",
+        "price": "$6.77",
+        "auction_type": "Auction",
+        "date": "3/13/2018",
+        "lot_number": "282873949137",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2225536059696940752/-8359910554387392100.jpg"
+    },
+    {
+        "cert_number": "40757181",
+        "date": "5/24/2018",
+        "auction_seller": "cardrushinc",
+        "lot_number": "273224614816",
+        "price": "$9.38",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3815045840688511514/8819004767459555419.jpg"
+    },
+    {
+        "auction_seller": "cardrushinc",
+        "lot_number": "282974661782",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5755264392898415776/3947232606318712973.jpg",
+        "auction_type": "Buy It Now",
+        "date": "5/1/2020",
+        "price": "$49.95",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "40757181"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "auction_seller": "onepizza",
+        "price": "$15.50",
+        "grade": "8",
+        "date": "11/4/2022",
+        "cert_number": "57057097",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255797992915",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2719298023121464750/2418432585777130444.jpg"
+    },
+    {
+        "cert_number": "86038981",
+        "date": "6/3/2024",
+        "price": "$31.00",
+        "grade": "9",
+        "lot_number": "266832171584",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1319194787885633606/7922697057703238428.jpg",
+        "auction_seller": "mainevintagetoys",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "numismaticsgmc",
+        "cert_number": "41902046",
+        "lot_number": "273630068541",
+        "date": "1/4/2019",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-801325078253342415/395509915709460079.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "156328648552",
+        "cert_number": "71755871",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5510104065601097634/-1786018304424708026.jpg",
+        "grade": "8",
+        "auction_seller": "ramcanyon",
+        "date": "8/4/2024",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$91.88",
+        "lot_number": "304482895338",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5087969252392326841/-4730564306617266025.jpg",
+        "date": "5/11/2022",
+        "auction_seller": "alexsmfallows",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "48833603"
+    },
+    {
+        "cert_number": "48326973",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5570155996698116139/-3602885825900752951.jpg",
+        "auction_seller": "amtsupply",
+        "date": "4/10/2021",
+        "auction_type": "Auction",
+        "price": "$172.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "294095936210"
+    },
+    {
+        "price": "$35.85",
+        "date": "6/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2808087029932532856/3063320976384157594.jpg",
+        "cert_number": "63597390",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "186457890749",
+        "auction_seller": "pokemeekay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3627920256327648391/7907111089480447170.jpg",
+        "price": "$52.65",
+        "cert_number": "50775134",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "324992512991",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "lot_number": "284606453329",
+        "price": "$57.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4571231617370016658/-1926186187170049665.jpg",
+        "cert_number": "63597390",
+        "grade": "9",
+        "auction_seller": "zandgemporium-0",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$22.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/983013803057985955/6971760554141256717.jpg",
+        "grade": "8",
+        "cert_number": "71755872",
+        "auction_seller": "ramcanyon",
+        "lot_number": "156263037499",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/24/2024"
+    }
+]

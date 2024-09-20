@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "204218363765",
+        "cert_number": "68521312",
+        "price": "$24.01",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "winglescards",
+        "date": "1/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7930331990807446457/-2905957466526785175.jpg"
+    },
+    {
+        "auction_seller": "larinuki",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7276170718984123732/-7235468799058985956.jpg",
+        "date": "12/9/2021",
+        "price": "$76.00",
+        "lot_number": "194567789243",
+        "auction_type": "Auction",
+        "cert_number": "27737843",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "jaytovenstorage",
+        "lot_number": "125064110474",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7497862345533727266/9925535875498072.jpg",
+        "price": "$70.20",
+        "auction_type": "Auction",
+        "cert_number": "27737843",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/27/2021"
+    },
+    {
+        "cert_number": "27737843",
+        "date": "2/20/2021",
+        "auction_seller": "myers3329",
+        "auction_type": "Best Offer",
+        "price": "$200.00",
+        "lot_number": "293875447372",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7779672665026741473/-4791160456635507813.jpg"
+    },
+    {
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/875801132456150293/-8447381943852903032.jpg",
+        "grade": "9",
+        "auction_seller": "mvpcardworld888",
+        "auction_type": "Auction",
+        "cert_number": "40757145",
+        "lot_number": "192963461824",
+        "auction_house": "eBay",
+        "date": "7/3/2019"
+    },
+    {
+        "price": "$30.00",
+        "cert_number": "48212009",
+        "lot_number": "324992476267",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5908522631368910369/-3432330416962892810.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "date": "3/5/2018",
+        "cert_number": "28314112",
+        "auction_seller": "cardrushinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1223068550195877936/-4147336231326536580.jpg",
+        "price": "$12.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "282863619530",
+        "grade": "10"
+    }
+]

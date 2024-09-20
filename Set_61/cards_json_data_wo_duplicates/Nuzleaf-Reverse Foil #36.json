@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "61314574",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7634419675300733657/2194243817481990359.jpg",
+        "price": "$34.28",
+        "auction_seller": "sonofhercules",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285222881130",
+        "grade": "10",
+        "date": "4/20/2023"
+    },
+    {
+        "date": "10/10/2023",
+        "cert_number": "48062393",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7153108500201750555/-4195579674716371618.jpg",
+        "auction_seller": "rysua_94",
+        "grade": "9",
+        "lot_number": "404530134588",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2312985208995324309/-8581885045451725921.jpg",
+        "lot_number": "364147616629",
+        "cert_number": "68792988",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$54.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/22/2023"
+    },
+    {
+        "cert_number": "46647349",
+        "lot_number": "184609048188",
+        "date": "1/12/2021",
+        "grade": "9",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8806009409887973490/2724965437419716515.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "extremecards_collectibles"
+    }
+]

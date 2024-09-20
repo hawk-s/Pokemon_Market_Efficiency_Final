@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "world_of_geek",
+        "grade": "8",
+        "lot_number": "275995090297",
+        "price": "$19.09",
+        "cert_number": "74260318",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/20/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2730261057684096287/3644941318877565714.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8232458726432658771/2342051162061296378.jpg",
+        "lot_number": "195742810548",
+        "price": "$24.99",
+        "grade": "9",
+        "auction_seller": "pokemanzco",
+        "auction_type": "Auction",
+        "date": "5/10/2023",
+        "auction_house": "eBay",
+        "cert_number": "68637769"
+    }
+]

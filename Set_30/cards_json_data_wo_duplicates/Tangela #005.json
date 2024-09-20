@@ -1,0 +1,101 @@
+[
+    {
+        "cert_number": "91377366",
+        "auction_seller": "goldrush_cards",
+        "price": "$34.73",
+        "lot_number": "235603727792",
+        "date": "6/16/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5024394394140867411/-617542732326745217.jpg"
+    },
+    {
+        "cert_number": "74220784",
+        "date": "7/15/2024",
+        "lot_number": "326191478220",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6894063099330896305/1300057489194372086.jpg",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "date": "11/22/2021",
+        "lot_number": "115085451048",
+        "cert_number": "57589375",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/807081394219299142/-4549597266711284374.jpg",
+        "auction_seller": "card_secret",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$81.00"
+    },
+    {
+        "cert_number": "73766601",
+        "lot_number": "326159867225",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2148609525916942676/7613694279036073046.jpg",
+        "grade": "10",
+        "date": "6/24/2024",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "lot_number": "362803834942",
+        "auction_seller": "smpratte",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1312017046153204478/6027491099004722020.jpg",
+        "date": "10/21/2020",
+        "cert_number": "43639086",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$150.00"
+    },
+    {
+        "lot_number": "364231687321",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/767282627281194989/-2008571998370127803.jpg",
+        "cert_number": "70995400",
+        "auction_seller": "cardstockpile",
+        "date": "5/8/2023",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "7/28/2024",
+        "grade": "7",
+        "lot_number": "375549764928",
+        "cert_number": "86706973",
+        "auction_seller": "2ksuge_collects",
+        "price": "$5.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3603979438056071480/4116421782582997188.jpg"
+    },
+    {
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9152945989732010784/1512082019219420023.jpg",
+        "price": "$41.00",
+        "cert_number": "74220785",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "326113258991",
+        "date": "5/13/2024",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "date": "7/3/2023",
+        "lot_number": "185958715748",
+        "cert_number": "73766598",
+        "auction_seller": "kampes_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4027511514838932200/-697553138468670261.jpg",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

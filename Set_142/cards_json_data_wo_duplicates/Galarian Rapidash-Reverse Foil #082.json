@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7455317520570877620/4468279029725575736.jpg",
+        "auction_seller": "mangahouse",
+        "date": "2/10/2023",
+        "grade": "9",
+        "cert_number": "58229187",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "lot_number": "266112627280",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/11/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3611839737914266698/1071391476677487595.jpg",
+        "auction_seller": "edch_55",
+        "price": "$15.00",
+        "cert_number": "67152387",
+        "lot_number": "385457572794",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "55127747",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8206848264168238795/-2912377598709272737.jpg",
+        "auction_seller": "cardboardempires",
+        "lot_number": "374553003566",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/15/2023",
+        "price": "$10.01"
+    }
+]

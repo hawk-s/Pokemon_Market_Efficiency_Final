@@ -1,0 +1,90 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1047601624164348363/-2355875440470949058.jpg",
+        "date": "12/21/2022",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "68638412",
+        "auction_type": "Auction",
+        "price": "$7.52",
+        "auction_house": "eBay",
+        "lot_number": "385292900878"
+    },
+    {
+        "price": "$3.25",
+        "auction_seller": "pressurepulls",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4044567616153248545/-5940868851665205405.jpg",
+        "date": "7/18/2024",
+        "grade": "9",
+        "cert_number": "69626760",
+        "auction_type": "Auction",
+        "lot_number": "335480366141",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6903025662501837743/-8758367393318087845.jpg",
+        "date": "5/6/2023",
+        "grade": "9",
+        "lot_number": "354743814557",
+        "price": "$13.52",
+        "auction_seller": "zillennialcorp",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70448331"
+    },
+    {
+        "lot_number": "395074913450",
+        "date": "12/26/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-602698995287099109/9101782908238825524.jpg",
+        "cert_number": "82775272",
+        "auction_seller": "cry4620",
+        "auction_type": "Auction",
+        "price": "$25.63",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "bobcatgolfer24",
+        "cert_number": "69740554",
+        "price": "$32.55",
+        "lot_number": "266122208585",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/15/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5947284130756278611/-6749285696070312001.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "375369516889",
+        "auction_seller": "trainer.23",
+        "cert_number": "89694743",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6321669765331776654/53680794546547404.jpg",
+        "auction_type": "Auction",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "lot_number": "155753407564",
+        "auction_seller": "zoostoylab",
+        "cert_number": "67957833",
+        "date": "9/16/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-434419649477185697/6350285839089891433.jpg",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "5/31/2024",
+        "cert_number": "69035960",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2219453263068968836/-1509132278502767594.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "slabsharksinc",
+        "auction_house": "eBay",
+        "price": "$14.63",
+        "grade": "10",
+        "lot_number": "204800823813"
+    }
+]

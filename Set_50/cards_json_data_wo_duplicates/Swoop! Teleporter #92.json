@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "5",
+        "date": "9/3/2023",
+        "lot_number": "335005877675",
+        "auction_seller": "cpgcollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2027559559949375838/2261448379151208336.jpg",
+        "price": "$5.50",
+        "cert_number": "79577699",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/16/2023",
+        "price": "$31.19",
+        "cert_number": "69194414",
+        "grade": "9",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2031570807928874421/-6729362490787142162.jpg",
+        "auction_house": "eBay",
+        "lot_number": "195551491479"
+    },
+    {
+        "price": "$10.50",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285885910842",
+        "grade": "9",
+        "cert_number": "78750432",
+        "date": "6/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/74830435805478479/793502210507497580.jpg"
+    }
+]

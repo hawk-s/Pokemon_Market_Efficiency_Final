@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "60986226",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8494564580380359727/5424204630709038540.jpg",
+        "lot_number": "275456653582",
+        "date": "9/19/2022",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "hot.stuff.gaming"
+    },
+    {
+        "date": "3/11/2023",
+        "price": "$27.50",
+        "auction_seller": "boss-robot",
+        "lot_number": "266160939751",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2249604205866534696/52927786578309327.jpg",
+        "auction_house": "eBay",
+        "cert_number": "71261134",
+        "grade": "10"
+    },
+    {
+        "date": "8/18/2021",
+        "cert_number": "49812186",
+        "lot_number": "224570186383",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1100486267433427406/-4498599003485491386.jpg",
+        "price": "$49.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "lot_number": "275041557472",
+        "price": "$40.98",
+        "cert_number": "53517033",
+        "date": "12/5/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8080400341304575987/-3575675545548611028.jpg",
+        "grade": "10",
+        "auction_seller": "gemcollectables"
+    }
+]

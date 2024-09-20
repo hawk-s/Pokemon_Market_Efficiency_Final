@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/16/2018",
+        "price": "$19.00",
+        "auction_seller": "rayscollectibles2018",
+        "cert_number": "40911055",
+        "grade": "9",
+        "lot_number": "113436170027",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5740845281549499897/-6344987841790833799.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "date": "8/11/2024",
+        "price": "$16.40",
+        "cert_number": "94265713",
+        "auction_seller": "slapauction",
+        "lot_number": "135174410632",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3770534875810339927/-594080405989531524.jpg"
+    },
+    {
+        "date": "3/7/2024",
+        "auction_seller": "mewshideout",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8769037387057039394/-5224557054409060066.jpg",
+        "grade": "8",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285737994065",
+        "cert_number": "69129427"
+    },
+    {
+        "lot_number": "276216446601",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-732124703899454389/-4287119567190885286.jpg",
+        "grade": "9",
+        "price": "$19.49",
+        "auction_seller": "eyez3500",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "cert_number": "80292407",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "40911055",
+        "grade": "9",
+        "lot_number": "202429641019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4385093934246791182/-7891200515428759619.jpg",
+        "auction_seller": "pokegottacatchem",
+        "date": "9/14/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    }
+]

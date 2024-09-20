@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "46396503",
+        "auction_seller": "lambda_driver",
+        "lot_number": "264767819843",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2371532645006500275/-7431634614954605181.jpg",
+        "price": "$19.99",
+        "date": "6/26/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "134132039732",
+        "date": "6/4/2022",
+        "cert_number": "58575556",
+        "auction_seller": "pawnline",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2849901036153001802/7558900886788695708.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "46396503",
+        "lot_number": "196457911818",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4158687141515191744/3703670154067878952.jpg",
+        "price": "$44.00",
+        "auction_type": "Auction",
+        "auction_seller": "lostpokemonstuff",
+        "auction_house": "eBay",
+        "date": "6/28/2024",
+        "grade": "10"
+    }
+]

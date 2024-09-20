@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$19.15",
+        "grade": "7",
+        "lot_number": "324912718929",
+        "cert_number": "49764334",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6372465923208795687/5396380928059288231.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "date": "12/7/2021"
+    },
+    {
+        "auction_seller": "troll.aus",
+        "cert_number": "54170071",
+        "lot_number": "155268366558",
+        "date": "12/4/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6158688035081574137/7017142670342300541.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$58.25"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8429565885159045890/7301121147747255575.jpg",
+        "date": "10/21/2023",
+        "cert_number": "79157381",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "lot_number": "204496651721"
+    },
+    {
+        "lot_number": "135174406644",
+        "price": "$16.93",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7665407364401816194/-8487260855974331214.jpg",
+        "cert_number": "94265682",
+        "date": "8/11/2024",
+        "grade": "8",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5938572927465369631/-1177015908041749481.jpg",
+        "auction_type": "Buy It Now",
+        "grade": "6",
+        "price": "$7.00",
+        "auction_seller": "forgottonn0n",
+        "lot_number": "253167788837",
+        "auction_house": "eBay",
+        "cert_number": "27284124",
+        "date": "10/21/2017"
+    },
+    {
+        "lot_number": "295548620924",
+        "auction_seller": "rookiescollectibles",
+        "date": "3/9/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6744294687110497550/2247123046210301772.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "cert_number": "67572849"
+    },
+    {
+        "lot_number": "155690419028",
+        "auction_seller": "pokebeef",
+        "price": "$0.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/988337284930801506/6730997070515019541.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "67572849",
+        "date": "7/28/2023"
+    }
+]

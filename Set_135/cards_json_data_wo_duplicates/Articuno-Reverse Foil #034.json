@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "53245160",
+        "date": "12/12/2021",
+        "auction_seller": "cardboardkrackshack",
+        "lot_number": "133953154189",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/614809085577179452/9017449805562846963.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "50847076",
+        "price": "$12.00",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5001252976625959075/-420315258048773979.jpg",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285596821025",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-870021934252324490/7430628044131342257.jpg",
+        "lot_number": "204232234275",
+        "date": "2/10/2023",
+        "auction_seller": "gio-4851",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "65284885"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "date": "12/20/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2720190329270034556/330764529941353073.jpg",
+        "price": "$15.50",
+        "lot_number": "385284866182",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "68275860",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$0.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5128615779087661392/-7000211759520618670.jpg",
+        "cert_number": "76477324",
+        "date": "7/25/2024",
+        "grade": "9",
+        "lot_number": "405119109569",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "kantokentoptcg"
+    },
+    {
+        "price": "$9.22",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/729258070397354835/-8187431048992570292.jpg",
+        "lot_number": "362768570578",
+        "cert_number": "41778805",
+        "date": "10/5/2019",
+        "auction_type": "Auction",
+        "auction_seller": "thecardcollector-uk",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

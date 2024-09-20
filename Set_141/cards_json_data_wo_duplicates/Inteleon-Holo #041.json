@@ -1,0 +1,68 @@
+[
+    {
+        "date": "12/14/2022",
+        "price": "$20.00",
+        "cert_number": "58909942",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1761993940244293118/-1912286843271547644.jpg",
+        "lot_number": "144844486041",
+        "grade": "10",
+        "auction_seller": "elias164"
+    },
+    {
+        "price": "$9.50",
+        "grade": "10",
+        "auction_seller": "new_in_wv",
+        "lot_number": "145867299115",
+        "cert_number": "60810655",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6174091269224914866/-2422246539544975586.jpg",
+        "auction_house": "eBay",
+        "date": "7/9/2024"
+    },
+    {
+        "lot_number": "386101355812",
+        "cert_number": "62889369",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7245769907113773048/-7626155799114658781.jpg",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/14/2023"
+    },
+    {
+        "lot_number": "385100996756",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4968938709906127617/7918974243681421138.jpg",
+        "date": "9/13/2022",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57526425"
+    },
+    {
+        "price": "$9.50",
+        "lot_number": "374242278233",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3735828953218146896/6717783818742309333.jpg",
+        "cert_number": "57526426",
+        "date": "9/13/2022",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7121498767856251568/-2422246539544975586.jpg",
+        "price": "$10.48",
+        "lot_number": "145784107479",
+        "auction_seller": "new_in_wv",
+        "cert_number": "60810655",
+        "auction_type": "Auction",
+        "date": "5/25/2024",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

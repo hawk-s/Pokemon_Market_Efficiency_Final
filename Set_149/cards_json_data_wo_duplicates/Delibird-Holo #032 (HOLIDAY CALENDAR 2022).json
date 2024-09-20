@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$10.50",
+        "cert_number": "69532423",
+        "grade": "8",
+        "date": "1/28/2023",
+        "lot_number": "394428262639",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1043614717975576821/4729418448848591445.jpg",
+        "auction_seller": "tradergrader"
+    },
+    {
+        "price": "$3.25",
+        "auction_seller": "wiraa_48",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3804436087521582587/1624952724255022360.jpg",
+        "auction_type": "Auction",
+        "lot_number": "315594989522",
+        "auction_house": "eBay",
+        "cert_number": "94130251",
+        "date": "8/1/2024"
+    },
+    {
+        "auction_seller": "pokejal",
+        "lot_number": "266443516253",
+        "price": "$7.92",
+        "grade": "9",
+        "cert_number": "70743485",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2307173595598536244/-7805491119227958794.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/9/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/266991125772221000/2595263875170007423.jpg",
+        "date": "2/13/2023",
+        "auction_seller": "magicardsalesman",
+        "lot_number": "314370694408",
+        "grade": "9",
+        "cert_number": "69503428",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    }
+]

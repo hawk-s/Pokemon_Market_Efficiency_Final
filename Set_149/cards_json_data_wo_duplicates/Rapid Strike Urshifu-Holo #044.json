@@ -1,0 +1,46 @@
+[
+    {
+        "date": "5/3/2024",
+        "auction_seller": "junktown617",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3772360228418310556/-2042729633030442590.jpg",
+        "price": "$5.50",
+        "grade": "9",
+        "cert_number": "72762237",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "395365947421"
+    },
+    {
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7046734915685416198/5058914716526242049.jpg",
+        "lot_number": "126073751740",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "cert_number": "72762237",
+        "date": "9/6/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3850486609409342974/-5028898343560321731.jpg",
+        "lot_number": "275693324884",
+        "price": "$15.50",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/10/2023",
+        "cert_number": "69740682"
+    },
+    {
+        "date": "4/21/2023",
+        "grade": "9",
+        "lot_number": "275780450857",
+        "auction_seller": "jacanddan_collectibles",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1599298759067587943/-2152554245335970570.jpg",
+        "cert_number": "69740682"
+    }
+]

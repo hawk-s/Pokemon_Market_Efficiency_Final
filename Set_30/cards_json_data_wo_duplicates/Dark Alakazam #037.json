@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$78.00",
+        "cert_number": "47241615",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5506448530464123679/2096688494470996344.jpg",
+        "auction_seller": "faisk8r87",
+        "lot_number": "274827450470",
+        "date": "6/21/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "psa",
+        "cert_number": "93090607",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7671457715031732701/-5866983469028649747.jpg",
+        "date": "9/1/2024",
+        "lot_number": "305745847498",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "394850452816",
+        "auction_seller": "ebisu-ya",
+        "price": "$89.50",
+        "date": "9/6/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "75384433",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6424834474767897431/-1104401198054099340.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "73766593",
+        "date": "7/3/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4078927072028803097/7316351479368824373.jpg",
+        "lot_number": "185958715756",
+        "auction_seller": "kampes_cards",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$78.00",
+        "lot_number": "305718601987",
+        "auction_seller": "psa",
+        "cert_number": "93090607",
+        "date": "8/17/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3504117150773377504/3350986636208068508.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "255212766054",
+        "cert_number": "55525786",
+        "auction_seller": "tsunagu",
+        "price": "$112.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1270350062273213793/52646559063661865.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/12/2021"
+    }
+]

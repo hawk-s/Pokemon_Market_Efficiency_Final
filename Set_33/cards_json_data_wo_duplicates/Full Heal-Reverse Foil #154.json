@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "69129562",
+        "auction_seller": "unbreakables_tcg",
+        "price": "$14.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7044149410755826312/4749984093123867562.jpg",
+        "date": "8/1/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "226259290272"
+    },
+    {
+        "price": "$30.00",
+        "date": "5/9/2019",
+        "auction_seller": "numismaticsgmc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1978015783843949952/8662594264758644059.jpg",
+        "cert_number": "41412188",
+        "lot_number": "273830812720",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "325577650336",
+        "date": "3/27/2023",
+        "price": "$9.53",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7932909187848937970/3823000765447845980.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "56013504",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "auction_seller": "myers3329",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2787300522633216163/2180062004224124282.jpg",
+        "price": "$300.00",
+        "cert_number": "28390572",
+        "date": "2/17/2021",
+        "lot_number": "293942924700",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-29475071178366346/2944859041006226015.jpg",
+        "date": "5/30/2021",
+        "cert_number": "43083560",
+        "grade": "9",
+        "lot_number": "402857343734",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$12.00",
+        "lot_number": "163757947262",
+        "auction_seller": "pjaamma",
+        "cert_number": "42335290",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3580050074007124968/-8328720543461293735.jpg",
+        "auction_type": "Auction",
+        "date": "7/7/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "43083560",
+        "auction_type": "Buy It Now",
+        "lot_number": "283462412252",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4600662294104456200/-4372286674728671873.jpg",
+        "grade": "9",
+        "price": "$19.99",
+        "auction_house": "eBay",
+        "auction_seller": "cooltrainerryan",
+        "date": "12/1/2019"
+    }
+]

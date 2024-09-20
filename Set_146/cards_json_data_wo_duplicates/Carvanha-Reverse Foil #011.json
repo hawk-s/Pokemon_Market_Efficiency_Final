@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$19.50",
+        "lot_number": "154752699170",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5697510382146335223/4669317016202798366.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pc_sportscards",
+        "cert_number": "52703885",
+        "date": "12/24/2021",
+        "grade": "10"
+    },
+    {
+        "price": "$3.25",
+        "cert_number": "54788713",
+        "date": "12/23/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3245530066970300725/7109674736125948701.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "225306238515",
+        "auction_house": "eBay",
+        "auction_seller": "libs_poke_stop"
+    },
+    {
+        "lot_number": "125852538179",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3702491614157909642/2979533741906013985.jpg",
+        "auction_seller": "dcsports87",
+        "cert_number": "57640366",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$11.02",
+        "date": "4/4/2023",
+        "grade": "10"
+    },
+    {
+        "lot_number": "204910473343",
+        "auction_seller": "shadowfactory",
+        "price": "$5.99",
+        "grade": "8",
+        "date": "8/4/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6811317306992042410/9201269912447860983.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "60407531"
+    },
+    {
+        "cert_number": "51769698",
+        "auction_seller": "comc_consignment",
+        "price": "$5.50",
+        "grade": "9",
+        "lot_number": "234315729408",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2699746838924822746/3356582561188972165.jpg",
+        "auction_house": "eBay",
+        "date": "12/14/2021"
+    }
+]

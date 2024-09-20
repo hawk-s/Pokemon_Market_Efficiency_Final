@@ -1,0 +1,24 @@
+[
+    {
+        "grade": "10",
+        "auction_seller": "4_sharp_corners",
+        "date": "10/6/2021",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6114506792160323141/-6738818955352545182.jpg",
+        "auction_house": "eBay",
+        "cert_number": "48405449",
+        "lot_number": "384417891056"
+    },
+    {
+        "lot_number": "363042729220",
+        "auction_type": "Best Offer",
+        "cert_number": "46121168",
+        "auction_seller": "justinsalmon",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8426003949833743001/-1569221676730533949.jpg",
+        "date": "7/11/2020",
+        "grade": "10",
+        "price": "$12.99"
+    }
+]

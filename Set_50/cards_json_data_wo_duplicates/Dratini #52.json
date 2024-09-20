@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$13.70",
+        "cert_number": "59927311",
+        "lot_number": "386098605667",
+        "date": "9/12/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1349707698116563304/-4748387873845533895.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "kozzycakes_11",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "73922290",
+        "date": "6/22/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4765467001865311458/1364940068750612140.jpg",
+        "price": "$27.78",
+        "lot_number": "186497559375",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6641592208285924254/-1581468262047203706.jpg",
+        "lot_number": "374322836945",
+        "cert_number": "56159328",
+        "auction_seller": "probstein123",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/3/2022",
+        "grade": "10"
+    },
+    {
+        "date": "12/17/2021",
+        "lot_number": "373821505157",
+        "price": "$27.00",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-21171681175533016/4444787128844897544.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "56159342"
+    },
+    {
+        "date": "12/19/2022",
+        "price": "$36.00",
+        "lot_number": "295410110367",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7614559525160897048/-6487349423095170615.jpg",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "cert_number": "62677761",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6061695509202342924/7846426684735561308.jpg",
+        "cert_number": "73922291",
+        "grade": "9",
+        "lot_number": "186502942668",
+        "auction_type": "Auction",
+        "price": "$11.02",
+        "auction_house": "eBay",
+        "date": "6/28/2024",
+        "auction_seller": "pokedreammarket"
+    }
+]

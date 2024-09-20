@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "thecardhousetexas",
+        "lot_number": "394856794398",
+        "date": "9/11/2023",
+        "price": "$43.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "75339680",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5577043714635272607/6419601906158516502.jpg"
+    },
+    {
+        "date": "8/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6127863918783866986/6537198691032624107.jpg",
+        "lot_number": "256191050616",
+        "price": "$40.25",
+        "auction_seller": "09mansfield",
+        "cert_number": "67581598",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8208548460656674393/-5124349149444696648.jpg",
+        "date": "3/14/2023",
+        "lot_number": "155442148680",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "cert_number": "70910148",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "frebai-5816"
+    },
+    {
+        "lot_number": "355856409864",
+        "auction_seller": "ollieshoppe",
+        "date": "7/23/2024",
+        "price": "$15.50",
+        "grade": "9",
+        "cert_number": "87686777",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4257328487261419758/-3254416735526686293.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

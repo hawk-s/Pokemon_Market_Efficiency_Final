@@ -1,0 +1,24 @@
+[
+    {
+        "date": "2/21/2023",
+        "lot_number": "374512239263",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6423057189462847630/-3661458075208961026.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "65128188",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$66.00"
+    },
+    {
+        "auction_seller": "lambda_driver",
+        "date": "8/20/2018",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7822058005029089123/21591843717523714.jpg",
+        "price": "$19.99",
+        "cert_number": "41047394",
+        "lot_number": "263772859110",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

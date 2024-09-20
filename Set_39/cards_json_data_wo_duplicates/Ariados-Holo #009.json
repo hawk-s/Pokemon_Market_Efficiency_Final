@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$42.00",
+        "cert_number": "44113593",
+        "lot_number": "154553751957",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1627905608733657648/5489527297381525958.jpg",
+        "grade": "9",
+        "auction_seller": "hobbyloot",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/9/2021"
+    },
+    {
+        "grade": "4",
+        "lot_number": "405136714873",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-731519049818707541/-5009060885053044471.jpg",
+        "cert_number": "84636885",
+        "date": "8/8/2024",
+        "price": "$5.50",
+        "auction_seller": "toastyspokemontrader",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/6/2024",
+        "lot_number": "196313402533",
+        "auction_seller": "gymleadertaylor",
+        "cert_number": "86701612",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5740486588760213994/9092602586135469776.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$81.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1505285464561220315/3892431690202625815.jpg",
+        "lot_number": "174935303829",
+        "cert_number": "48961017",
+        "price": "$152.50",
+        "date": "9/20/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "lawrala_0"
+    },
+    {
+        "price": "$72.00",
+        "date": "4/14/2024",
+        "lot_number": "285800377134",
+        "auction_seller": "zandgemporium",
+        "cert_number": "60236737",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6573081608861281326/-5263239252750100409.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "grade": "4",
+        "cert_number": "74551614",
+        "date": "6/1/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6608454649298971802/-8603936921938132853/images/1.jpg",
+        "lot_number": "5651",
+        "price": "$8.00",
+        "auction_seller": "Weekly Auction May 23 - Jun 1",
+        "auction_type": "Auction"
+    }
+]

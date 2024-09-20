@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$7.50",
+        "cert_number": "83714815",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "lot_number": "285630464624",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-348793701921027854/-762846938043339570.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$4.20",
+        "grade": "8",
+        "date": "8/19/2024",
+        "auction_type": "Auction",
+        "cert_number": "27047404",
+        "lot_number": "126626073719",
+        "auction_house": "eBay",
+        "auction_seller": "hubflipz",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3653689216416377494/-7567265537369897355.jpg"
+    },
+    {
+        "lot_number": "266771118550",
+        "cert_number": "84334035",
+        "date": "4/20/2024",
+        "price": "$10.50",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/757807519071024893/-6461039339540938604.jpg",
+        "auction_seller": "pokedad.store"
+    },
+    {
+        "price": "$55.00",
+        "lot_number": "164660629921",
+        "date": "1/29/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1975272913262004526/-6528721849275004669.jpg",
+        "auction_seller": "guildwars2mesmer",
+        "auction_type": "Auction",
+        "cert_number": "46875005",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

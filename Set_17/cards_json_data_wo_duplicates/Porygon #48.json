@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "poke_paradise",
+        "date": "8/29/2024",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1773618473821874839/-2171301857245747750.jpg",
+        "lot_number": "186641835421",
+        "cert_number": "74293005",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1309280107051407546/125353887780444495.jpg",
+        "price": "$10.50",
+        "lot_number": "154737094057",
+        "cert_number": "52749449",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "date": "12/14/2021"
+    },
+    {
+        "lot_number": "255928057283",
+        "cert_number": "67808923",
+        "grade": "10",
+        "date": "1/23/2023",
+        "auction_seller": "bryandyeo",
+        "auction_type": "Auction",
+        "price": "$76.01",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6730731852922918722/-1080533737020316140.jpg"
+    },
+    {
+        "grade": "5",
+        "lot_number": "354083169698",
+        "date": "6/5/2022",
+        "price": "$10.49",
+        "auction_seller": "jpl_collectibles305",
+        "cert_number": "55499300",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3238547130586417363/-5954790634200534727.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/7/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8782563843900781631/6835420433934676903.jpg",
+        "lot_number": "294516191924",
+        "cert_number": "51447624",
+        "grade": "9",
+        "price": "$40.00",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "28778376",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6248482556565130580/337643898253521621.jpg",
+        "auction_seller": "superdave",
+        "auction_type": "Best Offer",
+        "price": "$6.99",
+        "grade": "9",
+        "date": "8/6/2018",
+        "auction_house": "eBay",
+        "lot_number": "253777043236"
+    },
+    {
+        "cert_number": "28778376",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5425706257915988853/3347735452692657169.jpg",
+        "lot_number": "142767748230",
+        "date": "5/2/2018",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    }
+]

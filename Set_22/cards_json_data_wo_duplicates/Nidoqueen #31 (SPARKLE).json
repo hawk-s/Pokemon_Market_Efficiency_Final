@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "erkameng0",
+        "cert_number": "52348292",
+        "price": "$266.12",
+        "lot_number": "354492184225",
+        "auction_type": "Auction",
+        "date": "1/9/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8430973207245805034/-8685198134273006820.jpg"
+    },
+    {
+        "auction_seller": "christopherlam20122470",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2847785600365882719/3059146389351125554.jpg",
+        "lot_number": "175080251093",
+        "price": "$478.00",
+        "auction_type": "Auction",
+        "date": "12/30/2021",
+        "auction_house": "eBay",
+        "cert_number": "63253004",
+        "grade": "10"
+    },
+    {
+        "price": "$115.50",
+        "auction_seller": "pure_carnage_1987",
+        "cert_number": "43405667",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8649711646048296787/-2232617343353327207.jpg",
+        "date": "12/6/2021",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "154719868183"
+    },
+    {
+        "date": "12/28/2021",
+        "cert_number": "63837130",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-385020078578533706/8889947067325426083.jpg",
+        "price": "$132.50",
+        "auction_house": "eBay",
+        "lot_number": "363663254447"
+    },
+    {
+        "date": "12/27/2022",
+        "auction_seller": "erkameng0",
+        "cert_number": "52348292",
+        "lot_number": "354466107554",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5840495915339071554/-8685198134273006820.jpg",
+        "auction_type": "Auction",
+        "price": "$277.01",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "erkameng0",
+        "cert_number": "52348292",
+        "price": "$270.78",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5343026371461962520/-8685198134273006820.jpg",
+        "date": "1/11/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "354511006719",
+        "grade": "10"
+    }
+]

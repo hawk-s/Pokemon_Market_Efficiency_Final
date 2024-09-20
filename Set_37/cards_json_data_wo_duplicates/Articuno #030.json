@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "nichgue-26",
+        "price": "$20.00",
+        "lot_number": "405036519962",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4705339164646975019/7862591443457500918.jpg",
+        "cert_number": "75075756",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/21/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4697866094002714675/-1587100729258528000.jpg",
+        "auction_seller": "japan-international-trade",
+        "cert_number": "41972809",
+        "price": "$31.00",
+        "date": "12/2/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "123508392203",
+        "grade": "10"
+    },
+    {
+        "cert_number": "53155380",
+        "auction_seller": "pwcc_auctions",
+        "price": "$38.77",
+        "date": "5/30/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1346058538169302205/-7346554531568131669.jpg",
+        "grade": "6",
+        "lot_number": "144044889520",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6377300596589050512/-5553391249769248751.jpg",
+        "cert_number": "53155379",
+        "grade": "9",
+        "lot_number": "402857345573",
+        "price": "$63.56",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

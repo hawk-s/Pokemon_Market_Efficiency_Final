@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "273735993024",
+        "date": "3/9/2019",
+        "grade": "8",
+        "price": "$10.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2164368523765291277/5310443557939555314.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41701911"
+    },
+    {
+        "grade": "5",
+        "date": "10/30/2023",
+        "auction_seller": "sly_pkm",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4448722626958578147/-7274480987896838095.jpg",
+        "lot_number": "175981732604",
+        "cert_number": "73080221",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$35.30",
+        "auction_seller": "tannah12",
+        "lot_number": "115738780864",
+        "date": "3/29/2023",
+        "grade": "9",
+        "cert_number": "60764633",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8508368865439182701/8176857712063228153.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "10/1/2021",
+        "lot_number": "403185212260",
+        "price": "$69.00",
+        "grade": "9",
+        "auction_seller": "camla_7238",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6122960846797341783/4999741010256037319.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "50115184"
+    }
+]

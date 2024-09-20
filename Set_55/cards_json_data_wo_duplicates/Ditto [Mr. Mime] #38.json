@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$255.50",
+        "cert_number": "54127293",
+        "lot_number": "133998374688",
+        "auction_seller": "cardboardkrackshack",
+        "date": "1/26/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7974941729894370729/-648796253750328434.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "74980731",
+        "auction_seller": "cardboardkrackshack",
+        "price": "$57.00",
+        "lot_number": "134624525857",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-11629495835150111/-4226206577406451802.jpg",
+        "auction_type": "Auction",
+        "date": "6/30/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "55266348",
+        "grade": "8",
+        "auction_seller": "card_secret",
+        "price": "$31.00",
+        "lot_number": "126592960852",
+        "date": "8/4/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1301818722782389199/-2626889351748929056.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "Weekly Auction 13 Jun - 22 Jun",
+        "grade": "8",
+        "cert_number": "75831036",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "lot_number": "5518",
+        "date": "6/26/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/3815309888501543544/-3943056587317372104/images/1.jpg",
+        "price": "$18.00"
+    },
+    {
+        "price": "$3.25",
+        "cert_number": "83715064",
+        "lot_number": "285630464562",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-468475833894510985/6136515891899984195.jpg",
+        "grade": "6",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "lot_number": "285423023209",
+        "auction_seller": "zandgemporium",
+        "cert_number": "76248756",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2401674525257086731/961860816358447186.jpg",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay"
+    }
+]

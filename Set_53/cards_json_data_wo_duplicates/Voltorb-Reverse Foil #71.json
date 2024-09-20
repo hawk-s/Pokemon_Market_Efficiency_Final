@@ -1,0 +1,35 @@
+[
+    {
+        "date": "9/27/2021",
+        "lot_number": "185054908654",
+        "auction_seller": "apmerchant02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4534297648293334855/3040901825587684933.jpg",
+        "grade": "9",
+        "cert_number": "51424509",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "324865836676",
+        "date": "11/15/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8705801104822389025/-7253016832491918396.jpg",
+        "grade": "9",
+        "cert_number": "49764411",
+        "auction_type": "Auction",
+        "price": "$30.22",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "lot_number": "274921296006",
+        "auction_seller": "card-foundry",
+        "price": "$42.18",
+        "date": "9/5/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "48603031",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3427201384299044512/-2373753645464276796.jpg"
+    }
+]

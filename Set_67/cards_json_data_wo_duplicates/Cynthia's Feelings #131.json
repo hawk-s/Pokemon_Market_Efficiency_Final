@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "74878747",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4886969246889886544/-9176179498052178054.jpg",
+        "auction_seller": "tziekscards",
+        "price": "$148.50",
+        "auction_house": "eBay",
+        "date": "8/2/2023",
+        "auction_type": "Auction",
+        "lot_number": "195909679929",
+        "grade": "10"
+    },
+    {
+        "lot_number": "195909680799",
+        "auction_seller": "tziekscards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4671702051986362932/3411424161849441812.jpg",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "8/2/2023",
+        "auction_type": "Auction",
+        "cert_number": "74878748",
+        "price": "$32.00"
+    },
+    {
+        "price": "$16.27",
+        "auction_seller": "zecollect",
+        "date": "6/26/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/293239834559832407/-4114520856917505919.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "166831058397",
+        "auction_house": "eBay",
+        "cert_number": "85388128"
+    }
+]

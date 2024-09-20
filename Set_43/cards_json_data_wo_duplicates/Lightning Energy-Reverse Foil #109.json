@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "55132274",
+        "lot_number": "363652096369",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5235704192397746758/3896782144876349860.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$4.75",
+        "auction_house": "eBay",
+        "date": "12/21/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2115439144569155738/-8099794437289793227.jpg",
+        "lot_number": "382969212506",
+        "price": "$5.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "5/30/2019",
+        "auction_house": "eBay",
+        "cert_number": "43118569"
+    },
+    {
+        "date": "1/31/2021",
+        "auction_seller": "ravlich93",
+        "cert_number": "46177973",
+        "lot_number": "254850173406",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2609900633287436552/5146642543985027237.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$46.80",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/29/2019",
+        "cert_number": "43052730",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5369000682035703231/-3999962764269387310.jpg",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_seller": "nath-pain",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "273859136833"
+    },
+    {
+        "price": "$3.25",
+        "date": "9/14/2018",
+        "grade": "8",
+        "lot_number": "202429642970",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1078429425390783446/-8072868387335096008.jpg",
+        "cert_number": "40910989",
+        "auction_house": "eBay"
+    }
+]

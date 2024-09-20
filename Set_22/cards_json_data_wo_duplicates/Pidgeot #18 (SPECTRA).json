@@ -1,0 +1,101 @@
+[
+    {
+        "date": "11/10/2021",
+        "price": "$41.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7687104364450049332/1250660045485375567.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "blaksutto-2",
+        "auction_house": "eBay",
+        "cert_number": "52901767",
+        "lot_number": "265390003261"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7758691055418385813/2923713474085044410.jpg",
+        "date": "8/5/2021",
+        "cert_number": "49247985",
+        "auction_seller": "coins_n_rarities",
+        "price": "$63.99",
+        "lot_number": "274883697597",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "326138070114",
+        "price": "$83.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-470667740658670651/-1329926219644857511.jpg",
+        "date": "5/29/2024",
+        "auction_type": "Auction",
+        "auction_seller": "niskycollectibles",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "44153195"
+    },
+    {
+        "auction_seller": "vitamindmixer",
+        "lot_number": "296615722081",
+        "date": "8/11/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5125105782651787639/-7391428001860671375.jpg",
+        "price": "$77.00",
+        "cert_number": "92778182",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/23/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4873324283600037225/-464586030426686931.jpg",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "price": "$53.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "55280537",
+        "lot_number": "363361213798"
+    },
+    {
+        "price": "$3.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1687470383555105675/5199433852068969521.jpg",
+        "cert_number": "41476123",
+        "grade": "9",
+        "auction_seller": "kampes_cards",
+        "date": "12/23/2018",
+        "auction_type": "Auction",
+        "lot_number": "183589642518",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "cert_number": "71884515",
+        "date": "4/2/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4948822569360511646/-5263830491221411408.jpg",
+        "lot_number": "285201784217",
+        "price": "$84.00",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1339025501568616916/-1568289266913232145.jpg",
+        "price": "$52.00",
+        "cert_number": "48274797",
+        "grade": "9",
+        "date": "8/27/2021",
+        "lot_number": "274901490313",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "56415789",
+        "price": "$72.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3370532177052332642/4175139521050853475.jpg",
+        "auction_seller": "coins_plus",
+        "date": "8/22/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275998202072",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "12/26/2022",
+        "price": "$10.50",
+        "cert_number": "68929028",
+        "auction_seller": "tsunagu",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7266943804344817310/-6872762530257630716.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255889583665"
+    },
+    {
+        "date": "8/26/2023",
+        "price": "$15.00",
+        "cert_number": "61598596",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2289083419132828563/-3344615916972790781.jpg",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "235139054651"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8544795487718756823/1102551345213314515.jpg",
+        "price": "$7.50",
+        "cert_number": "56287098",
+        "auction_seller": "jmerrill85",
+        "lot_number": "296310791032",
+        "date": "3/28/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "62732484",
+        "auction_seller": "probstein123",
+        "lot_number": "364790392802",
+        "price": "$12.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8960742661420682366/-886582834759785494.jpg",
+        "grade": "10",
+        "date": "3/26/2024"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "7",
+        "auction_seller": "demar_43",
+        "price": "$10.49",
+        "cert_number": "58801351",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/4/2023",
+        "lot_number": "394535085399",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3782360817943747632/1027081929151132565.jpg"
+    },
+    {
+        "grade": "7",
+        "date": "2/13/2023",
+        "cert_number": "69753253",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6959624953400843643/-2476267929155743614.jpg",
+        "lot_number": "285135821630",
+        "price": "$7.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "alanisawesome"
+    },
+    {
+        "lot_number": "305724998095",
+        "price": "$15.50",
+        "date": "8/24/2024",
+        "grade": "9",
+        "cert_number": "94859796",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8635727326919167849/487320345957244380.jpg"
+    },
+    {
+        "cert_number": "40910997",
+        "lot_number": "192650192467",
+        "price": "$2.00",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7074308882703695504/3650119551766027808.jpg",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "9/14/2018",
+        "auction_house": "eBay"
+    }
+]

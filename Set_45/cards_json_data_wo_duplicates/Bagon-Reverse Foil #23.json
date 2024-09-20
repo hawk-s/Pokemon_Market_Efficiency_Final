@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "88447003",
+        "lot_number": "135015838530",
+        "price": "$15.50",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5720574004347605057/-7798931649550802144.jpg",
+        "auction_type": "Auction",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "date": "7/19/2024",
+        "cert_number": "74107541",
+        "auction_seller": "geosa_2940",
+        "lot_number": "355870842763",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4303120679097652006/8606869635175595579.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2000307164331932854/-8172029347334397487.jpg",
+        "cert_number": "69308673",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokichloecards",
+        "price": "$35.74",
+        "date": "2/12/2023",
+        "lot_number": "155389299794"
+    }
+]

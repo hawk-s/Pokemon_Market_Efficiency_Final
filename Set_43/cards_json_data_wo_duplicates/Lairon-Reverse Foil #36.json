@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$30.11",
+        "auction_seller": "dualcollectibleinc",
+        "grade": "8",
+        "lot_number": "324775011128",
+        "cert_number": "49764303",
+        "auction_type": "Auction",
+        "date": "9/13/2021",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3999883268060159236/-1068826989141769358.jpg"
+    },
+    {
+        "grade": "8.5",
+        "auction_type": "Buy It Now",
+        "lot_number": "264360188625",
+        "date": "5/30/2020",
+        "price": "$22.99",
+        "auction_seller": "poke_palace",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2424019042417235984/-747815586139977792.jpg",
+        "auction_house": "eBay",
+        "cert_number": "43118543"
+    },
+    {
+        "lot_number": "255161886577",
+        "cert_number": "43140977",
+        "date": "10/10/2021",
+        "auction_seller": "pokichloe",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3390724619080163216/-1715828555953158955.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$31.37",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "8.5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2202210271948302499/-2823457189847268026.jpg",
+        "lot_number": "382969313186",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "5/30/2019",
+        "auction_house": "eBay",
+        "cert_number": "43118543",
+        "price": "$1.25"
+    },
+    {
+        "cert_number": "43140977",
+        "date": "9/7/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3643848503955466443/9051976433618121552.jpg",
+        "grade": "9",
+        "price": "$47.00",
+        "auction_seller": "tcgfa-6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "403118429251"
+    }
+]

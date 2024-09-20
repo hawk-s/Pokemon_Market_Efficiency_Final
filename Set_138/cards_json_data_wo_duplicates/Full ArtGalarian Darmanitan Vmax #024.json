@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "thecardcollector_uk",
+        "date": "9/15/2022",
+        "cert_number": "61618598",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3727184128301953997/-7606384432653682356.jpg",
+        "auction_type": "Auction",
+        "price": "$18.53",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "363976383814"
+    },
+    {
+        "auction_seller": "nickyramen123",
+        "date": "11/1/2022",
+        "cert_number": "58770592",
+        "lot_number": "165743236468",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7560309306342160285/1166177828702795915.jpg",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1652117530725072915/-5891181375434102489.jpg",
+        "price": "$10.96",
+        "auction_seller": "tra_collective_au",
+        "cert_number": "61537924",
+        "lot_number": "234937153065",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "3/26/2023"
+    }
+]

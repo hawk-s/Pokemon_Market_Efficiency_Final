@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$19.14",
+        "date": "7/4/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2549165144856290914/2970537130721715276.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "73922056",
+        "auction_house": "eBay",
+        "auction_seller": "pokedreammarket",
+        "lot_number": "186501525959"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2446954179182918880/1421130390754852430.jpg",
+        "lot_number": "295292988872",
+        "cert_number": "62677946",
+        "date": "10/29/2022",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$64.33"
+    },
+    {
+        "auction_seller": "zygadau2015",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2313145899905987494/2437882657006582962.jpg",
+        "auction_type": "Best Offer",
+        "date": "8/15/2020",
+        "cert_number": "44344788",
+        "price": "$39.32",
+        "lot_number": "402193096601",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-957377578664007927/-809410538884664174.jpg",
+        "lot_number": "184322442476",
+        "date": "6/16/2020",
+        "cert_number": "45921264",
+        "auction_seller": "apmerchant02",
+        "price": "$20.46",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "51649560",
+        "lot_number": "274662343223",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "price": "$80.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9183320843904508361/-8617822960619445535.jpg",
+        "date": "1/28/2021",
+        "auction_seller": "autographs-for-sale",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "334066653545",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4474852530705440682/-148642127836439384.jpg",
+        "price": "$39.00",
+        "auction_type": "Auction",
+        "auction_seller": "rymman1000",
+        "auction_house": "eBay",
+        "cert_number": "49290172",
+        "date": "7/13/2021"
+    }
+]

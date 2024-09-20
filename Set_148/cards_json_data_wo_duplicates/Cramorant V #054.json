@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "60735226",
+        "date": "9/19/2022",
+        "auction_type": "Auction",
+        "price": "$15.05",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "lot_number": "155158124704",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8033025156659312262/1129538672878934707.jpg"
+    },
+    {
+        "date": "1/16/2023",
+        "lot_number": "115667015765",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8028666770624470628/-5078993847105835858.jpg",
+        "cert_number": "61337244",
+        "price": "$8.02",
+        "grade": "9",
+        "auction_seller": "tntcards.mi",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/6/2022",
+        "cert_number": "61208067",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6925361235799913415/-609065737158562801.jpg",
+        "grade": "9",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "lot_number": "155140856094"
+    },
+    {
+        "price": "$30.00",
+        "auction_seller": "slab10stradingcards",
+        "date": "11/16/2021",
+        "cert_number": "61019094",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8297910573885812774/-7722350474963053060.jpg",
+        "auction_type": "Auction",
+        "lot_number": "203693985618",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "61556562",
+        "date": "12/20/2022",
+        "lot_number": "125664597453",
+        "price": "$17.52",
+        "auction_seller": "dcsports87",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2065474796566962398/143062430622546416.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "266909596080",
+        "price": "$3.25",
+        "cert_number": "59760464",
+        "date": "7/29/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3538068203559169567/3883129296280571423.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "crankstrading",
+        "grade": "10"
+    },
+    {
+        "cert_number": "60735227",
+        "price": "$16.52",
+        "date": "9/19/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4535276497900208001/-4783203227874384309.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "155158124286"
+    }
+]

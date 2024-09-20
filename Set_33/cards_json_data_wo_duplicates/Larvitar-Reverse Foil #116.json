@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "294763008250",
+        "date": "1/31/2022",
+        "price": "$39.99",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5131680447696398869/-8715225648582098680.jpg",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "55658754"
+    },
+    {
+        "date": "1/16/2023",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3696813136167887222/-7420482577850572324.jpg",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "lot_number": "285100713237",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "66986347"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1698428759015091475/5192285042486023996.jpg",
+        "auction_seller": "habbyshobbies",
+        "date": "3/1/2020",
+        "price": "$5.00",
+        "cert_number": "44713158",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "383437336360"
+    },
+    {
+        "lot_number": "174761106324",
+        "auction_seller": "seansecksyou",
+        "date": "5/14/2021",
+        "grade": "9",
+        "price": "$53.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6631162048406421984/4753567329379550558.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41038010"
+    }
+]

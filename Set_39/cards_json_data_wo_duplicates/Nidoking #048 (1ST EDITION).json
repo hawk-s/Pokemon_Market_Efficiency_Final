@@ -1,0 +1,68 @@
+[
+    {
+        "date": "4/20/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6397960061392422658/6349153368320472153.jpg",
+        "grade": "6",
+        "price": "$5.50",
+        "auction_seller": "wayyver",
+        "auction_type": "Auction",
+        "lot_number": "364840796759",
+        "auction_house": "eBay",
+        "cert_number": "88786587"
+    },
+    {
+        "date": "2/13/2023",
+        "lot_number": "225401819663",
+        "auction_seller": "cardboundllc",
+        "cert_number": "70621098",
+        "price": "$22.02",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1919890140340615986/-2228665076892393402.jpg"
+    },
+    {
+        "date": "1/16/2023",
+        "auction_seller": "cardboundllc",
+        "price": "$89.00",
+        "cert_number": "69581496",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2172497871081817049/621694774952638956.jpg",
+        "auction_type": "Auction",
+        "lot_number": "325491892445",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "226200931186",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-932827657848168771/5041643576494258520.jpg",
+        "price": "$15.50",
+        "date": "6/26/2024",
+        "grade": "8",
+        "cert_number": "48770729",
+        "auction_seller": "ccgcrazy",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "cert_number": "43617953",
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8698253029753125736/-4037290965807259042.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "124050198561",
+        "date": "1/26/2020"
+    },
+    {
+        "date": "9/7/2021",
+        "auction_seller": "kardboardkid95",
+        "cert_number": "53440065",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4031643991374320792/-6374864301647285822.jpg",
+        "price": "$137.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "203590442524"
+    }
+]

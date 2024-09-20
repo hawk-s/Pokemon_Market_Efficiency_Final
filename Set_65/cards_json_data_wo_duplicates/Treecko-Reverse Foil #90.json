@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "50534179",
+        "date": "1/5/2024",
+        "price": "$76.00",
+        "auction_seller": "probstein123",
+        "lot_number": "364649618405",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/275173638081246147/7671538396174297812.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1540601368261266018/3652079605769756489.jpg",
+        "price": "$87.68",
+        "cert_number": "69093317",
+        "auction_seller": "poke_place",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "234911102803",
+        "date": "3/7/2023",
+        "grade": "10"
+    },
+    {
+        "cert_number": "50534179",
+        "date": "1/26/2024",
+        "price": "$61.80",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7318659915413881498/7671538396174297812.jpg",
+        "lot_number": "364686582039",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

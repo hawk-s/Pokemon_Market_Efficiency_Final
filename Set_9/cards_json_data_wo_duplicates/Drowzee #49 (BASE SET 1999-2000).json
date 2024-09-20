@@ -1,0 +1,101 @@
+[
+    {
+        "lot_number": "364864253894",
+        "cert_number": "58399863",
+        "auction_seller": "buczk-93",
+        "grade": "10",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5991566654199920749/-6011858033619103391.jpg",
+        "auction_house": "eBay",
+        "date": "5/4/2024"
+    },
+    {
+        "date": "3/6/2023",
+        "auction_seller": "tziekscards",
+        "lot_number": "195631520880",
+        "grade": "9",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/151135598519537665/-4605990144088403037.jpg",
+        "cert_number": "71255576",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$88.05",
+        "date": "9/2/2024",
+        "auction_seller": "jimmythefluff",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6109115255786178751/-4716261431895025641.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "405190815821",
+        "cert_number": "54430531"
+    },
+    {
+        "auction_seller": "ceddimoe01",
+        "grade": "8",
+        "cert_number": "57647447",
+        "lot_number": "304816991151",
+        "date": "3/3/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/872317062553494513/2663150193619254545.jpg"
+    },
+    {
+        "lot_number": "335149087630",
+        "cert_number": "83153509",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8654761110978782380/4639459471281676510.jpg",
+        "price": "$6.99",
+        "date": "12/11/2023",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_seller": "richezone",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1798978071044608553/-2603855435469899016.jpg",
+        "price": "$19.00",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285494237137",
+        "grade": "9",
+        "cert_number": "78147194",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/8/2023"
+    },
+    {
+        "cert_number": "78147212",
+        "lot_number": "285494157868",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2453169772970864510/3236257372455707069.jpg",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/8/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-782520417659678271/6721603352326205154.jpg",
+        "lot_number": "315697962453",
+        "grade": "10",
+        "cert_number": "50525503",
+        "auction_seller": "collectors_box",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/4/2024",
+        "price": "$61.78"
+    },
+    {
+        "lot_number": "156323366794",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5665629470810542652/716342213334668724.jpg",
+        "cert_number": "93850416",
+        "date": "8/2/2024",
+        "price": "$23.74",
+        "grade": "9",
+        "auction_seller": "fayeyork23",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

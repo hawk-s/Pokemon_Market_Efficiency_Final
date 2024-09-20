@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "60810622",
+        "auction_seller": "rollatgc",
+        "lot_number": "115747855995",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8424384101167579288/7640799929501781487.jpg",
+        "auction_type": "Auction",
+        "date": "4/2/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$59.73"
+    },
+    {
+        "date": "9/20/2022",
+        "cert_number": "61214195",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6193472015603790221/-8201936903921186128.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "363978399203",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "cert_number": "60810622",
+        "lot_number": "115716119720",
+        "price": "$57.49",
+        "date": "3/4/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4953630457851385877/7640799929501781487.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "rollatgc"
+    }
+]

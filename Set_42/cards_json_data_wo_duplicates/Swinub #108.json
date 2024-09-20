@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "ypsi72",
+        "auction_type": "Best Offer",
+        "date": "4/30/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3573969643888081326/-200673716162153915.jpg",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_house": "eBay",
+        "lot_number": "274336069483",
+        "cert_number": "27637231"
+    },
+    {
+        "price": "$146.00",
+        "lot_number": "133526941365",
+        "date": "11/19/2020",
+        "auction_seller": "cardboardkrackshack",
+        "auction_type": "Best Offer",
+        "cert_number": "45872807",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1726825025064386645/8508939492073458832.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/30/2024",
+        "auction_seller": "monsterboyzcollectibles",
+        "cert_number": "61311352",
+        "lot_number": "196578507141",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1078847516594834614/3165214039515205854.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6283775587557997653/-3772786824155061072.jpg",
+        "auction_seller": "bidoveru",
+        "date": "7/23/2024",
+        "cert_number": "41643877",
+        "lot_number": "315532816206",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3251681536720080180/-3282041531416364928.jpg",
+        "date": "5/2/2019",
+        "cert_number": "41933451",
+        "grade": "9",
+        "lot_number": "202662247007",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "date": "6/28/2023",
+        "lot_number": "394685221000",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8097294360011799524/6094869246051796785.jpg",
+        "grade": "9",
+        "cert_number": "59228216",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$15.55"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2069835683414409806/6601717494939891437.jpg",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "5/26/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "383551713525",
+        "cert_number": "27637231"
+    }
+]

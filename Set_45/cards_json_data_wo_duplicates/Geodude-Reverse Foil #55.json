@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "4",
+        "cert_number": "90808472",
+        "auction_seller": "themain_aisle",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8641423894301716849/4700233728583631976.jpg",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "235700209203",
+        "date": "8/22/2024"
+    },
+    {
+        "date": "10/25/2019",
+        "price": "$13.99",
+        "lot_number": "303327349743",
+        "grade": "9",
+        "cert_number": "44180339",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "sonofhercules2",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1093104428199336556/-4429704850381625452.jpg"
+    },
+    {
+        "lot_number": "266772637957",
+        "cert_number": "61263484",
+        "price": "$85.70",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-92063016596203499/-6911799156583040801.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "rubberandcotton",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/24/2024"
+    }
+]

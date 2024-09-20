@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "world_of_geek",
+        "cert_number": "74260282",
+        "grade": "9",
+        "price": "$19.09",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1600291512999712429/3298126086961165884.jpg",
+        "lot_number": "275994653287",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "59257113",
+        "auction_seller": "rocky_mountain_graded_cards",
+        "price": "$110.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4148901429708723241/-613680072098088980.jpg",
+        "lot_number": "185708856013",
+        "date": "12/30/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/27/2022",
+        "lot_number": "325470389125",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2494208719141845184/-6142196780814097856.jpg",
+        "cert_number": "58873510",
+        "auction_seller": "card.galaxy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$108.54"
+    },
+    {
+        "lot_number": "305726945590",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4196764754987020394/-2904237341648154106.jpg",
+        "grade": "8",
+        "date": "8/25/2024",
+        "price": "$11.50",
+        "cert_number": "70868520",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/811460714616103146/-8049685866786745865.jpg",
+        "lot_number": "383357837395",
+        "auction_seller": "probstein123",
+        "date": "1/13/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "42489184",
+        "price": "$14.05"
+    }
+]

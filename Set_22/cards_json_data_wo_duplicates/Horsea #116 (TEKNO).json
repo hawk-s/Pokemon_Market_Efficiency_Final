@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$711.00",
+        "auction_seller": "christopherlam20122470",
+        "cert_number": "63182607",
+        "lot_number": "185228591420",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8985412726432009106/-75212785552234558.jpg",
+        "date": "12/30/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "5/22/2023",
+        "price": "$48.00",
+        "auction_seller": "thetcgenius",
+        "lot_number": "134555671848",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4482049774049224967/4344190248107219998.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "44419483"
+    },
+    {
+        "auction_seller": "pwcc_vault",
+        "price": "$327.00",
+        "cert_number": "44039012",
+        "grade": "9",
+        "lot_number": "224525537268",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1289631010136472386/-8789900291214152028.jpg",
+        "date": "7/15/2021"
+    }
+]

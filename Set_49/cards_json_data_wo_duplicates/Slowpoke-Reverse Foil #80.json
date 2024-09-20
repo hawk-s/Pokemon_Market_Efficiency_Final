@@ -1,0 +1,57 @@
+[
+    {
+        "date": "5/18/2023",
+        "price": "$73.00",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-5559904555572265138/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "cert_number": "70569893",
+        "lot_number": "4924",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "date": "11/8/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-935939438946580086/4950764221530936777.jpg",
+        "auction_seller": "4_sharp_corners",
+        "grade": "9",
+        "lot_number": "265377997936",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "63149057"
+    },
+    {
+        "lot_number": "135091368382",
+        "auction_seller": "thetcgenius",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/635962002388711183/-5249360790238572032.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$32.00",
+        "date": "6/17/2024",
+        "cert_number": "91117833"
+    },
+    {
+        "price": "$15.00",
+        "cert_number": "28240813",
+        "auction_seller": "pokelyfe",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6173522036547353558/7434471169293753632.jpg",
+        "auction_type": "Auction",
+        "lot_number": "253665304780",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "6/9/2018"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3800186139422137444/4928889073723776450.jpg",
+        "cert_number": "40911056",
+        "grade": "9",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "9/14/2018",
+        "auction_house": "eBay",
+        "price": "$2.94",
+        "lot_number": "192650192470"
+    }
+]

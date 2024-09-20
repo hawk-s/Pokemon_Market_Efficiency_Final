@@ -1,0 +1,90 @@
+[
+    {
+        "lot_number": "395479422895",
+        "cert_number": "91567178",
+        "date": "6/26/2024",
+        "grade": "9",
+        "price": "$3.75",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8136627823650879748/1012396681122166390.jpg"
+    },
+    {
+        "cert_number": "52787043",
+        "lot_number": "373801224311",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8609949713842522515/5171027552919847803.jpg",
+        "price": "$14.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/30/2021"
+    },
+    {
+        "cert_number": "91567181",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4562149470757552959/3232723988563646201.jpg",
+        "lot_number": "395495485887",
+        "price": "$27.00",
+        "date": "7/3/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid",
+        "grade": "10"
+    },
+    {
+        "lot_number": "373794029168",
+        "cert_number": "52787044",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1484465425508188438/3002504399292960004.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/24/2021",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "cert_number": "91567181",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8510452168343789734/3232723988563646201.jpg",
+        "date": "6/26/2024",
+        "price": "$24.03",
+        "lot_number": "395479441743",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid",
+        "grade": "10"
+    },
+    {
+        "cert_number": "91567179",
+        "date": "6/26/2024",
+        "price": "$6.00",
+        "lot_number": "395479427979",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3508095352739155321/3718985828407695140.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5840944081695256405/-9205291827735734648.jpg",
+        "price": "$16.75",
+        "lot_number": "395479433873",
+        "date": "6/26/2024",
+        "cert_number": "91567180",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27839464",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8382277388955971513/2426460901177507869.jpg",
+        "price": "$14.99",
+        "auction_type": "Buy It Now",
+        "lot_number": "192354518504",
+        "auction_seller": "my_honolulu_blue",
+        "auction_house": "eBay",
+        "date": "3/6/2018",
+        "grade": "10"
+    }
+]

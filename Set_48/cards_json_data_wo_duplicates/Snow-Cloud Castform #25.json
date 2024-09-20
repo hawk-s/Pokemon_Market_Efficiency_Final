@@ -1,0 +1,24 @@
+[
+    {
+        "cert_number": "60844911",
+        "date": "9/11/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1164376781701909679/-6871958784224304504.jpg",
+        "grade": "9",
+        "price": "$19.99",
+        "lot_number": "295199552673",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "10/29/2022",
+        "auction_seller": "amtsupply",
+        "cert_number": "62677805",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6542702351229965740/4371888922727104759.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "295292896257",
+        "price": "$29.99"
+    }
+]

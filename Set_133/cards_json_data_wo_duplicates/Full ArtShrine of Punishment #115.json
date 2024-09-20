@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "43025309",
+        "lot_number": "133273470273",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6754185408631307996/-4533022555382499740.jpg",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "date": "12/22/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "cert_number": "44289655",
+        "date": "10/26/2019",
+        "price": "$27.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3714671559576191936/1978661148483419134.jpg",
+        "lot_number": "163912070656",
+        "auction_seller": "matthew-newby1",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "44289720",
+        "date": "3/23/2021",
+        "lot_number": "254904903206",
+        "auction_seller": "thunderbolt_tcg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5675456403027585907/-1941805459071736072.jpg",
+        "price": "$32.00",
+        "grade": "10"
+    },
+    {
+        "cert_number": "45944308",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4004639445459864800/4870995444487096461.jpg",
+        "price": "$43.00",
+        "auction_seller": "lilahoff",
+        "date": "3/16/2021",
+        "lot_number": "174674621824",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

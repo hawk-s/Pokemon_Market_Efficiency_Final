@@ -1,0 +1,46 @@
+[
+    {
+        "date": "3/9/2020",
+        "price": "$15.00",
+        "cert_number": "45433255",
+        "auction_seller": "tsunagu",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7188270960774213273/6906841401201939430.jpg",
+        "lot_number": "254528384532"
+    },
+    {
+        "cert_number": "88950541",
+        "date": "5/3/2024",
+        "lot_number": "196362460926",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4191383467029606913/-7980705293023927426.jpg",
+        "auction_seller": "jpidgeyscards",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 13 Jun - 22 Jun",
+        "cert_number": "75831057",
+        "grade": "8",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/3815309888501543544/-9015841459064929188/images/1.jpg",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "date": "6/26/2023",
+        "lot_number": "5574"
+    },
+    {
+        "cert_number": "71960292",
+        "lot_number": "285736230195",
+        "auction_seller": "shinjuku-donquixote",
+        "date": "3/6/2024",
+        "price": "$15.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8522131922280940397/-21084878934273123.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

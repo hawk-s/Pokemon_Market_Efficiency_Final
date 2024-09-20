@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$122.50",
+        "cert_number": "48322482",
+        "lot_number": "353660752786",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2852346595174081917/4591153969158997939.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "the1-up",
+        "date": "9/13/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "68379352",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/181647884438735303/6662873906968654945.jpg",
+        "price": "$64.83",
+        "auction_seller": "obscars",
+        "date": "6/25/2023",
+        "auction_type": "Auction",
+        "lot_number": "285329393200",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

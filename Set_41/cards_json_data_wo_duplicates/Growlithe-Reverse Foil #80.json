@@ -1,0 +1,90 @@
+[
+    {
+        "lot_number": "185822333290",
+        "auction_seller": "smpratte",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8451933340052377456/-6737032131541551946.jpg",
+        "grade": "9",
+        "cert_number": "48393938",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/2/2023",
+        "price": "$32.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5315872105431945645/316761112040283798.jpg",
+        "auction_type": "Buy It Now",
+        "auction_seller": "openbinders",
+        "price": "$18.99",
+        "lot_number": "302780632383",
+        "cert_number": "40771485",
+        "auction_house": "eBay",
+        "date": "7/18/2018",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3088839193329879495/5100757350091361587.jpg",
+        "price": "$49.90",
+        "cert_number": "91799579",
+        "date": "6/1/2024",
+        "grade": "9",
+        "auction_seller": "juba_4756",
+        "auction_type": "Auction",
+        "lot_number": "176393516687",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "7/20/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-336574947127982281/3168561292640603443.jpg",
+        "price": "$36.15",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "91913314",
+        "lot_number": "335484960488",
+        "auction_seller": "abdulha63"
+    },
+    {
+        "cert_number": "27833437",
+        "auction_seller": "numismaticsgmc",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3901168415953283754/-2502418058231134326.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "312022867504",
+        "date": "12/16/2017"
+    },
+    {
+        "price": "$5.10",
+        "date": "6/6/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8061782114824844605/3650205329797673051.jpg",
+        "lot_number": "142811260046",
+        "cert_number": "40771485",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/8996079110187703353/images/1.jpg",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "lot_number": "4837",
+        "price": "$82.00",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "5/11/2023",
+        "grade": "10",
+        "cert_number": "70358089"
+    },
+    {
+        "lot_number": "166212941270",
+        "grade": "7",
+        "price": "$18.52",
+        "date": "7/17/2023",
+        "auction_type": "Auction",
+        "auction_seller": "jebr4566",
+        "auction_house": "eBay",
+        "cert_number": "69625742",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8907200140083163584/8097784183859434220.jpg"
+    }
+]

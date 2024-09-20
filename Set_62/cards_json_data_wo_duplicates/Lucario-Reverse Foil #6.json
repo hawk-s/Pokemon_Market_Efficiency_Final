@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "60764557",
+        "lot_number": "115798057904",
+        "auction_seller": "tannah12",
+        "date": "5/15/2023",
+        "price": "$21.95",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1739990912826616932/230495479826765996.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7850442460817471932/-7477605917371577028.jpg",
+        "lot_number": "403185232612",
+        "date": "10/1/2021",
+        "cert_number": "50115238",
+        "grade": "9",
+        "auction_seller": "camla_7238",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$33.55"
+    },
+    {
+        "cert_number": "60764557",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8413809892582499376/230495479826765996.jpg",
+        "grade": "9",
+        "date": "4/18/2023",
+        "auction_type": "Auction",
+        "lot_number": "115766092107",
+        "auction_house": "eBay",
+        "price": "$95.35"
+    },
+    {
+        "price": "$30.00",
+        "date": "12/25/2021",
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/111857054099957607/6519085663518650760.jpg",
+        "lot_number": "165239009923",
+        "auction_seller": "donottoscardsandcollectables",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53201555"
+    },
+    {
+        "grade": "5",
+        "date": "12/25/2021",
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7908915424055102788/-339352823977396298.jpg",
+        "auction_seller": "donottoscardsandcollectables",
+        "lot_number": "165238934447",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53201555"
+    }
+]

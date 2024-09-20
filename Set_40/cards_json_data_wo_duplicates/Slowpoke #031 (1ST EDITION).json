@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "cert_number": "55729953",
+        "price": "$100.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4311126580195375930/-389867360518519635.jpg",
+        "lot_number": "185107233749",
+        "date": "10/25/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$259.76",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2607223962423246710/-138517367293228861.jpg",
+        "cert_number": "54131556",
+        "lot_number": "115632845774",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "abstrakd",
+        "date": "12/13/2022"
+    },
+    {
+        "lot_number": "124863900794",
+        "cert_number": "55729953",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2892138272176555279/-2597125542008352757.jpg",
+        "auction_seller": "card_secret",
+        "price": "$142.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    }
+]

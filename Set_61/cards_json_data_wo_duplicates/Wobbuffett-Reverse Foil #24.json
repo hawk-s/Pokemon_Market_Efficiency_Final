@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2495116593941163405/-3913859751094792923.jpg",
+        "grade": "9",
+        "date": "3/21/2023",
+        "auction_type": "Auction",
+        "lot_number": "115730219074",
+        "auction_house": "eBay",
+        "cert_number": "60764512",
+        "price": "$21.14"
+    },
+    {
+        "lot_number": "255004811995",
+        "date": "6/11/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3998334211939800023/5578719823156758775.jpg",
+        "grade": "8",
+        "auction_seller": "sellers_sportscards",
+        "cert_number": "59677219",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$25.02"
+    },
+    {
+        "grade": "8",
+        "lot_number": "375482098925",
+        "auction_seller": "wallyscards",
+        "cert_number": "59677219",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8220371341287250614/8613561481801017335.jpg",
+        "auction_house": "eBay",
+        "date": "6/20/2024"
+    },
+    {
+        "date": "2/5/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4151667491410181867/6382768790901153584.jpg",
+        "lot_number": "155382694614",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "price": "$23.55",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57088438"
+    },
+    {
+        "cert_number": "44184388",
+        "date": "1/12/2021",
+        "grade": "9",
+        "lot_number": "184608953715",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7944096001982495000/3210378625332338575.jpg",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "auction_seller": "extremecards_collectibles"
+    },
+    {
+        "date": "4/14/2024",
+        "cert_number": "52630675",
+        "price": "$65.00",
+        "lot_number": "285806305621",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1772783081725354352/8459161717615408640.jpg"
+    }
+]

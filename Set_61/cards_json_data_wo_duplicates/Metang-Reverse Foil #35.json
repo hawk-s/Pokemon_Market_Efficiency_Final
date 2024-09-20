@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$18.02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4046695081208636950/8817813468887890287.jpg",
+        "lot_number": "354430210348",
+        "grade": "8",
+        "auction_seller": "tcg_stockpile",
+        "cert_number": "52558217",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/13/2022"
+    },
+    {
+        "price": "$12.00",
+        "cert_number": "72609294",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/-7813708356397119725/images/1.jpg",
+        "grade": "6",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "5/11/2023",
+        "lot_number": "4757"
+    },
+    {
+        "date": "4/21/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2223451251570201372/-8370096654168045493.jpg",
+        "lot_number": "116146146267",
+        "price": "$112.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "gengarsbest",
+        "grade": "10",
+        "cert_number": "80149970"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "date": "2/2/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/-2594441321671596654/images/1.jpg",
+        "cert_number": "69969916",
+        "lot_number": "1884",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "date": "2/5/2023",
+        "cert_number": "57088440",
+        "auction_seller": "tannah12",
+        "price": "$14.30",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "155382695892",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4767361489312018442/-599955832705631311.jpg"
+    },
+    {
+        "lot_number": "2347",
+        "cert_number": "69969915",
+        "price": "$20.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-8138273203768040981/9041043285365854641/images/1.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Jan 31 - Feb 9",
+        "date": "2/9/2023"
+    },
+    {
+        "lot_number": "313783863792",
+        "price": "$38.00",
+        "date": "12/20/2021",
+        "cert_number": "52779861",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4211217265423853249/-5592234550624359603.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "date": "12/31/2022",
+        "auction_seller": "ztcards_5",
+        "price": "$10.00",
+        "grade": "9",
+        "lot_number": "204195290724",
+        "auction_type": "Auction",
+        "cert_number": "60424694",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8569419775108416191/4092879632407432391.jpg"
+    },
+    {
+        "date": "8/17/2023",
+        "lot_number": "374870449133",
+        "auction_seller": "probstein123",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "cert_number": "59355224",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1065131993973625129/589471033350796020.jpg"
+    },
+    {
+        "date": "4/3/2023",
+        "lot_number": "266187117279",
+        "cert_number": "60850447",
+        "auction_seller": "4_sharp_corners",
+        "price": "$24.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1985205318473763183/6448641093452137984.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "sports.connection",
+        "cert_number": "60475462",
+        "price": "$15.50",
+        "lot_number": "175605813969",
+        "date": "2/14/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1785954735663524371/-7734058568904222293.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3506943876997279397/-6341608499977322802.jpg",
+        "date": "9/21/2022",
+        "cert_number": "61371793",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "225165165200",
+        "grade": "10",
+        "auction_seller": "dandpsportscards",
+        "price": "$14.05"
+    },
+    {
+        "cert_number": "62728090",
+        "auction_seller": "collectisales",
+        "lot_number": "295540112771",
+        "price": "$10.00",
+        "date": "3/2/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7690676621576016149/-6582208543895278275.jpg"
+    }
+]

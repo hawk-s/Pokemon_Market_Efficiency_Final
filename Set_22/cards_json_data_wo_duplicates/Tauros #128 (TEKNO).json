@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$639.00",
+        "auction_seller": "coins_n_rarities",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6528296733179435912/-4639656063711847544.jpg",
+        "date": "8/10/2023",
+        "auction_type": "Auction",
+        "lot_number": "314749320679",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "54987239"
+    },
+    {
+        "date": "12/27/2022",
+        "lot_number": "374415545260",
+        "price": "$246.50",
+        "cert_number": "64617009",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-256459320064397130/133654659993550976.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "364060430802",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6409670315587737782/133654659993550976.jpg",
+        "cert_number": "64617009",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$355.00",
+        "date": "12/6/2022"
+    },
+    {
+        "price": "$267.00",
+        "lot_number": "405046213166",
+        "grade": "9",
+        "cert_number": "69509194",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2148136790756801347/-4850149983057203323.jpg",
+        "auction_seller": "cubonejones1833",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/28/2024"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/31/2022",
+        "lot_number": "144383208790",
+        "cert_number": "42102647",
+        "auction_seller": "mastertrainer_red",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2524295992851102291/7569740269808230967.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00"
+    },
+    {
+        "date": "6/17/2017",
+        "lot_number": "263035057905",
+        "grade": "8",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/3948114520881742072/4302191759759871914.jpg",
+        "cert_number": "27237801",
+        "price": "$7.00",
+        "auction_seller": "forgottonn0n",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "7/15/2024",
+        "auction_seller": "vintagetcg11",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-584115178002060143/7932569588143482172.jpg",
+        "grade": "9",
+        "price": "$16.23",
+        "cert_number": "91947941",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "375534200611"
+    },
+    {
+        "cert_number": "70223321",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$15.38",
+        "auction_house": "eBay",
+        "lot_number": "195548138112",
+        "auction_seller": "erme_48",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8674815372856209886/8184222967497737281.jpg",
+        "date": "1/14/2023"
+    }
+]

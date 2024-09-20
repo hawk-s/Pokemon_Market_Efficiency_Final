@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "192638434007",
+        "date": "11/1/2018",
+        "auction_type": "Buy It Now",
+        "cert_number": "41170737",
+        "grade": "9",
+        "price": "$8.39",
+        "auction_seller": "my_honolulu_blue",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7678577644035767458/-7344944169478134712.jpg"
+    },
+    {
+        "cert_number": "43350536",
+        "lot_number": "283565256803",
+        "auction_type": "Buy It Now",
+        "date": "10/5/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5083379683124853703/9010701095977866509.jpg",
+        "price": "$35.00",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/13/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6884918329781066395/-6665570235529913672.jpg",
+        "price": "$16.13",
+        "grade": "8",
+        "cert_number": "50775170",
+        "lot_number": "324917967333",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "auction_seller": "slab-town",
+        "cert_number": "53007644",
+        "date": "12/1/2021",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8517641377780005011/-1042396263731925797.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "324904044612",
+        "price": "$96.00"
+    },
+    {
+        "date": "9/8/2021",
+        "price": "$9.50",
+        "cert_number": "50115152",
+        "grade": "3",
+        "auction_seller": "camla_7238",
+        "lot_number": "403121454997",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4757078425230876022/-6587986260580642851.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

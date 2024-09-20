@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "62345214",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7888844647290974570/4005532976339215263.jpg",
+        "lot_number": "115669314641",
+        "auction_seller": "pokematt_ig",
+        "date": "1/23/2023",
+        "auction_type": "Auction",
+        "price": "$31.39",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "373885728701",
+        "auction_seller": "saltcity76",
+        "price": "$46.00",
+        "auction_type": "Auction",
+        "date": "1/24/2022",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4172191723640912301/2290821192698199387.jpg",
+        "grade": "10",
+        "cert_number": "42859808"
+    },
+    {
+        "date": "7/9/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1411345066440471484/-4068542984851709126.jpg",
+        "lot_number": "124223590434",
+        "auction_type": "Best Offer",
+        "auction_seller": "i_love_shoes15",
+        "price": "$24.99",
+        "grade": "9",
+        "cert_number": "44771307",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "176286892753",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7348626404461366712/2431680789783695844.jpg",
+        "grade": "8",
+        "date": "3/25/2024",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "jscottyson",
+        "cert_number": "86840004"
+    },
+    {
+        "cert_number": "44771306",
+        "date": "12/11/2023",
+        "auction_seller": "tca_gaming",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "lot_number": "266513080259",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6356647231670665921/-1525943179664930589.jpg",
+        "grade": "10"
+    },
+    {
+        "date": "1/26/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4561558778952156214/-7200827825302486909.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_seller": "tntnorthnj",
+        "auction_type": "Auction",
+        "lot_number": "364685391529",
+        "cert_number": "83907856",
+        "auction_house": "eBay"
+    }
+]

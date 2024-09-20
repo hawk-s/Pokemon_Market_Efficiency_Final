@@ -1,0 +1,90 @@
+[
+    {
+        "date": "10/19/2022",
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "price": "$15.44",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1018464268199597133/589410571770193909.jpg",
+        "cert_number": "57118634",
+        "auction_type": "Auction",
+        "lot_number": "115561459455",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "374791060868",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6976256358783179464/5029512981333513472.jpg",
+        "date": "7/11/2023",
+        "price": "$15.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "56813564",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "cert_number": "40911659",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4979272279963520239/4454330741652561672.jpg",
+        "lot_number": "192911202202",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "5/15/2019",
+        "price": "$3.99",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "52825964",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8037620488600024433/-5789067789178481222.jpg",
+        "date": "9/18/2021",
+        "auction_seller": "hansenshouseofwax213",
+        "lot_number": "185044091345",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/7/2024",
+        "lot_number": "196420975056",
+        "auction_seller": "eves_cards",
+        "price": "$10.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "57377269",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8181155111991322854/-8351748763495911538.jpg"
+    },
+    {
+        "cert_number": "54300191",
+        "lot_number": "275086558722",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_house": "eBay",
+        "date": "1/21/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6613881613116812858/-4916238482017858169.jpg",
+        "price": "$33.00"
+    },
+    {
+        "date": "2/6/2023",
+        "price": "$29.75",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1968742946480912482/-46991089899652480.jpg",
+        "auction_seller": "rocky_mountain_graded_cards",
+        "cert_number": "46864411",
+        "auction_type": "Auction",
+        "lot_number": "185754135958",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "43136441",
+        "auction_seller": "italianluger",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7211392958024607377/7234701376997334431.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$10.37",
+        "lot_number": "164113374584",
+        "auction_house": "eBay",
+        "date": "3/14/2020"
+    }
+]

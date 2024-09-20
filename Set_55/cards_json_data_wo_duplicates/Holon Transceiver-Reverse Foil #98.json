@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$10.50",
+        "date": "4/18/2024",
+        "grade": "6",
+        "auction_seller": "markzimms_1",
+        "cert_number": "46295381",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "204737082297",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3866090100858427173/5305800244796945180.jpg"
+    },
+    {
+        "auction_seller": "lunacardsau",
+        "price": "$17.54",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7214272350883278229/-7405050883770219514.jpg",
+        "grade": "9",
+        "cert_number": "91937902",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/9/2024",
+        "lot_number": "156283400407"
+    },
+    {
+        "cert_number": "68793400",
+        "date": "5/12/2023",
+        "auction_seller": "marro-4916",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8931356121076511566/-485986230383903810.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "185882427997",
+        "price": "$45.08",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$13.66",
+        "cert_number": "91937903",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/216625772088280598/6727268385610499353.jpg",
+        "date": "6/27/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "116224046865",
+        "auction_seller": "lunacardsau"
+    },
+    {
+        "lot_number": "305719807093",
+        "price": "$20.00",
+        "date": "8/18/2024",
+        "cert_number": "91937902",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-970316080574757890/-444835107511246600.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-241562139693960388/756731093112412440.jpg",
+        "auction_type": "Best Offer",
+        "auction_seller": "furuwaka59",
+        "lot_number": "363342145747",
+        "cert_number": "41175433",
+        "date": "4/2/2021",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$29.99"
+    }
+]

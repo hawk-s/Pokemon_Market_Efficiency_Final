@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "7",
+        "cert_number": "49601018",
+        "auction_seller": "joeytcomplex",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3884859511760780436/7402557853501095093.jpg",
+        "auction_house": "eBay",
+        "lot_number": "143981158916",
+        "date": "3/27/2021",
+        "price": "$33.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2203262578580999350/-7927908377897254480.jpg",
+        "lot_number": "192489770473",
+        "date": "3/29/2018",
+        "cert_number": "28958638",
+        "price": "$24.99",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$15.00",
+        "auction_type": "Best Offer",
+        "lot_number": "292810244149",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "cert_number": "41157410",
+        "date": "2/7/2019",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5039885534240153653/6697552381477524576.jpg"
+    },
+    {
+        "auction_seller": "boxcar_tourist",
+        "cert_number": "49485770",
+        "date": "10/24/2022",
+        "grade": "8",
+        "price": "$31.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2966486324650127802/-1221709459406441834.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285003160266"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$38.00",
+        "date": "12/11/2023",
+        "cert_number": "44306545",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1378424150608938994/-911777344748750370.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "lot_number": "276172612634"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7883478471247434301/-1377646537117018325.jpg",
+        "cert_number": "45009073",
+        "lot_number": "153955543859",
+        "price": "$58.00",
+        "date": "9/9/2020",
+        "auction_type": "Best Offer",
+        "auction_seller": "nathala-6",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "353357444318",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5030483100659959878/-5620344787432198551.jpg",
+        "grade": "9",
+        "cert_number": "44461459",
+        "date": "1/28/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2656116582952360563/-1247833612640897040.jpg",
+        "price": "$31.01",
+        "cert_number": "44306545",
+        "auction_type": "Auction",
+        "lot_number": "383220996756",
+        "date": "10/24/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "cert_number": "41643891",
+        "date": "7/30/2024",
+        "price": "$28.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8527830355730089501/-7581227366129426922.jpg",
+        "auction_type": "Auction",
+        "lot_number": "315550289831",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "date": "4/6/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2249672428496125027/-2190550323121928486.jpg",
+        "cert_number": "87054734",
+        "price": "$10.50",
+        "auction_seller": "unclenickscollection",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "266742183955"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4141561564986073618/4472995359435914411.jpg",
+        "date": "4/19/2024",
+        "lot_number": "135016203418",
+        "auction_seller": "traskman17",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$23.76",
+        "grade": "10",
+        "cert_number": "88121198"
+    },
+    {
+        "cert_number": "51982186",
+        "auction_seller": "dcarmory",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4328916942797927515/8555461224814377490.jpg",
+        "date": "10/25/2021",
+        "price": "$64.00",
+        "auction_type": "Auction",
+        "lot_number": "274992194646",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$26.00",
+        "cert_number": "93072471",
+        "lot_number": "395600368915",
+        "grade": "9",
+        "auction_seller": "beachcitybreaks",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2420549333090368659/-6908478027143719949.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/23/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4102765972866435918/-2137443038011008868.jpg",
+        "date": "12/27/2022",
+        "cert_number": "58873543",
+        "auction_seller": "card.galaxy",
+        "lot_number": "325470434202",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$83.10",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/215990886329634398/470726673738860366.jpg",
+        "grade": "9",
+        "cert_number": "77169245",
+        "lot_number": "134820448450",
+        "price": "$35.00",
+        "date": "11/30/2023",
+        "auction_seller": "misteroktobercards",
+        "auction_house": "eBay",
+        "auction_type": "Auction"
+    }
+]

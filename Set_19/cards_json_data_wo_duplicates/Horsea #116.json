@@ -1,0 +1,46 @@
+[
+    {
+        "date": "8/27/2023",
+        "cert_number": "71821659",
+        "price": "$23.19",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1013898090588493199/-8920922837665127724.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "285431996394"
+    },
+    {
+        "cert_number": "58773662",
+        "auction_seller": "rocky_mountain_graded_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7347018173124642481/-2881634761174052898.jpg",
+        "lot_number": "185745585084",
+        "price": "$35.00",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "1/27/2023",
+        "grade": "10"
+    },
+    {
+        "cert_number": "62303460",
+        "lot_number": "354672265981",
+        "auction_seller": "tcgchampion",
+        "date": "3/30/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$14.76",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5795326070579607052/-3468953225091785328.jpg"
+    },
+    {
+        "cert_number": "89955532",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4746470584281862211/-6835903533106253938.jpg",
+        "lot_number": "126578265971",
+        "auction_seller": "dcsports87",
+        "price": "$22.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/21/2024"
+    }
+]

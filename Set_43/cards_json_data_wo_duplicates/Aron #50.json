@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "wilscha1438",
+        "lot_number": "404086044455",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8173321203368289527/-2927815678727637907.jpg",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "date": "1/9/2023",
+        "cert_number": "67207293",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8261460043412103694/-861715988958804924.jpg",
+        "date": "6/27/2020",
+        "price": "$27.99",
+        "auction_seller": "masterset_collector",
+        "cert_number": "44001832",
+        "auction_type": "Best Offer",
+        "lot_number": "184002492449",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "10/10/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3941904248144185431/3129785520721948705.jpg",
+        "price": "$42.28",
+        "cert_number": "43911372",
+        "auction_seller": "pokichloe",
+        "auction_type": "Auction",
+        "lot_number": "255161891927",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "hilcarb-13",
+        "lot_number": "402153174690",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9081145925279157206/-4488190020731755146.jpg",
+        "auction_type": "Auction",
+        "cert_number": "43350452",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "3/17/2020"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1735611332639294384/7639585471604524842.jpg",
+        "auction_seller": "thapoke92",
+        "auction_type": "Buy It Now",
+        "grade": "10",
+        "price": "$82.00",
+        "cert_number": "43350452",
+        "auction_house": "eBay",
+        "lot_number": "233579393513",
+        "date": "5/5/2020"
+    },
+    {
+        "cert_number": "43911372",
+        "auction_seller": "back.to.base",
+        "date": "5/8/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/517376620980363453/-8777037123514064611.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "324599359249",
+        "price": "$79.68"
+    }
+]

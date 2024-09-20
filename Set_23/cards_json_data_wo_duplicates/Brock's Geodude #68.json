@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "82011416",
+        "grade": "8",
+        "price": "$10.00",
+        "auction_seller": "bryandyeo",
+        "auction_type": "Auction",
+        "lot_number": "256480035247",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1846391725321386024/-2451622412590133107.jpg"
+    },
+    {
+        "lot_number": "314371927448",
+        "cert_number": "68488196",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6792750349590313417/3896554989960768937.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "samoak",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "date": "2/12/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9219549596980392873/-7268634118154165113.jpg",
+        "grade": "10",
+        "date": "9/24/2023",
+        "price": "$24.99",
+        "auction_seller": "22waterboy22",
+        "cert_number": "51036208",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "266415812263"
+    }
+]

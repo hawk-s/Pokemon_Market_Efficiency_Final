@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$55.63",
+        "auction_type": "Buy It Now",
+        "cert_number": "44116728",
+        "auction_seller": "playskapegames",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1663613317081341509/-6214874792908441780.jpg",
+        "date": "5/29/2020",
+        "auction_house": "eBay",
+        "lot_number": "223820751069",
+        "grade": "10"
+    },
+    {
+        "date": "9/11/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4834603204254022386/-1434601466097337146.jpg",
+        "lot_number": "295199553165",
+        "grade": "9",
+        "cert_number": "60844910",
+        "auction_seller": "amtsupply",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/22/2021",
+        "price": "$89.08",
+        "cert_number": "44116728",
+        "lot_number": "284526847329",
+        "auction_seller": "zandgemporium-0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7072423739828093665/-4397041003354490240.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8145134455484004919/-2542079954626103363.jpg",
+        "cert_number": "44116728",
+        "date": "9/5/2021",
+        "price": "$72.13",
+        "auction_type": "Auction",
+        "auction_seller": "mibroom_0",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "154589132817"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3428815233060856976/-3573707276974506986.jpg",
+        "price": "$13.70",
+        "auction_seller": "tannah12",
+        "lot_number": "115727500246",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "60948881",
+        "date": "3/20/2023",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "275295930564",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-99468821496823061/-6173038474679518305.jpg",
+        "date": "5/6/2022",
+        "auction_type": "Auction",
+        "auction_seller": "austiobrie-28",
+        "cert_number": "55663438",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "price": "$10.48",
+        "lot_number": "145784108460",
+        "auction_seller": "new_in_wv",
+        "auction_type": "Auction",
+        "date": "5/25/2024",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-95150650454167103/4465995300514606977.jpg",
+        "cert_number": "60810683"
+    },
+    {
+        "lot_number": "145784108462",
+        "cert_number": "60810685",
+        "price": "$10.48",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8704911991547490574/-7781676000099882866.jpg",
+        "auction_seller": "new_in_wv",
+        "auction_type": "Auction",
+        "date": "5/25/2024",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/19/2024",
+        "auction_seller": "new_in_wv",
+        "price": "$9.96",
+        "lot_number": "145829859816",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1732668712493977085/4465995300514606977.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "60810683"
+    }
+]

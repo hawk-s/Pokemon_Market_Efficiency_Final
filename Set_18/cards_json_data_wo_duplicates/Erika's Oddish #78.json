@@ -1,0 +1,68 @@
+[
+    {
+        "date": "4/7/2024",
+        "grade": "7",
+        "price": "$2.25",
+        "auction_seller": "gradedgeekz",
+        "cert_number": "84680842",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3828167109478421108/-1997260928253453425.jpg",
+        "lot_number": "176313397781"
+    },
+    {
+        "date": "1/9/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2438232749596835456/-1466210482803611619.jpg",
+        "price": "$7.00",
+        "auction_seller": "probstein123",
+        "cert_number": "28153209",
+        "lot_number": "362202259179",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$4.25",
+        "lot_number": "362142541852",
+        "cert_number": "28153208",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/6/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4956477687588864256/-5991290086155717445.jpg"
+    },
+    {
+        "date": "4/7/2020",
+        "auction_type": "Best Offer",
+        "price": "$12.49",
+        "grade": "9",
+        "lot_number": "193358771093",
+        "auction_seller": "blowoutcards2",
+        "cert_number": "44418910",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8848968880296534884/7021858464729010375.jpg"
+    },
+    {
+        "lot_number": "203243007582",
+        "auction_seller": "iconic.cards",
+        "date": "1/16/2021",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-306641721985684543/8736485106665287958.jpg",
+        "cert_number": "51539929",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "314325873711",
+        "date": "1/22/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4857356830862065577/7481245019205840261.jpg",
+        "cert_number": "68488208",
+        "auction_type": "Auction",
+        "auction_seller": "samoak",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$79.99"
+    }
+]

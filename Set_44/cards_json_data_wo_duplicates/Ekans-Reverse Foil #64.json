@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "zandgemporium",
+        "date": "12/31/2023",
+        "cert_number": "82878852",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3953332208686840181/4123974627397698715.jpg",
+        "price": "$10.52",
+        "auction_type": "Auction",
+        "lot_number": "285619833896",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "price": "$13.24",
+        "cert_number": "72797433",
+        "auction_seller": "vispri-21",
+        "lot_number": "355081571980",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7615227480494564927/7446436873673057108.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/29/2023"
+    },
+    {
+        "cert_number": "94859791",
+        "date": "8/24/2024",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "305724998071",
+        "price": "$12.50",
+        "auction_seller": "psa",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1024303733517744589/-7201386189281494699.jpg"
+    },
+    {
+        "grade": "8",
+        "auction_seller": "apmerchant02",
+        "date": "9/29/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1692234474117760432/3398453878041560683.jpg",
+        "auction_type": "Auction",
+        "price": "$16.02",
+        "auction_house": "eBay",
+        "cert_number": "51424178",
+        "lot_number": "185058626674"
+    },
+    {
+        "cert_number": "48987686",
+        "date": "10/2/2021",
+        "price": "$23.77",
+        "auction_seller": "huhu-3310",
+        "lot_number": "363560526866",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5228923426762446973/5621613572824782181.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

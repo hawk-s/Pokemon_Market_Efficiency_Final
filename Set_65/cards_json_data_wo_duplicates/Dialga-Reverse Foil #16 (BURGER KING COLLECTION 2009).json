@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "74525612",
+        "price": "$15.50",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7455643987790861142/5837257485623033182.jpg",
+        "date": "8/21/2023",
+        "lot_number": "385965524472",
+        "auction_seller": "battm7810"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/569427981329290733/-2888172463132114966.jpg",
+        "auction_seller": "ig_meeshthepokeman",
+        "cert_number": "78813599",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "196458394242",
+        "auction_house": "eBay",
+        "date": "6/29/2024"
+    },
+    {
+        "date": "5/7/2024",
+        "lot_number": "135041871573",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8627554734729333103/-2264016648048422427.jpg",
+        "price": "$14.94",
+        "cert_number": "89941008",
+        "auction_type": "Auction",
+        "auction_seller": "cardmencal",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7581867993385569696/-2264016648048422427.jpg",
+        "grade": "8",
+        "lot_number": "135067150507",
+        "cert_number": "89941008",
+        "auction_type": "Auction",
+        "auction_seller": "cardmencal",
+        "date": "5/25/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "44156881",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8079804740739704749/6951527069321452468.jpg",
+        "auction_type": "Auction",
+        "date": "11/9/2019",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "lot_number": "254408547432",
+        "price": "$7.59"
+    }
+]

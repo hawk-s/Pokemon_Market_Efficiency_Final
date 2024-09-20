@@ -1,0 +1,68 @@
+[
+    {
+        "date": "8/6/2023",
+        "cert_number": "72564469",
+        "grade": "9",
+        "lot_number": "134669086774",
+        "auction_seller": "slapauction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2011689403036956696/4456313549111867053.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.06"
+    },
+    {
+        "price": "$18.94",
+        "date": "8/6/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6649601380285008855/7783100138053483638.jpg",
+        "auction_seller": "slapauction",
+        "lot_number": "134669086740",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "72564452"
+    },
+    {
+        "cert_number": "72564453",
+        "date": "8/6/2023",
+        "lot_number": "134669086873",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2956205515328425238/6891769538752490741.jpg",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "price": "$23.16",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/6/2023",
+        "lot_number": "134669086787",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1820093420134951257/-5685848825686799947.jpg",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "price": "$21.49",
+        "auction_house": "eBay",
+        "cert_number": "72564451"
+    },
+    {
+        "date": "8/6/2023",
+        "cert_number": "72564470",
+        "price": "$21.51",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "lot_number": "134669086790",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9043278322852759249/1143747425064121529.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7394031900968639731/6768638717397224502.jpg",
+        "grade": "8",
+        "lot_number": "134604627618",
+        "cert_number": "72564454",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "date": "6/18/2023",
+        "auction_house": "eBay",
+        "price": "$11.47"
+    }
+]

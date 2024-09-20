@@ -1,0 +1,46 @@
+[
+    {
+        "date": "11/22/2021",
+        "cert_number": "51959373",
+        "grade": "8",
+        "lot_number": "265398432548",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5365689645941839708/6068340394716901555.jpg",
+        "price": "$34.77",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8322264676890178876/7104958092481395154.jpg",
+        "grade": "8",
+        "lot_number": "202585687235",
+        "date": "2/9/2019",
+        "cert_number": "40910996",
+        "price": "$7.99",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "lot_number": "185191121515",
+        "cert_number": "50464354",
+        "date": "12/12/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2702394146362135280/-1955165112840218433.jpg",
+        "price": "$19.99",
+        "auction_seller": "the1missingpiece",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "192911202201",
+        "price": "$5.27",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7313498598952449545/7104958092481395154.jpg",
+        "grade": "8",
+        "cert_number": "40910996",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "5/15/2019",
+        "auction_house": "eBay"
+    }
+]

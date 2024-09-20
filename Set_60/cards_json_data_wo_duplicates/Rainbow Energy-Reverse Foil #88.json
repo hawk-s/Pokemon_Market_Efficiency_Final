@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "poke_paradise",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8358020351305397934/3122634206531221841.jpg",
+        "grade": "8",
+        "date": "7/10/2023",
+        "cert_number": "47033300",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185965152274"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "401539605784",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8642461613013723848/2643906041445362723.jpg",
+        "grade": "9",
+        "price": "$14.50",
+        "cert_number": "25568856",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/28/2018"
+    },
+    {
+        "auction_seller": "cardrushinc",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "cert_number": "40774676",
+        "grade": "9",
+        "lot_number": "283011139358",
+        "date": "9/2/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6625690416031127640/7610121127900010229.jpg",
+        "auction_house": "eBay"
+    }
+]

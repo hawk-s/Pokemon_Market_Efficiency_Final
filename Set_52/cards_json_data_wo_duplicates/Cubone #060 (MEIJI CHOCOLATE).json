@@ -1,0 +1,46 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "lot_number": "203044282858",
+        "cert_number": "41388524",
+        "auction_seller": "kgvapes402-1",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5902944230987093453/5570274249153015432.jpg",
+        "auction_house": "eBay",
+        "date": "8/16/2020",
+        "grade": "10",
+        "price": "$33.00"
+    },
+    {
+        "date": "4/14/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/496830045937052211/2684785397705217376.jpg",
+        "cert_number": "88304081",
+        "grade": "9",
+        "price": "$20.50",
+        "lot_number": "156150157307",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "rainierconsignment"
+    },
+    {
+        "cert_number": "43758973",
+        "auction_seller": "cardboundllc",
+        "auction_type": "Best Offer",
+        "date": "8/16/2020",
+        "lot_number": "324024273349",
+        "price": "$35.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6494053684415112654/8831862022888856130.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "313610548812",
+        "price": "$94.00",
+        "auction_seller": "coins_n_rarities",
+        "cert_number": "49153086",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4041524422847696637/-8741233745959649706.jpg",
+        "date": "7/28/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

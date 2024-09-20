@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "psa10gem101",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3258530820978573156/7708957745598994502.jpg",
+        "grade": "9",
+        "price": "$19.99",
+        "cert_number": "69194410",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "125697438529"
+    },
+    {
+        "date": "2/8/2021",
+        "auction_seller": "daniel6495",
+        "cert_number": "48673657",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8528593744011835688/-7620667586702713557.jpg",
+        "grade": "9",
+        "price": "$31.00",
+        "lot_number": "133653050675",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "robk0215",
+        "date": "10/15/2021",
+        "lot_number": "174971739956",
+        "price": "$41.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1702039142204835528/3539178557193833957.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "49959119"
+    },
+    {
+        "auction_seller": "noyescollectables67",
+        "cert_number": "69263628",
+        "date": "12/29/2022",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7246069344811012241/6149189755488005818.jpg",
+        "auction_house": "eBay",
+        "lot_number": "195531186700",
+        "price": "$18.00"
+    },
+    {
+        "date": "11/22/2021",
+        "auction_seller": "robk0215",
+        "price": "$26.00",
+        "lot_number": "175020290521",
+        "cert_number": "49959118",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2751273074233193946/-7383357778890704610.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "robk0215",
+        "price": "$26.00",
+        "lot_number": "175007118282",
+        "date": "11/11/2021",
+        "cert_number": "49959121",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8254333927594582160/-2227091543863817538.jpg"
+    }
+]

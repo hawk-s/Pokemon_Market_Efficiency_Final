@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8343582053793356510/7360415386290437168.jpg",
+        "cert_number": "57709687",
+        "auction_seller": "j_a_cards",
+        "lot_number": "204234661663",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/12/2023"
+    },
+    {
+        "grade": "7",
+        "date": "6/11/2024",
+        "price": "$8.27",
+        "cert_number": "62795320",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7489305010590818635/-4250442609832210211.jpg",
+        "lot_number": "364921655643",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.50",
+        "lot_number": "275086563438",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4700386470736665827/1908488633063482515.jpg",
+        "cert_number": "54300194",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "date": "1/21/2022",
+        "auction_house": "eBay"
+    }
+]

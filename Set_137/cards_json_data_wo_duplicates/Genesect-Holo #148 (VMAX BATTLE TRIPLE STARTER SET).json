@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "55968507",
+        "price": "$27.01",
+        "date": "9/5/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6661367723996347566/-4688934793624277403.jpg",
+        "lot_number": "224589628913",
+        "auction_type": "Auction",
+        "auction_seller": "u.s.greatestcoins",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "lot_number": "234138252583",
+        "auction_seller": "japan-higasi-116",
+        "cert_number": "55968507",
+        "date": "8/24/2021",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5576456004439068128/3849180967514509218.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "tannah10s",
+        "price": "$8.30",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5588650577987571570/-2389356806881683043.jpg",
+        "cert_number": "61398943",
+        "date": "12/3/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115995471326"
+    },
+    {
+        "date": "2/13/2023",
+        "auction_seller": "cardboundllc",
+        "lot_number": "225401830039",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1993250489463280885/-7635346921669073270.jpg",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "cert_number": "70620991",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

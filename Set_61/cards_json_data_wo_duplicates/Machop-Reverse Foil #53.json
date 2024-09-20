@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$30.00",
+        "auction_seller": "gami-tcg",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3472701222878445194/7765559988012505955.jpg",
+        "cert_number": "55414102",
+        "lot_number": "404353637050",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/2/2023"
+    },
+    {
+        "cert_number": "61965965",
+        "lot_number": "235603811813",
+        "price": "$65.19",
+        "auction_seller": "goldrush_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-160998568509168523/3172915090141720617.jpg",
+        "date": "6/16/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "micgul3145",
+        "lot_number": "404512313960",
+        "cert_number": "72074860",
+        "grade": "8",
+        "price": "$10.02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2116822895460837590/-2672308584151809239.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/2/2023"
+    }
+]

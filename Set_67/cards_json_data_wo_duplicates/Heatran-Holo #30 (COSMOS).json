@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$13.50",
+        "date": "1/15/2023",
+        "auction_seller": "ds_tcg",
+        "lot_number": "385341091744",
+        "grade": "8",
+        "cert_number": "60402071",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1711332890085262894/2133368816344455006.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/15/2024",
+        "auction_seller": "charizard1996",
+        "grade": "8",
+        "lot_number": "355938331460",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8176297716107464940/-5075653732222075700.jpg",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "94748457"
+    },
+    {
+        "cert_number": "92260802",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6614843476281134773/-3148964404240949130.jpg",
+        "lot_number": "395487835489",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid",
+        "price": "$18.50",
+        "date": "6/29/2024"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "69717048",
+        "date": "7/11/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8322375736921979176/4438008564528176213.jpg",
+        "price": "$10.00",
+        "auction_seller": "getyourgoodshere",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "195861288610"
+    },
+    {
+        "cert_number": "66778207",
+        "lot_number": "225399439286",
+        "grade": "9",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3903090326291371858/-3283610879147599218.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/12/2023",
+        "auction_seller": "bibscollectibles"
+    },
+    {
+        "lot_number": "223811872924",
+        "cert_number": "44116583",
+        "auction_seller": "sken1851",
+        "auction_type": "Best Offer",
+        "price": "$77.20",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-380658362844376009/5195319026654563973.jpg",
+        "date": "2/28/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

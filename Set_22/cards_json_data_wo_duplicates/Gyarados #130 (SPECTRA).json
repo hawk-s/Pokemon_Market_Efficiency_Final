@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "crispyslabs",
+        "price": "$308.41",
+        "date": "2/20/2023",
+        "cert_number": "68236520",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3180296078900028487/-8045584474917137339.jpg",
+        "lot_number": "325533611437"
+    },
+    {
+        "auction_seller": "jcollect3",
+        "grade": "3",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.50",
+        "date": "3/21/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3619733789583951197/-710084986469254057.jpg",
+        "lot_number": "296294023374",
+        "cert_number": "56416148"
+    },
+    {
+        "cert_number": "58264454",
+        "lot_number": "334782718576",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2975331786273962455/4471415466752655120.jpg",
+        "grade": "9",
+        "auction_seller": "dacardworld",
+        "price": "$272.00",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay"
+    }
+]

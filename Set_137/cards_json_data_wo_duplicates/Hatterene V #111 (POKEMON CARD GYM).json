@@ -1,0 +1,46 @@
+[
+    {
+        "date": "2/6/2023",
+        "price": "$26.00",
+        "auction_seller": "greatlakeshobby",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6425403328623731759/8352811697229763163.jpg",
+        "lot_number": "175593829447",
+        "cert_number": "58938279",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$16.27",
+        "date": "7/2/2024",
+        "lot_number": "126548540281",
+        "auction_seller": "dcsports87",
+        "cert_number": "58938278",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4665227450214522515/6821664345484483217.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "63009254",
+        "price": "$20.00",
+        "auction_seller": "shinjuku-donquixote",
+        "date": "12/15/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-347927731361467794/-8148997638930134401.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285070879914",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8117654223332775606/-4692057335817131138.jpg",
+        "price": "$20.00",
+        "auction_seller": "shinjuku-donquixote",
+        "cert_number": "63295287",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285072903033",
+        "grade": "10",
+        "date": "12/17/2022"
+    }
+]

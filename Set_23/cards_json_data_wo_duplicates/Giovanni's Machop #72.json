@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "troll.aus",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2114148131488020425/5964716532904582916.jpg",
+        "date": "3/19/2023",
+        "price": "$35.27",
+        "cert_number": "70372818",
+        "auction_type": "Auction",
+        "lot_number": "155444802602",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "74260247",
+        "price": "$26.73",
+        "lot_number": "275993079204",
+        "auction_seller": "world_of_geek",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/20/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7793208275036923850/-8217432218077914371.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "69394451",
+        "price": "$7.50",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4738413937160995748/-385767474774403743.jpg",
+        "lot_number": "364141274893",
+        "date": "2/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/493802241869987921/2935672069855205057.jpg",
+        "auction_seller": "mclean_trading",
+        "cert_number": "58112958",
+        "date": "3/3/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "404176625541",
+        "price": "$32.00",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "mclean_trading",
+        "cert_number": "58112958",
+        "lot_number": "404167745237",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6631313959356281087/2935672069855205057.jpg",
+        "grade": "10",
+        "price": "$81.00",
+        "date": "2/24/2023"
+    }
+]

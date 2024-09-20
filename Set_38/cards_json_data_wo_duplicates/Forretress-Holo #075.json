@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "pokemonpacific",
+        "price": "$9.50",
+        "lot_number": "392205852860",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1155205630249752242/6413122824072024025.jpg",
+        "cert_number": "41930796",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/8/2019"
+    },
+    {
+        "price": "$83.22",
+        "cert_number": "85159437",
+        "lot_number": "296654230091",
+        "auction_seller": "superj_collection",
+        "date": "9/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8277637644626828957/-5245028271020800151.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "mirmex",
+        "date": "4/14/2024",
+        "lot_number": "285796548596",
+        "cert_number": "84005959",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3773602547605929527/4142350651089502986.jpg",
+        "price": "$80.79",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/5/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4623112698856306955/759125939704485852.jpg",
+        "cert_number": "82868746",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "lot_number": "126353384374",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

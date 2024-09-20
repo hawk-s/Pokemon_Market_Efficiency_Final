@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "175773891623",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4251237389998344021/-7875292582953768675.jpg",
+        "price": "$5.50",
+        "grade": "9",
+        "cert_number": "74493251",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "jscottyson",
+        "date": "6/26/2023"
+    },
+    {
+        "cert_number": "61353187",
+        "lot_number": "285595820981",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "price": "$4.75",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-216498160372603957/-6105985334503986932.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/12/2019",
+        "auction_seller": "2015.sitav",
+        "auction_type": "Buy It Now",
+        "lot_number": "202642646762",
+        "cert_number": "41443322",
+        "price": "$36.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3242656971444490843/2488421418543906038.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "256149068867",
+        "grade": "7",
+        "price": "$9.50",
+        "cert_number": "53831377",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1173805048532801208/4028606522124974736.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "pokemonteamrocket",
+        "auction_house": "eBay",
+        "date": "7/28/2023"
+    }
+]

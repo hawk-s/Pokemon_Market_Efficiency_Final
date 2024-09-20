@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$37.09",
+        "date": "10/20/2020",
+        "lot_number": "363139347733",
+        "auction_seller": "probstein123",
+        "cert_number": "28109905",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2911358255960459314/4353256035476795364.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5174841886101919930/5219004714738613120.jpg",
+        "auction_seller": "wezzer_collectables",
+        "price": "$35.48",
+        "date": "9/1/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "71821428",
+        "lot_number": "126066050658"
+    },
+    {
+        "date": "4/5/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/122963750340443283/4974980304979702102.jpg",
+        "cert_number": "54767782",
+        "grade": "8",
+        "lot_number": "256462293209",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "auction_seller": "frenzy_collectors"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7745940458852574532/3586223993434706288.jpg",
+        "price": "$6.50",
+        "lot_number": "292312309702",
+        "auction_type": "Auction",
+        "cert_number": "27798193",
+        "date": "11/9/2017",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$10.50",
+        "grade": "10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27798193",
+        "auction_seller": "tnolan0816",
+        "date": "10/27/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6968977201888011442/865454469732047760.jpg",
+        "lot_number": "292297580061"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1413449548400478585/7337859770998710084.jpg",
+        "auction_type": "Best Offer",
+        "grade": "10",
+        "auction_seller": "i_love_shoes15",
+        "price": "$22.31",
+        "cert_number": "44771328",
+        "auction_house": "eBay",
+        "date": "5/27/2020",
+        "lot_number": "124046645660"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/173099846506470880/-5595139265882432962.jpg",
+        "auction_seller": "sbunney28",
+        "lot_number": "124267247591",
+        "price": "$26.40",
+        "auction_type": "Auction",
+        "date": "7/27/2020",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "26510545"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "7",
+        "cert_number": "55847174",
+        "auction_seller": "coins_n_rarities",
+        "price": "$148.50",
+        "date": "8/10/2023",
+        "lot_number": "314749379354",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6295725416544727286/-1494027605494842906.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "93626741",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6652697632980926163/7817689838207708281.jpg",
+        "auction_seller": "danieburges8",
+        "grade": "8",
+        "date": "8/2/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "166888264420",
+        "price": "$230.50"
+    },
+    {
+        "auction_seller": "christopherlam20122470",
+        "lot_number": "175080259999",
+        "grade": "9",
+        "cert_number": "63837136",
+        "auction_house": "eBay",
+        "date": "12/30/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5572905187790880163/-2739934117974228726.jpg",
+        "auction_type": "Auction",
+        "price": "$192.50"
+    }
+]

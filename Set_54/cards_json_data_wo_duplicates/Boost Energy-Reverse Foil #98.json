@@ -1,0 +1,57 @@
+[
+    {
+        "date": "2/14/2021",
+        "auction_type": "Best Offer",
+        "auction_seller": "esp-pokemon",
+        "price": "$46.37",
+        "lot_number": "373452147638",
+        "grade": "9",
+        "cert_number": "46585066",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5430827576017083053/-7282825655081988515.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "71755749",
+        "lot_number": "156204821158",
+        "price": "$6.99",
+        "date": "5/19/2024",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4069916967054703665/7364981399556385818.jpg",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$17.19",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1086014967813034503/6344622531818167718.jpg",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285779357322",
+        "grade": "9",
+        "cert_number": "56502265",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "223864181981",
+        "cert_number": "42197473",
+        "price": "$20.50",
+        "auction_seller": "joschavarri_57",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5140456802418605490/-5696614407637440697.jpg",
+        "grade": "10",
+        "date": "1/26/2020"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3510390027332526021/-1175864371584205221.jpg",
+        "auction_seller": "esp-pokemon",
+        "date": "6/4/2021",
+        "grade": "10",
+        "price": "$93.98",
+        "cert_number": "29035937",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "373597506959"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$12.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5075947294200236295/-9222794228179552033.jpg",
+        "auction_seller": "tanismtz",
+        "date": "1/30/2020",
+        "lot_number": "153806808947",
+        "grade": "9",
+        "cert_number": "42417239",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/23/2024",
+        "lot_number": "285908332619",
+        "cert_number": "78742549",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5823361284611819424/9057564885879256356.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$10.10",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "date": "6/23/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6888890632125081777/-4359201512009015266.jpg",
+        "price": "$9.47",
+        "grade": "9",
+        "lot_number": "285908330031",
+        "cert_number": "78742551",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/808471890811947051/-736424398074328822.jpg",
+        "cert_number": "78742552",
+        "price": "$24.19",
+        "date": "6/2/2024",
+        "lot_number": "285873841781",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "lakegamestore"
+    }
+]

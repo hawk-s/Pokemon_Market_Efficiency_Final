@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "poke-martcollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4604520544217075458/-2549287980945250805.jpg",
+        "date": "3/19/2023",
+        "grade": "9",
+        "price": "$20.50",
+        "cert_number": "49167403",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275736341674"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/725713039321753137/-7493403306443071903.jpg",
+        "auction_seller": "511life",
+        "date": "7/12/2019",
+        "lot_number": "183872372986",
+        "cert_number": "43513458",
+        "grade": "8",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "265007811096",
+        "price": "$54.18",
+        "grade": "9",
+        "date": "1/18/2021",
+        "auction_seller": "jimmy89er",
+        "cert_number": "43116786",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8917292998619667686/-2430135941156784776.jpg"
+    }
+]

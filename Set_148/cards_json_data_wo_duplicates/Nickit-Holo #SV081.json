@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "babysu1",
+        "cert_number": "62001396",
+        "lot_number": "295270656816",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5909308332450533443/6689357034744700119.jpg",
+        "date": "10/24/2022",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "385092940456",
+        "date": "9/6/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/288307015298650904/-7691700931588996933.jpg",
+        "auction_seller": "agmavs27-9",
+        "price": "$15.50",
+        "cert_number": "57182684",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/17/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5388208823853686847/740554425270624104.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "374870412360",
+        "cert_number": "58561721",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    },
+    {
+        "lot_number": "185760745734",
+        "cert_number": "58283034",
+        "price": "$21.01",
+        "date": "2/10/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4797187947556296169/-3494462919972828291.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "czgaming"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7868081155960281092/815213719745990198.jpg",
+        "lot_number": "155147092885",
+        "date": "9/8/2022",
+        "price": "$15.10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "61575970",
+        "grade": "10",
+        "auction_seller": "oldcardcollections"
+    },
+    {
+        "date": "9/19/2022",
+        "price": "$19.49",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pc_sportscards",
+        "cert_number": "60733609",
+        "lot_number": "155158143137",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2839182006397015346/-7542320059014084429.jpg"
+    },
+    {
+        "date": "8/6/2023",
+        "auction_seller": "zandgemporium",
+        "cert_number": "76425922",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7715151420891197587/7037411920773201343.jpg",
+        "grade": "9",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285404747668"
+    }
+]

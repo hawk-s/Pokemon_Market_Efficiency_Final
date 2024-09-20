@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "jvccollectiblesandgifts",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4567477985638045345/-6850216551455814293.jpg",
+        "grade": "9",
+        "lot_number": "234113555878",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "cert_number": "48223809",
+        "date": "8/9/2021"
+    },
+    {
+        "auction_seller": "tannah10s",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1532109991206969528/8338692555076018565.jpg",
+        "lot_number": "115876818318",
+        "price": "$166.04",
+        "cert_number": "50712577",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/9/2023",
+        "grade": "10"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5995899444968712545/-7103324963974226654.jpg",
+        "price": "$19.99",
+        "date": "11/4/2021",
+        "auction_seller": "the1missingpiece",
+        "lot_number": "185127553825",
+        "auction_type": "Auction",
+        "cert_number": "50464361",
+        "auction_house": "eBay"
+    }
+]

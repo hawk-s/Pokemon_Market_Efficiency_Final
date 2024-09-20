@@ -1,0 +1,134 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "price": "$11.99",
+        "auction_seller": "my_honolulu_blue",
+        "cert_number": "27667868",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8746082156240184164/1720616996053352739.jpg",
+        "grade": "10",
+        "lot_number": "112567373748"
+    },
+    {
+        "date": "9/9/2023",
+        "cert_number": "77707257",
+        "auction_seller": "disneyscott15",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2357070811850743876/-8536456391079447418.jpg",
+        "grade": "8",
+        "lot_number": "186070782556",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "grade": "5",
+        "date": "7/6/2023",
+        "cert_number": "75596308",
+        "auction_seller": "Weekly Auction 27 Jun - 6 Jul",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/8389681089415402212/-247559847363831425/images/1.jpg",
+        "lot_number": "6183",
+        "price": "$6.00",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions"
+    },
+    {
+        "date": "8/31/2021",
+        "auction_seller": "coins_n_rarities",
+        "lot_number": "274919284942",
+        "cert_number": "49039143",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1029624528668819827/-3980804889396828415.jpg",
+        "price": "$59.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "305547325579",
+        "price": "$27.60",
+        "cert_number": "73054992",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6229508096015747637/-8818940225113791756.jpg",
+        "date": "5/5/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "homur-8966",
+        "grade": "10"
+    },
+    {
+        "lot_number": "142836549104",
+        "cert_number": "40771346",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9069574622578686297/-8712698784524870757.jpg",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "grade": "10"
+    },
+    {
+        "date": "3/20/2018",
+        "price": "$13.50",
+        "cert_number": "27839439",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2968254270282806640/4276007100505043155.jpg",
+        "lot_number": "112867389700"
+    },
+    {
+        "lot_number": "192823343874",
+        "date": "2/19/2019",
+        "grade": "8",
+        "cert_number": "41933433",
+        "auction_seller": "pokegottacatchem",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2884426988433011729/2639485328666367102.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "cert_number": "26693797",
+        "price": "$14.99",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8882112312947504885/411065608373193990.jpg",
+        "auction_seller": "pokemon_revolution",
+        "date": "7/13/2020",
+        "grade": "9",
+        "lot_number": "112309171473",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/14/2022",
+        "cert_number": "56612824",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "price": "$14.11",
+        "auction_type": "Auction",
+        "lot_number": "115630400226",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5283255948019019331/-6923616714964679609.jpg"
+    },
+    {
+        "auction_seller": "launderj1988",
+        "lot_number": "125037146802",
+        "price": "$38.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5069015831080962383/8376852345322414859.jpg",
+        "cert_number": "53214457",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/14/2021"
+    },
+    {
+        "date": "9/8/2021",
+        "cert_number": "49039142",
+        "auction_seller": "coins_n_rarities",
+        "lot_number": "274929938307",
+        "price": "$56.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4457547850304482284/-7528685950308459829.jpg"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$4.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2192682617597907472/975284318082997150.jpg",
+        "lot_number": "385571705760",
+        "date": "5/3/2023",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "60810566",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "62917360",
+        "grade": "10",
+        "auction_seller": "brewsbreaks",
+        "price": "$14.06",
+        "lot_number": "285014985133",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3700990262770382385/-6641974493427382235.jpg",
+        "date": "10/31/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1044272163024937522/4615033170708457279.jpg",
+        "cert_number": "77237358",
+        "auction_seller": "shinjuku-donquixote",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "3/4/2024",
+        "auction_house": "eBay",
+        "lot_number": "285736149758"
+    },
+    {
+        "date": "8/26/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4945970885961420263/8903201012521946375.jpg",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "cert_number": "61598599",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "235139050002",
+        "price": "$15.01"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4857256914333584895/-211480949726512001.jpg",
+        "lot_number": "134661647394",
+        "cert_number": "61945398",
+        "price": "$26.38",
+        "date": "7/30/2023",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/788221190589344438/6189532208534429053.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "386861106541",
+        "auction_type": "Auction",
+        "cert_number": "62732433",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "date": "3/26/2024"
+    }
+]

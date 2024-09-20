@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "bidoveru",
+        "grade": "8",
+        "cert_number": "68640538",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6002432852549707758/7591307001923328102.jpg",
+        "date": "9/6/2023",
+        "price": "$23.00",
+        "auction_type": "Auction",
+        "lot_number": "314793903769",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/8/2023",
+        "auction_seller": "tannah12",
+        "cert_number": "59404423",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6752713328810209515/7915817650554473954.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.39",
+        "lot_number": "155431869687"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "date": "7/8/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5444094175258062984/3681366124694477682.jpg",
+        "cert_number": "41643810",
+        "lot_number": "315479387026",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$32.00",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7410969921493231602/-324847073550203968.jpg",
+        "lot_number": "276172612636",
+        "cert_number": "55636372",
+        "date": "12/11/2023",
+        "price": "$40.03",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "lot_number": "123562595336",
+        "date": "1/1/2019",
+        "auction_seller": "psa10gem101",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3799293273902618527/-5046344384531971833.jpg",
+        "cert_number": "41933384",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/19/2019",
+        "cert_number": "41933464",
+        "grade": "9",
+        "auction_house": "eBay",
+        "lot_number": "192823343878",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7901680104967677561/8272192681173831289.jpg",
+        "price": "$0.99"
+    }
+]

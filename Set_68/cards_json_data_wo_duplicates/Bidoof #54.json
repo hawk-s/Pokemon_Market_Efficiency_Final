@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2580546685882497044/3474188306366458106.jpg",
+        "cert_number": "72439389",
+        "lot_number": "204328513984",
+        "auction_type": "Auction",
+        "date": "5/14/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "luxuryshoes96"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4105605822867344667/8788800071694790875.jpg",
+        "lot_number": "374785440855",
+        "cert_number": "72439388",
+        "date": "7/11/2023",
+        "auction_seller": "probstein123",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "385722365169",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2371072164871634628/4048486947019626204.jpg",
+        "cert_number": "72439391",
+        "date": "7/11/2023",
+        "auction_seller": "probstein123",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

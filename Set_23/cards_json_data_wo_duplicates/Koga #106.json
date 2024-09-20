@@ -1,0 +1,123 @@
+[
+    {
+        "date": "12/13/2021",
+        "grade": "8",
+        "cert_number": "53703864",
+        "price": "$6.50",
+        "lot_number": "175052017154",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4321425814380618267/5330500323940901778.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "jscottyson"
+    },
+    {
+        "price": "$13.77",
+        "grade": "7",
+        "cert_number": "53813947",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4095575462851422341/981552880570904710.jpg",
+        "lot_number": "353779999970",
+        "auction_seller": "tcgchampion",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/27/2021"
+    },
+    {
+        "lot_number": "402237099038",
+        "auction_seller": "pwcc_auctions",
+        "date": "4/30/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4915514067058832721/1258804327626197468.jpg",
+        "cert_number": "40851003",
+        "auction_type": "Auction",
+        "price": "$31.01",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/13/2021",
+        "price": "$10.50",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53703865",
+        "lot_number": "175052015083",
+        "auction_seller": "jscottyson",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6461980451598444452/-387868420097403981.jpg"
+    },
+    {
+        "price": "$10.50",
+        "date": "2/19/2022",
+        "grade": "9",
+        "cert_number": "53803264",
+        "lot_number": "175154581742",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7317642222480532638/7790713721653765445.jpg",
+        "auction_seller": "one-with-the-force"
+    },
+    {
+        "grade": "7",
+        "lot_number": "285150964557",
+        "auction_seller": "ejbgames_pcs_collectibles_etc",
+        "cert_number": "68783562",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2321606122745347914/7101506416122235273.jpg",
+        "date": "2/24/2023"
+    },
+    {
+        "grade": "4",
+        "date": "1/22/2022",
+        "auction_seller": "tica4ever703",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1922333403608068785/-3116098334580166859.jpg",
+        "price": "$20.50",
+        "cert_number": "54227900",
+        "lot_number": "265496470395",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "363658917420",
+        "cert_number": "53783046",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/450050720219610625/-72489623052210557.jpg",
+        "auction_seller": "probstein123",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/24/2021",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "kimmiekymkim",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4778988357674364311/6987580286989272176.jpg",
+        "price": "$10.50",
+        "cert_number": "68367254",
+        "date": "12/29/2022",
+        "lot_number": "325474688567",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7339067142261763813/-8364000005476912844.jpg",
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "price": "$26.00",
+        "lot_number": "401996921284",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "40851004"
+    },
+    {
+        "cert_number": "27737420",
+        "date": "10/24/2017",
+        "price": "$8.55",
+        "lot_number": "292293983276",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5389292430650995948/-7609139237030845314.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

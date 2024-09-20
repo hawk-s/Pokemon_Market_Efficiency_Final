@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "314299468458",
+        "cert_number": "68488212",
+        "date": "1/8/2023",
+        "price": "$59.99",
+        "auction_type": "Auction",
+        "auction_seller": "samoak",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8539689291968663487/7303445986670355341.jpg",
+        "grade": "10"
+    },
+    {
+        "date": "10/24/2022",
+        "cert_number": "58294834",
+        "price": "$64.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-274478379884211315/-3819197626603101378.jpg",
+        "lot_number": "295281594717",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "lumalama",
+        "grade": "10"
+    },
+    {
+        "cert_number": "87449544",
+        "price": "$16.45",
+        "lot_number": "285824677783",
+        "date": "4/29/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7465713654976283206/-7444316886734869549.jpg",
+        "auction_seller": "nido_cards_and_collectibles"
+    },
+    {
+        "lot_number": "354502501475",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6221007387105838896/-109071056142451301.jpg",
+        "grade": "8",
+        "auction_seller": "mattpacks",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "date": "1/22/2023",
+        "cert_number": "61951771"
+    }
+]

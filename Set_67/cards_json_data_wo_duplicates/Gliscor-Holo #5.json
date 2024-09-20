@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$25.34",
+        "date": "9/2/2023",
+        "grade": "8",
+        "auction_seller": "storm_cowells_cards",
+        "lot_number": "305096618202",
+        "cert_number": "62815712",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1108010485718209205/-7187521944723508118.jpg"
+    },
+    {
+        "date": "6/3/2020",
+        "lot_number": "152458853386",
+        "auction_type": "Buy It Now",
+        "cert_number": "25590396",
+        "grade": "9",
+        "auction_seller": "alexsabor",
+        "auction_house": "eBay",
+        "price": "$29.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3584449892793614374/1743378531406365532.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2493837301733278497/1389333787715134872.jpg",
+        "grade": "8",
+        "price": "$10.00",
+        "date": "7/12/2024",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "cert_number": "92465800",
+        "auction_house": "eBay",
+        "lot_number": "276534686541"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2665564312024116284/-8593545830899425569.jpg",
+        "auction_seller": "latiasvro",
+        "cert_number": "68669848",
+        "grade": "8",
+        "lot_number": "275651344463",
+        "price": "$20.50",
+        "date": "2/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1947500605822212455/6076005425135222520.jpg",
+        "date": "2/6/2023",
+        "cert_number": "68870950",
+        "lot_number": "155384013897",
+        "grade": "8",
+        "price": "$18.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "cheeses-treasures-llc"
+    }
+]

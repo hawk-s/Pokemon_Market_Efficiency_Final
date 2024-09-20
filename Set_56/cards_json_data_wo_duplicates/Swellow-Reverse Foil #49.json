@@ -1,0 +1,101 @@
+[
+    {
+        "price": "$4.25",
+        "cert_number": "28314121",
+        "auction_seller": "pokedad_gym",
+        "date": "4/29/2018",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6354880640339191199/-6956694637710431682.jpg",
+        "auction_house": "eBay",
+        "lot_number": "142767726012"
+    },
+    {
+        "cert_number": "72181292",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6733455991873627727/-2075388679858790776.jpg",
+        "auction_seller": "thepocketinvestor",
+        "grade": "9",
+        "price": "$20.50",
+        "lot_number": "355092438717",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/16/2023"
+    },
+    {
+        "date": "4/21/2024",
+        "cert_number": "72181292",
+        "price": "$13.50",
+        "auction_seller": "thepocketinvestor",
+        "lot_number": "355626597616",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-750053029788438703/-7149073040539005161.jpg"
+    },
+    {
+        "cert_number": "69969898",
+        "price": "$13.00",
+        "date": "2/2/2023",
+        "grade": "9",
+        "lot_number": "1916",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/8348611398206937170/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "date": "3/13/2018",
+        "auction_seller": "cardrushinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8075920861177250708/3834449910152177616.jpg",
+        "price": "$6.76",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "292474114581",
+        "cert_number": "28314121",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/5/2018",
+        "auction_seller": "cardrushinc",
+        "price": "$10.57",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/142966904327143497/7422125226309530846.jpg",
+        "lot_number": "273086881110",
+        "cert_number": "28314119",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "90837489",
+        "price": "$18.27",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9122863797916144310/7177737516276540724.jpg",
+        "date": "7/2/2024",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "387116328922"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3994070905220958913/-5203260967130910450.jpg",
+        "price": "$15.49",
+        "lot_number": "135015838510",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius",
+        "cert_number": "88447013"
+    },
+    {
+        "auction_seller": "cardrushinc",
+        "cert_number": "28314120",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9118264115612607896/-6929707724264061959.jpg",
+        "auction_type": "Best Offer",
+        "date": "6/20/2018",
+        "lot_number": "273108889528",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

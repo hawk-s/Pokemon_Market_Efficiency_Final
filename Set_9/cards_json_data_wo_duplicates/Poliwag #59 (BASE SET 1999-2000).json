@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "234136827598",
+        "price": "$45.00",
+        "cert_number": "48223875",
+        "auction_seller": "jvccollectiblesandgifts",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-798952089518292040/-4324258760873308015.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/23/2021",
+        "grade": "10"
+    },
+    {
+        "lot_number": "234092999336",
+        "auction_seller": "jvccollectiblesandgifts",
+        "date": "7/23/2021",
+        "cert_number": "48223874",
+        "price": "$46.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3722980316640563805/3179668253138447595.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "285494220999",
+        "price": "$15.50",
+        "auction_seller": "zandgemporium",
+        "cert_number": "78147182",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7447790435784609176/-557711056179407994.jpg",
+        "date": "10/8/2023"
+    },
+    {
+        "lot_number": "405190815802",
+        "price": "$56.51",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8084057704710033159/-2755664731344982221.jpg",
+        "date": "9/2/2024",
+        "auction_seller": "jimmythefluff",
+        "auction_type": "Auction",
+        "cert_number": "54430564",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "lot_number": "384769781313",
+        "cert_number": "55389340",
+        "auction_seller": "probstein123",
+        "date": "3/15/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8375864724473746281/1657585271152242125.jpg"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "price": "$26.00",
+        "lot_number": "352790498737",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2700158544184495478/-446687685800662821.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "42250398"
+    },
+    {
+        "auction_seller": "eeveelution_empire_uk",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8116126060672901767/-3765311885743964779.jpg",
+        "grade": "10",
+        "date": "3/22/2020",
+        "auction_type": "Auction",
+        "cert_number": "45031397",
+        "auction_house": "eBay",
+        "price": "$43.45",
+        "lot_number": "372988786072"
+    },
+    {
+        "price": "$15.50",
+        "lot_number": "132673058256",
+        "grade": "8",
+        "date": "7/1/2018",
+        "cert_number": "28737350",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-553141335152706103/1920159151897203582.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "12/13/2020",
+        "price": "$64.01",
+        "cert_number": "25328865",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2337755753912403102/6152124317485242444.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "402587729577"
+    },
+    {
+        "lot_number": "364478062093",
+        "cert_number": "58775285",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1289418782575469528/8017569858703200549.jpg",
+        "price": "$46.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "9/21/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/30/2023",
+        "auction_seller": "aetsensomegacollectibles",
+        "cert_number": "68693496",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6807782585734553219/-4376669339280488176.jpg",
+        "price": "$76.00",
+        "auction_type": "Auction",
+        "lot_number": "185747830465",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "smpratte",
+        "date": "10/24/2022",
+        "lot_number": "364010566187",
+        "cert_number": "25328865",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3255991279525136573/2206011264398155641.jpg",
+        "price": "$103.50",
+        "grade": "10"
+    }
+]

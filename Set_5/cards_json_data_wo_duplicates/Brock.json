@@ -1,0 +1,101 @@
+[
+    {
+        "date": "8/6/2023",
+        "lot_number": "285404096848",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "price": "$6.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1788823183169739628/-9098159035157068147.jpg",
+        "auction_type": "Auction",
+        "cert_number": "61162751",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "date": "12/7/2020",
+        "auction_seller": "history_in_books",
+        "cert_number": "28806572",
+        "lot_number": "254794407417",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-841019908179399560/-5105096016193102144.jpg"
+    },
+    {
+        "cert_number": "42701218",
+        "auction_seller": "pjaamma",
+        "date": "1/5/2020",
+        "lot_number": "164008228402",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1690937603305135694/8737546281729936978.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "11/22/2021",
+        "cert_number": "57509551",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6995239543808134453/8040060360911307779.jpg",
+        "grade": "8",
+        "auction_seller": "card_secret",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "124997727343"
+    },
+    {
+        "date": "8/1/2020",
+        "auction_seller": "psa_collector",
+        "cert_number": "44484213",
+        "auction_type": "Buy It Now",
+        "lot_number": "333529628978",
+        "price": "$85.80",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2065142942641549849/-6577643251139720486.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6024039592172221707/-6871065225910901932.jpg",
+        "lot_number": "385187547333",
+        "cert_number": "56730432",
+        "grade": "9",
+        "auction_seller": "columbiasportscard",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "auction_house": "eBay",
+        "price": "$8.49"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/664937593442379270/609823470007612144.jpg",
+        "cert_number": "59199642",
+        "date": "7/8/2023",
+        "auction_seller": "ytowncollector",
+        "lot_number": "115848818521",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$6.05",
+        "lot_number": "305669095569",
+        "date": "7/20/2024",
+        "grade": "8",
+        "cert_number": "93684535",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1955917388963379399/-210582087586198959.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "auction_seller": "jimmymc_2012",
+        "price": "$15.00",
+        "lot_number": "203111907681",
+        "cert_number": "44622427",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4133160657067108191/6053275888058244323.jpg",
+        "auction_type": "Best Offer",
+        "date": "9/22/2020",
+        "auction_house": "eBay",
+        "grade": "1"
+    }
+]

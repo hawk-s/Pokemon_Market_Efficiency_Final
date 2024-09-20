@@ -1,0 +1,90 @@
+[
+    {
+        "auction_seller": "litslabs",
+        "grade": "9",
+        "date": "2/7/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4189396132118993119/7967972153808201799.jpg",
+        "auction_type": "Auction",
+        "cert_number": "42694464",
+        "auction_house": "eBay",
+        "lot_number": "314362398861",
+        "price": "$17.90"
+    },
+    {
+        "date": "9/18/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-776127831700316408/-4364432147338392140.jpg",
+        "price": "$6.50",
+        "grade": "9",
+        "lot_number": "362751982251",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "42694464",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "54630816",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2377078352879763284/-8823194749199363803.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "lot_number": "185268966765",
+        "auction_house": "eBay",
+        "price": "$10.26",
+        "auction_seller": "acclear",
+        "date": "1/29/2022"
+    },
+    {
+        "auction_seller": "robk0215",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3829845962825498072/-5080464340463507910.jpg",
+        "price": "$15.50",
+        "date": "11/2/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "49625688",
+        "lot_number": "174988331486"
+    },
+    {
+        "auction_seller": "robk0215",
+        "lot_number": "174967643517",
+        "date": "10/14/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$52.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3667892271776967525/-7172209941659969072.jpg",
+        "grade": "10",
+        "cert_number": "49625691"
+    },
+    {
+        "auction_seller": "robk0215",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8674947942230446181/-8769110664327818225.jpg",
+        "price": "$10.50",
+        "date": "9/27/2021",
+        "lot_number": "174945858884",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "49625689"
+    },
+    {
+        "auction_type": "Best Offer",
+        "date": "10/21/2020",
+        "auction_seller": "shortlife209_2",
+        "grade": "9",
+        "price": "$80.00",
+        "cert_number": "42694464",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/320892937192950502/2049563070208196126.jpg",
+        "auction_house": "eBay",
+        "lot_number": "293724055317"
+    },
+    {
+        "cert_number": "49625688",
+        "date": "12/9/2021",
+        "grade": "9",
+        "auction_seller": "dyoutlet",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/463300940475859844/8166411380842254257.jpg",
+        "lot_number": "284552660647"
+    }
+]

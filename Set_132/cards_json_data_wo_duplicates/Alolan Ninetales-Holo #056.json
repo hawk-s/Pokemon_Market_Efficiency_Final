@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "285621979996",
+        "date": "12/31/2023",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_seller": "mattripspacks",
+        "cert_number": "79544145",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7386535160798112918/-9082080042186410620.jpg"
+    },
+    {
+        "price": "$19.50",
+        "date": "6/18/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5459273440095687313/-5784763646393946707.jpg",
+        "lot_number": "184324586745",
+        "cert_number": "45921344",
+        "auction_seller": "apmerchant02",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "54334747",
+        "lot_number": "255312434975",
+        "date": "1/10/2022",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1657558241421433891/-3693423184015015247.jpg",
+        "grade": "10",
+        "price": "$56.50"
+    },
+    {
+        "cert_number": "54334746",
+        "lot_number": "255317597138",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "danktron",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6547524910966593940/6794499868649997155.jpg",
+        "date": "1/14/2022",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "43605361",
+        "price": "$212.50",
+        "lot_number": "154703470562",
+        "date": "11/23/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7123202672269691123/6295344078870749533.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "replaythatagain"
+    },
+    {
+        "price": "$212.50",
+        "date": "3/22/2022",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "55272641",
+        "auction_house": "eBay",
+        "lot_number": "384780896230",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8946384711249659220/709716362876412841.jpg"
+    },
+    {
+        "auction_seller": "agc0209",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8966634191550731731/-6597274444562185013.jpg",
+        "date": "3/24/2023",
+        "cert_number": "70577479",
+        "lot_number": "275752107897",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$130.00"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "lot_number": "352838660206",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4493619120483159174/-3599825258247061625.jpg",
+        "cert_number": "43605361",
+        "date": "11/6/2019",
+        "price": "$38.95",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

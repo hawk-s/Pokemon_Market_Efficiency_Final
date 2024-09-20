@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/29/2023",
+        "lot_number": "385366372921",
+        "price": "$15.50",
+        "cert_number": "58597542",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9167558364339330544/-6161119840768902593.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "michaelspokecenter",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$96.31",
+        "auction_type": "Best Offer",
+        "lot_number": "203293526126",
+        "cert_number": "46102724",
+        "auction_seller": "poketrade-uk",
+        "date": "4/12/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7389235555063068716/2779951068316912646.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$4.25",
+        "cert_number": "49791413",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4354925206491706266/-5852896725571877103.jpg",
+        "date": "10/8/2021",
+        "lot_number": "224625053194",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "2011giom"
+    },
+    {
+        "auction_seller": "jorluc-39",
+        "date": "11/1/2022",
+        "cert_number": "58597543",
+        "lot_number": "403960520454",
+        "price": "$13.52",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7070456996184104970/-5652013860546213863.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

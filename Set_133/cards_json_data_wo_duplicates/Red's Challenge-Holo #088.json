@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "394897377511",
+        "auction_seller": "joju_65",
+        "cert_number": "77450070",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3703875444562638986/11312398417799834.jpg",
+        "price": "$12.18",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/30/2023"
+    },
+    {
+        "date": "5/24/2024",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7362076063354948458/5629769119311999220.jpg",
+        "auction_type": "Auction",
+        "lot_number": "226144344018",
+        "cert_number": "79222237",
+        "auction_house": "eBay",
+        "price": "$1.25",
+        "auction_seller": "entre_collector"
+    },
+    {
+        "lot_number": "285504452032",
+        "price": "$25.90",
+        "cert_number": "79369989",
+        "auction_seller": "zandgemporium",
+        "date": "10/15/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6503835197879303655/497774468028125030.jpg"
+    },
+    {
+        "lot_number": "204204983284",
+        "cert_number": "60374759",
+        "auction_seller": "dbb_cards",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "date": "1/9/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6499833191687105475/1560933729607023159.jpg"
+    },
+    {
+        "cert_number": "43860114",
+        "auction_seller": "unique_collectible_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6006166044972769220/8918805485427861825.jpg",
+        "grade": "10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$2.75",
+        "date": "7/25/2019",
+        "lot_number": "254302140949"
+    },
+    {
+        "price": "$19.50",
+        "lot_number": "285346537162",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6000882459181062602/6192134703447132753.jpg",
+        "auction_type": "Auction",
+        "cert_number": "61162798",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/2/2023"
+    },
+    {
+        "auction_seller": "unique_collectible_cards",
+        "price": "$5.50",
+        "cert_number": "43860115",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "254302141520",
+        "date": "7/25/2019",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2910394724475271653/7178859276448288332.jpg"
+    }
+]

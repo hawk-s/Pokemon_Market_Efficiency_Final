@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5913700008307860430/-4002101094329753898.jpg",
+        "lot_number": "353577811869",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$449.00",
+        "date": "7/29/2021",
+        "grade": "10",
+        "cert_number": "54579875"
+    },
+    {
+        "lot_number": "175080258751",
+        "auction_seller": "christopherlam20122470",
+        "cert_number": "63837145",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3650774316818276237/7883358358072812668.jpg",
+        "price": "$390.00",
+        "date": "12/30/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "45330979",
+        "price": "$177.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2246763299327515522/-1038374850555334100.jpg",
+        "lot_number": "372912544831",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/23/2020",
+        "grade": "10"
+    },
+    {
+        "lot_number": "325485264682",
+        "cert_number": "44038983",
+        "price": "$450.00",
+        "date": "1/10/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7486996694296434656/-7955455899803439295.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "villentretenmerth_01",
+        "grade": "10"
+    }
+]

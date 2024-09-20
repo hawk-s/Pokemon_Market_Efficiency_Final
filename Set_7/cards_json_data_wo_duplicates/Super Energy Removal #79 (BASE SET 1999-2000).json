@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$7.50",
+        "lot_number": "256242507880",
+        "cert_number": "51282992",
+        "auction_seller": "09mansfield",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8361981637316701584/6010703577465172208.jpg",
+        "date": "10/8/2023"
+    },
+    {
+        "lot_number": "144292485410",
+        "auction_seller": "mr_nyah",
+        "date": "11/23/2021",
+        "cert_number": "52063010",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6035196606819894763/-9091501135763520096.jpg",
+        "price": "$36.24",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "supercards_vault",
+        "cert_number": "88123775",
+        "lot_number": "326177719791",
+        "price": "$23.50",
+        "date": "7/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7823305991062030731/-6384377669558180833.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "supercards_vault",
+        "date": "5/27/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6008274964286465288/5137494638929323204.jpg",
+        "price": "$22.00",
+        "auction_type": "Auction",
+        "lot_number": "326131130855",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "88877963"
+    }
+]

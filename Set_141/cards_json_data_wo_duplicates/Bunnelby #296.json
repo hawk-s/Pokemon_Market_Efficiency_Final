@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$13.00",
+        "lot_number": "133897680599",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6462518254651225971/808791665710997351.jpg",
+        "date": "10/17/2021",
+        "grade": "9",
+        "cert_number": "55377470",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "cert_number": "62732637",
+        "price": "$8.19",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "386861042364",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5918572337439934420/480115173309052649.jpg",
+        "date": "3/26/2024"
+    },
+    {
+        "lot_number": "386861042335",
+        "date": "3/26/2024",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "cert_number": "62732635",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8449436446711077561/-6719917506174460413.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6706452989678441091/1522926703709132385.jpg",
+        "lot_number": "126091217390",
+        "cert_number": "60219367",
+        "price": "$8.02",
+        "grade": "9",
+        "date": "9/18/2023",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "59562282",
+        "price": "$10.50",
+        "auction_seller": "greatlakeshobby",
+        "lot_number": "175464751695",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2825354585149893791/9066698344871427449.jpg",
+        "date": "10/31/2022"
+    }
+]

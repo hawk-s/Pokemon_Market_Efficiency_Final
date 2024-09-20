@@ -1,0 +1,101 @@
+[
+    {
+        "cert_number": "61169428",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2540749464231811741/3666406787502821780.jpg",
+        "lot_number": "285389652217",
+        "date": "7/30/2023",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "47627616",
+        "date": "4/6/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2715539395046010014/-4941545098888752213.jpg",
+        "grade": "9",
+        "lot_number": "284238174104",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "ntbroach"
+    },
+    {
+        "auction_seller": "darth_grader",
+        "price": "$49.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2492173470289177004/4313925097147116264.jpg",
+        "lot_number": "403184979831",
+        "auction_type": "Auction",
+        "date": "10/3/2021",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "53269779"
+    },
+    {
+        "date": "1/15/2023",
+        "price": "$23.90",
+        "lot_number": "266075253588",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3466194590784859668/-2421419832170358116.jpg",
+        "grade": "9",
+        "auction_seller": "stoneysdiary-3",
+        "auction_type": "Auction",
+        "cert_number": "54980224",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.50",
+        "lot_number": "115938450857",
+        "date": "10/19/2023",
+        "grade": "9",
+        "auction_seller": "mikelaube4",
+        "cert_number": "61574909",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1875531221328914818/6423443484388511785.jpg"
+    },
+    {
+        "auction_seller": "ebirdman",
+        "auction_type": "Best Offer",
+        "lot_number": "362622558673",
+        "date": "10/6/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/66367029019292861/8631316762089084398.jpg",
+        "auction_house": "eBay",
+        "cert_number": "04298422",
+        "price": "$32.00",
+        "grade": "10"
+    },
+    {
+        "price": "$63.20",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/872512651325932354/-7139236241366199330.jpg",
+        "date": "5/22/2023",
+        "auction_seller": "rocky_mountain_graded_cards",
+        "lot_number": "185898609795",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "58731254"
+    },
+    {
+        "grade": "7",
+        "date": "5/27/2024",
+        "price": "$3.25",
+        "cert_number": "82011439",
+        "lot_number": "256516335415",
+        "auction_seller": "bryandyeo",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4796205255544055774/-8322249875793284060.jpg"
+    },
+    {
+        "date": "5/14/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7110314736168668900/-2699835731270990635.jpg",
+        "price": "$9.99",
+        "auction_seller": "walkingdead2015",
+        "auction_type": "Auction",
+        "lot_number": "116179734958",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "58731254"
+    }
+]

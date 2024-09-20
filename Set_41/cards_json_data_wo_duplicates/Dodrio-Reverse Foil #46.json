@@ -1,0 +1,46 @@
+[
+    {
+        "date": "5/31/2023",
+        "cert_number": "68343273",
+        "price": "$13.00",
+        "grade": "8",
+        "auction_seller": "matsad0",
+        "lot_number": "394640834818",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3003386262625054542/431896489264434440.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5804840765613603502/-2557274926009560586.jpg",
+        "lot_number": "184031184869",
+        "date": "11/17/2019",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "cert_number": "42343158",
+        "auction_house": "eBay",
+        "auction_seller": "svc051"
+    },
+    {
+        "lot_number": "142836549059",
+        "cert_number": "40771449",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6878074853410902720/-6083147748664377727.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "price": "$0.99"
+    },
+    {
+        "lot_number": "375460982570",
+        "date": "6/11/2024",
+        "price": "$11.25",
+        "auction_seller": "dragonfly_collectables",
+        "cert_number": "60212608",
+        "grade": "8",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2128663245746723993/-7069703193710446763.jpg",
+        "auction_house": "eBay"
+    }
+]

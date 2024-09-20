@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$15.02",
+        "cert_number": "79157338",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6039012693608194187/-1752161996141703770.jpg",
+        "date": "10/21/2023",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "auction_house": "eBay",
+        "lot_number": "204496651719"
+    },
+    {
+        "price": "$26.73",
+        "lot_number": "324912660108",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "50774577",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3663588871660732644/-6162679428850174968.jpg",
+        "date": "12/7/2021"
+    },
+    {
+        "auction_seller": "huntdjh96",
+        "price": "$15.56",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5758494713847553664/-9221034225351599716.jpg",
+        "date": "10/8/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "60745847",
+        "auction_house": "eBay",
+        "lot_number": "155812027477"
+    },
+    {
+        "lot_number": "375350451140",
+        "cert_number": "73838141",
+        "price": "$26.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8095958558495521948/-1001013310981031734.jpg",
+        "auction_type": "Auction",
+        "date": "4/11/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5016646538586381822/3951444432966135478.jpg",
+        "lot_number": "285830424043",
+        "auction_seller": "zandgemporium",
+        "date": "5/5/2024",
+        "auction_type": "Auction",
+        "cert_number": "58550186",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$87.00"
+    }
+]

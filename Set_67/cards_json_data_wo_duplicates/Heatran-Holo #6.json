@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "372340277297",
+        "cert_number": "28589127",
+        "date": "6/25/2018",
+        "price": "$14.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7664098333673417704/-4186657533431289597.jpg"
+    },
+    {
+        "date": "1/15/2023",
+        "auction_seller": "ds_tcg",
+        "price": "$15.50",
+        "grade": "8",
+        "lot_number": "385341100939",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1753552659624566118/-5206334978556459824.jpg",
+        "auction_type": "Auction",
+        "cert_number": "60402070",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/3/2021",
+        "price": "$120.00",
+        "lot_number": "164678409766",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7923997548778706835/-7916115959917081473.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "slasanti.ffw6ieuy",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "47399139"
+    },
+    {
+        "lot_number": "165218650066",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6898962655077538467/300517220044707116.jpg",
+        "date": "12/13/2021",
+        "auction_seller": "cybersmith7",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "49197117"
+    },
+    {
+        "lot_number": "115731191270",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3694611796483614749/-1992805573016440335.jpg",
+        "date": "3/22/2023",
+        "price": "$41.24",
+        "grade": "9",
+        "cert_number": "60754619",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "lot_number": "4010",
+        "grade": "6",
+        "auction_type": "Auction",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/-7059211840943609498/images/1.jpg",
+        "price": "$8.00",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "cert_number": "72609149",
+        "date": "4/20/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1375184301983432083/4563156172209515697.jpg",
+        "auction_seller": "arkcollectibles",
+        "date": "9/16/2022",
+        "grade": "9",
+        "price": "$35.00",
+        "lot_number": "255720533083",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "49197117"
+    }
+]

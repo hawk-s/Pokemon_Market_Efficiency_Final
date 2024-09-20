@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "154787701273",
+        "cert_number": "45899908",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8147922792477151770/3986131356271587628.jpg",
+        "date": "1/17/2022",
+        "auction_seller": "pure_carnage_1987",
+        "auction_type": "Auction",
+        "price": "$776.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "314310815774",
+        "cert_number": "70188225",
+        "date": "1/16/2023",
+        "auction_seller": "bidoveru",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4282420463335719078/-3075854788631276986.jpg",
+        "price": "$222.49",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4050183094177906414/-2770280117374846588.jpg",
+        "price": "$227.50",
+        "lot_number": "314749357874",
+        "auction_seller": "coins_n_rarities",
+        "grade": "8",
+        "date": "8/10/2023",
+        "cert_number": "55847086",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "fssworldwide",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/950150979551103346/-4899566142044958116.jpg",
+        "cert_number": "57034622",
+        "date": "2/8/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$7.52",
+        "lot_number": "165917602255"
+    },
+    {
+        "lot_number": "256185257912",
+        "price": "$14.99",
+        "cert_number": "65550015",
+        "auction_seller": "unloaded_collectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3470426751245895222/3268611269818392839.jpg",
+        "auction_type": "Auction",
+        "date": "8/23/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "83848428",
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2945946412497842609/5890326078070175435.jpg",
+        "date": "1/7/2024",
+        "auction_seller": "trenicks_cardscollectables",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "196164467870"
+    },
+    {
+        "date": "9/16/2022",
+        "grade": "9",
+        "price": "$13.52",
+        "auction_seller": "guerr.eddy",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4647579560799242688/5561677391848284613.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "62726808",
+        "lot_number": "134227707161"
+    }
+]

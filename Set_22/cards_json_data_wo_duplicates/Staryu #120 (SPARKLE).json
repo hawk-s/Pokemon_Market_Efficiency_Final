@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "275979429343",
+        "price": "$224.50",
+        "auction_seller": "coins_n_rarities",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6977703443881921372/2640624454984647043.jpg",
+        "grade": "8",
+        "date": "8/10/2023",
+        "cert_number": "55847176",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "carter_kidd2019",
+        "lot_number": "324778689636",
+        "auction_type": "Auction",
+        "cert_number": "46391516",
+        "date": "9/13/2021",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$750.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4936781455164196906/-5185053839524487735.jpg"
+    },
+    {
+        "price": "$615.00",
+        "auction_seller": "christopherlam20122470",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-421291676910982838/9213273501545088625.jpg",
+        "auction_type": "Auction",
+        "date": "12/30/2021",
+        "auction_house": "eBay",
+        "lot_number": "185228591842",
+        "grade": "10",
+        "cert_number": "46899022"
+    }
+]

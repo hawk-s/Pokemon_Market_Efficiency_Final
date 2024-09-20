@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "94064939",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1586498822945031507/2321668178167678845.jpg",
+        "grade": "8",
+        "date": "8/19/2024",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "286001762043"
+    },
+    {
+        "date": "11/22/2021",
+        "auction_seller": "card_secret",
+        "grade": "9",
+        "cert_number": "57509537",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4881500906409883336/-86137220546484176.jpg",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "115089797085"
+    },
+    {
+        "date": "6/8/2024",
+        "cert_number": "76525805",
+        "price": "$14.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2052595355440976213/-8272301506270091224.jpg",
+        "grade": "8",
+        "auction_seller": "funkopopfan1110",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "176404663991"
+    },
+    {
+        "date": "1/13/2023",
+        "grade": "9",
+        "price": "$19.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1911837439161582557/3968476325329087494.jpg",
+        "lot_number": "404093968764",
+        "auction_seller": "bootsy81",
+        "auction_type": "Auction",
+        "cert_number": "54248306",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$13.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5538568301267389518/1755223785340693448.jpg",
+        "cert_number": "85294346",
+        "lot_number": "364800070699",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "3/28/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5875583147720394085/2141683543967381947.jpg",
+        "cert_number": "52745850",
+        "price": "$40.00",
+        "auction_seller": "rokei_76",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "176130053165"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4817883881474667393/-7029587274682736030.jpg",
+        "date": "6/6/2022",
+        "cert_number": "57965981",
+        "lot_number": "313994483254",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    }
+]

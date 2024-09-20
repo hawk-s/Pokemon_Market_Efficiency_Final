@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$13.00",
+        "cert_number": "71689698",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8433229554481354293/-5839513409502569685.jpg",
+        "auction_seller": "tradingcentralco",
+        "lot_number": "325594481341",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/4/2023",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "warehous5store",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4683662191638199755/450134420635622324.jpg",
+        "price": "$15.50",
+        "lot_number": "134021023506",
+        "cert_number": "54907890",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/18/2022"
+    },
+    {
+        "date": "4/14/2024",
+        "price": "$8.08",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3942454140100310573/-8221274865919524578.jpg",
+        "auction_seller": "ssjpokenate",
+        "cert_number": "61053894",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "135008766009"
+    },
+    {
+        "cert_number": "55747594",
+        "date": "3/10/2023",
+        "auction_seller": "4_sharp_corners",
+        "price": "$24.99",
+        "lot_number": "266156043063",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2293522419966537260/3774146351377253653.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2838698680971639746/-7356254412437883482.jpg",
+        "auction_seller": "warehous5store",
+        "date": "12/29/2021",
+        "lot_number": "133971259133",
+        "cert_number": "54150490",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

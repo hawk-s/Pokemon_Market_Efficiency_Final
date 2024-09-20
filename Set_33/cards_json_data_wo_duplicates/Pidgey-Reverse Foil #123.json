@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3806881610954117485/9151688103208291811.jpg",
+        "price": "$42.00",
+        "cert_number": "55658761",
+        "date": "1/31/2022",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "294762997792"
+    },
+    {
+        "lot_number": "325577647058",
+        "grade": "7",
+        "price": "$11.52",
+        "cert_number": "56013481",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8351760080129109107/7361731762089851169.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "date": "3/26/2023"
+    },
+    {
+        "auction_seller": "ejpokemon",
+        "date": "8/3/2021",
+        "price": "$25.50",
+        "grade": "8",
+        "lot_number": "124828048996",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7179266583107077600/-4508953678463364086.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "55235617"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5525160512254532852/2220170144838704754.jpg",
+        "date": "5/30/2021",
+        "lot_number": "353502670023",
+        "cert_number": "25807819",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3080940569987453102/-9023364401004626761.jpg",
+        "grade": "8",
+        "cert_number": "46944296",
+        "auction_seller": "zooz_collectible_universe",
+        "auction_type": "Auction",
+        "lot_number": "333757811896",
+        "auction_house": "eBay",
+        "price": "$19.50",
+        "date": "10/25/2020"
+    }
+]

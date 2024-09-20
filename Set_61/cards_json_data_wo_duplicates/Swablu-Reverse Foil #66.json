@@ -1,0 +1,35 @@
+[
+    {
+        "date": "2/14/2021",
+        "lot_number": "174579165672",
+        "auction_type": "Best Offer",
+        "auction_seller": "pbali1",
+        "price": "$90.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6951460529224785283/2271359383212218880.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "47353980"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5594583096696277580/-4880550950716031447.jpg",
+        "cert_number": "28455754",
+        "price": "$8.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tnolan0816",
+        "lot_number": "292389712774",
+        "grade": "10",
+        "date": "1/6/2018"
+    },
+    {
+        "date": "11/21/2021",
+        "auction_seller": "thepokehive",
+        "price": "$16.05",
+        "grade": "9",
+        "lot_number": "284528082788",
+        "cert_number": "52132888",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1453360527357694003/89064120274648699.jpg"
+    }
+]

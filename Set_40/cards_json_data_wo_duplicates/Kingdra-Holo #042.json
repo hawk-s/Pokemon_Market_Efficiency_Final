@@ -1,0 +1,79 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4506875908225651707/2076889201946808369.jpg",
+        "date": "4/14/2024",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "cert_number": "78669956",
+        "auction_type": "Auction",
+        "lot_number": "285800377285",
+        "auction_house": "eBay",
+        "price": "$71.00"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/175118538376406741/528288510333610013.jpg",
+        "lot_number": "113396561503",
+        "cert_number": "41972813",
+        "price": "$21.50",
+        "date": "12/2/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/25/2019",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "42882150",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1710072835998478053/6009475747925900108.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "lot_number": "352790497739",
+        "grade": "10"
+    },
+    {
+        "grade": "5",
+        "lot_number": "394424153310",
+        "auction_seller": "ebisu-ya",
+        "cert_number": "68758848",
+        "date": "1/23/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7690913387503882551/-7316823476706182246.jpg"
+    },
+    {
+        "lot_number": "386916003497",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8893694115034080008/-122512080393574720.jpg",
+        "auction_seller": "probstein123",
+        "cert_number": "89094705",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/16/2024",
+        "price": "$111.77"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "cert_number": "41481239",
+        "grade": "8",
+        "auction_seller": "bryomar",
+        "auction_house": "eBay",
+        "price": "$25.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7691969952766675128/-8860079193287465180.jpg",
+        "lot_number": "283526981926",
+        "date": "4/8/2020"
+    },
+    {
+        "auction_seller": "eemeliw",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2051578297334234147/-5402647048227527550.jpg",
+        "lot_number": "322679789785",
+        "date": "9/9/2017",
+        "price": "$59.99",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "26950745"
+    }
+]

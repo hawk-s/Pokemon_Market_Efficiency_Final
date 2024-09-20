@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "thecoziking",
+        "lot_number": "134647178099",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7871333032328828710/-65271205067802970.jpg",
+        "date": "7/17/2023",
+        "grade": "9",
+        "cert_number": "48140663",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/19/2021",
+        "auction_seller": "sbunney28",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2429542315598650302/-6156830058866760608.jpg",
+        "grade": "9",
+        "lot_number": "125047238671",
+        "auction_type": "Auction",
+        "cert_number": "52549772",
+        "price": "$37.77",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7423971077247552245/304620492059267304.jpg",
+        "lot_number": "375464033908",
+        "auction_seller": "dragonfly_collectables",
+        "date": "6/15/2024",
+        "grade": "8",
+        "cert_number": "59654517",
+        "auction_type": "Auction",
+        "price": "$5.45",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/24/2018",
+        "auction_seller": "cardrushinc",
+        "price": "$7.00",
+        "cert_number": "40757174",
+        "lot_number": "273224614903",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5520991666405089604/7112913879282464222.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "cardrushinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/669077749055030872/-505353602799429377.jpg",
+        "lot_number": "282873949116",
+        "cert_number": "28314124",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "date": "3/13/2018",
+        "auction_house": "eBay"
+    }
+]

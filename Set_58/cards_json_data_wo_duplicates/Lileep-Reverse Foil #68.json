@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7474648267358048290/-3833181000016249948.jpg",
+        "lot_number": "285619958687",
+        "cert_number": "82878875",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "date": "12/31/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "price": "$3.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/64700292399392190/8990720452777954195.jpg",
+        "grade": "8",
+        "auction_seller": "nostalgiahigh02",
+        "cert_number": "76031074",
+        "date": "9/13/2023",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "186069533741"
+    },
+    {
+        "cert_number": "91988712",
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4121554365816010744/6277895866015592070.jpg",
+        "date": "8/7/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "176492119997",
+        "auction_seller": "ravenandwolfcollectibles",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$20.00",
+        "auction_seller": "ketchumallcollectibles",
+        "cert_number": "69931613",
+        "lot_number": "204832556915",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8927809676825152342/-5471944806158736275.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/24/2024"
+    },
+    {
+        "cert_number": "91988712",
+        "lot_number": "176531920267",
+        "date": "8/29/2024",
+        "grade": "9",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-928813301328700518/71589006126209546.jpg",
+        "auction_seller": "ravenandwolfcollectibles",
+        "auction_house": "eBay"
+    }
+]

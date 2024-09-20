@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4026706103767610787/-6133185824311429005.jpg",
+        "grade": "4",
+        "auction_seller": "rookiescollectibles",
+        "date": "3/8/2023",
+        "price": "$58.00",
+        "lot_number": "295547575176",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "67572874"
+    },
+    {
+        "lot_number": "295570403904",
+        "grade": "4",
+        "auction_seller": "rookiescollectibles",
+        "date": "3/24/2023",
+        "cert_number": "67572874",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8408151002018327705/-2362682432201296032.jpg",
+        "auction_house": "eBay",
+        "price": "$33.00"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "price": "$88.00",
+        "date": "6/10/2024",
+        "lot_number": "335413008899",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "66882529",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2785491512616872431/2524942847086391553.jpg"
+    },
+    {
+        "lot_number": "204217082947",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4379921515077988121/-9050058308548752431.jpg",
+        "date": "1/17/2023",
+        "grade": "8",
+        "price": "$96.40",
+        "auction_type": "Auction",
+        "cert_number": "66882529",
+        "auction_house": "eBay",
+        "auction_seller": "multiverse-of-games"
+    }
+]

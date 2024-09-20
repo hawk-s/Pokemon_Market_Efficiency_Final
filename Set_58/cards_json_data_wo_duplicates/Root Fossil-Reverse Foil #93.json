@@ -1,0 +1,35 @@
+[
+    {
+        "date": "6/23/2024",
+        "lot_number": "285908271234",
+        "cert_number": "78745383",
+        "price": "$36.62",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3571467514492866045/338046094331929522.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "date": "6/2/2024",
+        "price": "$52.20",
+        "cert_number": "78745383",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4252736844704585347/338046094331929522.jpg",
+        "auction_type": "Auction",
+        "lot_number": "285873841800",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "cert_number": "66954203",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1233431927488616059/6643623025260379053.jpg",
+        "auction_seller": "vispri-21",
+        "date": "4/22/2023",
+        "grade": "9",
+        "lot_number": "354693910605",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$17.56"
+    }
+]

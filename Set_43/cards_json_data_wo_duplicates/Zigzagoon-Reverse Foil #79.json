@@ -1,0 +1,24 @@
+[
+    {
+        "date": "10/10/2021",
+        "price": "$43.64",
+        "cert_number": "47785568",
+        "auction_seller": "pokichloe",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-243753608547538646/4260371819106283194.jpg",
+        "auction_house": "eBay",
+        "lot_number": "255161911498"
+    },
+    {
+        "auction_seller": "Weekly Auction Apr 25 - May 4",
+        "price": "$13.00",
+        "grade": "8",
+        "lot_number": "4673",
+        "cert_number": "71339191",
+        "auction_type": "Auction",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3698167823570495137/-4198177419777036607/images/1.jpg",
+        "auction_house": "Goldin Auctions",
+        "date": "5/4/2023"
+    }
+]

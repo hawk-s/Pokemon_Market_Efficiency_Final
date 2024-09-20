@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6773397545958319118/-109428263864977072.jpg",
+        "auction_seller": "goshadole",
+        "date": "9/17/2023",
+        "price": "$9.99",
+        "grade": "9",
+        "lot_number": "204458657993",
+        "auction_type": "Auction",
+        "cert_number": "55078887",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "vispri-21",
+        "price": "$11.12",
+        "cert_number": "72797430",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8281738261879754928/-2946754379335492773.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/29/2023",
+        "lot_number": "355081571976"
+    },
+    {
+        "auction_seller": "pkgamingworld",
+        "auction_type": "Best Offer",
+        "price": "$39.99",
+        "lot_number": "114641438216",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-610453519168853625/1819471748057373693.jpg",
+        "date": "2/6/2021",
+        "cert_number": "43911363",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352694314005",
+        "price": "$9.02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/485706565518210242/2948317547483529960.jpg",
+        "date": "6/27/2019",
+        "auction_type": "Auction",
+        "cert_number": "41220802",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "jeannietate1954",
+        "date": "3/10/2019",
+        "lot_number": "254151672609",
+        "price": "$9.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3176588720935662559/-1882757423305540073.jpg",
+        "auction_type": "Auction",
+        "cert_number": "41220802",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

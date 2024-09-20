@@ -1,0 +1,112 @@
+[
+    {
+        "date": "5/11/2017",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5182625001422324997/8720241075079441679.jpg",
+        "lot_number": "122433209090",
+        "cert_number": "26807954",
+        "auction_seller": "liarspoker10",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "46748129",
+        "lot_number": "293644783446",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2819721896824040356/-8491031050291244004.jpg",
+        "date": "7/18/2020",
+        "price": "$44.99",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$60.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/-2256875738378238257/images/1.jpg",
+        "cert_number": "70053916",
+        "date": "6/15/2023",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun",
+        "grade": "10",
+        "lot_number": "5400"
+    },
+    {
+        "price": "$45.00",
+        "cert_number": "27743749",
+        "lot_number": "293577126520",
+        "auction_seller": "myers3329",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4586588188352374965/-711808477447684450.jpg",
+        "auction_house": "eBay",
+        "date": "10/11/2020",
+        "grade": "10"
+    },
+    {
+        "cert_number": "26898943",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5858747422072567745/-6402352942077388862.jpg",
+        "auction_type": "Best Offer",
+        "price": "$15.50",
+        "grade": "9",
+        "auction_seller": "liarspoker10",
+        "auction_house": "eBay",
+        "date": "2/20/2018",
+        "lot_number": "361946958040"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2138627906197717117/-2591215412073684577.jpg",
+        "auction_seller": "ljs-cardshop",
+        "lot_number": "175896664538",
+        "price": "$75.00",
+        "date": "9/18/2023",
+        "cert_number": "70053916",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "72719326",
+        "grade": "8",
+        "auction_seller": "salc1014",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3433584199247773825/4036285419204105476.jpg",
+        "date": "5/8/2024",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "lot_number": "186424174229"
+    },
+    {
+        "price": "$55.00",
+        "cert_number": "27743749",
+        "date": "1/29/2021",
+        "lot_number": "164660610287",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2000000906707699654/1884236864587580806.jpg",
+        "auction_seller": "guildwars2mesmer",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "numismaticsgmc",
+        "date": "1/23/2018",
+        "lot_number": "312048522074",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4788936053649901297/-4559010628210255753.jpg",
+        "price": "$11.51",
+        "cert_number": "26807954",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "292311164090",
+        "cert_number": "27743749",
+        "date": "11/8/2017",
+        "price": "$5.50",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-3967811908776164758/-7816698766339176311.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

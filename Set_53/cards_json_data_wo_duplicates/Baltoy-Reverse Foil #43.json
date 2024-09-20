@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-32134364647747565/-3784820968049609908.jpg",
+        "date": "12/23/2021",
+        "lot_number": "363657775169",
+        "cert_number": "53781167",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "gem_mint_collections",
+        "lot_number": "334913315605",
+        "cert_number": "27237796",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8320795020074678727/9193873589116140401.jpg",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "date": "6/22/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "363657774058",
+        "date": "12/23/2021",
+        "cert_number": "53781166",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7262393469923523503/-1643425701332358699.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "185054915129",
+        "date": "9/27/2021",
+        "auction_seller": "apmerchant02",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5114446119517959830/7468726733312690490.jpg",
+        "auction_type": "Auction",
+        "price": "$31.01",
+        "auction_house": "eBay",
+        "cert_number": "51424461"
+    },
+    {
+        "cert_number": "65349911",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6633078008402587687/16085536901830157.jpg",
+        "auction_seller": "island.gaming",
+        "price": "$49.99",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "lot_number": "275742033465",
+        "grade": "10"
+    },
+    {
+        "date": "12/31/2021",
+        "lot_number": "234347706264",
+        "auction_seller": "comc_consignment",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4485830608470451764/-2081132273338312326.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "cert_number": "51346923"
+    },
+    {
+        "price": "$61.00",
+        "lot_number": "185670802079",
+        "auction_seller": "apmerchant02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6824167693031767933/7294773732159415124.jpg",
+        "date": "12/4/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "51424460"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "5",
+        "price": "$4.99",
+        "date": "1/20/2023",
+        "lot_number": "374458136278",
+        "auction_type": "Auction",
+        "cert_number": "57136036",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1615446471659868350/-8413602193658979720.jpg",
+        "auction_seller": "aloofprunecards"
+    },
+    {
+        "date": "1/30/2023",
+        "price": "$18.16",
+        "grade": "9",
+        "auction_seller": "card.galaxy",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3798489453707875539/2959547782280620510.jpg",
+        "auction_type": "Auction",
+        "cert_number": "58873754",
+        "auction_house": "eBay",
+        "lot_number": "325507173410"
+    },
+    {
+        "lot_number": "332412225347",
+        "auction_seller": "thorgene",
+        "price": "$7.75",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/3289598170055135098/2970925040242039430.jpg",
+        "cert_number": "27065891",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/21/2017"
+    },
+    {
+        "cert_number": "61169493",
+        "date": "8/6/2023",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7046311431691924825/5520637577188773471.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285404118909",
+        "price": "$8.52"
+    },
+    {
+        "date": "12/27/2022",
+        "price": "$57.89",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5812399521533884766/-6711794557742022153.jpg",
+        "auction_seller": "card.galaxy",
+        "cert_number": "58873552",
+        "auction_type": "Auction",
+        "lot_number": "325470384153",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/27/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3700932887343521981/3570790205352691608.jpg",
+        "lot_number": "335216810559",
+        "price": "$23.50",
+        "cert_number": "65442122",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles",
+        "grade": "10"
+    }
+]

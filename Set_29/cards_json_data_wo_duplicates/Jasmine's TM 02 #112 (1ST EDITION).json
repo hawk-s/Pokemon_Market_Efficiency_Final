@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "cardboundllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/905910131220038304/8450872869025258993.jpg",
+        "price": "$10.00",
+        "date": "7/22/2024",
+        "grade": "9",
+        "lot_number": "226242797612",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "88892863"
+    },
+    {
+        "date": "3/9/2020",
+        "cert_number": "45433295",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2622949045334604526/-4661151225825903862.jpg",
+        "grade": "7",
+        "auction_seller": "tsunagu",
+        "lot_number": "254528685102",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$1.25"
+    },
+    {
+        "date": "5/26/2024",
+        "lot_number": "326132320078",
+        "auction_seller": "cardboundllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-676639787804659308/-4729310123663121569.jpg",
+        "price": "$47.00",
+        "cert_number": "88892862",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/30/2023",
+        "auction_seller": "slapauction",
+        "cert_number": "67319333",
+        "auction_type": "Auction",
+        "price": "$37.01",
+        "auction_house": "eBay",
+        "lot_number": "134859632410",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9012820354370374038/-5223220437546509421.jpg"
+    },
+    {
+        "price": "$32.83",
+        "auction_seller": "pokedreammarket",
+        "cert_number": "73922304",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7120822235092130686/-8900701089758238911.jpg",
+        "date": "6/24/2024",
+        "lot_number": "186501517659"
+    },
+    {
+        "price": "$10.50",
+        "auction_type": "Buy It Now",
+        "date": "1/4/2019",
+        "cert_number": "41220828",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2633166563272188268/5426470752666320804.jpg",
+        "auction_seller": "forgottonn0n",
+        "lot_number": "263943911702",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$60.00",
+        "date": "3/6/2021",
+        "auction_type": "Best Offer",
+        "lot_number": "184696506357",
+        "cert_number": "47883542",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1118551117209971317/2578581886606037697.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "wartoothcollectibles"
+    },
+    {
+        "price": "$9.50",
+        "auction_seller": "cpgcollectibles",
+        "lot_number": "334997877020",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7496291692758570855/668181324123358561.jpg",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "auction_house": "eBay",
+        "cert_number": "78750428"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$3.25",
+        "lot_number": "285630464710",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "cert_number": "83714941",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6600419959340379673/6456653873984814244.jpg",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "lot_number": "285630522592",
+        "price": "$3.25",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5296486543687773145/-5616884451125917272.jpg",
+        "cert_number": "83714766",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "43350664",
+        "date": "12/14/2019",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/229516722583787269/-7559417936588042827.jpg",
+        "price": "$44.99",
+        "lot_number": "283565256948",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

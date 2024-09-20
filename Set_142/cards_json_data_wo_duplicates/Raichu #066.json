@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "slab10stradingcards",
+        "date": "10/4/2021",
+        "cert_number": "53383013",
+        "price": "$37.00",
+        "lot_number": "203632684103",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-541513479367584316/2726421482703978621.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4738472129593128661/-5004077081145057226.jpg",
+        "cert_number": "57252512",
+        "lot_number": "374593349171",
+        "price": "$8.27",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/4/2023"
+    },
+    {
+        "lot_number": "354515420094",
+        "cert_number": "58635810",
+        "date": "1/22/2023",
+        "price": "$20.00",
+        "auction_seller": "happycrabby",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8868607727971981492/782722709226904530.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2082504060712996025/-4842259657330740841.jpg",
+        "lot_number": "266192296619",
+        "auction_seller": "4_sharp_corners",
+        "auction_type": "Auction",
+        "date": "4/5/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "57189928"
+    }
+]

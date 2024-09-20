@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7850118607309109687/1790026267929206189.jpg",
+        "auction_seller": "pokemonworldwide",
+        "cert_number": "71984135",
+        "lot_number": "145038357067",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "4/23/2023",
+        "auction_house": "eBay",
+        "price": "$63.23"
+    },
+    {
+        "lot_number": "145055956845",
+        "auction_seller": "pokemonworldwide",
+        "cert_number": "71984135",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1429108387620326365/1790026267929206189.jpg",
+        "grade": "9",
+        "price": "$20.05",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/4/2023"
+    },
+    {
+        "price": "$15.00",
+        "cert_number": "57849361",
+        "date": "1/23/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1952012060332149689/6575664586226731041.jpg",
+        "lot_number": "266082422766",
+        "grade": "9",
+        "auction_seller": "pokehut",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

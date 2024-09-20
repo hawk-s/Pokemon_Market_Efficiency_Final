@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "42111167",
+        "date": "5/5/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-984691029648825466/3009627775768566530.jpg",
+        "lot_number": "183791827737",
+        "auction_seller": "svc051",
+        "auction_type": "Auction",
+        "price": "$28.22",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$92.00",
+        "auction_house": "eBay",
+        "date": "3/8/2024",
+        "auction_type": "Auction",
+        "lot_number": "266684127027",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2330715897189351688/-5988180976172467013.jpg",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "cert_number": "44597793"
+    },
+    {
+        "price": "$60.00",
+        "lot_number": "352513385229",
+        "auction_type": "Best Offer",
+        "auction_seller": "heroes-fantasies",
+        "cert_number": "40764927",
+        "date": "12/30/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3541549478533128701/4552673968925875634.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_type": "Best Offer",
+        "price": "$200.00",
+        "cert_number": "45872749",
+        "auction_seller": "cardboardkrackshack",
+        "date": "10/9/2020",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8132944931603133636/-587989239432709361.jpg",
+        "lot_number": "133497036286",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "price": "$73.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2397708114468158116/-7468282668477597635.jpg",
+        "lot_number": "315519322273",
+        "date": "7/17/2024",
+        "cert_number": "40764928",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "334106365383",
+        "cert_number": "46610085",
+        "price": "$51.24",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-443841268720776279/-3078344778475591123.jpg",
+        "auction_seller": "bobbkos1",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/11/2021"
+    },
+    {
+        "lot_number": "353055632708",
+        "auction_seller": "pwcc_auctions",
+        "price": "$10.50",
+        "date": "4/30/2020",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1941143494555212289/-3881250465002810330.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27696054"
+    },
+    {
+        "date": "3/29/2021",
+        "auction_seller": "1freemancollectables",
+        "price": "$26.00",
+        "grade": "8",
+        "lot_number": "154383311024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27696054",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3220443046789690178/-3217390397739285504.jpg"
+    }
+]

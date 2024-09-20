@@ -1,0 +1,24 @@
+[
+    {
+        "lot_number": "394095492624",
+        "cert_number": "56563546",
+        "price": "$4.49",
+        "date": "6/6/2022",
+        "grade": "6",
+        "auction_seller": "therandomman",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8518924087216320229/1237883793837197693.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143334204226",
+        "cert_number": "43420506",
+        "grade": "3",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5038478047953661100/2690735578996903111.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/30/2019",
+        "price": "$1.25"
+    }
+]

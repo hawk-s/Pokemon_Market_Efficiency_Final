@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$47.02",
+        "lot_number": "125486887192",
+        "cert_number": "57344686",
+        "grade": "9",
+        "date": "9/5/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2404536173859477535/4876335814230128024.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "nattereri_gaming",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5230822269457151747/-4795255073123423468.jpg",
+        "lot_number": "176415910470",
+        "price": "$26.23",
+        "cert_number": "56120878",
+        "date": "6/16/2024",
+        "auction_seller": "pricey_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$31.77",
+        "date": "5/14/2022",
+        "auction_seller": "gemmint-10",
+        "cert_number": "56120878",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5057293704823460419/5244017559457263459.jpg",
+        "lot_number": "354048271493",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-814727672369663174/7000812008920073259.jpg",
+        "price": "$7.07",
+        "date": "8/15/2024",
+        "grade": "9",
+        "auction_seller": "hedto77",
+        "cert_number": "93411613",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "395587111707"
+    }
+]

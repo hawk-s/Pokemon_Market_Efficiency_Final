@@ -1,0 +1,112 @@
+[
+    {
+        "price": "$26.01",
+        "auction_seller": "qceshop",
+        "lot_number": "165748324963",
+        "date": "11/4/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "60665313",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7589673932439501461/29123670743148365.jpg"
+    },
+    {
+        "cert_number": "59521943",
+        "auction_seller": "dukeofear79",
+        "price": "$14.50",
+        "lot_number": "355776552610",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3237511957978928544/6709723572436270969.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "6/20/2024"
+    },
+    {
+        "cert_number": "63275664",
+        "price": "$20.00",
+        "auction_seller": "shinjuku-donquixote",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2088043383401021698/-7064005688352999750.jpg",
+        "lot_number": "285339038911",
+        "date": "6/26/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5740015222989039457/-614125275522970062.jpg",
+        "cert_number": "61377634",
+        "price": "$13.62",
+        "auction_seller": "tra_collective_au",
+        "auction_type": "Auction",
+        "lot_number": "234937153072",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "3/26/2023"
+    },
+    {
+        "lot_number": "363964181577",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7211107373391290733/6296759155683086391.jpg",
+        "auction_seller": "probstein123",
+        "date": "9/8/2022",
+        "price": "$20.50",
+        "cert_number": "60665312",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3302430167858979645/-5587856000785488908.jpg",
+        "auction_seller": "tjsmintyfreshcards",
+        "grade": "9",
+        "cert_number": "54465853",
+        "price": "$9.00",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "1/9/2022",
+        "lot_number": "255308984007"
+    },
+    {
+        "auction_seller": "shinjuku-donquixote",
+        "date": "6/18/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3115182659256470427/-910061046222356959.jpg",
+        "cert_number": "63275663",
+        "auction_type": "Auction",
+        "lot_number": "285901792818",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "186497559392",
+        "date": "6/22/2024",
+        "price": "$32.83",
+        "cert_number": "73926148",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1561627967583098477/3292106608886368158.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "date": "8/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7137052458999266175/-1655582276972968407.jpg",
+        "lot_number": "235141674660",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "59160769",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "date": "6/30/2024",
+        "lot_number": "186502969588",
+        "price": "$22.75",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "88900921",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3588611087230467261/-5428101927701900403.jpg",
+        "auction_seller": "pokedreammarket"
+    }
+]

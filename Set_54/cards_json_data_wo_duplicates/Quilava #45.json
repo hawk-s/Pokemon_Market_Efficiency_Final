@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "zygadau2015",
+        "lot_number": "402131372847",
+        "auction_type": "Best Offer",
+        "price": "$43.48",
+        "date": "8/27/2020",
+        "cert_number": "42504057",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9005262146894278522/-8626819055286132895.jpg"
+    },
+    {
+        "lot_number": "255236901392",
+        "auction_seller": "sellers_sportscards",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3186487973427993007/5759285485178937243.jpg",
+        "cert_number": "61190888",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "date": "11/27/2021"
+    },
+    {
+        "auction_seller": "retronomic_meteroid",
+        "lot_number": "395483647546",
+        "cert_number": "92101902",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2222008327704172595/6612028925352011464.jpg",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "date": "6/28/2024",
+        "grade": "10"
+    }
+]

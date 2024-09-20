@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "presidiogaming",
+        "cert_number": "43605339",
+        "lot_number": "352837662294",
+        "price": "$41.00",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1402524625521664366/-7531011887869806813.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7086541673855350722/1693838187587802199.jpg",
+        "lot_number": "326138071190",
+        "date": "5/29/2024",
+        "cert_number": "44153207",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "niskycollectibles",
+        "price": "$101.00",
+        "grade": "10"
+    },
+    {
+        "cert_number": "41890185",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2360444874408247394/7476452376763803135.jpg",
+        "grade": "9",
+        "auction_seller": "manningcollector",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/19/2020",
+        "lot_number": "124044085725",
+        "price": "$19.50"
+    }
+]

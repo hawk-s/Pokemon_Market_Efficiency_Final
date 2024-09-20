@@ -1,0 +1,46 @@
+[
+    {
+        "date": "3/9/2020",
+        "lot_number": "254528381274",
+        "auction_seller": "tsunagu",
+        "price": "$15.50",
+        "cert_number": "45433251",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7398575640405041176/8423872172209481908.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/140495014764748553/images/1.jpg",
+        "grade": "7",
+        "lot_number": "5570",
+        "cert_number": "74551886",
+        "price": "$6.00",
+        "date": "6/15/2023",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun"
+    },
+    {
+        "cert_number": "93091018",
+        "auction_seller": "mytcgshopsd",
+        "lot_number": "305733228352",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4447478646750788012/5418574458822202625.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.50",
+        "date": "8/20/2024",
+        "grade": "10"
+    },
+    {
+        "grade": "4",
+        "lot_number": "334932423774",
+        "price": "$4.25",
+        "date": "7/17/2023",
+        "auction_seller": "commacards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4093397812429980348/-5043018848784362274.jpg",
+        "auction_type": "Auction",
+        "cert_number": "60957534",
+        "auction_house": "eBay"
+    }
+]

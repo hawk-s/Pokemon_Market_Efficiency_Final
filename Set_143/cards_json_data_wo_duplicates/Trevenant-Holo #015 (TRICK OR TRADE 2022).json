@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/19/2023",
+        "lot_number": "125717279278",
+        "price": "$9.50",
+        "cert_number": "69088879",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3564498901640248641/-1793094395512125009.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7924308736270594145/7231481597674015997.jpg",
+        "cert_number": "68892192",
+        "lot_number": "374972883670",
+        "price": "$9.01",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/12/2023"
+    },
+    {
+        "date": "4/14/2024",
+        "cert_number": "70421686",
+        "lot_number": "126419782512",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3790149068152558807/-2902441349125328285.jpg"
+    },
+    {
+        "lot_number": "156293929568",
+        "date": "7/16/2024",
+        "price": "$9.38",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7795396475656835260/740454714125566461.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "91858636"
+    }
+]

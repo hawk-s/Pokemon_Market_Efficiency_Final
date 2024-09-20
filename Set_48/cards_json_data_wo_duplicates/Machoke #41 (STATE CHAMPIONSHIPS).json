@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "224779814084",
+        "price": "$24.95",
+        "cert_number": "54263645",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4686098393121470523/-8365631576745866769.jpg",
+        "auction_seller": "ccgcrazy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/14/2022"
+    },
+    {
+        "auction_seller": "jakes-card-shop",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5287750780424160836/-1081807816392279162.jpg",
+        "grade": "9",
+        "cert_number": "25731318",
+        "price": "$40.00",
+        "lot_number": "363218268130",
+        "auction_type": "Auction",
+        "date": "12/18/2020",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/29/2023",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4808157042641607026/-4012654745202665282.jpg",
+        "lot_number": "115680699978",
+        "cert_number": "57414719",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$18.14"
+    },
+    {
+        "price": "$3.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6605938825043599008/-9029912978343403840.jpg",
+        "cert_number": "28612195",
+        "auction_seller": "psa10gem101",
+        "lot_number": "123633342619",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/13/2019"
+    },
+    {
+        "lot_number": "125625315526",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9157789618810348678/1187645928965400179.jpg",
+        "price": "$41.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "echobasecollectables",
+        "cert_number": "59312963",
+        "auction_house": "eBay",
+        "date": "12/5/2022"
+    }
+]

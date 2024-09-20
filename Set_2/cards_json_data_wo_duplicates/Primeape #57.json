@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "7",
+        "cert_number": "89808634",
+        "auction_seller": "balancedbreakfast",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5112660959749554311/-8316233127913375234.jpg",
+        "lot_number": "395405125079",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "date": "5/25/2024",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$89.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7101507863379491387/4109806841851043543.jpg",
+        "auction_seller": "dcsports87",
+        "lot_number": "126550013377",
+        "date": "7/3/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "91607794"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3282603961927042177/5066318339132225438.jpg",
+        "cert_number": "78035960",
+        "price": "$26.00",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "145831139529",
+        "date": "6/20/2024",
+        "auction_seller": "blue-fishing"
+    }
+]

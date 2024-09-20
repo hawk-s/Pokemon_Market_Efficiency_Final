@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "zandgemporium",
+        "date": "7/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6150769161014720778/-2128528508457793582.jpg",
+        "grade": "9",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285389743871",
+        "cert_number": "61474999"
+    },
+    {
+        "cert_number": "48951749",
+        "price": "$24.07",
+        "auction_seller": "vispri-21",
+        "date": "8/24/2021",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3204654254904651006/1084570034608343963.jpg",
+        "lot_number": "353623898669",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

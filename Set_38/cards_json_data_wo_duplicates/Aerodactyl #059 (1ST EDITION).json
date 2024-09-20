@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "parkerspokemon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2718980555101017754/3367161473832247538.jpg",
+        "date": "2/5/2024",
+        "grade": "9",
+        "price": "$23.79",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "315118077941",
+        "cert_number": "82257227"
+    },
+    {
+        "date": "3/9/2020",
+        "price": "$4.26",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1316568299276546366/4141477432474475945.jpg",
+        "auction_seller": "tsunagu",
+        "grade": "6",
+        "cert_number": "45433269",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "254528985342"
+    },
+    {
+        "price": "$139.83",
+        "date": "1/19/2021",
+        "lot_number": "265011997749",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8522580733729813667/7212109513432889801.jpg",
+        "cert_number": "43079908",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "cs.sem.iyqoatt"
+    },
+    {
+        "lot_number": "123732372907",
+        "date": "4/18/2019",
+        "auction_seller": "psa10gem101",
+        "price": "$11.50",
+        "cert_number": "43079908",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/867392946901247630/6507667349398639817.jpg",
+        "grade": "10"
+    }
+]

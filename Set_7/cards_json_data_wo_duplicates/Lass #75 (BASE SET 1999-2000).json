@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$15.51",
+        "auction_seller": "supercards_vault",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3015113761443816247/-4594780094683214451.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "88242384",
+        "date": "6/16/2024",
+        "lot_number": "326155293179"
+    },
+    {
+        "auction_seller": "goodsoddities",
+        "cert_number": "78643972",
+        "price": "$70.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3687296889047571308/-5659609025491263550.jpg",
+        "date": "10/22/2023",
+        "lot_number": "325850486773",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/23/2024",
+        "price": "$64.40",
+        "lot_number": "186498886039",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1638526581647495611/-4702640107316765018.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "73922216",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7398045795448088197/5930238388283582993.jpg",
+        "date": "7/14/2024",
+        "price": "$7.13",
+        "auction_seller": "sakuracache",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "285943929552",
+        "cert_number": "74925662"
+    },
+    {
+        "date": "12/20/2022",
+        "lot_number": "165830875113",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5155855301828018279/-5260925939610123511.jpg",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "cert_number": "61238964",
+        "auction_house": "eBay",
+        "auction_seller": "yars9250",
+        "grade": "10"
+    },
+    {
+        "date": "5/17/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2687658554507450362/3779710014913297623.jpg",
+        "grade": "6",
+        "cert_number": "53032011",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_seller": "daniesolomo_4",
+        "auction_house": "eBay",
+        "lot_number": "315356597626"
+    }
+]

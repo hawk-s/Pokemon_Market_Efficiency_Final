@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "293067991988",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "date": "8/14/2019",
+        "cert_number": "43132165",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-248064608110332660/-2119895413811712834.jpg",
+        "price": "$49.99",
+        "auction_seller": "amtsupply",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1546752981966615395/-1587587906915609647.jpg",
+        "price": "$23.25",
+        "date": "3/27/2023",
+        "auction_seller": "habbyshobbies",
+        "lot_number": "385483476518",
+        "grade": "6",
+        "cert_number": "66466612",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "date": "8/19/2023",
+        "lot_number": "334985660443",
+        "grade": "8",
+        "auction_seller": "juan_7441",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3185522301138594292/84940021699968926.jpg",
+        "cert_number": "57028638",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "upperecheloncollectibles",
+        "grade": "7",
+        "date": "7/15/2020",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/198423213963704253/6238849298356605143.jpg",
+        "price": "$24.99",
+        "lot_number": "233639961101",
+        "cert_number": "45953709",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "45953710",
+        "auction_seller": "cardboardcrackfb",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1367739052887643061/606658931711471639.jpg",
+        "grade": "8",
+        "lot_number": "154401138396",
+        "date": "4/10/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$91.00"
+    },
+    {
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/7683308518255183122/images/1.jpg",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "lot_number": "4875",
+        "cert_number": "75294197",
+        "price": "$18.00"
+    }
+]

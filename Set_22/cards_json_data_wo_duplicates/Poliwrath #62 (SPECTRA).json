@@ -1,0 +1,101 @@
+[
+    {
+        "cert_number": "68215561",
+        "lot_number": "385305319942",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6782724989424015029/-8601417183713733120.jpg",
+        "date": "12/28/2022",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "lot_number": "352837646616",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4023594073356152466/5918436042024193079.jpg",
+        "cert_number": "43605450",
+        "date": "11/5/2019",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "casablanca_comics",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8080598770935282789/8996605684452807651.jpg",
+        "lot_number": "384207234300",
+        "date": "6/12/2021",
+        "auction_type": "Auction",
+        "cert_number": "48565240",
+        "auction_house": "eBay",
+        "price": "$207.50",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "vitamindmixer",
+        "cert_number": "92778184",
+        "date": "8/11/2024",
+        "lot_number": "296614928394",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6526964302762472558/-1039705339752424841.jpg",
+        "auction_house": "eBay",
+        "price": "$96.00",
+        "grade": "10"
+    },
+    {
+        "lot_number": "155449942499",
+        "auction_seller": "rysk-90",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2932662609823733564/6626079494128978559.jpg",
+        "price": "$46.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "67549008",
+        "date": "3/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1105460421229560437/-235031519355627593.jpg",
+        "lot_number": "325361572451",
+        "cert_number": "66397833",
+        "auction_seller": "thecardstopshop",
+        "price": "$127.50",
+        "auction_type": "Auction",
+        "date": "10/10/2022",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/19/2021",
+        "auction_type": "Best Offer",
+        "auction_seller": "tyrob_2213",
+        "price": "$300.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9169359618588006413/-3311471912841899829.jpg",
+        "cert_number": "45358529",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "313401341792"
+    },
+    {
+        "date": "5/17/2022",
+        "lot_number": "363829294985",
+        "cert_number": "54056350",
+        "grade": "10",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-48221798525553405/1957784818376256596.jpg",
+        "auction_house": "eBay",
+        "price": "$161.50"
+    },
+    {
+        "lot_number": "285394759166",
+        "price": "$15.50",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "cert_number": "55272593",
+        "date": "7/30/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3209425796486463018/8847756518431788965.jpg"
+    }
+]

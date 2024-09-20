@@ -1,0 +1,79 @@
+[
+    {
+        "date": "8/17/2023",
+        "cert_number": "59541706",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7136333249510077024/-478564494923494959.jpg",
+        "auction_seller": "probstein123",
+        "price": "$20.50",
+        "lot_number": "374870435755",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "60229452",
+        "date": "4/1/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3848798509276435400/-1088835543612168106.jpg",
+        "price": "$13.50",
+        "auction_seller": "nelalv_96",
+        "lot_number": "234945726492",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "384911674833",
+        "date": "6/3/2022",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "64298135",
+        "price": "$7.52",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3715413687612435721/-4119801365035148095.jpg"
+    },
+    {
+        "cert_number": "59802359",
+        "lot_number": "185760745709",
+        "price": "$12.52",
+        "date": "2/10/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4226771317365678445/-5226300581120472092.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "czgaming"
+    },
+    {
+        "date": "9/6/2022",
+        "lot_number": "363962449989",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1751082913639863090/-2598405854256943525.jpg",
+        "price": "$4.50",
+        "auction_type": "Auction",
+        "auction_seller": "nickgotnerve",
+        "cert_number": "59802359",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/21/2022",
+        "cert_number": "61371805",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3757102939759116687/797935446802847498.jpg",
+        "price": "$14.05",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "dandpsportscards",
+        "lot_number": "225165165168"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5237496886160364833/537010999662976066.jpg",
+        "date": "9/21/2022",
+        "cert_number": "61371805",
+        "lot_number": "225165165190",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "dandpsportscards",
+        "price": "$14.05"
+    }
+]

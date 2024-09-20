@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "7",
+        "cert_number": "69969890",
+        "date": "2/2/2023",
+        "price": "$6.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/2773340756148881966/images/1.jpg",
+        "lot_number": "1930",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "auction_seller": "shaneequarayquaza70",
+        "cert_number": "47748889",
+        "price": "$41.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "265091830277",
+        "auction_house": "eBay",
+        "date": "3/26/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2145070898533505322/-3791920559872118329.jpg"
+    },
+    {
+        "lot_number": "324774957074",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/13/2021",
+        "cert_number": "49764338",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7427752297521178611/-8557531675380672113.jpg",
+        "auction_seller": "dualcollectibleinc",
+        "price": "$41.98"
+    },
+    {
+        "cert_number": "66513463",
+        "price": "$18.02",
+        "lot_number": "304707663458",
+        "grade": "8",
+        "date": "12/4/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4412394760085994055/-2235332671348967756.jpg",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "dandaman333",
+        "date": "4/23/2021",
+        "cert_number": "48703041",
+        "lot_number": "303957934803",
+        "grade": "9",
+        "price": "$59.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6651460723531373697/-8770760548338469204.jpg"
+    },
+    {
+        "cert_number": "92267777",
+        "date": "6/22/2024",
+        "lot_number": "235608497426",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thecoronetcave",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1263255816939223134/-8329835094731655517.jpg",
+        "price": "$18.50"
+    }
+]

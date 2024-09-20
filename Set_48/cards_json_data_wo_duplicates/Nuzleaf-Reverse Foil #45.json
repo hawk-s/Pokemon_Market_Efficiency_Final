@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$18.78",
+        "date": "8/11/2024",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5610609022274898870/-3135531960901757871.jpg",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "lot_number": "135174410595",
+        "auction_house": "eBay",
+        "cert_number": "94265695"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "lot_number": "1929",
+        "date": "2/2/2023",
+        "grade": "8",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/-5550407369044524290/images/1.jpg",
+        "cert_number": "69969887",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3831501180470990384/-8279851425008366988.jpg",
+        "cert_number": "51424240",
+        "lot_number": "185058680059",
+        "grade": "8",
+        "auction_seller": "apmerchant02",
+        "date": "9/29/2021",
+        "price": "$34.69",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3262130161779618346/-1303258191289605291.jpg",
+        "date": "11/8/2021",
+        "grade": "9",
+        "lot_number": "324854436916",
+        "cert_number": "49764352",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "price": "$14.89"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2519724683309447870/2651396769088061576.jpg",
+        "date": "3/23/2023",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "cert_number": "60713005",
+        "auction_house": "eBay",
+        "lot_number": "364183967870"
+    },
+    {
+        "lot_number": "166793825139",
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7425718219480226603/-8886786116882951492.jpg",
+        "cert_number": "65721332",
+        "auction_seller": "crjcards",
+        "grade": "9",
+        "date": "6/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

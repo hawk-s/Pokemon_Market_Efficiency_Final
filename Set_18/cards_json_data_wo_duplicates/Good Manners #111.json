@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8664578693540390256/-8082648289456134491.jpg",
+        "price": "$6.50",
+        "cert_number": "84994249",
+        "date": "5/30/2024",
+        "auction_type": "Auction",
+        "lot_number": "156220952691",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "1"
+    },
+    {
+        "auction_seller": "iconic.cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7848784079840150427/3026240628549787711.jpg",
+        "price": "$26.00",
+        "date": "11/8/2021",
+        "cert_number": "53041899",
+        "lot_number": "203683665511",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "7/3/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7180836691394470842/-7760931747363934053.jpg",
+        "auction_seller": "metallica-pikachu",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "75791898",
+        "lot_number": "175788772350",
+        "grade": "10",
+        "price": "$16.50"
+    }
+]

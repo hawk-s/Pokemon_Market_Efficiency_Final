@@ -1,0 +1,68 @@
+[
+    {
+        "date": "10/13/2019",
+        "lot_number": "183987716222",
+        "cert_number": "42343200",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2886478064869017591/5798107768334734613.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "svc051"
+    },
+    {
+        "price": "$2.25",
+        "cert_number": "40771247",
+        "lot_number": "142836549111",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8872043518108248302/8047149240783149110.jpg"
+    },
+    {
+        "auction_seller": "letocards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7718470555865167201/-2944394833382358675.jpg",
+        "date": "9/12/2021",
+        "lot_number": "124884866134",
+        "price": "$26.02",
+        "grade": "9",
+        "cert_number": "51389890",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-738677935118323150/3162595529859518929.jpg",
+        "auction_seller": "gemmintpokemon",
+        "auction_type": "Best Offer",
+        "date": "5/9/2020",
+        "lot_number": "173530044648",
+        "price": "$59.95",
+        "cert_number": "41044085",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "315087891975",
+        "date": "1/26/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8363913975525302536/1782063901056707232.jpg",
+        "cert_number": "41354994",
+        "price": "$79.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "date": "4/19/2020",
+        "lot_number": "283449466747",
+        "price": "$39.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4820726765444736389/7456067394319085626.jpg",
+        "auction_type": "Best Offer",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "cert_number": "43083687",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "price": "$12.19",
+        "auction_seller": "tacotruckcollectibles",
+        "date": "3/5/2024",
+        "lot_number": "196266302255",
+        "cert_number": "85179433",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7694941571203268837/8787931182239756975.jpg"
+    },
+    {
+        "price": "$30.00",
+        "cert_number": "47558571",
+        "lot_number": "154570930323",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7862546210700173430/3508923985489967856.jpg",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/23/2021"
+    },
+    {
+        "lot_number": "305307607349",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2762467844683928642/7279341313965001066.jpg",
+        "price": "$20.00",
+        "auction_seller": "scc_consignments",
+        "grade": "9",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70487169"
+    },
+    {
+        "cert_number": "52329066",
+        "auction_seller": "collectorbirch",
+        "grade": "7",
+        "price": "$17.88",
+        "lot_number": "265499470627",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-137683926419166077/3424996593736762074.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/30/2022"
+    },
+    {
+        "cert_number": "46548180",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "lot_number": "203019153686",
+        "grade": "8",
+        "auction_seller": "pokeshoptoys",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6237014575313811977/1085841912447301102.jpg",
+        "date": "9/16/2020",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "305327591128",
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4217806064477229711/7279341313965001066.jpg",
+        "auction_seller": "scc_consignments",
+        "grade": "9",
+        "date": "1/2/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70487169"
+    },
+    {
+        "grade": "5",
+        "cert_number": "85130171",
+        "date": "7/23/2024",
+        "price": "$23.24",
+        "auction_seller": "uniquecopcollectables",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5713587594866500125/-4316839547893901401.jpg",
+        "auction_house": "eBay",
+        "lot_number": "395536359690"
+    },
+    {
+        "cert_number": "52329066",
+        "price": "$16.33",
+        "grade": "7",
+        "auction_seller": "boldinho13",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/976302020199319020/-4317951910601883201.jpg",
+        "lot_number": "134387456593",
+        "date": "1/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "djbrluton",
+        "grade": "7",
+        "cert_number": "68657505",
+        "date": "5/15/2023",
+        "price": "$15.59",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5242304713933681049/-1232193338494373793.jpg",
+        "auction_type": "Auction",
+        "lot_number": "125926178767"
+    }
+]

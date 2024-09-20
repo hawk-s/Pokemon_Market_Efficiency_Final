@@ -1,0 +1,101 @@
+[
+    {
+        "price": "$7.50",
+        "cert_number": "68681759",
+        "date": "12/21/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3215724935718462974/1373029041649071716.jpg",
+        "grade": "9",
+        "auction_seller": "marvelous-cards-collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364631465281"
+    },
+    {
+        "price": "$30.12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8568472404553000968/-1514679495257896665.jpg",
+        "lot_number": "155141755474",
+        "cert_number": "61618311",
+        "grade": "9",
+        "date": "9/5/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokedenuk"
+    },
+    {
+        "auction_seller": "tyhoff12",
+        "price": "$5.00",
+        "grade": "9",
+        "date": "3/31/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-477954958439013318/6407876616498672111.jpg",
+        "auction_type": "Auction",
+        "lot_number": "296317178808",
+        "auction_house": "eBay",
+        "cert_number": "83260388"
+    },
+    {
+        "price": "$15.74",
+        "cert_number": "57119381",
+        "lot_number": "155441637218",
+        "auction_seller": "tannah12",
+        "date": "3/14/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2483728145179146560/-7076619862589909089.jpg"
+    },
+    {
+        "lot_number": "254623436358",
+        "price": "$20.00",
+        "date": "6/14/2020",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "cert_number": "45141140",
+        "auction_seller": "forgottonn0n",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8502913447212794309/-2599376959421320161.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "295946823280",
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6054705733625796611/-3043954432337086445.jpg",
+        "auction_seller": "hubsportscards",
+        "grade": "9",
+        "date": "9/29/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70859478"
+    },
+    {
+        "price": "$14.99",
+        "date": "1/11/2024",
+        "grade": "9",
+        "cert_number": "54766964",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4806495704772542274/-514613943572490236.jpg",
+        "lot_number": "256365410728",
+        "auction_seller": "frenzy_collectors"
+    },
+    {
+        "lot_number": "115855569746",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2940199995174694474/-9098077455754567940.jpg",
+        "price": "$10.50",
+        "auction_seller": "cardthrone",
+        "date": "7/17/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "55222360",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2211020549401058942/2633529863489691022.jpg",
+        "auction_seller": "rysua_94",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "lot_number": "403956551485",
+        "date": "10/30/2022",
+        "cert_number": "54963109",
+        "auction_house": "eBay"
+    }
+]

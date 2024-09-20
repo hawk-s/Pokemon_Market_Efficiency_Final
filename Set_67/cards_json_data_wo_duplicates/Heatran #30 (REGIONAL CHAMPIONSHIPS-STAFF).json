@@ -1,0 +1,90 @@
+[
+    {
+        "date": "2/5/2023",
+        "grade": "7",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-24318233068580466/8804348940205897227.jpg",
+        "auction_seller": "pokeking_auz",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "225359336233",
+        "cert_number": "54392082"
+    },
+    {
+        "date": "11/2/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8314711696386424783/902747464221157885.jpg",
+        "lot_number": "285018639811",
+        "price": "$57.00",
+        "grade": "9",
+        "auction_seller": "cardhouse_eu",
+        "auction_type": "Auction",
+        "cert_number": "52633725",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "9/10/2023",
+        "grade": "8",
+        "lot_number": "195958374236",
+        "cert_number": "59312931",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5003775046384109707/1556754584900191432.jpg",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokepuller77"
+    },
+    {
+        "lot_number": "372548212686",
+        "cert_number": "41634267",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6713337461761359491/-6556456827327064672.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_seller": "probstein123",
+        "date": "1/2/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "25731193",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2131637439755761420/-9123181022285880710.jpg",
+        "lot_number": "371911930335",
+        "auction_type": "Buy It Now",
+        "date": "11/8/2017",
+        "grade": "9",
+        "auction_seller": "dacardworld",
+        "price": "$33.95",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "225717914335",
+        "grade": "8",
+        "auction_seller": "pokeking_auz",
+        "cert_number": "54392083",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2757341417506189562/2043342480444624500.jpg",
+        "date": "8/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "70692594",
+        "lot_number": "404549871773",
+        "price": "$49.00",
+        "date": "10/21/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6250772646340785499/-6688401581398844283.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dragon_secrets"
+    },
+    {
+        "lot_number": "225396089495",
+        "grade": "8",
+        "date": "2/19/2023",
+        "price": "$44.00",
+        "auction_seller": "pokeking_auz",
+        "cert_number": "54392083",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7117156763344223792/-6496370065927156231.jpg"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "gcballa29197",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-870814734848849039/-5810327509400289713.jpg",
+        "lot_number": "354648917235",
+        "cert_number": "48971197",
+        "price": "$10.00",
+        "grade": "9",
+        "date": "3/21/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7541567834780258660/4739126148122804921.jpg",
+        "auction_seller": "habbyshobbies",
+        "cert_number": "48971197",
+        "date": "8/2/2021",
+        "grade": "9",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "lot_number": "384294814957",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "112883576706",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3869718452092984714/-1003069236125282746.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$11.99",
+        "auction_seller": "my_honolulu_blue",
+        "cert_number": "27835617",
+        "date": "3/24/2018",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5003261246485401838/4737376522339198076.jpg",
+        "grade": "9",
+        "lot_number": "142861256052",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "date": "7/14/2018",
+        "cert_number": "40771218",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "auction_seller": "launderj1988",
+        "cert_number": "53214456",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3965578337431766932/2032092660378530870.jpg",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "125037146817",
+        "date": "12/14/2021"
+    },
+    {
+        "cert_number": "27667904",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/6192583114884077596/5130229836192118024.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$11.99",
+        "auction_seller": "my_honolulu_blue",
+        "lot_number": "112567373752",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

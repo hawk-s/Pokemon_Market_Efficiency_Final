@@ -1,0 +1,79 @@
+[
+    {
+        "date": "11/1/2022",
+        "price": "$10.50",
+        "lot_number": "403960032864",
+        "auction_seller": "rysua_94",
+        "grade": "8",
+        "cert_number": "54963095",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1965039218288081126/6659235205498049989.jpg"
+    },
+    {
+        "date": "1/9/2024",
+        "price": "$9.51",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/559847856645772634/-8234319286322482728.jpg",
+        "lot_number": "364659511195",
+        "grade": "9",
+        "auction_seller": "marvelous-cards-collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "84158824"
+    },
+    {
+        "cert_number": "88121202",
+        "lot_number": "135016204389",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3442730517520879294/7286537572333265343.jpg",
+        "date": "4/19/2024",
+        "auction_seller": "traskman17",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$25.69",
+        "grade": "10"
+    },
+    {
+        "date": "5/26/2023",
+        "auction_seller": "antpe3142",
+        "lot_number": "134573720373",
+        "grade": "9",
+        "price": "$11.50",
+        "cert_number": "73486341",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1685005940984674708/5212897150553966129.jpg"
+    },
+    {
+        "date": "3/24/2024",
+        "lot_number": "126382684833",
+        "cert_number": "84836604",
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1899956722952731771/1744313016379937105.jpg",
+        "grade": "8",
+        "auction_seller": "jmcomicsandcards",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8314437574533965887/9133917397738502621.jpg",
+        "lot_number": "126567134027",
+        "date": "7/15/2024",
+        "auction_seller": "pokellectorad",
+        "grade": "9",
+        "cert_number": "88641270",
+        "auction_type": "Auction",
+        "price": "$12.97",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.50",
+        "date": "7/15/2018",
+        "lot_number": "192593028166",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4062297484434854466/8276721189114030437.jpg",
+        "cert_number": "41011991",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

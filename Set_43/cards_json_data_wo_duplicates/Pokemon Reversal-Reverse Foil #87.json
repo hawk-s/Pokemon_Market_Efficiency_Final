@@ -1,0 +1,35 @@
+[
+    {
+        "date": "10/10/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4825419336708340317/-7160494574844902958.jpg",
+        "cert_number": "51389891",
+        "lot_number": "255161884732",
+        "auction_seller": "pokichloe",
+        "grade": "9",
+        "price": "$25.91",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "74150802",
+        "date": "12/31/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/257436516524206315/3683171774036750869.jpg",
+        "grade": "9",
+        "lot_number": "285622005029",
+        "auction_type": "Auction",
+        "auction_seller": "mattripspacks",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "auction_seller": "letocards",
+        "cert_number": "51389891",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8552323164437582486/2854537177272215827.jpg",
+        "date": "9/12/2021",
+        "price": "$31.69",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "124884865321",
+        "auction_house": "eBay"
+    }
+]

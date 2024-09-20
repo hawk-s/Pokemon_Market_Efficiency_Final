@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4478529624859061316/-3956641093803597174.jpg",
+        "auction_seller": "vispri-21",
+        "lot_number": "354993623965",
+        "cert_number": "72797400",
+        "date": "9/7/2023",
+        "auction_type": "Auction",
+        "price": "$21.42",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "slabmystuff",
+        "price": "$4.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4127240006555209561/126290968954013994.jpg",
+        "cert_number": "60808772",
+        "lot_number": "256360141639",
+        "grade": "9",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/25/2023",
+        "cert_number": "69838023",
+        "lot_number": "134458723669",
+        "grade": "9",
+        "price": "$17.02",
+        "auction_type": "Auction",
+        "auction_seller": "prospectsincorperated",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7787567606603122376/6040867748354505802.jpg"
+    },
+    {
+        "lot_number": "144351555396",
+        "auction_seller": "mastertrainer_red",
+        "cert_number": "42823547",
+        "grade": "9",
+        "date": "1/10/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5357342628162099874/2641566273960284525.jpg",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay"
+    }
+]

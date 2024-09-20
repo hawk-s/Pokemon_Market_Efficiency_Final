@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$26.99",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "387060712301",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1655597107587760215/-3054764081935973935.jpg",
+        "auction_type": "Auction",
+        "cert_number": "60615125",
+        "auction_house": "eBay",
+        "date": "6/16/2024"
+    },
+    {
+        "price": "$11.94",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1429906647169029572/5811120328507327898.jpg",
+        "auction_seller": "threepoint_cards",
+        "lot_number": "234986256962",
+        "date": "5/1/2023",
+        "auction_type": "Auction",
+        "cert_number": "61344299",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1295230685703888743/110421280379316731.jpg",
+        "date": "6/7/2024",
+        "cert_number": "61822847",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "375458755967",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "7/27/2024",
+        "price": "$14.78",
+        "grade": "9",
+        "lot_number": "276565470814",
+        "auction_seller": "edspokemonshop",
+        "cert_number": "60520041",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8213573468875195803/-7678943113383428547.jpg",
+        "auction_house": "eBay"
+    }
+]

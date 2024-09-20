@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "teamxiong",
+        "price": "$26.00",
+        "date": "1/21/2024",
+        "cert_number": "83993591",
+        "lot_number": "256376022414",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-892167546551938289/4291442356803082132.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "nsbs-goods",
+        "cert_number": "70655446",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8984061771928725974/-1444860877436462143.jpg",
+        "date": "2/14/2023",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "385399028802",
+        "grade": "10"
+    },
+    {
+        "price": "$12.13",
+        "date": "10/11/2023",
+        "lot_number": "266440127071",
+        "cert_number": "73883456",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8430546560269659648/-1772828489832992225.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "782sportscards"
+    },
+    {
+        "lot_number": "374441057566",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-771227093991961592/-86585614760060486.jpg",
+        "cert_number": "62303713",
+        "auction_seller": "collectinggrails",
+        "price": "$5.50",
+        "grade": "9",
+        "date": "1/11/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$3.73",
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-458309060347042211/8648281587752123068.jpg",
+        "lot_number": "126568983311",
+        "cert_number": "91845548",
+        "date": "7/15/2024",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

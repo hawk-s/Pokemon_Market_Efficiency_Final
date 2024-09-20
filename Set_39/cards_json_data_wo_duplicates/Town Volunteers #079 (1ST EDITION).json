@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "265340878098",
+        "auction_seller": "jakewc151",
+        "price": "$1,111.00",
+        "cert_number": "55729949",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6919092339029428514/265129931581074881.jpg",
+        "date": "10/9/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "cert_number": "55729949",
+        "lot_number": "174977797883",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2135769300271184859/5596365406643018889.jpg",
+        "date": "10/25/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$65.50",
+        "grade": "10"
+    },
+    {
+        "price": "$320.00",
+        "cert_number": "55729949",
+        "lot_number": "124863368642",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7078336195096550014/-7915534257732763793.jpg",
+        "auction_seller": "card_secret",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    },
+    {
+        "date": "3/27/2023",
+        "auction_seller": "parkerspokemon",
+        "cert_number": "66903492",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8218398500543503084/-1086955571451007270.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "314473953702",
+        "price": "$77.56",
+        "grade": "10"
+    }
+]

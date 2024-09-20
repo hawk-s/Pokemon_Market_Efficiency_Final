@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "68768039",
+        "lot_number": "185882418391",
+        "date": "5/12/2023",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "price": "$20.77",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3478775493471200552/3439464629252178148.jpg"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "28468299",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4655534671325381035/7689846411561597020.jpg",
+        "price": "$32.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "402299989468",
+        "date": "6/29/2020",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7798057852687880173/5321336353499142143.jpg",
+        "price": "$15.50",
+        "date": "7/30/2023",
+        "grade": "9",
+        "auction_seller": "getyourgoodshere",
+        "auction_type": "Auction",
+        "lot_number": "195899096056",
+        "auction_house": "eBay",
+        "cert_number": "74102998"
+    },
+    {
+        "price": "$11.30",
+        "cert_number": "76244653",
+        "grade": "8",
+        "lot_number": "204425592853",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "date": "8/20/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4263582227971685222/-5804212008657206698.jpg"
+    },
+    {
+        "lot_number": "315021493122",
+        "auction_seller": "vintagepokefan",
+        "price": "$10.50",
+        "cert_number": "74710593",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-366212272339358466/922627625207172058.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "auction_house": "eBay"
+    }
+]

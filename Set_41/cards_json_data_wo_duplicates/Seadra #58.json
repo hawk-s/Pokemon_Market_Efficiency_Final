@@ -1,0 +1,79 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4901811573927245291/1220021673022266340.jpg",
+        "grade": "9",
+        "price": "$9.99",
+        "cert_number": "41011970",
+        "lot_number": "192605923056",
+        "date": "7/29/2018",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "price": "$11.99",
+        "cert_number": "27667866",
+        "lot_number": "192309247971",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-1578340745722300200/3037696908029685144.jpg",
+        "auction_seller": "my_honolulu_blue",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/31/2021",
+        "lot_number": "274919272967",
+        "auction_seller": "coins_n_rarities",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-709664200857741299/-7364084478846919813.jpg",
+        "cert_number": "49039145",
+        "price": "$39.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "294567029771",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1920788758496396139/84019421538648834.jpg",
+        "cert_number": "49039145",
+        "date": "11/29/2021",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "gen1_john"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6159637340225714552/4203103242330009148.jpg",
+        "auction_seller": "coins_n_rarities",
+        "date": "12/4/2021",
+        "cert_number": "49039144",
+        "lot_number": "313771325899",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$3.25",
+        "lot_number": "142836549207",
+        "cert_number": "40771351",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3750578782981295817/-963046651503225003.jpg",
+        "auction_house": "eBay",
+        "date": "6/24/2018"
+    },
+    {
+        "date": "3/20/2018",
+        "lot_number": "112867389687",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7617021994569066172/4068304717093992157.jpg",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "cert_number": "27839437",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

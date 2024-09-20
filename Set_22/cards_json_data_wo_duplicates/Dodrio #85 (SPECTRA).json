@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-248392605475766026/630884461916889345.jpg",
+        "lot_number": "353577812556",
+        "cert_number": "53491853",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$194.50",
+        "date": "7/29/2021",
+        "grade": "10"
+    },
+    {
+        "date": "4/28/2021",
+        "lot_number": "353460639122",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3019761159659059114/999680634112205778.jpg",
+        "cert_number": "53491853",
+        "auction_type": "Auction",
+        "price": "$449.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "carfar_has_cards",
+        "date": "5/20/2024",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1780438483626663226/-7779142686554775669.jpg",
+        "lot_number": "156204988484",
+        "cert_number": "89760080",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    }
+]

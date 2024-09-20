@@ -1,0 +1,46 @@
+[
+    {
+        "date": "6/30/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/386797790080523501/-8965574027012034052.jpg",
+        "cert_number": "91411456",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "lot_number": "226208257811",
+        "auction_house": "eBay",
+        "auction_seller": "flying_boat",
+        "grade": "10"
+    },
+    {
+        "lot_number": "404830650204",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3900529963895435704/-3592294636196050531.jpg",
+        "grade": "9",
+        "auction_seller": "apmurphpokemon",
+        "auction_type": "Auction",
+        "date": "3/8/2024",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "cert_number": "61542223"
+    },
+    {
+        "price": "$10.50",
+        "cert_number": "56212907",
+        "auction_seller": "dcsports87",
+        "lot_number": "374069211473",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4490607711379232926/-2332453842262677676.jpg",
+        "auction_type": "Auction",
+        "date": "5/16/2022",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "5/27/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4782963671961677239/5534222492372494337.jpg",
+        "cert_number": "73395813",
+        "auction_seller": "quickconsign",
+        "grade": "8",
+        "lot_number": "276473679135",
+        "auction_type": "Auction",
+        "price": "$3.80",
+        "auction_house": "eBay"
+    }
+]

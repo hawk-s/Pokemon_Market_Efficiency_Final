@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "304624449667",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8686153759526290588/4595946436936654066.jpg",
+        "auction_seller": "thehumanpokedex",
+        "cert_number": "55315983",
+        "date": "9/19/2022",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$43.50",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2369889348811456866/2956590323264199046.jpg",
+        "grade": "8",
+        "date": "5/10/2022",
+        "auction_seller": "probstein123",
+        "cert_number": "54752134",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "384867601437"
+    },
+    {
+        "lot_number": "374054430942",
+        "price": "$20.51",
+        "grade": "8",
+        "date": "5/10/2022",
+        "auction_seller": "probstein123",
+        "cert_number": "54752133",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3302592299812904010/7545337731543476111.jpg"
+    }
+]

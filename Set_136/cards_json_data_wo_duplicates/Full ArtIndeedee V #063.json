@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/14/2022",
+        "auction_seller": "prestomil0",
+        "cert_number": "49219170",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "125087892801",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4148777373524713765/8686841139864217141.jpg"
+    },
+    {
+        "date": "4/19/2020",
+        "lot_number": "124153003482",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2641776199524301894/669916414793779296.jpg",
+        "auction_seller": "kawaii-japanshop",
+        "cert_number": "45910510",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$13.53",
+        "lot_number": "166854102083",
+        "date": "7/11/2024",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6481407693505919478/6646925052674458341.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "get_collect",
+        "auction_house": "eBay",
+        "cert_number": "91563835"
+    },
+    {
+        "date": "1/13/2022",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7502624718527054964/2083418589521257059.jpg",
+        "lot_number": "125087879271",
+        "auction_seller": "prestomil0",
+        "cert_number": "49219169",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

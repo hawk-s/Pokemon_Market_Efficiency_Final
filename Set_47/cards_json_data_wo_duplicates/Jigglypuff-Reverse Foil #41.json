@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "93503374",
+        "grade": "7",
+        "lot_number": "405170054533",
+        "price": "$12.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8920993252667687501/-1659451868688735904.jpg",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "auction_seller": "arizona_tcg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3886630931359365852/8510431512434943882.jpg",
+        "lot_number": "283565256826",
+        "auction_type": "Buy It Now",
+        "cert_number": "43350549",
+        "price": "$169.99",
+        "auction_house": "eBay",
+        "auction_seller": "cooltrainerryan",
+        "date": "7/2/2020",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "caicope_0",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3790559205052661210/-2471107416081693673.jpg",
+        "lot_number": "333560144428",
+        "grade": "8",
+        "cert_number": "45759412",
+        "price": "$10.00",
+        "date": "4/3/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "324992479944",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-536520695938316669/-5899865944315944800.jpg",
+        "grade": "8",
+        "price": "$13.96",
+        "cert_number": "53863832",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5420679260529381907/4364565272125936444.jpg",
+        "grade": "8",
+        "price": "$18.52",
+        "auction_seller": "games_prose_poems",
+        "cert_number": "79143776",
+        "date": "10/19/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "394931872366"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "204496651714",
+        "date": "10/21/2023",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "winglescards",
+        "cert_number": "79157370",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6464068172132856663/-7836610302871123295.jpg",
+        "price": "$16.50"
+    },
+    {
+        "cert_number": "76199351",
+        "lot_number": "375473004742",
+        "date": "6/18/2024",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9010196927943748357/-5942886129363931048.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "56440289",
+        "lot_number": "325183930405",
+        "auction_seller": "pokemon_sphere",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8563060654787826610/2579749550150342988.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$19.56",
+        "auction_house": "eBay",
+        "date": "5/13/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8981595985083413465/-5281759906248069506.jpg",
+        "lot_number": "265091824949",
+        "price": "$26.02",
+        "grade": "9",
+        "cert_number": "47748902",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/26/2021",
+        "auction_seller": "shaneequarayquaza70"
+    }
+]

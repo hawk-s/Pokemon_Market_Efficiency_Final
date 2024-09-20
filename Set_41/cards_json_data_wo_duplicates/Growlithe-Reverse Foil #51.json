@@ -1,0 +1,46 @@
+[
+    {
+        "date": "6/6/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6452366899701302761/6148177895815321365.jpg",
+        "lot_number": "142811259476",
+        "price": "$5.50",
+        "grade": "9",
+        "cert_number": "40771453",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/29/2024",
+        "auction_seller": "poke_paradise",
+        "lot_number": "186351815716",
+        "price": "$41.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3115810312163291007/5558747705598035209.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "74061384"
+    },
+    {
+        "lot_number": "385305923195",
+        "grade": "8",
+        "cert_number": "67260340",
+        "date": "12/28/2022",
+        "price": "$22.01",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7014839528624686985/-8114473950952497423.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "krukcards",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6360717016350698575/-3790555685059987789.jpg",
+        "lot_number": "253693418565",
+        "auction_type": "Buy It Now",
+        "price": "$6.99",
+        "grade": "9",
+        "auction_seller": "pokecard-guru",
+        "cert_number": "40771453",
+        "date": "7/5/2018",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3954715691264460690/206205939733840459.jpg",
+        "lot_number": "355021730646",
+        "price": "$10.50",
+        "cert_number": "55670643",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "poke-ballz",
+        "auction_house": "eBay",
+        "date": "9/14/2023"
+    },
+    {
+        "lot_number": "364177682982",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-405890717343692957/2627823735112064420.jpg",
+        "cert_number": "57947761",
+        "auction_seller": "4_sharp_corners",
+        "price": "$37.40",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "59965995",
+        "lot_number": "385905440581",
+        "price": "$3.25",
+        "auction_seller": "river_haze_collectibles",
+        "date": "8/18/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2270346594443574799/-9025772633032893465.jpg"
+    }
+]

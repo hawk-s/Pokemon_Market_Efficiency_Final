@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$13.66",
+        "cert_number": "61951414",
+        "lot_number": "335481775468",
+        "date": "7/18/2024",
+        "grade": "9",
+        "auction_seller": "trevor3918",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1200669992010185042/4360648904937282986.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "47978390",
+        "lot_number": "233755773857",
+        "date": "10/31/2020",
+        "price": "$49.99",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3357901198853923353/-6437761286321119161.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "vtgsource911"
+    },
+    {
+        "cert_number": "61951414",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2119893522658381761/4360648904937282986.jpg",
+        "lot_number": "335465020799",
+        "price": "$12.18",
+        "grade": "9",
+        "auction_seller": "trevor3918",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/6/2024"
+    },
+    {
+        "date": "5/17/2022",
+        "auction_seller": "deli_4559",
+        "lot_number": "175275960621",
+        "cert_number": "62786605",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7049234555279190173/7968139812008641607.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$17.99"
+    }
+]

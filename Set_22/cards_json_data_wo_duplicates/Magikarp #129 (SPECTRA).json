@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "56416144",
+        "date": "8/6/2023",
+        "auction_seller": "coins_n_rarities",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5119510393678014571/8096079192099337969.jpg",
+        "price": "$122.52",
+        "lot_number": "314742411109"
+    },
+    {
+        "grade": "5",
+        "cert_number": "79965647",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2639846928871723746/8770175605181398367.jpg",
+        "auction_seller": "poke_paradise",
+        "price": "$41.00",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "lot_number": "186199293571",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4363138136165578158/-5124325539982113870.jpg",
+        "cert_number": "43605352",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "352837671813",
+        "grade": "10",
+        "price": "$81.00"
+    }
+]

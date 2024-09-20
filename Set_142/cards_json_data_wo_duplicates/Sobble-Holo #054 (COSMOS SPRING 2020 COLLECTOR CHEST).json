@@ -1,0 +1,134 @@
+[
+    {
+        "date": "4/3/2023",
+        "lot_number": "354658521274",
+        "grade": "10",
+        "cert_number": "59576628",
+        "auction_seller": "spencerscollectibles",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7003922836431950718/-6671824102341280277.jpg"
+    },
+    {
+        "date": "1/16/2023",
+        "price": "$3.25",
+        "cert_number": "62520220",
+        "grade": "9",
+        "lot_number": "115667186292",
+        "auction_seller": "tntcards.mi",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7540354762896974020/-6375145170976563310.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$6.01",
+        "cert_number": "58918408",
+        "lot_number": "115661062617",
+        "auction_seller": "jurgenwerty",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "1/9/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1720554600829749990/-152857099588886334.jpg"
+    },
+    {
+        "date": "1/16/2023",
+        "cert_number": "58211986",
+        "grade": "8",
+        "auction_seller": "tntcards.mi",
+        "lot_number": "115667186258",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3308693353137042137/7301491841946604838.jpg",
+        "price": "$0.99"
+    },
+    {
+        "lot_number": "115667186267",
+        "date": "1/16/2023",
+        "cert_number": "58211982",
+        "grade": "9",
+        "auction_seller": "tntcards.mi",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2799301844664809610/-7099030770680433054.jpg",
+        "auction_house": "eBay",
+        "price": "$2.50"
+    },
+    {
+        "date": "1/16/2023",
+        "cert_number": "58211983",
+        "price": "$7.00",
+        "lot_number": "115667186272",
+        "auction_seller": "tntcards.mi",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5527468281661837086/-2260858794764246488.jpg"
+    },
+    {
+        "auction_seller": "adamjcav",
+        "cert_number": "54089530",
+        "date": "4/2/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "166670669313",
+        "price": "$29.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6693750795479942388/-740340199442534855.jpg"
+    },
+    {
+        "lot_number": "115667186309",
+        "date": "1/16/2023",
+        "price": "$5.00",
+        "grade": "9",
+        "auction_seller": "tntcards.mi",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1483456256671390590/-2476391327595507664.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "58211985"
+    },
+    {
+        "lot_number": "115576276095",
+        "grade": "9",
+        "cert_number": "58211981",
+        "auction_seller": "tntcards.mi",
+        "auction_type": "Auction",
+        "price": "$5.51",
+        "date": "10/30/2022",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4582819398864670447/-8053184869662899977.jpg"
+    },
+    {
+        "date": "1/16/2023",
+        "cert_number": "58211984",
+        "grade": "9",
+        "price": "$3.75",
+        "auction_seller": "tntcards.mi",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7044933205788646569/5532974977059512524.jpg",
+        "lot_number": "115667015764"
+    },
+    {
+        "lot_number": "115576276081",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6467362637039534356/2355026716264898545.jpg",
+        "auction_seller": "tntcards.mi",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "58211980"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5382698402391988299/-5895313688182037144.jpg",
+        "date": "12/9/2022",
+        "auction_seller": "anthonyaigner45",
+        "lot_number": "304722577353",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "58802704",
+        "price": "$18.50"
+    }
+]

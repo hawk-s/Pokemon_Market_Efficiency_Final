@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "185854369901",
+        "auction_seller": "marro-4916",
+        "cert_number": "70569883",
+        "grade": "9",
+        "price": "$44.82",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4315386065300787921/-6285379935159243879.jpg",
+        "date": "4/20/2023"
+    },
+    {
+        "price": "$10.50",
+        "cert_number": "43451390",
+        "grade": "9",
+        "lot_number": "264774068636",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7663251174877127109/-244530100094792513.jpg",
+        "auction_type": "Auction",
+        "date": "7/1/2020",
+        "auction_house": "eBay",
+        "auction_seller": "cardiacgaming"
+    },
+    {
+        "auction_seller": "zapycards",
+        "date": "8/1/2021",
+        "grade": "9",
+        "price": "$56.00",
+        "cert_number": "48223442",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "294298415114",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8285296955357309448/-1517192499699752844.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6725765867152785099/-1414676910533492422.jpg",
+        "cert_number": "70614385",
+        "date": "3/17/2023",
+        "price": "$14.26",
+        "auction_seller": "jimmy1307",
+        "grade": "8",
+        "auction_type": "Auction",
+        "lot_number": "175645995177",
+        "auction_house": "eBay"
+    }
+]

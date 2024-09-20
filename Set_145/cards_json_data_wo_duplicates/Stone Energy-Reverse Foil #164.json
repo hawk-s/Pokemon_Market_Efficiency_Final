@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "363723279056",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8817692642360361969/7662934996124989112.jpg",
+        "auction_house": "eBay",
+        "cert_number": "56478504",
+        "date": "2/18/2022"
+    },
+    {
+        "date": "2/22/2022",
+        "lot_number": "363724370271",
+        "auction_seller": "probstein123",
+        "price": "$9.88",
+        "cert_number": "56478600",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7226853864763853171/-8060430680000082112.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/2/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6656185676404997080/7662934996124989112.jpg",
+        "grade": "9",
+        "price": "$3.03",
+        "lot_number": "373943811994",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "56478504"
+    },
+    {
+        "lot_number": "334308919148",
+        "price": "$10.50",
+        "auction_seller": "goats-n-pros",
+        "auction_type": "Auction",
+        "cert_number": "54813146",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6578306482541144221/4916733951509944256.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/1/2022"
+    }
+]

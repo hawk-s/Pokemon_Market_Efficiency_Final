@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "4",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6384384917444092635/-2964816861000700030.jpg",
+        "auction_seller": "collector-cards-antiques",
+        "cert_number": "87678783",
+        "date": "7/14/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99",
+        "lot_number": "186544634538"
+    },
+    {
+        "price": "$4.25",
+        "lot_number": "142836549071",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/327704646988946572/-4519289926999646354.jpg",
+        "grade": "9",
+        "cert_number": "40771359",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018"
+    },
+    {
+        "price": "$14.99",
+        "auction_type": "Best Offer",
+        "lot_number": "122362860893",
+        "auction_seller": "pokemon_revolution",
+        "date": "7/13/2020",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8103436786664455942/-3588759117103479049.jpg",
+        "cert_number": "26693794",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "192481640200",
+        "date": "3/20/2018",
+        "cert_number": "27839436",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9129617936419310234/9147729698042902838.jpg",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3082784135781502068/6311251051485491345.jpg",
+        "date": "5/2/2019",
+        "grade": "9",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99",
+        "lot_number": "202662247010",
+        "cert_number": "41933429"
+    }
+]

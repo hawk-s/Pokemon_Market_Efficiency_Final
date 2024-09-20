@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "385719795824",
+        "date": "7/7/2023",
+        "cert_number": "75543096",
+        "price": "$10.02",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7854594030911518547/-7243052652826034047.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5804535795159512211/-5228029192840655166.jpg",
+        "cert_number": "73727980",
+        "price": "$10.00",
+        "grade": "9",
+        "lot_number": "195834382878",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "wrenrivercollectibles"
+    },
+    {
+        "lot_number": "192118283812",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7165679621348742369/4343316155912549650.jpg",
+        "date": "3/9/2017",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "cert_number": "26730914",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7530625022014513411/4128305028957830001.jpg",
+        "date": "9/14/2021",
+        "auction_seller": "venusaur_island",
+        "lot_number": "255131616088",
+        "auction_type": "Auction",
+        "price": "$48.47",
+        "cert_number": "48545079",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "lot_number": "384346546097",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5544048312605094268/-3990427339775530493.jpg",
+        "auction_type": "Auction",
+        "price": "$54.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021",
+        "cert_number": "48545079"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8668485221226261985/862285204663854543.jpg",
+        "lot_number": "232903747543",
+        "date": "8/31/2018",
+        "price": "$5.50",
+        "auction_seller": "nerdout.cards",
+        "auction_type": "Auction",
+        "cert_number": "26730914",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "27743791",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2998526254071183778/-1946528567504278948.jpg",
+        "price": "$5.50",
+        "lot_number": "292315916186",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/12/2017"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2246657049591154127/-5168574188991293894.jpg",
+        "cert_number": "79425570",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "lot_number": "285885910849",
+        "price": "$11.50",
+        "date": "6/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "lot_number": "283971698306",
+        "date": "8/10/2020",
+        "grade": "8",
+        "cert_number": "45827202",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1615549239845564056/-3554257046064835802.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "bivas4184"
+    },
+    {
+        "auction_seller": "tnolan0816",
+        "cert_number": "27743791",
+        "price": "$6.00",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4845116864755275731/-6213780053695694892.jpg",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "292314264270"
+    },
+    {
+        "date": "2/21/2023",
+        "cert_number": "60923098",
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5112661446677560578/-7623883111301766907.jpg",
+        "lot_number": "155398350650",
+        "auction_house": "eBay",
+        "price": "$16.94"
+    },
+    {
+        "cert_number": "27743791",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5049003354680178418/-6213780053695694892.jpg",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/9/2017",
+        "auction_seller": "tnolan0816",
+        "lot_number": "292312309741",
+        "grade": "10"
+    }
+]

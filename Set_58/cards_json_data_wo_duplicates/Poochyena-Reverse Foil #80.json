@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$60.00",
+        "lot_number": "284073757761",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2052271553501497848/-2866484449692933833.jpg",
+        "auction_type": "Best Offer",
+        "auction_seller": "cohenmp",
+        "date": "12/7/2020",
+        "cert_number": "47092573",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/2/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2915224002950641723/-2142365940488101182.jpg",
+        "price": "$25.46",
+        "grade": "9",
+        "lot_number": "285873841767",
+        "auction_type": "Auction",
+        "cert_number": "78745374",
+        "auction_house": "eBay",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5716671020224291676/8819040448454478091.jpg",
+        "lot_number": "373731411829",
+        "price": "$37.02",
+        "date": "9/30/2021",
+        "grade": "9",
+        "auction_seller": "samaka-41",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "51200316"
+    },
+    {
+        "lot_number": "5392",
+        "cert_number": "75030720",
+        "grade": "8",
+        "price": "$6.00",
+        "date": "6/15/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/-6683199104296029787/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun"
+    },
+    {
+        "lot_number": "184431660045",
+        "date": "9/14/2020",
+        "cert_number": "47163101",
+        "auction_seller": "apmerchant02",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1779791494537364689/-6077621562927922706.jpg",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "cert_number": "47092569",
+        "lot_number": "254895251007",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2284988825583443099/4437813544426563950.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/11/2021",
+        "auction_seller": "boilerupactuary"
+    }
+]

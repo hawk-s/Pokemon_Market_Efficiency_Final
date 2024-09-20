@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "69313061",
+        "date": "4/29/2023",
+        "lot_number": "234979263349",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3210841802125991113/8393134960771774453.jpg",
+        "grade": "9",
+        "auction_seller": "jacobmorphey0",
+        "auction_type": "Auction",
+        "price": "$31.01",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6201540217932819371/8536833454284400126.jpg",
+        "date": "5/6/2024",
+        "lot_number": "305533876923",
+        "auction_seller": "signsofthetimesvintagecollectibles",
+        "grade": "9",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "83137015"
+    },
+    {
+        "price": "$26.00",
+        "lot_number": "285779357634",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3572655973030639746/4464782332829472487.jpg",
+        "grade": "9",
+        "cert_number": "60236742",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7224990227687595707/433874311940888103.jpg",
+        "auction_seller": "apmerchant02",
+        "cert_number": "47163030",
+        "price": "$51.00",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "184488597677",
+        "grade": "10",
+        "date": "10/25/2020"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "135174406659",
+        "price": "$16.93",
+        "date": "8/11/2024",
+        "grade": "8",
+        "cert_number": "94265718",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2765931119444499710/1607885220615757660.jpg"
+    },
+    {
+        "grade": "7",
+        "price": "$13.50",
+        "lot_number": "305724997832",
+        "date": "8/24/2024",
+        "cert_number": "94859694",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8412738482369495630/4140732319730155405.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "price": "$30.00",
+        "date": "1/21/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5922299521885613911/-4641791887063974318.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "thatruth",
+        "cert_number": "66513469",
+        "auction_house": "eBay",
+        "lot_number": "204215654449"
+    },
+    {
+        "date": "1/30/2023",
+        "auction_seller": "smpratte",
+        "lot_number": "364106471669",
+        "cert_number": "41153788",
+        "price": "$206.00",
+        "grade": "AUTHENTIC",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1607196688800232844/-494259364524402723.jpg"
+    },
+    {
+        "price": "$15.00",
+        "grade": "8",
+        "cert_number": "92161373",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6673551837480623295/2384253650064997272.jpg",
+        "lot_number": "364938702343",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/17/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/591064507885510813/-6681884057100969659.jpg",
+        "auction_seller": "eyez3500",
+        "grade": "9",
+        "price": "$20.49",
+        "cert_number": "80292409",
+        "lot_number": "276216061197",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "auction_house": "eBay"
+    }
+]

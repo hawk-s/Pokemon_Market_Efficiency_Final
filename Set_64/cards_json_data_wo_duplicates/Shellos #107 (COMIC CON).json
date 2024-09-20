@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$55.00",
+        "cert_number": "42704147",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "date": "7/11/2019",
+        "auction_seller": "colddinosaur",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3199123010093946722/-7132121819197920901.jpg",
+        "lot_number": "163714243801"
+    },
+    {
+        "cert_number": "71359834",
+        "price": "$34.99",
+        "lot_number": "196414310132",
+        "grade": "8",
+        "date": "6/3/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5912129323618782264/-6709975833958518114.jpg",
+        "auction_seller": "zipshereminors"
+    },
+    {
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143471139689",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1258807033599803089/1516753015177782567.jpg",
+        "cert_number": "26277728",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    }
+]

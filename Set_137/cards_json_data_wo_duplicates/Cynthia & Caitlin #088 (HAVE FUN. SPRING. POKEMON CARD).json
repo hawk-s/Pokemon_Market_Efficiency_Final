@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "405094072713",
+        "cert_number": "83786980",
+        "date": "7/22/2024",
+        "price": "$36.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/362329169336594981/-1079190770095456600.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "arizona_tcg"
+    },
+    {
+        "auction_seller": "psa",
+        "date": "7/19/2024",
+        "lot_number": "305667959567",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-358085967495355673/1951426476392113084.jpg",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "77355177",
+        "grade": "10"
+    },
+    {
+        "date": "12/23/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6636897390048948357/7964167818794858023.jpg",
+        "cert_number": "71558363",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "lot_number": "134851171696",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$35.79"
+    },
+    {
+        "price": "$202.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7938609753032468605/-2099473699607106632.jpg",
+        "lot_number": "124863682543",
+        "auction_seller": "card_secret",
+        "cert_number": "47668097",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    },
+    {
+        "cert_number": "50453764",
+        "auction_seller": "card_secret",
+        "grade": "9",
+        "lot_number": "124862158524",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6590537000198444937/-6036333284819278895.jpg",
+        "auction_house": "eBay",
+        "price": "$66.00",
+        "date": "8/30/2021"
+    },
+    {
+        "date": "7/19/2024",
+        "lot_number": "305667959660",
+        "grade": "8",
+        "price": "$5.50",
+        "cert_number": "77355176",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5552905903442323705/8945388186324658988.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "292312309745",
+        "cert_number": "27743788",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "date": "11/9/2017",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7953588842184092324/-620214968693061332.jpg"
+    },
+    {
+        "lot_number": "133980686448",
+        "cert_number": "63487064",
+        "auction_seller": "collectible_showcase",
+        "price": "$9.01",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/9/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2499850501525269307/-1407416060100953526.jpg"
+    },
+    {
+        "auction_seller": "cpgcollectibles",
+        "lot_number": "334997906079",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5009333334925425200/1769562299850608752.jpg",
+        "cert_number": "78750424",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    }
+]

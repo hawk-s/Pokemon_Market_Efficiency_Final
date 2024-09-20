@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5460740586378104273/3732446681994149495.jpg",
+        "date": "7/11/2021",
+        "cert_number": "47558656",
+        "grade": "9",
+        "auction_seller": "ramcanyon",
+        "auction_house": "eBay",
+        "lot_number": "154518715920",
+        "auction_type": "Auction",
+        "price": "$91.00"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "lot_number": "113728824060",
+        "price": "$24.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8061357124886350034/-7283623401699462581.jpg",
+        "cert_number": "27710698",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "phyljet",
+        "date": "8/15/2019"
+    },
+    {
+        "auction_seller": "rhcardstop",
+        "cert_number": "93299994",
+        "grade": "9",
+        "price": "$21.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5040137471855845659/4939981498252134216.jpg",
+        "date": "8/10/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "365047749971"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "64901956",
+        "auction_seller": "ra_dealz",
+        "date": "1/16/2023",
+        "lot_number": "285102684776",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2870290675867754229/4886877243324465240.jpg",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "47163020",
+        "date": "9/14/2020",
+        "lot_number": "184432854135",
+        "auction_seller": "apmerchant02",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1958595793255409793/745956607627269569.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5096599670059333069/2705872474450214140.jpg",
+        "auction_seller": "wcs_investments",
+        "date": "1/29/2023",
+        "lot_number": "354511607878",
+        "grade": "8",
+        "price": "$18.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68601658"
+    },
+    {
+        "cert_number": "60505526",
+        "auction_seller": "myers3329",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8483351434695069690/695767511923319553.jpg",
+        "grade": "9",
+        "lot_number": "296117955457",
+        "date": "12/27/2023",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "372676237119",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5205473231336326024/1142776630759481495.jpg",
+        "cert_number": "43118427",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "date": "5/30/2019",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "cert_number": "79159836",
+        "date": "6/10/2024",
+        "lot_number": "387039002643",
+        "auction_seller": "4_sharp_corners",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2091915091589254537/8800173307381483810.jpg"
+    },
+    {
+        "auction_seller": "drogadget",
+        "price": "$14.99",
+        "grade": "8",
+        "lot_number": "315250530937",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2916512256904187309/-2594513439880361576.jpg",
+        "date": "4/2/2024",
+        "auction_type": "Auction",
+        "cert_number": "69792953",
+        "auction_house": "eBay"
+    }
+]

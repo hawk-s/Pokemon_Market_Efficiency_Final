@@ -1,0 +1,35 @@
+[
+    {
+        "date": "11/13/2020",
+        "cert_number": "46946145",
+        "price": "$23.01",
+        "lot_number": "293816757330",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7500758929382157439/-8635938470504163614.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "thrsportscards",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/31/2022",
+        "price": "$34.99",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "cert_number": "55658637",
+        "auction_type": "Auction",
+        "lot_number": "294762913265",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1497560582304914000/3367657209604664682.jpg"
+    },
+    {
+        "cert_number": "59829137",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2470505374601028794/-4111451569808964494.jpg",
+        "auction_seller": "swirlsandsnorunts",
+        "date": "8/25/2024",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "lot_number": "315679427809",
+        "grade": "10"
+    }
+]

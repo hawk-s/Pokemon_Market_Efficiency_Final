@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "52945311",
+        "lot_number": "353904761493",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4295906099741305409/631699485812015901.jpg",
+        "auction_seller": "tcgchampion",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "2/16/2022",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "date": "2/20/2023",
+        "auction_seller": "parkerspokemon",
+        "lot_number": "314368059090",
+        "grade": "9",
+        "price": "$4.68",
+        "cert_number": "60620488",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6626253138543424170/-6117326589999910173.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4976441634834184121/-7170665382924251519.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$21.61",
+        "grade": "8",
+        "auction_seller": "shizzlemetimbers",
+        "lot_number": "114089959447",
+        "date": "8/9/2020",
+        "cert_number": "44691048",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "186060066773",
+        "date": "9/10/2023",
+        "auction_seller": "pozjokergames",
+        "cert_number": "58221515",
+        "price": "$34.03",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-197160027720804042/1173238398200029448.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "4083",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/-933442556579530901/images/1.jpg",
+        "cert_number": "72609145",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "date": "4/20/2023",
+        "price": "$18.00"
+    },
+    {
+        "price": "$23.03",
+        "cert_number": "69001792",
+        "lot_number": "155361175986",
+        "grade": "8",
+        "date": "1/23/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5634965604236851455/-1463345789908829336.jpg",
+        "auction_seller": "cheeses-treasures-llc"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4837734709793335848/3995820514070232055.jpg",
+        "grade": "8",
+        "price": "$21.20",
+        "cert_number": "73765854",
+        "auction_type": "Auction",
+        "date": "5/14/2023",
+        "auction_house": "eBay",
+        "auction_seller": "nevergonnaletmewdown",
+        "lot_number": "314573170129"
+    }
+]

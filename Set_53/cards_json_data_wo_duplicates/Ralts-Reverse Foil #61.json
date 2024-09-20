@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "55434909",
+        "lot_number": "114947272853",
+        "grade": "8",
+        "auction_seller": "card_secret",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1571748295007617324/2362121152400895088.jpg",
+        "date": "8/30/2021"
+    },
+    {
+        "grade": "7",
+        "lot_number": "363849980271",
+        "date": "5/31/2022",
+        "price": "$10.00",
+        "auction_seller": "matterandmotiongames",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3788052892899420649/755524719927192585.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57428901"
+    },
+    {
+        "cert_number": "47558644",
+        "date": "5/22/2021",
+        "grade": "9",
+        "price": "$46.00",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "154453655728",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3859326682897888024/-7199858709253144234.jpg"
+    },
+    {
+        "auction_seller": "wastle",
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4745691924274557319/1820803787475479981.jpg",
+        "auction_type": "Best Offer",
+        "lot_number": "183826964230",
+        "date": "3/27/2020",
+        "cert_number": "41910949",
+        "grade": "9",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1363796522327901484/-4940184736942369385.jpg",
+        "lot_number": "125581630839",
+        "grade": "9",
+        "cert_number": "64657889",
+        "auction_type": "Auction",
+        "auction_seller": "echobasecollectables",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "date": "11/6/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8325928465096597886/7781002597062886667.jpg",
+        "cert_number": "49764407",
+        "lot_number": "324820550812",
+        "grade": "9",
+        "date": "10/18/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "price": "$29.13"
+    }
+]

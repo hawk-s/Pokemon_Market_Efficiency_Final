@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "43420513",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8911375337837297017/8329945295355987955.jpg",
+        "price": "$6.52",
+        "auction_house": "eBay",
+        "date": "7/30/2019",
+        "grade": "10",
+        "lot_number": "352726789492"
+    },
+    {
+        "date": "8/6/2023",
+        "lot_number": "285404130048",
+        "auction_seller": "zandgemporium",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "61169452",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8408557909875430635/2663782315254896948.jpg"
+    },
+    {
+        "lot_number": "184517176760",
+        "grade": "7",
+        "auction_seller": "stebreni",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-106206381329169588/5322402881978822134.jpg",
+        "price": "$10.00",
+        "cert_number": "43420514",
+        "auction_house": "eBay",
+        "date": "11/29/2020"
+    },
+    {
+        "auction_type": "Best Offer",
+        "auction_seller": "apspeeze",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6242690819983499527/9040993014983247896.jpg",
+        "cert_number": "43420513",
+        "price": "$27.00",
+        "lot_number": "293175724640",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/25/2020"
+    },
+    {
+        "price": "$59.00",
+        "date": "5/22/2023",
+        "cert_number": "59257568",
+        "auction_seller": "rocky_mountain_graded_cards",
+        "lot_number": "185898609811",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6099502456031465578/3957058714031431963.jpg",
+        "grade": "10"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1526806701004558505/-5534910945360665543.jpg",
+        "cert_number": "43420514",
+        "auction_type": "Auction",
+        "lot_number": "143334204228",
+        "auction_house": "eBay",
+        "date": "7/30/2019",
+        "price": "$0.99"
+    }
+]

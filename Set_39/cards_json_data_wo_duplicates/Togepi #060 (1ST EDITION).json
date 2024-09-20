@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$58.63",
+        "auction_seller": "parkerspokemon",
+        "cert_number": "65345912",
+        "date": "4/10/2023",
+        "lot_number": "314490523523",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2815017410291209389/7465096908266527113.jpg"
+    },
+    {
+        "date": "1/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5912284531495945352/7465096908266527113.jpg",
+        "auction_seller": "parkerspokemon",
+        "cert_number": "65345912",
+        "price": "$41.89",
+        "auction_type": "Auction",
+        "lot_number": "314335889098",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "lot_number": "174977796449",
+        "cert_number": "55729943",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4792084788312043461/7510649143074358793.jpg",
+        "price": "$122.00",
+        "date": "10/25/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$202.50",
+        "cert_number": "55729943",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7167143103809031452/1728645391312550068.jpg",
+        "auction_seller": "card_secret",
+        "lot_number": "114946741063",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$49.10",
+        "date": "10/10/2021",
+        "cert_number": "43911376",
+        "auction_seller": "pokichloe",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-158451733249592325/-2326472582632569601.jpg",
+        "lot_number": "255161901168",
+        "grade": "10"
+    },
+    {
+        "lot_number": "324599347727",
+        "auction_seller": "back.to.base",
+        "cert_number": "43911376",
+        "date": "5/8/2021",
+        "price": "$59.03",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2580918785943258962/2878992609367136471.jpg",
+        "grade": "10"
+    }
+]

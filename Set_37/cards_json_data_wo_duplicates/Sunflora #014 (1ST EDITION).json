@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "394956655417",
+        "auction_seller": "thecardhousetexas",
+        "date": "11/1/2023",
+        "price": "$43.00",
+        "cert_number": "79686597",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2588216200467056643/4358755639730955657.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "date": "9/2/2024",
+        "lot_number": "286023129375",
+        "cert_number": "79686597",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2984894309258338869/-5077760859571518673.jpg",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/12/2022",
+        "price": "$26.00",
+        "cert_number": "67297930",
+        "lot_number": "285063315933",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3929595003219527082/-6513794768376837293.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "sleeved_cardboard",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

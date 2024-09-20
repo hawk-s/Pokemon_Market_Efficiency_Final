@@ -1,0 +1,24 @@
+[
+    {
+        "date": "6/1/2024",
+        "cert_number": "74788585",
+        "price": "$19.95",
+        "auction_type": "Auction",
+        "lot_number": "364911687572",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "jakkedupduck",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8817493375531230295/-2952371554291069595.jpg"
+    },
+    {
+        "price": "$10.50",
+        "lot_number": "285392908125",
+        "auction_seller": "zandgemporium",
+        "date": "7/30/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6929782020704686118/3266715699335312954.jpg",
+        "auction_type": "Auction",
+        "cert_number": "61162572",
+        "auction_house": "eBay"
+    }
+]

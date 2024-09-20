@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5353908289018398257/678387603700265599.jpg",
+        "auction_seller": "ebisu-ya",
+        "cert_number": "74869154",
+        "lot_number": "394733361157",
+        "date": "7/15/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "auction_seller": "world_of_geek",
+        "lot_number": "275994681855",
+        "price": "$64.93",
+        "cert_number": "74260286",
+        "auction_type": "Auction",
+        "date": "8/20/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7821210584660379110/-6657416814380705064.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "185745585021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5557380127517968497/6540610595482681814.jpg",
+        "auction_seller": "rocky_mountain_graded_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "59257124",
+        "date": "1/27/2023",
+        "grade": "10",
+        "price": "$56.50"
+    },
+    {
+        "date": "12/27/2022",
+        "price": "$95.29",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4208526524487407713/2749208806505258561.jpg",
+        "auction_seller": "card.galaxy",
+        "cert_number": "58873780",
+        "lot_number": "325470396547",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/26/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8367005310742588336/-3292863506999447671.jpg",
+        "cert_number": "49182585",
+        "auction_seller": "gamesunleashed",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "lot_number": "185054443653",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "394887709514",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4886897314665625670/-963885734829659950.jpg",
+        "grade": "7",
+        "auction_seller": "ebisu-ya",
+        "cert_number": "74869154",
+        "date": "9/24/2023",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

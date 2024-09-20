@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "54783279",
+        "price": "$29.00",
+        "auction_seller": "metallica-pikachu",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5243735185314455244/-1281133036155311433.jpg",
+        "lot_number": "175658961125",
+        "grade": "10",
+        "date": "3/26/2023"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6409947461676445764/859284306234344748.jpg",
+        "cert_number": "54783279",
+        "lot_number": "115665479274",
+        "auction_seller": "ccgcrazy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/14/2023"
+    },
+    {
+        "lot_number": "125989374687",
+        "cert_number": "74789157",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8375259106623128321/-5755521362692979760.jpg",
+        "auction_house": "eBay",
+        "date": "7/2/2023",
+        "auction_seller": "storyofbrian"
+    }
+]

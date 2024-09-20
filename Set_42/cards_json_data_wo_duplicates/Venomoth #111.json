@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "315532867001",
+        "auction_seller": "bidoveru",
+        "date": "7/23/2024",
+        "cert_number": "41643880",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7290333452467108456/7352580372980529541.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$20.01"
+    },
+    {
+        "grade": "5",
+        "lot_number": "192911202194",
+        "cert_number": "41933459",
+        "auction_seller": "pokegottacatchem",
+        "auction_house": "eBay",
+        "date": "5/15/2019",
+        "price": "$3.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7934349267211199395/4774956930195755167.jpg",
+        "auction_type": "Auction"
+    },
+    {
+        "cert_number": "27955160",
+        "auction_type": "Buy It Now",
+        "lot_number": "122827819107",
+        "price": "$24.99",
+        "auction_seller": "pokemon_revolution",
+        "date": "12/29/2018",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1637340487423197468/3283817013210390076.jpg"
+    },
+    {
+        "date": "12/31/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4857464722651933925/276305639884334213.jpg",
+        "auction_seller": "madecollectibles1121",
+        "auction_type": "Auction",
+        "lot_number": "334677577871",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "55376524",
+        "price": "$33.00"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "hoodyscollectibles",
+        "lot_number": "134395867730",
+        "price": "$10.02",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5576532108726290108/1202431329398085232.jpg",
+        "cert_number": "67905635",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "403946791652",
+        "auction_seller": "rysua_94",
+        "grade": "6",
+        "cert_number": "54889318",
+        "date": "10/25/2022",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-380116622362874283/-1488699231308817708.jpg",
+        "auction_house": "eBay",
+        "price": "$4.00"
+    },
+    {
+        "lot_number": "285235531049",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9026841428211763189/-8111638759039863182.jpg",
+        "price": "$27.00",
+        "auction_type": "Auction",
+        "cert_number": "61372702",
+        "date": "4/23/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

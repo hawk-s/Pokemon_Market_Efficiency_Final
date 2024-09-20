@@ -1,0 +1,90 @@
+[
+    {
+        "date": "7/20/2024",
+        "price": "$52.00",
+        "auction_seller": "moe_pokemans",
+        "lot_number": "326198325902",
+        "cert_number": "85778206",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7521052489085721320/8389911460370726156.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6458729840229192805/525815783840322134.jpg",
+        "lot_number": "365052632159",
+        "date": "8/14/2024",
+        "auction_seller": "steja_81",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "cert_number": "94064994",
+        "grade": "10"
+    },
+    {
+        "price": "$32.10",
+        "lot_number": "186562157722",
+        "cert_number": "70511648",
+        "date": "7/23/2024",
+        "auction_seller": "michernand0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3810286750326024847/2175567023499540704.jpg"
+    },
+    {
+        "auction_seller": "world_of_geek",
+        "lot_number": "275994842234",
+        "price": "$21.64",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8277537429216146154/391724156567751257.jpg",
+        "date": "8/20/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "74260297"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6666364921535863800/5204260318546588317.jpg",
+        "price": "$46.01",
+        "date": "12/21/2022",
+        "auction_seller": "dctradingcards",
+        "cert_number": "68214074",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "285065932208"
+    },
+    {
+        "cert_number": "70511649",
+        "lot_number": "355631337718",
+        "price": "$20.83",
+        "auction_seller": "vispri-21",
+        "date": "4/29/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3129266744073847807/891868357423907683.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "7/28/2024",
+        "cert_number": "87102369",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2565698349694485286/4403204606033941875.jpg",
+        "lot_number": "285974463223",
+        "grade": "9",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "unifiedcollectors"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6621044683416559518/-5125511237206721072.jpg",
+        "price": "$10.50",
+        "date": "8/18/2024",
+        "grade": "9",
+        "cert_number": "85650453",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "lot_number": "305716600525"
+    }
+]

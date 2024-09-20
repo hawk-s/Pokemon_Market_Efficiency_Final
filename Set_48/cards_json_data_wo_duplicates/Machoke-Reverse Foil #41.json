@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "387116301471",
+        "date": "7/2/2024",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "cert_number": "91352447",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4135760947059497594/2084091002633462151.jpg",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/19/2023",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2511654437670531657/6632472716272886011.jpg",
+        "cert_number": "57468559",
+        "grade": "9",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285175779817"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6233274747130841077/-7610124223550489760.jpg",
+        "price": "$26.00",
+        "grade": "8",
+        "auction_seller": "apmerchant02",
+        "date": "9/29/2021",
+        "cert_number": "51424174",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185058625014"
+    },
+    {
+        "date": "8/11/2024",
+        "price": "$26.76",
+        "grade": "9",
+        "cert_number": "94265692",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "135174406600",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8569778334734958631/-8411448452566302497.jpg"
+    },
+    {
+        "date": "1/31/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6867513858114415602/6976814899568204305.jpg",
+        "grade": "9",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "133646079896",
+        "cert_number": "47585886",
+        "auction_seller": "stevesoddandends"
+    },
+    {
+        "lot_number": "324854440032",
+        "date": "11/8/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3311814223354584414/-6445077132371538072.jpg",
+        "grade": "9",
+        "cert_number": "49764348",
+        "auction_type": "Auction",
+        "price": "$18.53",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "date": "6/30/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2464594215890286135/-8254402268417006039.jpg",
+        "cert_number": "61965969",
+        "auction_seller": "goldrush_cards",
+        "grade": "8",
+        "price": "$16.07",
+        "auction_type": "Auction",
+        "lot_number": "235624442045",
+        "auction_house": "eBay"
+    }
+]

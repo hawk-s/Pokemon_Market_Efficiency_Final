@@ -1,0 +1,46 @@
+[
+    {
+        "date": "9/25/2020",
+        "price": "$70.00",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/933606995273248913/8654809520457825315.jpg",
+        "auction_type": "Auction",
+        "cert_number": "40882178",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "383724930265"
+    },
+    {
+        "date": "7/6/2023",
+        "lot_number": "314676745709",
+        "price": "$208.18",
+        "auction_seller": "kantos_finest",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7427533180282814465/6508168987914606076.jpg",
+        "cert_number": "65481147",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/12/2024",
+        "grade": "9",
+        "price": "$56.00",
+        "auction_seller": "probstein123",
+        "lot_number": "386907485280",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/608647009282500121/-867835950612091612.jpg",
+        "auction_type": "Auction",
+        "cert_number": "65644798",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "65644796",
+        "price": "$257.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3092917168473703912/-4377434669237165603.jpg",
+        "lot_number": "125581630834",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "echobasecollectables",
+        "auction_house": "eBay",
+        "date": "11/6/2022"
+    }
+]

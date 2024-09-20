@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "394471905290",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1138745555374889410/-129506395398823772.jpg",
+        "cert_number": "67198369",
+        "date": "2/26/2023",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "auction_seller": "radela10",
+        "grade": "10"
+    },
+    {
+        "lot_number": "256459532364",
+        "date": "4/6/2024",
+        "grade": "4",
+        "auction_seller": "bangerrengrufio",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "87994596",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4842148534182961449/-1051678878261186109.jpg",
+        "price": "$0.99"
+    },
+    {
+        "grade": "4",
+        "price": "$2.25",
+        "lot_number": "256448615133",
+        "date": "3/26/2024",
+        "auction_seller": "bangerrengrufio",
+        "auction_type": "Auction",
+        "cert_number": "87994596",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4777302313544477409/-1051678878261186109.jpg"
+    },
+    {
+        "cert_number": "54149437",
+        "price": "$4.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/25058706499062065/-6800569319119067263.jpg",
+        "lot_number": "176150278465",
+        "grade": "9",
+        "auction_seller": "cracked_ice_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/8/2024"
+    }
+]

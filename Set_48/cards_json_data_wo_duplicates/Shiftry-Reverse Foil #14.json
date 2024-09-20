@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4446705746428974733/-4948286482942929176.jpg",
+        "grade": "6",
+        "lot_number": "225692773237",
+        "auction_type": "Auction",
+        "date": "8/2/2023",
+        "auction_house": "eBay",
+        "cert_number": "74578785",
+        "auction_seller": "austronaut777"
+    },
+    {
+        "price": "$4.26",
+        "cert_number": "27767731",
+        "date": "12/11/2017",
+        "grade": "9",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/3091652673820337744/5877358939484383981.jpg",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "lot_number": "202132402366",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5733213773797511816/-3216243079957366575.jpg",
+        "lot_number": "324774957075",
+        "cert_number": "49764329",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/13/2021",
+        "price": "$41.19",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "date": "6/22/2024",
+        "price": "$18.99",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2129736170419962953/-4101971674226354329.jpg",
+        "lot_number": "235608453764",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thecoronetcave",
+        "cert_number": "92267772"
+    },
+    {
+        "date": "12/20/2022",
+        "lot_number": "364078278260",
+        "auction_seller": "mandalorianbabysitter",
+        "grade": "8",
+        "price": "$8.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4919166208541267763/8288507017368179162.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "65910495"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8263839722265354318/-8631761229747560631.jpg",
+        "date": "6/1/2024",
+        "cert_number": "74788579",
+        "grade": "9",
+        "lot_number": "364911695435",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$8.31",
+        "auction_seller": "jakkedupduck"
+    },
+    {
+        "date": "12/20/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2744836857617845029/1287058542538260276.jpg",
+        "auction_seller": "venusaur_island",
+        "cert_number": "49597662",
+        "auction_type": "Auction",
+        "lot_number": "255283474942",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$42.44"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143844327947",
+        "cert_number": "46135753",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5331892697662665017/7520089514983938463.jpg",
+        "price": "$19.28",
+        "auction_house": "eBay",
+        "date": "11/26/2020"
+    },
+    {
+        "date": "8/27/2023",
+        "lot_number": "285439330080",
+        "price": "$12.52",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "cert_number": "61162568",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3899084333387749227/-496351242892427906.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/25/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/317079238229826337/2479821168471322612.jpg",
+        "cert_number": "68637444",
+        "auction_seller": "probstein123",
+        "price": "$59.99",
+        "auction_type": "Auction",
+        "lot_number": "364218828873",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

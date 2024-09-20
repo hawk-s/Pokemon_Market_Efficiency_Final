@@ -1,0 +1,24 @@
+[
+    {
+        "grade": "5",
+        "price": "$15.80",
+        "auction_seller": "marcollector_ms",
+        "lot_number": "185717837731",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6449341759702679876/7565878152164148089.jpg",
+        "auction_type": "Auction",
+        "date": "1/9/2023",
+        "cert_number": "67311161",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$4.25",
+        "auction_seller": "comc_consignment",
+        "grade": "6",
+        "date": "3/4/2023",
+        "lot_number": "234909897829",
+        "cert_number": "67169079",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-500550232819558582/2618864203556296147.jpg"
+    }
+]

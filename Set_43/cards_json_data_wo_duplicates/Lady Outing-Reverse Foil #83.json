@@ -1,0 +1,123 @@
+[
+    {
+        "date": "1/30/2023",
+        "auction_seller": "habbyshobbies",
+        "lot_number": "385370062257",
+        "grade": "6",
+        "cert_number": "66467206",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2339154390871299260/4614786543275835432.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$8.52"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/327892060825340447/3171814819943349877.jpg",
+        "grade": "8.5",
+        "date": "1/5/2020",
+        "lot_number": "133285835756",
+        "cert_number": "44709643",
+        "auction_seller": "mastertrainer_red",
+        "price": "$3.40",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "373511745096",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2383771944931449717/2356370796492580617.jpg",
+        "grade": "8",
+        "cert_number": "47585404",
+        "price": "$10.00",
+        "auction_seller": "probstein123",
+        "date": "4/1/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/23/2019",
+        "price": "$3.25",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4827901983800145784/-7810776450560849784.jpg",
+        "grade": "6",
+        "cert_number": "44032343",
+        "lot_number": "401996937258",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6270891643342072686/6421913312394843757.jpg",
+        "lot_number": "192911198801",
+        "cert_number": "40910988",
+        "grade": "6",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "5/15/2019",
+        "price": "$3.99",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "47785569",
+        "date": "10/10/2021",
+        "auction_seller": "pokichloe",
+        "price": "$27.28",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255161919108",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2965974243827642536/8038312359617598192.jpg"
+    },
+    {
+        "lot_number": "134496795886",
+        "date": "3/27/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5193811891039402507/-8283748747186454927.jpg",
+        "cert_number": "55667257",
+        "grade": "8",
+        "price": "$18.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "lot_number": "324092330120",
+        "auction_seller": "honestjohnmt",
+        "grade": "6",
+        "cert_number": "44032343",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6730009354697186336/-44599424549503046.jpg",
+        "auction_type": "Auction",
+        "date": "3/14/2020",
+        "auction_house": "eBay",
+        "price": "$4.00"
+    },
+    {
+        "price": "$7.50",
+        "lot_number": "362660114228",
+        "grade": "8",
+        "cert_number": "43118568",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "5/30/2019",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3162821861449786887/4388248691305127607.jpg"
+    },
+    {
+        "price": "$30.00",
+        "lot_number": "294124351595",
+        "auction_seller": "selectathleticsmn",
+        "date": "4/21/2021",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8599818545426010501/-3252059187310580642.jpg",
+        "cert_number": "43118568",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/27/2023",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5129767502949225618/6710722976356629674.jpg",
+        "grade": "8",
+        "cert_number": "55667277",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius",
+        "lot_number": "134496795906"
+    }
+]

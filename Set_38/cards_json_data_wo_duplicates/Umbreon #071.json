@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "frankiie619",
+        "date": "12/16/2020",
+        "lot_number": "254804472016",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4546722029084160/8401572346729912306.jpg",
+        "cert_number": "45356246",
+        "auction_type": "Auction",
+        "price": "$208.10",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "44376650",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7061522559075699831/5484550238028636488.jpg",
+        "auction_type": "Best Offer",
+        "price": "$155.00",
+        "grade": "9",
+        "date": "1/9/2021",
+        "lot_number": "154256833798",
+        "auction_seller": "jayyymayo",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/22/2020",
+        "cert_number": "44376650",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5566653014259296318/5484550238028636488.jpg",
+        "auction_type": "Best Offer",
+        "lot_number": "154227627797",
+        "grade": "9",
+        "auction_seller": "jayyymayo",
+        "auction_house": "eBay",
+        "price": "$140.00"
+    },
+    {
+        "date": "2/8/2021",
+        "auction_seller": "rdtarr",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8206965894217204866/-7004281316129140664.jpg",
+        "auction_type": "Best Offer",
+        "lot_number": "333880490806",
+        "cert_number": "45601569",
+        "price": "$325.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "mirmex",
+        "price": "$197.90",
+        "date": "8/20/2023",
+        "auction_type": "Auction",
+        "lot_number": "285403633621",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8139795444576470462/4168972674471805400.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "74721903"
+    }
+]

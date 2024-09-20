@@ -1,0 +1,68 @@
+[
+    {
+        "date": "8/6/2023",
+        "cert_number": "54987256",
+        "auction_seller": "coins_n_rarities",
+        "lot_number": "314742463927",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4403752232767373330/-30922862436360065.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$116.46"
+    },
+    {
+        "lot_number": "383369169374",
+        "price": "$177.50",
+        "cert_number": "45331000",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3813631761145090409/-1747220109901204459.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/23/2020",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143608225002",
+        "price": "$200.00",
+        "cert_number": "45331000",
+        "auction_type": "Auction",
+        "date": "5/28/2020",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4378474309275837419/-6019402407676945410.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1807586668762325028/-177299126619972069.jpg",
+        "lot_number": "325615365956",
+        "grade": "9",
+        "cert_number": "55846933",
+        "auction_type": "Auction",
+        "price": "$132.50",
+        "auction_house": "eBay",
+        "auction_seller": "villentretenmerth_01",
+        "date": "4/20/2023"
+    },
+    {
+        "auction_seller": "pokemontoppschrome",
+        "date": "9/11/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5450571557351627904/9155692445785452825.jpg",
+        "cert_number": "63837140",
+        "auction_type": "Auction",
+        "price": "$349.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "295202244139"
+    },
+    {
+        "date": "12/28/2021",
+        "price": "$329.00",
+        "cert_number": "63837140",
+        "lot_number": "373833981371",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6814121806623613254/3122980709591191202.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

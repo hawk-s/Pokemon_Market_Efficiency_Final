@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "poochimports",
+        "cert_number": "50540559",
+        "lot_number": "334145135361",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1084138573797675134/7785164253488246410.jpg",
+        "grade": "9",
+        "price": "$29.00",
+        "date": "9/19/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "285873841815",
+        "date": "6/2/2024",
+        "cert_number": "79380280",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8527042740642303996/8222927203309068902.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$10.95",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "date": "10/1/2023",
+        "lot_number": "285485733474",
+        "auction_seller": "zandgemporium",
+        "cert_number": "59334336",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3420747552714152597/-5501415979123966121.jpg",
+        "grade": "9",
+        "price": "$14.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

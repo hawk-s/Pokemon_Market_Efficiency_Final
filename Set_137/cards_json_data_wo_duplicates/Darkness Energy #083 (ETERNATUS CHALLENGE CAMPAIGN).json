@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$30.00",
+        "date": "8/29/2021",
+        "auction_seller": "card_secret",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6635728371684113679/8096735685218541883.jpg",
+        "lot_number": "124863203027",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "50453562"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-570337936368535639/2507115627262402238.jpg",
+        "date": "3/19/2023",
+        "lot_number": "285182126584",
+        "price": "$19.99",
+        "cert_number": "69678021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "alanisawesome"
+    }
+]

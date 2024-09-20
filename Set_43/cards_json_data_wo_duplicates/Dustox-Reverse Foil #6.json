@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "60759842",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-495017921199353271/2609712530825032878.jpg",
+        "auction_seller": "tannah12",
+        "price": "$26.97",
+        "lot_number": "115701706890",
+        "date": "2/19/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.00",
+        "lot_number": "185095402966",
+        "grade": "8",
+        "date": "10/18/2021",
+        "auction_seller": "the1missingpiece",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-600822699614739286/3932266170898864539.jpg",
+        "auction_type": "Auction",
+        "cert_number": "50464353",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/428938797477419927/-7696456908008573320.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "42734528",
+        "date": "6/30/2020",
+        "price": "$24.99",
+        "grade": "9",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "lot_number": "283446434435"
+    },
+    {
+        "lot_number": "156328702973",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4491692994207539270/5796975331245498085.jpg",
+        "grade": "8",
+        "auction_seller": "ramcanyon",
+        "date": "8/4/2024",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "cert_number": "69698253"
+    },
+    {
+        "grade": "6",
+        "date": "7/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8785204210619777929/5990729856883225600.jpg",
+        "auction_seller": "ramcanyon",
+        "cert_number": "69698251",
+        "auction_type": "Auction",
+        "lot_number": "156273763534",
+        "price": "$3.99",
+        "auction_house": "eBay"
+    }
+]

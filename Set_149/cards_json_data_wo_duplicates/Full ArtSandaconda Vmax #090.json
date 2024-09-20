@@ -1,0 +1,101 @@
+[
+    {
+        "lot_number": "354743810875",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7039747164424679190/-9048099862114135852.jpg",
+        "price": "$10.50",
+        "date": "5/6/2023",
+        "grade": "8",
+        "cert_number": "70448317",
+        "auction_seller": "zillennialcorp",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/12/2022",
+        "auction_seller": "elite4master",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3692535706131232493/5169331747958043245.jpg",
+        "cert_number": "67374111",
+        "lot_number": "125647668178",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "elite4master",
+        "lot_number": "125717411972",
+        "price": "$17.01",
+        "date": "1/23/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3083942921187206679/8334097161259311295.jpg",
+        "cert_number": "67374109",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/17/2023",
+        "lot_number": "144976131155",
+        "auction_seller": "hoodyscollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4336057178604805009/-3940256291857569338.jpg",
+        "price": "$20.50",
+        "cert_number": "68767430",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "elite4master",
+        "price": "$10.50",
+        "cert_number": "83426900",
+        "lot_number": "126295322895",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3203099458378610586/-690505209473457228.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/28/2024"
+    },
+    {
+        "price": "$30.00",
+        "date": "12/12/2022",
+        "lot_number": "204176193822",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7395182764352363029/-439766137638442317.jpg",
+        "auction_seller": "ve-wacal-pox96p",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "65247772"
+    },
+    {
+        "auction_seller": "tandemcards",
+        "cert_number": "83982990",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2225402767275267151/-2382935005041880643.jpg",
+        "date": "8/18/2024",
+        "price": "$9.99",
+        "lot_number": "387290378702",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "354743858059",
+        "price": "$12.75",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2565175623913234979/-7465748395846999607.jpg",
+        "date": "5/6/2023",
+        "grade": "9",
+        "auction_seller": "zillennialcorp",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70448316"
+    },
+    {
+        "price": "$19.50",
+        "lot_number": "285150140952",
+        "cert_number": "68760154",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2709179216656928250/4102784915003350536.jpg",
+        "auction_seller": "littlee88-2009",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/24/2023"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "324603127870",
+        "auction_seller": "back.to.base",
+        "cert_number": "43911380",
+        "date": "5/10/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5079339969264924162/8619175671274580937.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$64.30"
+    },
+    {
+        "date": "2/25/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7377179818307269422/4782450471407279551.jpg",
+        "price": "$10.50",
+        "auction_type": "Buy It Now",
+        "cert_number": "41220813",
+        "lot_number": "253878698420",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "5",
+        "date": "12/12/2022",
+        "lot_number": "266025775317",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4961846223273428455/2237891781545475274.jpg",
+        "cert_number": "56290420",
+        "price": "$5.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "fireflake4"
+    },
+    {
+        "price": "$55.00",
+        "auction_seller": "pokebiz",
+        "auction_type": "Best Offer",
+        "date": "11/19/2020",
+        "cert_number": "46946155",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1679553242341052062/-3383082723289670596.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "184508152868"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3647647751670422454/250403368710809013.jpg",
+        "auction_type": "Best Offer",
+        "date": "10/17/2020",
+        "cert_number": "45611602",
+        "lot_number": "383743258824",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$29.99"
+    },
+    {
+        "auction_seller": "pokebiz",
+        "auction_type": "Best Offer",
+        "date": "2/27/2021",
+        "lot_number": "184682797100",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6917600472036171238/1665015076042519692.jpg",
+        "cert_number": "45611602",
+        "price": "$44.39",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2214561701470932980/-5289310257070462516.jpg",
+        "date": "10/10/2021",
+        "price": "$45.00",
+        "auction_seller": "pokichloe",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "43911380",
+        "lot_number": "255161904605"
+    }
+]

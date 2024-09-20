@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "69581623",
+        "price": "$61.00",
+        "date": "1/16/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2284919795915030503/9092480967327664970.jpg",
+        "lot_number": "325491878374",
+        "auction_seller": "cardboundllc",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$53.50",
+        "auction_seller": "card_secret",
+        "grade": "9",
+        "lot_number": "124672785967",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/18/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1609188913357257232/-7935868211310516324.jpg",
+        "cert_number": "45908043"
+    },
+    {
+        "price": "$18.66",
+        "cert_number": "52779612",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5267782499503060252/4902268922758319395.jpg",
+        "lot_number": "265544449421",
+        "date": "2/19/2022",
+        "grade": "9",
+        "auction_seller": "pokemonsteven",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

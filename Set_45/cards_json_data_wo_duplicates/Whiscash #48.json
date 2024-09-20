@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "48545103",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3466697996205231707/6793325710822210446.jpg",
+        "lot_number": "384346546090",
+        "auction_seller": "habbyshobbies",
+        "grade": "10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$102.50",
+        "date": "8/30/2021"
+    },
+    {
+        "auction_seller": "fabdel80",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3093110507830076912/-7096058296424988884.jpg",
+        "date": "8/17/2020",
+        "lot_number": "383672134845",
+        "price": "$5.00",
+        "grade": "9",
+        "cert_number": "46052042",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7833042156940127735/-8058942876643838872.jpg",
+        "auction_seller": "toydex",
+        "grade": "6",
+        "date": "1/23/2023",
+        "price": "$5.50",
+        "cert_number": "68747362",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "295477455501"
+    }
+]

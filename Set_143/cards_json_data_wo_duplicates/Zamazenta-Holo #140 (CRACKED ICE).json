@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$85.00",
+        "date": "5/8/2021",
+        "auction_seller": "rainydaycards",
+        "lot_number": "174751226503",
+        "cert_number": "49090379",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2476441447576602172/-7590897334670701875.jpg"
+    },
+    {
+        "cert_number": "54024619",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7474061015740774981/-4112939982954179689.jpg",
+        "lot_number": "203794694748",
+        "price": "$76.52",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "bache_93"
+    },
+    {
+        "price": "$71.00",
+        "cert_number": "49090380",
+        "date": "9/23/2021",
+        "auction_seller": "rainydaycards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5965493587991594569/-1450641307412376504.jpg",
+        "lot_number": "174940118429"
+    },
+    {
+        "auction_seller": "ketchumallcollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4521362652046117725/1244905208549069788.jpg",
+        "lot_number": "224704541281",
+        "price": "$31.00",
+        "date": "11/29/2021",
+        "cert_number": "49020001",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "54024619",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1500580526928760375/-8822697282524525275.jpg",
+        "lot_number": "125559880005",
+        "date": "10/20/2022",
+        "auction_seller": "boxed_greatness",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$61.00",
+        "lot_number": "174784233763",
+        "date": "6/4/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6431991676095191625/-3344900466128719213.jpg",
+        "auction_seller": "rainydaycards",
+        "cert_number": "49090379",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "47827811",
+        "date": "9/12/2023",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "price": "$10.51",
+        "lot_number": "235180065743",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6424822121435931335/6062891229890021479.jpg",
+        "grade": "10"
+    }
+]

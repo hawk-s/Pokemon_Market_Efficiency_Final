@@ -1,0 +1,24 @@
+[
+    {
+        "date": "11/2/2021",
+        "price": "$27.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "48326902",
+        "lot_number": "363590800029",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6853591954106487519/7173864017006360269.jpg"
+    },
+    {
+        "price": "$30.00",
+        "cert_number": "60712197",
+        "date": "3/19/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-523992784063446972/-285148731816257316.jpg",
+        "lot_number": "266178258227",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "ryguyy19"
+    }
+]

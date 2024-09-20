@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$23.99",
+        "auction_seller": "masterset_collector",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1278832515033417426/-3031804474543894114.jpg",
+        "date": "1/29/2020",
+        "lot_number": "183756303285",
+        "cert_number": "41220820",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1597674955712795173/424689736971599945.jpg",
+        "date": "12/28/2022",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "cert_number": "68870939",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "cheeses-treasures-llc",
+        "lot_number": "155319874902"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6988522939810783718/-5364738157431976930.jpg",
+        "cert_number": "41220819",
+        "price": "$10.50",
+        "auction_type": "Buy It Now",
+        "lot_number": "263943913860",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/21/2019"
+    },
+    {
+        "lot_number": "385496410198",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5389579850079578210/3892495994028704832.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$11.50",
+        "date": "3/30/2023",
+        "auction_type": "Auction",
+        "cert_number": "72667710",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1736857615411931233/1729384501629858764.jpg",
+        "auction_type": "Best Offer",
+        "lot_number": "163648161164",
+        "cert_number": "41220821",
+        "auction_seller": "zacktx9863",
+        "grade": "9",
+        "price": "$14.00",
+        "auction_house": "eBay",
+        "date": "4/28/2020"
+    }
+]

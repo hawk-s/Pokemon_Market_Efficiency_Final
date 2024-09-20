@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "livewire_cards",
+        "lot_number": "353835223891",
+        "price": "$20.50",
+        "date": "1/6/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4909139367171196008/9207710373202220410.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "48311474",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6111791682094049187/692975961929711679.jpg",
+        "lot_number": "334855142752",
+        "auction_seller": "tomdawsonclothing",
+        "price": "$23.97",
+        "cert_number": "61657329",
+        "date": "5/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "364763220263",
+        "cert_number": "62031723",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5910721642367369712/8792941087682431200.jpg",
+        "auction_seller": "probstein123",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "3/12/2024"
+    },
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8516375130547663769/2553804051209464384.jpg",
+        "lot_number": "233580704272",
+        "cert_number": "44889607",
+        "date": "5/13/2020",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "cptflea"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3787418672343791526/3719866926104676785.jpg",
+        "cert_number": "53245165",
+        "lot_number": "133954494767",
+        "price": "$26.00",
+        "date": "12/11/2021",
+        "auction_seller": "cardboardkrackshack",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "nicju9474",
+        "grade": "9",
+        "lot_number": "374962012613",
+        "auction_type": "Auction",
+        "price": "$11.06",
+        "cert_number": "77934853",
+        "auction_house": "eBay",
+        "date": "10/6/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7644965471933754670/-1130805210609313174.jpg"
+    }
+]

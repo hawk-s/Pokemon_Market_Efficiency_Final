@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$8.05",
+        "date": "6/3/2024",
+        "grade": "9",
+        "auction_seller": "jameslanze",
+        "auction_type": "Auction",
+        "cert_number": "86362943",
+        "auction_house": "eBay",
+        "lot_number": "375451617990",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1010249149030414207/-4226395084456474916.jpg"
+    },
+    {
+        "price": "$7.50",
+        "lot_number": "364214017249",
+        "cert_number": "54743044",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "date": "4/18/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8049054791559459962/2272873134828636726.jpg"
+    },
+    {
+        "cert_number": "62390185",
+        "date": "12/2/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5589160947464771599/-6093753513606213635.jpg",
+        "grade": "9",
+        "price": "$26.62",
+        "auction_type": "Auction",
+        "lot_number": "403317722626",
+        "auction_seller": "graded_grail",
+        "auction_house": "eBay"
+    }
+]

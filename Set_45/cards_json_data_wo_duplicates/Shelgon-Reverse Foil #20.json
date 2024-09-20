@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "156307390059",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6172863134469966441/-1738455294851502380.jpg",
+        "grade": "6",
+        "price": "$6.00",
+        "cert_number": "69698235",
+        "date": "7/22/2024",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "283565256830",
+        "auction_type": "Buy It Now",
+        "price": "$74.99",
+        "date": "9/7/2019",
+        "auction_seller": "cooltrainerryan",
+        "cert_number": "43350640",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4067160220947923417/-2083565143949064533.jpg"
+    },
+    {
+        "lot_number": "153770611861",
+        "cert_number": "44003065",
+        "price": "$15.00",
+        "auction_seller": "tanismtz",
+        "date": "12/28/2019",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6036235020875615298/-1791400357577781242.jpg"
+    }
+]

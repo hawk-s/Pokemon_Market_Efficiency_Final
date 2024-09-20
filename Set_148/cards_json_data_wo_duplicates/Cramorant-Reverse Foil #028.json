@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "185794699682",
+        "cert_number": "69391083",
+        "grade": "8",
+        "price": "$5.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3392998476566193387/-2510598549541138629.jpg",
+        "auction_type": "Auction",
+        "date": "3/7/2023",
+        "auction_seller": "ballygahan"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7922217399523078554/-2510598549541138629.jpg",
+        "cert_number": "69391083",
+        "lot_number": "185820113008",
+        "grade": "8",
+        "price": "$2.30",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "ballygahan",
+        "date": "3/26/2023"
+    },
+    {
+        "lot_number": "126046355262",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8416724887346145050/-6349436974631563727.jpg",
+        "cert_number": "62808998",
+        "date": "8/15/2023",
+        "price": "$6.00",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

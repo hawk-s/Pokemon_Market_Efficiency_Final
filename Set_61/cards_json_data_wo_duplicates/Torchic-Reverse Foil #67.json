@@ -1,0 +1,112 @@
+[
+    {
+        "grade": "8",
+        "date": "12/29/2022",
+        "lot_number": "285076743341",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "69259153",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1808911005362516951/-2777786441093272567.jpg",
+        "auction_seller": "sonofhercules",
+        "price": "$9.83"
+    },
+    {
+        "lot_number": "275572493041",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1353011898214003123/4412077630713266688.jpg",
+        "date": "12/23/2022",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "cert_number": "68534455"
+    },
+    {
+        "grade": "7",
+        "price": "$9.50",
+        "auction_seller": "the-vandy-vault",
+        "lot_number": "285883202384",
+        "cert_number": "91405124",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3620877496730283247/3141522995571231336.jpg",
+        "auction_house": "eBay",
+        "date": "6/5/2024"
+    },
+    {
+        "price": "$34.33",
+        "lot_number": "264940242973",
+        "grade": "9",
+        "date": "11/23/2020",
+        "auction_seller": "arielbaumgartner",
+        "auction_type": "Auction",
+        "cert_number": "30924105",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-964443893303851668/-5545258747370819598.jpg"
+    },
+    {
+        "lot_number": "133212635868",
+        "auction_seller": "pokemonfittrainer00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6646639340932640153/-4544269142230112636.jpg",
+        "cert_number": "29035864",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/29/2019"
+    },
+    {
+        "lot_number": "275613675345",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$26.57",
+        "date": "1/27/2023",
+        "cert_number": "68534455",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1446871079579026599/2902730052772015194.jpg"
+    },
+    {
+        "price": "$48.74",
+        "date": "10/4/2021",
+        "grade": "9",
+        "lot_number": "284469954364",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9116888118613525593/-3008024933070560908.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "darkmagician69",
+        "cert_number": "50995168"
+    },
+    {
+        "lot_number": "274921295960",
+        "auction_seller": "card-foundry",
+        "price": "$42.18",
+        "grade": "8",
+        "date": "9/5/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5855440630856093794/1204424298613517638.jpg",
+        "auction_type": "Auction",
+        "cert_number": "48603042",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "273876337343",
+        "cert_number": "43052767",
+        "price": "$10.50",
+        "date": "6/11/2019",
+        "auction_seller": "nath-pain",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5669899459951669608/-7687156819141472544.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/1/2020",
+        "grade": "9",
+        "lot_number": "264951096016",
+        "auction_seller": "arielbaumgartner",
+        "auction_type": "Auction",
+        "cert_number": "30924105",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6679982770942712718/-5545258747370819598.jpg"
+    }
+]

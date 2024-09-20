@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$3.25",
+        "lot_number": "292309034692",
+        "cert_number": "27503187",
+        "grade": "9",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2541221856817238056/-160614921613758083.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "date": "11/6/2017"
+    },
+    {
+        "lot_number": "292385423329",
+        "price": "$1.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4499912483539936063/-160614921613758083.jpg",
+        "cert_number": "27503187",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "12/31/2017",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "bidoveru",
+        "cert_number": "41643911",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6063509338059727184/4522402007260662086.jpg",
+        "price": "$7.55",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/4/2019",
+        "lot_number": "312821068280"
+    },
+    {
+        "cert_number": "27955200",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7996015270450561143/4463959927283149948.jpg",
+        "price": "$24.99",
+        "auction_seller": "pokemon_revolution",
+        "date": "12/29/2018",
+        "lot_number": "122827829539",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "315550526660",
+        "auction_seller": "bidoveru",
+        "date": "7/30/2024",
+        "price": "$41.00",
+        "auction_type": "Auction",
+        "cert_number": "43851565",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9078647117999149058/-1356014044803644983.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "192911198806",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9062802448798264376/-275983917844945820.jpg",
+        "grade": "6",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "5/15/2019",
+        "price": "$3.99",
+        "auction_house": "eBay",
+        "cert_number": "40911662"
+    },
+    {
+        "cert_number": "45290645",
+        "date": "4/26/2020",
+        "auction_type": "Buy It Now",
+        "auction_seller": "charizardperfection",
+        "auction_house": "eBay",
+        "lot_number": "324101724075",
+        "price": "$32.00",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2872989592621190226/399619095907231849.jpg"
+    },
+    {
+        "cert_number": "45290645",
+        "lot_number": "402345495095",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-273987884119140100/-1501295118033964188.jpg",
+        "date": "8/20/2020",
+        "price": "$35.00",
+        "auction_seller": "dcwconsulting-md",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

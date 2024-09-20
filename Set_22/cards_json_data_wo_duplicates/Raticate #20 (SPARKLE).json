@@ -1,0 +1,79 @@
+[
+    {
+        "date": "7/11/2024",
+        "grade": "8",
+        "auction_seller": "kantos_finest",
+        "cert_number": "74616956",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3930367653206269524/-3410659407275275400.jpg",
+        "lot_number": "315510620374",
+        "auction_type": "Auction",
+        "price": "$51.05",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/23/2023",
+        "cert_number": "69837636",
+        "grade": "9",
+        "price": "$149.99",
+        "auction_seller": "stesreb_72",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2589683093492614084/-997614771192996691.jpg",
+        "auction_house": "eBay",
+        "lot_number": "385355515915"
+    },
+    {
+        "auction_seller": "card_crazy11",
+        "lot_number": "166544898689",
+        "grade": "8",
+        "cert_number": "70962364",
+        "date": "1/17/2024",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5794765483994925821/-4915696275899656312.jpg"
+    },
+    {
+        "lot_number": "166794196644",
+        "auction_seller": "card_crazy11",
+        "date": "6/7/2024",
+        "grade": "8",
+        "cert_number": "74616956",
+        "price": "$66.08",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8553796323710933377/-1139187352134881531.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "card_crazy11",
+        "price": "$67.00",
+        "date": "4/9/2024",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3015993658243731700/5963321496750753062.jpg",
+        "auction_type": "Auction",
+        "cert_number": "74616933",
+        "auction_house": "eBay",
+        "lot_number": "166687080179"
+    },
+    {
+        "lot_number": "325400086686",
+        "cert_number": "44038887",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1039785617321249712/2631833847000864278.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/3/2022",
+        "price": "$355.00",
+        "auction_seller": "villentretenmerth_01",
+        "grade": "10"
+    },
+    {
+        "lot_number": "314818794936",
+        "auction_seller": "r_g_prizms",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6956792250184550348/1058940478356458638.jpg",
+        "date": "9/15/2023",
+        "cert_number": "67786610",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay"
+    }
+]

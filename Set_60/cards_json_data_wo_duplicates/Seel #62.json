@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$4.99",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/3087490407908605100/-3148978255676752036.jpg",
+        "date": "11/27/2017",
+        "lot_number": "292341611572",
+        "grade": "9",
+        "cert_number": "27503215",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "27503214",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2453307641768192033/1376574459708185211.jpg",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "lot_number": "292291569866",
+        "date": "10/22/2017",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

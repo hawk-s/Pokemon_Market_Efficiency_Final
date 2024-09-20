@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "74220769",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8193898234979496791/-6328675287502572121.jpg",
+        "date": "9/25/2023",
+        "grade": "9",
+        "auction_seller": "kampes_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "186080106971",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/838931581081494670/-2455404087793124796.jpg",
+        "cert_number": "75642980",
+        "price": "$16.75",
+        "date": "7/3/2023",
+        "grade": "9",
+        "auction_seller": "kampes_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "175788695682"
+    },
+    {
+        "lot_number": "286013730529",
+        "auction_seller": "zandgemporium",
+        "cert_number": "93548951",
+        "grade": "9",
+        "price": "$12.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8398618089620042151/-2574361026990956365.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/364804744399138698/7886878031701671181.jpg",
+        "date": "3/8/2024",
+        "cert_number": "56811866",
+        "price": "$39.00",
+        "auction_type": "Auction",
+        "lot_number": "276345484291",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "date": "11/22/2021",
+        "auction_seller": "card_secret",
+        "price": "$76.00",
+        "cert_number": "57589396",
+        "auction_type": "Auction",
+        "lot_number": "124993823828",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3623710517506654480/2234362405802482452.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1326837678104943118/-8658889317508998625.jpg",
+        "lot_number": "326159661778",
+        "price": "$43.00",
+        "cert_number": "75642977",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "6/24/2024",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "lot_number": "326181354190",
+        "date": "7/8/2024",
+        "cert_number": "75642977",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/582639729215091075/-8658889317508998625.jpg",
+        "grade": "10",
+        "auction_seller": "old-skool-pokemon"
+    }
+]

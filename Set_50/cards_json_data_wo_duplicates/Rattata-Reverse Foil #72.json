@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "41910883",
+        "lot_number": "183826958986",
+        "auction_seller": "wastle",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6184032772633169487/-5721457750446570907.jpg",
+        "date": "8/3/2019",
+        "grade": "9",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "numismaticsgmc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4719300142633065814/-7358641084625470999.jpg",
+        "price": "$11.55",
+        "lot_number": "273679219086",
+        "date": "2/6/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "41585154"
+    },
+    {
+        "cert_number": "28390466",
+        "date": "9/16/2018",
+        "price": "$27.69",
+        "auction_seller": "kampes_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2902493322521630624/3380428444874938776.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "183425327449",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7094531908853041063/-3221927302170091508.jpg",
+        "auction_seller": "bidoveru",
+        "lot_number": "315245119739",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "4/8/2024",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "cert_number": "70208486"
+    },
+    {
+        "price": "$31.22",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3679461310007067114/6892702908292297223.jpg",
+        "lot_number": "185626309725",
+        "grade": "9",
+        "cert_number": "41491877",
+        "auction_type": "Auction",
+        "auction_seller": "poetrynprose",
+        "auction_house": "eBay",
+        "date": "10/31/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2467455283006732519/-1759590564667201034.jpg",
+        "cert_number": "28390466",
+        "auction_seller": "numismaticsgmc",
+        "auction_type": "Best Offer",
+        "date": "4/15/2018",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "273009783643"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2158869802855964816/-273750919231916034.jpg",
+        "lot_number": "234869540135",
+        "date": "1/29/2023",
+        "auction_seller": "goldrush_cards",
+        "cert_number": "57040999",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$34.15"
+    }
+]

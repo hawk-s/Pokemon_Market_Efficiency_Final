@@ -1,0 +1,90 @@
+[
+    {
+        "date": "5/18/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-1216486884586235957/images/1.jpg",
+        "price": "$20.00",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "cert_number": "75490479",
+        "grade": "8",
+        "lot_number": "4940",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5973436176620038627/1929668460122470173.jpg",
+        "cert_number": "57846337",
+        "lot_number": "363819992268",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$25.38",
+        "date": "5/6/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "60759855",
+        "auction_seller": "tannah12",
+        "lot_number": "115701676819",
+        "grade": "8",
+        "price": "$17.82",
+        "date": "2/19/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1852240651891083792/-495163099734618445.jpg"
+    },
+    {
+        "cert_number": "57468408",
+        "price": "$17.19",
+        "auction_seller": "zandgemporium",
+        "date": "2/26/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/64836309459027851/-297126173618012818.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "285150806546",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "256009541567",
+        "date": "3/19/2023",
+        "auction_seller": "arkcollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3068229170037560293/-5361614279303177227.jpg",
+        "grade": "9",
+        "price": "$22.96",
+        "auction_type": "Auction",
+        "cert_number": "53957103",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/25/2023",
+        "cert_number": "68783589",
+        "grade": "8",
+        "auction_seller": "ejbgames_pcs_collectibles_etc",
+        "price": "$22.05",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/319050302012529054/1658658318197396887.jpg",
+        "lot_number": "394469443605"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5614068063179457849/-8370825040308265790.jpg",
+        "lot_number": "175610568447",
+        "auction_seller": "bravepuppygalleries",
+        "date": "2/19/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "53957103",
+        "auction_house": "eBay",
+        "price": "$33.00"
+    },
+    {
+        "auction_seller": "krazyfo_15",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6391991306266146658/7415153304420355878.jpg",
+        "lot_number": "304890581230",
+        "grade": "9",
+        "price": "$19.99",
+        "date": "4/18/2023",
+        "auction_type": "Auction",
+        "cert_number": "53957103",
+        "auction_house": "eBay"
+    }
+]

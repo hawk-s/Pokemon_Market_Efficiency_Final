@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "68330275",
+        "date": "12/28/2022",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1567152311979704506/-8986858224962356456/images/1.jpg",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": " 2022 Banksy, Rare Autographs, Comics & Video Game",
+        "grade": "10",
+        "lot_number": "1254"
+    },
+    {
+        "price": "$41.00",
+        "lot_number": "374553095965",
+        "cert_number": "70493286",
+        "auction_seller": "tntnorthnj",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8750558762348064601/8895749058892162652.jpg",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/15/2022",
+        "lot_number": "374248101257",
+        "price": "$41.00",
+        "auction_seller": "dcsports87",
+        "cert_number": "61730823",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5370312028253202596/1622708060899804945.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/7994353349360113336/5796798916957899834/images/1.jpg",
+        "lot_number": "2073",
+        "cert_number": "68330274",
+        "auction_seller": "Weekly Auction Jan 17 - Jan 26",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "1/26/2023",
+        "grade": "10"
+    }
+]

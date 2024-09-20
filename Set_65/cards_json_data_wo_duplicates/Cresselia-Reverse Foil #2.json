@@ -1,0 +1,35 @@
+[
+    {
+        "date": "12/11/2022",
+        "lot_number": "354424846574",
+        "price": "$136.50",
+        "cert_number": "67348207",
+        "auction_type": "Auction",
+        "auction_seller": "the1-up",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5867421640638263192/8848711703522295410.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2874824255257551075/3443226114673853367.jpg",
+        "price": "$61.00",
+        "auction_seller": "vintagetoyauctions",
+        "cert_number": "60967379",
+        "lot_number": "305162979728",
+        "auction_type": "Auction",
+        "date": "10/9/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$84.27",
+        "auction_seller": "itsjaynero",
+        "cert_number": "92761150",
+        "lot_number": "235630350551",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7235461201747848143/5735944606173934473.jpg",
+        "grade": "10",
+        "date": "7/6/2024"
+    }
+]

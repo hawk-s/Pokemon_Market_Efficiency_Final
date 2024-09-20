@@ -1,0 +1,24 @@
+[
+    {
+        "date": "2/5/2023",
+        "auction_seller": "zandgemporium",
+        "cert_number": "22271756",
+        "lot_number": "285124218472",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/765507466108481678/2661436731073743165.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$5.71"
+    },
+    {
+        "date": "6/21/2018",
+        "auction_type": "Buy It Now",
+        "price": "$9.99",
+        "cert_number": "22271756",
+        "auction_house": "eBay",
+        "lot_number": "352383266175",
+        "auction_seller": "bccollects",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4510157708534450716/-8658401057424396209.jpg"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "grade": "7",
+        "date": "10/20/2022",
+        "auction_seller": "inzer_0",
+        "lot_number": "185612455156",
+        "cert_number": "64772774",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$378.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7686087835484764609/-3630333408432833089.jpg"
+    },
+    {
+        "lot_number": "254437677267",
+        "price": "$375.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8081142461771436420/4999809759361456183.jpg",
+        "date": "6/14/2020",
+        "auction_type": "Buy It Now",
+        "cert_number": "44038955",
+        "auction_seller": "holopokemon",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

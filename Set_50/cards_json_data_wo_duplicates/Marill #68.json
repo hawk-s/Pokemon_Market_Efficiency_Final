@@ -1,0 +1,101 @@
+[
+    {
+        "lot_number": "155557564014",
+        "auction_seller": "paul-in-ds-tx",
+        "cert_number": "59405348",
+        "date": "5/23/2023",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3132155085096305836/8340060913990097440.jpg"
+    },
+    {
+        "date": "12/2/2023",
+        "cert_number": "78750422",
+        "auction_seller": "tgdesign112-2",
+        "price": "$21.50",
+        "lot_number": "126205325918",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7318161246608779476/-438077947800338145.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2643378674469164170/-4986729168066716630.jpg",
+        "auction_seller": "retronomic_meteroid",
+        "price": "$17.00",
+        "lot_number": "395483859413",
+        "cert_number": "92101909",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/28/2024",
+        "grade": "10"
+    },
+    {
+        "price": "$10.50",
+        "lot_number": "285851967969",
+        "auction_seller": "zandgemporium",
+        "date": "5/19/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4920348064364323463/1678946949456608339.jpg",
+        "grade": "9",
+        "cert_number": "71475609",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/23/2021",
+        "grade": "8",
+        "auction_seller": "gamesunleashed",
+        "cert_number": "54920891",
+        "price": "$9.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4870933567685011181/4648202868628048277.jpg",
+        "auction_type": "Auction",
+        "lot_number": "185216394504",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/2/2024",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/124900814641865794/1678946949456608339.jpg",
+        "lot_number": "285878548143",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "cert_number": "71475609",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$27.78",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4924387028017534013/8366196905750225935.jpg",
+        "lot_number": "186501517674",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "73922301",
+        "grade": "10",
+        "date": "6/24/2024",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "auction_seller": "retronomic_meteroid",
+        "cert_number": "92101911",
+        "lot_number": "395483868308",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "date": "6/28/2024",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-604117169770867189/6396469483654716127.jpg"
+    },
+    {
+        "date": "12/26/2021",
+        "lot_number": "284572934878",
+        "auction_seller": "zandgemporium-0",
+        "price": "$37.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6086886467509332368/-1071893478667127046.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "63487055"
+    }
+]

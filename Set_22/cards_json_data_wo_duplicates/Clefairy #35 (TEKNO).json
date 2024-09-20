@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "48073169",
+        "lot_number": "284099352292",
+        "date": "12/1/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8886153747626518342/8375678450540602093.jpg",
+        "auction_seller": "motorcityrookies",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$235.00"
+    },
+    {
+        "cert_number": "48073169",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3442756966443882808/-1351179089623335671.jpg",
+        "lot_number": "325616714794",
+        "date": "4/21/2023",
+        "grade": "9",
+        "price": "$222.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "villentretenmerth_01"
+    },
+    {
+        "price": "$213.50",
+        "cert_number": "45330982",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "383957108818",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/23/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2874256551612126075/4346207552505596755.jpg"
+    },
+    {
+        "cert_number": "63252993",
+        "grade": "8",
+        "date": "10/5/2021",
+        "auction_seller": "probstein123",
+        "price": "$182.50",
+        "auction_type": "Auction",
+        "lot_number": "363557783331",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/71077618651231707/6579489963661092193.jpg"
+    }
+]

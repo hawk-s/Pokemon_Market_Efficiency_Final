@@ -1,0 +1,57 @@
+[
+    {
+        "date": "11/13/2021",
+        "lot_number": "234269529070",
+        "price": "$46.99",
+        "auction_seller": "auction1cent1",
+        "auction_type": "Auction",
+        "cert_number": "63176696",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7488635982910347313/7490587376848381040.jpg"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6757474208590714802/-6444701591439511433.jpg",
+        "date": "7/16/2023",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285368541457",
+        "cert_number": "74875914",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/6/2024",
+        "cert_number": "70728087",
+        "auction_seller": "alpo1208",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6563103386196048611/7802529455066133848.jpg",
+        "auction_type": "Auction",
+        "lot_number": "387254655715",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "77717262",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9026062117967994595/-5870556254149519286.jpg",
+        "price": "$15.00",
+        "auction_seller": "probstein123",
+        "lot_number": "374940301873",
+        "date": "9/27/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1200596622522382930/-620639240376503297.jpg",
+        "date": "3/8/2023",
+        "auction_seller": "pfootballpete4dhx",
+        "price": "$21.63",
+        "cert_number": "69751502",
+        "auction_type": "Auction",
+        "lot_number": "165961781153",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "auction_seller": "cardrushinc",
+        "cert_number": "40774343",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2228659033297985290/6818161901261969920.jpg",
+        "lot_number": "283012845893",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$20.52",
+        "date": "6/24/2018",
+        "grade": "10"
+    },
+    {
+        "price": "$61.00",
+        "date": "8/6/2024",
+        "lot_number": "296601680045",
+        "cert_number": "68249406",
+        "auction_type": "Auction",
+        "auction_seller": "allcsinc",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-284690623345324194/-5059801285135009042.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5266090734813951549/-6957769433500094075.jpg",
+        "cert_number": "54430613",
+        "date": "9/2/2024",
+        "auction_seller": "jimmythefluff",
+        "grade": "9",
+        "lot_number": "405190815737",
+        "price": "$22.34",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "10",
+        "price": "$10.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4474210787614118574/-743599412380505615.jpg",
+        "date": "7/15/2023",
+        "auction_seller": "getyourgoodshere",
+        "auction_type": "Auction",
+        "cert_number": "70268259",
+        "auction_house": "eBay",
+        "lot_number": "195869288464"
+    },
+    {
+        "date": "7/26/2021",
+        "price": "$110.50",
+        "lot_number": "294283072404",
+        "auction_type": "Auction",
+        "cert_number": "49559719",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "pacifistchris",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6265527812375533649/-340859388436800939.jpg"
+    },
+    {
+        "grade": "4",
+        "cert_number": "58059175",
+        "date": "10/21/2022",
+        "lot_number": "403939652499",
+        "auction_seller": "rysua_94",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3029397012003005978/-3482309436375821735.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "226207814382",
+        "auction_seller": "goobytcg",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "cert_number": "70268259",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8674295797193921150/-6182632770757088864.jpg",
+        "grade": "10",
+        "date": "6/29/2024"
+    },
+    {
+        "grade": "4",
+        "cert_number": "58059175",
+        "auction_seller": "rysua_94",
+        "lot_number": "403954238222",
+        "date": "10/29/2022",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3105337678441640997/-3482309436375821735.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/5/2021",
+        "auction_seller": "myers3329",
+        "auction_type": "Best Offer",
+        "lot_number": "293869404707",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3502278136226009825/1300861202898208915.jpg",
+        "grade": "9",
+        "price": "$44.00",
+        "auction_house": "eBay",
+        "cert_number": "25530997"
+    },
+    {
+        "cert_number": "66512980",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5858697207712802713/-1664310354051104167.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$23.50",
+        "lot_number": "364116857660",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/27/2023"
+    },
+    {
+        "price": "$104.19",
+        "date": "8/10/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2465388488145992875/-340859388436800939.jpg",
+        "lot_number": "294309890969",
+        "auction_type": "Auction",
+        "cert_number": "49559719",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "pacifistchris"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "333276546049",
+        "cert_number": "26748634",
+        "auction_type": "Buy It Now",
+        "price": "$9.99",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7398328263444342889/-2388278918317902131.jpg",
+        "auction_seller": "northcountrycards",
+        "auction_house": "eBay",
+        "date": "11/28/2019"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5799220721045646559/2082758374665453464.jpg",
+        "lot_number": "254199002581",
+        "price": "$3.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "4/20/2019",
+        "auction_seller": "danktron",
+        "cert_number": "41222717",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/26/2020",
+        "lot_number": "312803969830",
+        "auction_type": "Best Offer",
+        "auction_seller": "jsanan_50",
+        "price": "$10.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/392488968610944223/-7919720840586681814.jpg",
+        "cert_number": "41222717",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4671976753166408078/2082758374665453464.jpg",
+        "price": "$1.99",
+        "date": "6/1/2019",
+        "lot_number": "254243523580",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "danktron",
+        "cert_number": "41222717",
+        "auction_house": "eBay"
+    }
+]

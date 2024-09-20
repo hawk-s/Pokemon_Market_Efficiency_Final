@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "50722569",
+        "lot_number": "265362790533",
+        "date": "10/23/2021",
+        "grade": "9",
+        "auction_seller": "egarza661",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7346536581916245375/4004511838009675922.jpg"
+    },
+    {
+        "lot_number": "234314005365",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6668146993223326171/1502540460623988720.jpg",
+        "auction_seller": "houseofcards777",
+        "cert_number": "52742494",
+        "grade": "9",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/10/2021"
+    },
+    {
+        "lot_number": "234313790627",
+        "price": "$52.00",
+        "auction_seller": "houseofcards777",
+        "cert_number": "52742492",
+        "date": "12/9/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8053205515153317914/-1781443362975166621.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "houseofcards777",
+        "cert_number": "52742493",
+        "lot_number": "234313930033",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2032374821514034072/1426434199354122500.jpg",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/10/2021"
+    }
+]

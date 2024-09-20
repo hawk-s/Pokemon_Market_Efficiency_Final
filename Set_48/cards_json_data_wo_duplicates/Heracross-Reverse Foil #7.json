@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "wcs_investments",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2421176267426886226/-7757865409737153968.jpg",
+        "date": "1/29/2023",
+        "grade": "8",
+        "lot_number": "354511607931",
+        "price": "$27.00",
+        "cert_number": "67489475",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "94265680",
+        "date": "8/11/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7559527767300825605/-4930399216708838387.jpg",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$35.50",
+        "lot_number": "135174406680"
+    },
+    {
+        "lot_number": "353431567368",
+        "auction_seller": "spencerscollectibles",
+        "grade": "9",
+        "price": "$29.00",
+        "date": "4/3/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "47264490",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1782960444449547046/8535701486442577556.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2521506937595094536/-1065670965823766095.jpg",
+        "grade": "9",
+        "date": "10/18/2021",
+        "lot_number": "324820571252",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "cert_number": "49764317",
+        "price": "$29.13"
+    },
+    {
+        "date": "4/20/2018",
+        "grade": "9",
+        "lot_number": "292519029458",
+        "auction_type": "Auction",
+        "price": "$5.51",
+        "cert_number": "28524126",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4778295056855884932/748243412493296546.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5972657269728821573/-6591653324168886798.jpg",
+        "date": "4/21/2018",
+        "price": "$5.00",
+        "grade": "9",
+        "lot_number": "292520430800",
+        "auction_type": "Auction",
+        "cert_number": "28524126",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "293876934481",
+        "auction_seller": "myers3329",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2144388940079029104/-1646817930458336264.jpg",
+        "price": "$70.00",
+        "grade": "9",
+        "cert_number": "28524126",
+        "date": "12/18/2020",
+        "auction_house": "eBay"
+    }
+]

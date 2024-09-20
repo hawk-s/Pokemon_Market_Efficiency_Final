@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$18.02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/844286945968791361/5758808808249464525.jpg",
+        "lot_number": "204425592858",
+        "grade": "8",
+        "cert_number": "76244638",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "date": "8/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "lot_number": "364341922384",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5840549309241350297/-6192644653253629857.jpg",
+        "price": "$10.50",
+        "date": "7/16/2023",
+        "cert_number": "67761416",
+        "auction_seller": "gfbhypeco_26",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/903250117236066573/5538284584030451167.jpg",
+        "cert_number": "80443940",
+        "date": "7/8/2024",
+        "grade": "6",
+        "price": "$6.50",
+        "lot_number": "326178410703",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    }
+]

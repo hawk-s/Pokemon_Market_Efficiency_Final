@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "5",
+        "cert_number": "66108079",
+        "auction_seller": "r_g_prizms",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7887247427098936049/-5085281966209332536.jpg",
+        "auction_type": "Auction",
+        "price": "$172.50",
+        "lot_number": "314829528739",
+        "auction_house": "eBay",
+        "date": "9/21/2023"
+    },
+    {
+        "lot_number": "173793918902",
+        "date": "3/13/2019",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "auction_seller": "kampes_cards",
+        "price": "$112.50",
+        "cert_number": "40965266",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8257401337858237930/8262446964959615532.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/6/2023",
+        "auction_seller": "djkonovsky41",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2722829615042838214/5678502119946746370.jpg",
+        "cert_number": "70909519",
+        "auction_type": "Auction",
+        "lot_number": "134428928120",
+        "auction_house": "eBay",
+        "price": "$1,691.00",
+        "grade": "10"
+    },
+    {
+        "lot_number": "154719871704",
+        "auction_seller": "pure_carnage_1987",
+        "grade": "9",
+        "price": "$611.88",
+        "cert_number": "44038877",
+        "date": "12/6/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5968293695342546828/-6766535477363466948.jpg"
+    },
+    {
+        "cert_number": "53491840",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1751113004082707738/5594258833452703004.jpg",
+        "lot_number": "384696910936",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$621.11",
+        "auction_house": "eBay",
+        "date": "2/1/2022"
+    },
+    {
+        "price": "$614.00",
+        "lot_number": "175080255859",
+        "auction_seller": "christopherlam20122470",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8003804425275326530/-938380364237214772.jpg",
+        "cert_number": "63252994",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "12/30/2021",
+        "auction_house": "eBay"
+    }
+]

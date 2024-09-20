@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7880853035495394625/1642253667869715604.jpg",
+        "auction_seller": "bidoveru",
+        "cert_number": "70208451",
+        "grade": "8",
+        "price": "$13.55",
+        "lot_number": "315243173514",
+        "date": "4/2/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2589992349345236245/8947506907038400378.jpg",
+        "auction_seller": "kyokostore",
+        "grade": "9",
+        "cert_number": "75609151",
+        "date": "5/30/2024",
+        "lot_number": "116191634799",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/20/2021",
+        "lot_number": "324931788242",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6514517532643692295/1548286781601389191.jpg",
+        "price": "$25.73",
+        "grade": "9",
+        "cert_number": "50775180",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "auction_seller": "jsanan_50",
+        "price": "$10.00",
+        "date": "5/29/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3831952177704981287/-7063421225827196392.jpg",
+        "cert_number": "41170991",
+        "auction_house": "eBay",
+        "lot_number": "312804004321"
+    }
+]

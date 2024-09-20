@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$30.00",
+        "cert_number": "68930288",
+        "lot_number": "285167802340",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/909766609392631565/-2409936128620940547.jpg"
+    },
+    {
+        "lot_number": "324992513000",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1214511972322984894/-1483121546028033338.jpg",
+        "price": "$195.85",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "cert_number": "50775141"
+    },
+    {
+        "price": "$42.00",
+        "cert_number": "87681000",
+        "lot_number": "134991174155",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2782767430197906706/-7233941955701828143.jpg",
+        "date": "4/1/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "auction_seller": "dandaman333",
+        "date": "6/11/2021",
+        "cert_number": "48703055",
+        "lot_number": "313551952015",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1278849813593516230/3853544129561966664.jpg",
+        "grade": "9",
+        "price": "$59.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$4.25",
+        "date": "11/17/2019",
+        "auction_seller": "iwant_34",
+        "cert_number": "43910545",
+        "grade": "9",
+        "lot_number": "193203000978",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6029017662807518185/5709938587963117157.jpg"
+    },
+    {
+        "cert_number": "63149036",
+        "price": "$136.50",
+        "date": "11/29/2021",
+        "auction_seller": "zandgemporium-0",
+        "lot_number": "284537123544",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5416901286593668283/-3888322010049132605.jpg"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5728839477745444709/4662222983028656304.jpg",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "cert_number": "27979809",
+        "date": "11/8/2017",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "253243001490"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4593487848999244430/5521167517245374973.jpg",
+        "auction_seller": "editionsportscards",
+        "lot_number": "115710549013",
+        "cert_number": "68332250",
+        "grade": "9",
+        "date": "2/28/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$39.07"
+    }
+]

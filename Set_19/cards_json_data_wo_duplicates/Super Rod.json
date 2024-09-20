@@ -1,0 +1,24 @@
+[
+    {
+        "date": "11/2/2022",
+        "cert_number": "55533857",
+        "price": "$2.45",
+        "auction_seller": "caref_8233",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5120373909642750955/-5760599110510495295.jpg",
+        "lot_number": "234755075005",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "62303709",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/237338319280165295/5550686397847724781.jpg",
+        "auction_seller": "tcgchampion",
+        "date": "3/30/2023",
+        "auction_type": "Auction",
+        "lot_number": "354672278849",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

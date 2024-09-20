@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "285345948298",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1778342389852267252/-8531074074708038744.jpg",
+        "price": "$9.50",
+        "cert_number": "75743590",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/2/2023"
+    },
+    {
+        "lot_number": "133777880577",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3627981243709831274/3861603417141143272.jpg",
+        "auction_seller": "homm_72",
+        "price": "$41.00",
+        "grade": "9",
+        "date": "6/9/2021",
+        "cert_number": "26184402",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "387004834285",
+        "cert_number": "66826526",
+        "price": "$17.51",
+        "date": "5/21/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8569625202269214834/-2177666349420726709.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "relicmellc"
+    },
+    {
+        "date": "2/21/2023",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7997848093649596921/-2673360022539772426.jpg",
+        "grade": "9",
+        "lot_number": "115699386260",
+        "price": "$25.84",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "60923057"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/83025827311223627/-5825880822531312412.jpg",
+        "auction_seller": "lcmcollectibles",
+        "lot_number": "132890345337",
+        "auction_type": "Buy It Now",
+        "cert_number": "28874635",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "3/3/2019"
+    },
+    {
+        "cert_number": "66826526",
+        "lot_number": "386974418037",
+        "date": "5/8/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7258670491416837563/-2177666349420726709.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "relicmellc",
+        "price": "$71.00"
+    },
+    {
+        "auction_seller": "ryabond1",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7807047733280304664/3550805940517064584.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "28874635",
+        "date": "3/30/2021",
+        "price": "$50.00",
+        "grade": "9",
+        "auction_house": "eBay",
+        "lot_number": "402745761860"
+    }
+]

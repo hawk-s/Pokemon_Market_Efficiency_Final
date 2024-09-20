@@ -1,0 +1,90 @@
+[
+    {
+        "date": "8/18/2023",
+        "lot_number": "256177893590",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_seller": "robbytinc",
+        "auction_type": "Auction",
+        "cert_number": "76457830",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8523210616809664813/4625016581124484470.jpg"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "cert_number": "71205478",
+        "price": "$7.58",
+        "grade": "9",
+        "lot_number": "386014311986",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8692427916878621594/2528790066965949556.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "white_llama_cards",
+        "lot_number": "404885326659",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6665293234726484841/-5613288542029428813.jpg",
+        "date": "4/3/2024",
+        "auction_type": "Auction",
+        "cert_number": "84296884",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "71544053",
+        "date": "12/30/2023",
+        "auction_seller": "jomosk45",
+        "lot_number": "355321727997",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4274434723662903479/9176400283603480385.jpg",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "cert_number": "71205477",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1491419375115443665/8177308489343348258.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "386014327035"
+    },
+    {
+        "cert_number": "66945658",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7190518032830504437/7165716373097931269.jpg",
+        "auction_seller": "pmjamesstudios",
+        "lot_number": "394759834621",
+        "price": "$39.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/28/2023"
+    },
+    {
+        "date": "8/28/2024",
+        "lot_number": "166926536756",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-82008775677142277/7863135620816502914.jpg",
+        "grade": "9",
+        "cert_number": "93613422",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "mvpconsignments"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5232798462903175411/6207078372994334557.jpg",
+        "price": "$14.99",
+        "lot_number": "186493659641",
+        "auction_seller": "bombaytradestcg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "92314565",
+        "date": "6/20/2024"
+    }
+]

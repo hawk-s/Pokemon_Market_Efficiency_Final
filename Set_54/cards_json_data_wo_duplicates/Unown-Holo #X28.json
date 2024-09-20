@@ -1,0 +1,123 @@
+[
+    {
+        "cert_number": "41910901",
+        "auction_seller": "wastle",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7049869455728523101/7160466629731400029.jpg",
+        "auction_type": "Best Offer",
+        "date": "3/27/2020",
+        "grade": "9",
+        "price": "$22.00",
+        "lot_number": "183826959000",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "vecchiojoe2005",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1699799616849492310/1898710911987637998.jpg",
+        "date": "5/18/2023",
+        "grade": "8",
+        "auction_type": "Auction",
+        "lot_number": "175717212898",
+        "auction_house": "eBay",
+        "cert_number": "73215907",
+        "price": "$18.69"
+    },
+    {
+        "date": "4/1/2018",
+        "lot_number": "292498663153",
+        "auction_seller": "tnolan0816",
+        "cert_number": "28524656",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5022153329956591720/8156465332034094071.jpg",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$12.00",
+        "cert_number": "70015026",
+        "grade": "8",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1567152311979704506/9087873253939780153/images/1.jpg",
+        "date": "12/28/2022",
+        "lot_number": "1016",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": " 2022 Banksy, Rare Autographs, Comics & Video Game"
+    },
+    {
+        "cert_number": "66227568",
+        "auction_seller": "ketchumallcollectibles",
+        "date": "8/14/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$20.52",
+        "lot_number": "204420975299",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1675318674529300400/7809313292180349761.jpg"
+    },
+    {
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "price": "$20.00",
+        "lot_number": "401996947239",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6178586791427609487/4899191929451910809.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "40849356"
+    },
+    {
+        "price": "$26.50",
+        "date": "7/17/2023",
+        "lot_number": "314701183488",
+        "grade": "9",
+        "cert_number": "51466084",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8087103561717776224/-1599422397157317928.jpg",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "385362442723",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6998600643768936072/-6014571042691487131.jpg",
+        "auction_seller": "probstein123",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/27/2023",
+        "cert_number": "65181198"
+    },
+    {
+        "cert_number": "65475021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7544366507650053229/-2123006891538140995.jpg",
+        "grade": "6",
+        "price": "$13.55",
+        "auction_seller": "gfbhypeco_26",
+        "lot_number": "364091221743",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/2/2023"
+    },
+    {
+        "lot_number": "283429334084",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "date": "6/25/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9215480698949424964/3047244098441517077.jpg",
+        "auction_seller": "cardhouse_eu",
+        "cert_number": "42466378",
+        "auction_house": "eBay",
+        "price": "$29.99"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "cert_number": "70364611",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/1900717593112414388/images/1.jpg",
+        "price": "$25.00",
+        "lot_number": "4048",
+        "date": "4/20/2023"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "71730915",
+        "lot_number": "305078823253",
+        "date": "8/23/2023",
+        "auction_type": "Auction",
+        "auction_seller": "camcg6452",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4972047661469275801/-8466325081713098442.jpg",
+        "price": "$81.88",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "235536200505",
+        "auction_seller": "galactic_card_shop",
+        "price": "$90.00",
+        "date": "5/5/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9006069930622517031/-3265842764494274757.jpg",
+        "auction_type": "Auction",
+        "cert_number": "88966651",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "67060573",
+        "price": "$14.99",
+        "date": "12/28/2022",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8238669554435215485/-657793357636755970.jpg",
+        "lot_number": "225313465279",
+        "auction_type": "Auction",
+        "auction_seller": "lluu9",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "374514741628",
+        "date": "2/20/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3392094776237310505/8994288971798583331.jpg",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70482713"
+    }
+]

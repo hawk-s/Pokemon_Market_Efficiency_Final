@@ -1,0 +1,57 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9019916861902411670/-4767855329044202725.jpg",
+        "date": "1/20/2018",
+        "price": "$22.99",
+        "auction_seller": "my_honolulu_blue",
+        "cert_number": "27835605",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "192338417756"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4733180542565969855/7291940275465319106.jpg",
+        "cert_number": "40771342",
+        "date": "6/6/2018",
+        "lot_number": "142811260035",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3100203462239291215/-1445998146650565342.jpg",
+        "grade": "8",
+        "date": "8/2/2021",
+        "price": "$31.56",
+        "lot_number": "384294814901",
+        "auction_type": "Auction",
+        "cert_number": "48971157",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7825802709622150445/-418433337709340842.jpg",
+        "cert_number": "43930976",
+        "price": "$46.00",
+        "lot_number": "285598179801",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5155744483202271352/-4460617874231453457.jpg",
+        "lot_number": "155394243512",
+        "cert_number": "69308589",
+        "price": "$45.89",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokichloecards",
+        "grade": "10",
+        "date": "2/12/2023"
+    }
+]

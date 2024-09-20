@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "richys_cards",
+        "date": "1/21/2023",
+        "lot_number": "275622795130",
+        "grade": "9",
+        "cert_number": "70170895",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6906139043519380820/-6866789415436603835.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$185.83"
+    },
+    {
+        "date": "12/28/2021",
+        "lot_number": "384619160423",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7782614561118557893/-8127374588701215623.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "63837144",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$328.00"
+    },
+    {
+        "cert_number": "63594250",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5803985904326540577/-7899770751734411226.jpg",
+        "price": "$404.00",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "363655661131",
+        "grade": "10",
+        "date": "12/21/2021"
+    },
+    {
+        "cert_number": "45330947",
+        "date": "8/6/2023",
+        "auction_seller": "coins_n_rarities",
+        "lot_number": "275973087000",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8040863623435749089/-6944409890047227075.jpg",
+        "auction_type": "Auction",
+        "price": "$349.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "45330947",
+        "price": "$104.56",
+        "lot_number": "372912544861",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-93460094647903767/1165519084918320430.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/23/2020",
+        "grade": "10"
+    }
+]

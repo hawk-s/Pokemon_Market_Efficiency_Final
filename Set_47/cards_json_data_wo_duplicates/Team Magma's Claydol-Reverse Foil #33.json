@@ -1,0 +1,101 @@
+[
+    {
+        "lot_number": "154518777591",
+        "cert_number": "47558590",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2981639533386921416/1916280239261175489.jpg",
+        "grade": "9",
+        "auction_seller": "ramcanyon",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/12/2021"
+    },
+    {
+        "date": "3/28/2023",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1608786098615662567/390053642680050283.jpg",
+        "lot_number": "385485426992",
+        "auction_type": "Auction",
+        "cert_number": "60859281",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/-5252844896059544221/images/1.jpg",
+        "grade": "7",
+        "price": "$20.00",
+        "cert_number": "71339262",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "lot_number": "4808",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "5/11/2023"
+    },
+    {
+        "lot_number": "283446223120",
+        "auction_type": "Best Offer",
+        "price": "$24.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8241912122383436436/-3705713987189653405.jpg",
+        "grade": "9",
+        "auction_seller": "cooltrainerryan",
+        "date": "5/31/2020",
+        "auction_house": "eBay",
+        "cert_number": "42734600"
+    },
+    {
+        "auction_seller": "tacotruckcollectibles",
+        "date": "3/5/2024",
+        "lot_number": "196266308052",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2267193293536996343/-3669195062560017283.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "cert_number": "85179426",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/19/2023",
+        "lot_number": "385346450628",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7011437792389676546/6079894484246054643.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$25.38",
+        "cert_number": "60859281",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "364046381774",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8987755736816664657/3046383284357294145.jpg",
+        "price": "$18.52",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "60859281",
+        "auction_type": "Auction",
+        "date": "11/22/2022",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$6.05",
+        "grade": "7",
+        "auction_seller": "bidoveru",
+        "date": "4/2/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2576004243861080522/5839136802290144922.jpg",
+        "auction_type": "Auction",
+        "lot_number": "315243159138",
+        "auction_house": "eBay",
+        "cert_number": "70208442"
+    },
+    {
+        "cert_number": "69308650",
+        "price": "$67.78",
+        "auction_seller": "pokichloe",
+        "date": "7/30/2023",
+        "lot_number": "256153005692",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6956090850095057688/-4204186623202901865.jpg"
+    }
+]

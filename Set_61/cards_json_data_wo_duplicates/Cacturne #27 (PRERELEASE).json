@@ -1,0 +1,112 @@
+[
+    {
+        "price": "$7.50",
+        "date": "12/4/2023",
+        "grade": "8",
+        "cert_number": "64680497",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "lot_number": "305288286025",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8821001314375425631/-8675216366758837892.jpg"
+    },
+    {
+        "date": "3/3/2021",
+        "cert_number": "44255661",
+        "price": "$69.99",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "auction_seller": "stemea_78",
+        "lot_number": "333869956538",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7100183609559292455/2480579828884393665.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$14.99",
+        "auction_type": "Best Offer",
+        "date": "6/11/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-421689744373131737/6469789931113326278.jpg",
+        "grade": "8",
+        "cert_number": "44255656",
+        "auction_house": "eBay",
+        "auction_seller": "ctr_pr",
+        "lot_number": "163859453275"
+    },
+    {
+        "price": "$17.10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7635749563124985938/-4226862788984221177.jpg",
+        "auction_seller": "ketchumallcollectibles",
+        "lot_number": "203136781147",
+        "grade": "9",
+        "date": "10/19/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "41795701"
+    },
+    {
+        "price": "$45.20",
+        "lot_number": "274531134934",
+        "auction_type": "Best Offer",
+        "cert_number": "48237865",
+        "grade": "9",
+        "date": "10/18/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7896299018632008074/-4392612245652114550.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "gemcollectables"
+    },
+    {
+        "date": "4/12/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5149760819702954187/-1614594469994234634.jpg",
+        "price": "$16.00",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "cert_number": "64680497",
+        "lot_number": "375352095821",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/8799887104186107176/-1719702557350190172.jpg",
+        "price": "$11.00",
+        "cert_number": "27140628",
+        "lot_number": "272858164672",
+        "date": "10/3/2017",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "lot_number": "202819712846",
+        "auction_seller": "sieds_steins",
+        "date": "11/17/2019",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7115833513427225374/-4226862788984221177.jpg",
+        "auction_house": "eBay",
+        "cert_number": "41795701",
+        "price": "$7.59"
+    },
+    {
+        "lot_number": "294338418656",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "cert_number": "48636610",
+        "auction_house": "eBay",
+        "date": "8/23/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4898414730947718680/87523059967731328.jpg"
+    },
+    {
+        "grade": "5",
+        "lot_number": "386905279857",
+        "price": "$13.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/267797197846408056/-2470234294196525640.jpg",
+        "auction_seller": "probstein123",
+        "cert_number": "86158003",
+        "auction_type": "Auction",
+        "date": "4/11/2024",
+        "auction_house": "eBay"
+    }
+]

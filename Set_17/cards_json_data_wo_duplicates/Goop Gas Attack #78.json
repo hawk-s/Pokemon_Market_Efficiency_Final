@@ -1,0 +1,68 @@
+[
+    {
+        "date": "11/17/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3944619914386405526/7647730027866637938.jpg",
+        "cert_number": "52812938",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$13.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "363616034449"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "retronomic_meteroid",
+        "date": "6/26/2024",
+        "lot_number": "395479415868",
+        "cert_number": "91567177",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3532661529951019531/1232491338801873880.jpg",
+        "price": "$1.25"
+    },
+    {
+        "auction_seller": "mrseiler1",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2722646202125876518/6080428652202144669.jpg",
+        "grade": "6",
+        "price": "$5.00",
+        "date": "1/28/2023",
+        "auction_type": "Auction",
+        "lot_number": "314343953546",
+        "auction_house": "eBay",
+        "cert_number": "55810451"
+    },
+    {
+        "lot_number": "276172612645",
+        "date": "12/11/2023",
+        "grade": "9",
+        "cert_number": "57674100",
+        "price": "$10.52",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8779290412893758544/6700499306088489982.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "cert_number": "52669399",
+        "date": "10/15/2021",
+        "lot_number": "224640189421",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8093710155051826601/-1636420018421008474.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "trainersal",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "lot_number": "326138497108",
+        "date": "5/31/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4709640487482299191/6879565347143574727.jpg",
+        "auction_seller": "wintlesworkshop",
+        "price": "$39.47",
+        "auction_type": "Auction",
+        "cert_number": "85125869",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

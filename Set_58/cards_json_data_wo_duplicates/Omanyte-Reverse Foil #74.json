@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$30.00",
+        "lot_number": "235248964931",
+        "auction_seller": "cardtofindcollectibles",
+        "grade": "9",
+        "cert_number": "60422049",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/446223341633404372/2408282515851979776.jpg",
+        "date": "10/16/2023"
+    },
+    {
+        "auction_seller": "the_charizard_cartel",
+        "cert_number": "61753333",
+        "date": "4/9/2024",
+        "grade": "8",
+        "price": "$22.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7161486989418618904/5927977930078554738.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "326076430004"
+    },
+    {
+        "auction_seller": "ronzonie7",
+        "date": "4/22/2024",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6518505684755624271/-7165029730584499930.jpg",
+        "auction_type": "Auction",
+        "lot_number": "126431136302",
+        "auction_house": "eBay",
+        "cert_number": "88509081",
+        "price": "$16.50"
+    },
+    {
+        "lot_number": "196001059301",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-377801698744131456/-1723857937732509328.jpg",
+        "price": "$102.50",
+        "cert_number": "43240263",
+        "auction_seller": "ecology1990",
+        "auction_type": "Auction",
+        "date": "10/3/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

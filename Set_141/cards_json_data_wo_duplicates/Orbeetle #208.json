@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$15.00",
+        "lot_number": "125575260178",
+        "auction_seller": "ribienio2012",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8602994664606174232/-5387853691329836269.jpg",
+        "cert_number": "60211370",
+        "date": "10/29/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "285078515615",
+        "auction_seller": "zandgemporium",
+        "cert_number": "61444122",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7355622168360362272/1238641993152238579.jpg",
+        "date": "1/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "lot_number": "144242222412",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2394820160446048934/5059912179900952346.jpg",
+        "date": "10/18/2021",
+        "auction_type": "Auction",
+        "cert_number": "55377427",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$20.56",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "cert_number": "59160743",
+        "date": "9/12/2023",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2032339562313069519/250797463890577959.jpg",
+        "lot_number": "235180036733"
+    },
+    {
+        "auction_seller": "tsunagu",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7247626126914765748/-3563831572988605194.jpg",
+        "price": "$10.53",
+        "lot_number": "255281586716",
+        "cert_number": "54638241",
+        "date": "12/22/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

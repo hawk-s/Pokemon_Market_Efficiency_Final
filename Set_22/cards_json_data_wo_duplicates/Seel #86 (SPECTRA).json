@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "394503787288",
+        "cert_number": "58254120",
+        "price": "$98.00",
+        "auction_seller": "dacardworld",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6483412171856838559/7849445772210643946.jpg",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/27/2023",
+        "cert_number": "64157410",
+        "lot_number": "256191053391",
+        "price": "$58.00",
+        "auction_seller": "09mansfield",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8270375281674582382/741246886429913773.jpg"
+    },
+    {
+        "cert_number": "47062944",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "date": "12/5/2020",
+        "auction_seller": "andheb-16",
+        "lot_number": "363207933098",
+        "price": "$24.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5523333702723857277/1381381647808530242.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "price": "$38.00",
+        "lot_number": "352837653527",
+        "cert_number": "43605469",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3377030686559562442/-3440379893170386734.jpg",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

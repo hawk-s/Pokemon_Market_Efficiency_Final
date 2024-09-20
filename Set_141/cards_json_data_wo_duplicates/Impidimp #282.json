@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$19.50",
+        "date": "10/18/2021",
+        "auction_type": "Auction",
+        "cert_number": "55377460",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2571131813462817318/8735855866612056547.jpg",
+        "auction_house": "eBay",
+        "lot_number": "144242172091",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5945379917000698894/-4701612793885997625.jpg",
+        "auction_seller": "zandgemporium",
+        "date": "9/24/2023",
+        "lot_number": "285472995313",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "cert_number": "61826029",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "perrosniper1",
+        "price": "$7.50",
+        "lot_number": "116223101157",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6418983871322543467/-2549050783925478566.jpg",
+        "date": "6/26/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "55286444"
+    },
+    {
+        "lot_number": "364772174383",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1101176325665969857/-5436884131300416925.jpg",
+        "cert_number": "58614973",
+        "price": "$14.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/14/2024",
+        "grade": "10"
+    },
+    {
+        "lot_number": "235180050669",
+        "price": "$10.50",
+        "date": "9/12/2023",
+        "cert_number": "59160802",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7505916523486869251/-2388345703577952012.jpg",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$22.25",
+        "cert_number": "63302453",
+        "lot_number": "355081571975",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-314265272357393837/2783480350007252442.jpg",
+        "auction_seller": "vispri-21",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/29/2023",
+        "grade": "10"
+    }
+]

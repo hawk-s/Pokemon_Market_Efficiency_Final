@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "164303913865",
+        "auction_type": "Buy It Now",
+        "price": "$39.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4909939508037074871/-2374705914861263188.jpg",
+        "grade": "9",
+        "date": "7/31/2020",
+        "auction_house": "eBay",
+        "cert_number": "44255468",
+        "auction_seller": "ctr_pr"
+    },
+    {
+        "lot_number": "163859453164",
+        "auction_type": "Buy It Now",
+        "date": "5/22/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2574796880841071978/-3672268127536520165.jpg",
+        "auction_seller": "ctr_pr",
+        "cert_number": "44255469",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$130.00"
+    },
+    {
+        "cert_number": "84792661",
+        "grade": "8",
+        "date": "3/10/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6839416278523305812/1247457584368671106.jpg",
+        "auction_seller": "peachescollectables",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$66.40",
+        "lot_number": "395235477990"
+    },
+    {
+        "auction_seller": "chri_carta",
+        "auction_type": "Best Offer",
+        "cert_number": "44255471",
+        "date": "12/5/2020",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1317839912402178168/4439500185096563817.jpg",
+        "lot_number": "313252167389",
+        "price": "$89.99"
+    },
+    {
+        "price": "$125.00",
+        "cert_number": "44255470",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8653101454879951988/-1426465467200975709.jpg",
+        "auction_seller": "halloluke",
+        "lot_number": "265098666087",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "4/5/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "44255470",
+        "auction_seller": "chri_carta",
+        "auction_type": "Best Offer",
+        "date": "1/1/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5168329781647579535/9002519241815408414.jpg",
+        "grade": "9",
+        "price": "$80.00",
+        "auction_house": "eBay",
+        "lot_number": "313331536828"
+    },
+    {
+        "lot_number": "163859453271",
+        "auction_type": "Best Offer",
+        "date": "7/21/2020",
+        "auction_seller": "ctr_pr",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6798904189807852425/-2374705914861263188.jpg",
+        "cert_number": "44255468",
+        "price": "$29.99"
+    }
+]

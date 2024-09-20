@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "166209296203",
+        "grade": "7",
+        "price": "$10.50",
+        "date": "7/11/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7147935831681660744/-299971119511027154.jpg",
+        "cert_number": "69625738",
+        "auction_type": "Auction",
+        "auction_seller": "jebr4566",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$8.99",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-8990832607008663418/-91810377818278723.jpg",
+        "cert_number": "24858043",
+        "auction_seller": "pelozas",
+        "grade": "9",
+        "date": "11/18/2017",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "382281826577"
+    },
+    {
+        "cert_number": "42343217",
+        "date": "10/29/2021",
+        "lot_number": "174988323075",
+        "grade": "9",
+        "price": "$23.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2021667244746477882/-7517584650941930841.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "svc051"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2844332822915748007/1301951969374928683.jpg",
+        "grade": "9",
+        "cert_number": "40771494",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "lot_number": "142836549079",
+        "price": "$1.25"
+    }
+]

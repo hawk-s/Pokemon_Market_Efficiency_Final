@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5123243006032430692/-3117801295051817085.jpg",
+        "price": "$23.67",
+        "auction_seller": "thecollectioncove",
+        "cert_number": "77514095",
+        "lot_number": "256228034174",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/2/2023"
+    },
+    {
+        "cert_number": "66121128",
+        "lot_number": "144871550619",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7853312183418259708/-3636643628993524212.jpg",
+        "auction_seller": "esuprojapan",
+        "date": "1/4/2023",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2017576187130838504/3564264305265598156.jpg",
+        "lot_number": "124863602748",
+        "cert_number": "47668095",
+        "auction_seller": "card_secret",
+        "price": "$41.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021"
+    }
+]

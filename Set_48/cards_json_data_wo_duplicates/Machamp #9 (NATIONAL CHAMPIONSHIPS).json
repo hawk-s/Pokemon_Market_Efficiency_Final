@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$61.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2588997958389005958/4129364273197933881.jpg",
+        "grade": "9",
+        "auction_seller": "77luka",
+        "date": "11/4/2020",
+        "auction_type": "Auction",
+        "cert_number": "43928061",
+        "auction_house": "eBay",
+        "lot_number": "313276181621"
+    },
+    {
+        "cert_number": "57712360",
+        "date": "10/27/2022",
+        "grade": "9",
+        "lot_number": "125573610447",
+        "auction_seller": "dcsports87",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4415810424964683107/5506767875003051151.jpg"
+    },
+    {
+        "auction_seller": "tcgmarket",
+        "auction_type": "Best Offer",
+        "price": "$229.99",
+        "grade": "9",
+        "date": "1/30/2021",
+        "cert_number": "43928061",
+        "auction_house": "eBay",
+        "lot_number": "402649920545",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3318545608644361717/9124697039537654347.jpg"
+    },
+    {
+        "date": "10/1/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5314381119444687317/-2151636701986028141.jpg",
+        "auction_seller": "dulbastore",
+        "lot_number": "256225969109",
+        "grade": "9",
+        "price": "$56.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "74332052"
+    },
+    {
+        "cert_number": "74332050",
+        "lot_number": "256211769932",
+        "date": "9/17/2023",
+        "auction_seller": "dulbastore",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3622759245044896388/1471301122757567268.jpg",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "dulbastore",
+        "cert_number": "69062051",
+        "grade": "9",
+        "price": "$56.00",
+        "lot_number": "255924799468",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8511477807723044464/-274697182213773539.jpg",
+        "date": "1/22/2023"
+    },
+    {
+        "auction_seller": "anime_world720",
+        "lot_number": "314823535950",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-214100043147176980/6101261051841633775.jpg",
+        "date": "10/15/2023",
+        "cert_number": "52733255",
+        "grade": "9",
+        "price": "$31.57",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "dulbastore",
+        "date": "10/21/2023",
+        "lot_number": "256257824349",
+        "price": "$43.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5218863811523202823/-2533502476419197010.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "74332053",
+        "auction_house": "eBay"
+    }
+]

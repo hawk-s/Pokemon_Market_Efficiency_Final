@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "7",
+        "date": "6/2/2024",
+        "cert_number": "89241273",
+        "price": "$3.01",
+        "auction_type": "Auction",
+        "lot_number": "404998379404",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/843384667632595626/-2747860026938607861.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "arizona_tcg"
+    },
+    {
+        "date": "5/22/2024",
+        "grade": "7",
+        "cert_number": "89241273",
+        "price": "$5.50",
+        "auction_seller": "arizona_tcg",
+        "lot_number": "404977738970",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7184599139342249543/7195519663677614852.jpg"
+    },
+    {
+        "grade": "7",
+        "price": "$4.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7871122333309919412/-7845036380230792173.jpg",
+        "date": "8/17/2024",
+        "cert_number": "89241273",
+        "lot_number": "405155867995",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "arizona_tcg"
+    }
+]

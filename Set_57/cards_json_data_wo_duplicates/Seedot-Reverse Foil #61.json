@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "264914123508",
+        "cert_number": "27737386",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5518427295905473014/-1724970133065569153.jpg",
+        "price": "$31.00",
+        "date": "11/3/2020",
+        "auction_type": "Auction",
+        "auction_seller": "biggerscho",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "364998559403",
+        "cert_number": "75447986",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1136175184555675891/7065801600942740420.jpg",
+        "date": "7/16/2024",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "cert_number": "81534697",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6767386396229386937/-5398461832210659359.jpg",
+        "lot_number": "226223301443",
+        "price": "$15.50",
+        "date": "7/14/2024",
+        "grade": "9",
+        "auction_seller": "pokeking_auz",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "auction_seller": "slab-town",
+        "lot_number": "324907504003",
+        "date": "12/3/2021",
+        "cert_number": "53007604",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4935860235689041562/1853607902185602296.jpg"
+    },
+    {
+        "price": "$24.87",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-751974086958368416/889473808795041548.jpg",
+        "cert_number": "79380258",
+        "grade": "9",
+        "date": "6/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285889589422",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "grade": "9",
+        "cert_number": "85409698",
+        "date": "3/31/2024",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "lot_number": "134987977699",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8920039133855683823/7591836965844548555.jpg",
+        "price": "$23.22"
+    },
+    {
+        "price": "$12.00",
+        "date": "8/29/2020",
+        "auction_seller": "ppatekop",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "303664420030",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3667021620127432583/365097945002169229.jpg",
+        "auction_house": "eBay",
+        "cert_number": "43630279"
+    }
+]

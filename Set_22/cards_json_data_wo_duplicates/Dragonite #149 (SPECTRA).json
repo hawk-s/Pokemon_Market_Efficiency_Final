@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "crispyslabs",
+        "date": "2/20/2023",
+        "cert_number": "68236518",
+        "grade": "9",
+        "lot_number": "325533609628",
+        "price": "$303.89",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3472480608142020850/-1140248353898279598.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "date": "11/6/2019",
+        "price": "$260.00",
+        "auction_type": "Auction",
+        "cert_number": "43605372",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4871325290561861738/-5677587128701325009.jpg",
+        "lot_number": "352838666172",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "69199468",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7990734462466257648/2573654215000999171.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "im_jacrispy",
+        "lot_number": "394911978292",
+        "auction_house": "eBay",
+        "date": "10/9/2023",
+        "price": "$204.50"
+    }
+]

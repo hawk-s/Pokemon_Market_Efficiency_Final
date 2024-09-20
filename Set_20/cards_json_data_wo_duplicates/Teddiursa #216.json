@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "72797398",
+        "price": "$11.35",
+        "auction_seller": "vispri-21",
+        "lot_number": "355753625464",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8013722563710284974/-6306344138602551355.jpg",
+        "grade": "9",
+        "date": "6/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "62926240",
+        "auction_seller": "zandgemporium",
+        "grade": "10",
+        "lot_number": "285010454781",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8323776669339244141/3353048677741530357.jpg",
+        "auction_house": "eBay",
+        "date": "10/30/2022"
+    },
+    {
+        "cert_number": "68275866",
+        "grade": "9",
+        "lot_number": "364097641384",
+        "auction_seller": "probstein123",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1365669876665280930/-719073385040224811.jpg",
+        "auction_house": "eBay",
+        "price": "$11.02"
+    },
+    {
+        "cert_number": "55672408",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7182358288453043229/-3747389748968908824.jpg",
+        "auction_seller": "biomed_46",
+        "date": "3/2/2023",
+        "auction_type": "Auction",
+        "price": "$11.70",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "195609776016"
+    },
+    {
+        "price": "$20.00",
+        "date": "8/3/2018",
+        "auction_seller": "catennis-15",
+        "auction_type": "Best Offer",
+        "cert_number": "27606242",
+        "lot_number": "122639909792",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1383168994855493701/-2447202314771774371.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "cert_number": "61169364",
+        "lot_number": "285235636195",
+        "price": "$29.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1965828721244096109/-6981293655569974758.jpg",
+        "auction_type": "Auction",
+        "date": "4/23/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7449222197069191012/5032807530451951479.jpg",
+        "lot_number": "313322866229",
+        "auction_type": "Best Offer",
+        "cert_number": "47967249",
+        "date": "12/7/2020",
+        "grade": "9",
+        "auction_seller": "thatpokeguy",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8952770117446741097/-6578886414632089277.jpg",
+        "auction_seller": "trapt-41",
+        "price": "$15.50",
+        "date": "7/14/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "387171760243",
+        "grade": "10",
+        "cert_number": "53345751"
+    }
+]

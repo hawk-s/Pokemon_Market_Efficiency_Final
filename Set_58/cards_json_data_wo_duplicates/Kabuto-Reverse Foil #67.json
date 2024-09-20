@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "295199550481",
+        "cert_number": "60844901",
+        "date": "9/11/2022",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "price": "$28.73",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2531124406757524169/5285033423356800262.jpg"
+    },
+    {
+        "price": "$191.50",
+        "auction_seller": "kingstonticketsandcards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-224864884011276283/8393211744281525036.jpg",
+        "lot_number": "185892427344",
+        "date": "5/22/2023",
+        "cert_number": "73270769",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/421754743732367959/4633110178020296470.jpg",
+        "cert_number": "51200318",
+        "price": "$20.00",
+        "date": "9/30/2021",
+        "grade": "8",
+        "lot_number": "373731306406",
+        "auction_seller": "samaka-41",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

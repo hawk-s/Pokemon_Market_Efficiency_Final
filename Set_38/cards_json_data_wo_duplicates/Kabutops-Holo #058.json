@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "7",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1567152311979704506/5633071394085675309/images/1.jpg",
+        "price": "$19.00",
+        "lot_number": "972",
+        "date": "12/28/2022",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": " 2022 Banksy, Rare Autographs, Comics & Video Game",
+        "cert_number": "70015084"
+    },
+    {
+        "price": "$55.00",
+        "lot_number": "196108412616",
+        "auction_seller": "gymleadertaylor",
+        "cert_number": "80206439",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4292049079814527178/-7748527419740272204.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/9/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3216778159806433377/6237352093138355875.jpg",
+        "date": "7/28/2019",
+        "cert_number": "43860372",
+        "auction_seller": "unique_collectible_cards",
+        "lot_number": "254305069108",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$33.00"
+    },
+    {
+        "price": "$202.50",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285659617724",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5836983135162480953/-5872028958192068647.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "84521889",
+        "grade": "10",
+        "date": "1/28/2024"
+    },
+    {
+        "cert_number": "78669969",
+        "date": "4/14/2024",
+        "auction_seller": "zandgemporium",
+        "price": "$58.99",
+        "lot_number": "285800377141",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/873467643076863382/1806718205549709622.jpg"
+    },
+    {
+        "lot_number": "276414454885",
+        "price": "$88.00",
+        "date": "4/15/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3693788935408255014/-3815554752843159910.jpg",
+        "auction_type": "Auction",
+        "cert_number": "83685880",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    }
+]

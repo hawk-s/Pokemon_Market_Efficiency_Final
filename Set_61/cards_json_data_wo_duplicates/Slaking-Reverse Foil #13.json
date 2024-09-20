@@ -1,0 +1,90 @@
+[
+    {
+        "lot_number": "204425592856",
+        "grade": "8",
+        "price": "$18.52",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "date": "8/20/2023",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8373112440804685302/461752954078002815.jpg",
+        "cert_number": "76244671"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "cert_number": "41485269",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/846696808004364330/1771437098081728794.jpg",
+        "grade": "8",
+        "price": "$19.99",
+        "lot_number": "113886012975",
+        "auction_seller": "lucifer*s",
+        "auction_house": "eBay",
+        "date": "6/6/2020"
+    },
+    {
+        "date": "8/15/2021",
+        "price": "$122.50",
+        "cert_number": "49031569",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3023147392778779233/2494284391881515168.jpg",
+        "auction_seller": "matsad0",
+        "lot_number": "393491033627",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/16/2023",
+        "price": "$34.63",
+        "cert_number": "68606436",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8868523726711137679/-4094449409672785621.jpg",
+        "lot_number": "185727601053",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "73178307",
+        "auction_seller": "scc_consignments",
+        "price": "$14.50",
+        "grade": "9",
+        "lot_number": "305483158264",
+        "auction_type": "Auction",
+        "date": "4/8/2024",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4574863866299691003/-3764057255810258876.jpg"
+    },
+    {
+        "date": "1/25/2021",
+        "lot_number": "184625945029",
+        "grade": "9",
+        "price": "$31.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1087492245285935912/-1275022750675425368.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "extremecards_collectibles",
+        "cert_number": "46647350"
+    },
+    {
+        "auction_seller": "ra_dealz",
+        "cert_number": "70187256",
+        "date": "3/6/2023",
+        "price": "$21.61",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5637888142359152028/-3677821166230498364.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285162218062"
+    },
+    {
+        "auction_seller": "tannah12",
+        "lot_number": "115738774117",
+        "date": "3/29/2023",
+        "grade": "9",
+        "price": "$30.15",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6042989091514643257/-837062982904690014.jpg",
+        "auction_type": "Auction",
+        "cert_number": "60764501",
+        "auction_house": "eBay"
+    }
+]

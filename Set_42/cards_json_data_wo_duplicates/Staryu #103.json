@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4216131601529283256/5818851033696616460.jpg",
+        "auction_seller": "tannah12",
+        "date": "3/14/2023",
+        "grade": "9",
+        "cert_number": "57119550",
+        "price": "$17.41",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115724155095"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "lot_number": "315532731680",
+        "date": "7/23/2024",
+        "grade": "10",
+        "cert_number": "41643872",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4998827375822253219/-617940346729272723.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4373586676855131296/3176909546028771372.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "51936403",
+        "auction_seller": "thepocketinvestor",
+        "lot_number": "353345832484",
+        "price": "$70.00",
+        "auction_house": "eBay",
+        "date": "3/7/2021",
+        "grade": "10"
+    },
+    {
+        "price": "$15.69",
+        "auction_seller": "hoodyscollectibles",
+        "cert_number": "67905633",
+        "grade": "9",
+        "lot_number": "144883949041",
+        "date": "1/10/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8513558540999190270/5296923158432206035.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.50",
+        "cert_number": "27637230",
+        "date": "9/19/2017",
+        "grade": "9",
+        "lot_number": "112561591543",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-355939385422756797/-582434673683785295.jpg"
+    }
+]

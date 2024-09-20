@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "slab-town",
+        "lot_number": "324907404467",
+        "date": "12/3/2021",
+        "price": "$75.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5147063631012383940/-7596375527230533927.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "53007670"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3068153720097821285/-6971858288611114598.jpg",
+        "date": "5/1/2023",
+        "price": "$64.88",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "gengarsbest",
+        "grade": "10",
+        "lot_number": "115780026182",
+        "cert_number": "53007670"
+    },
+    {
+        "grade": "7",
+        "lot_number": "185726800157",
+        "price": "$15.00",
+        "cert_number": "60220787",
+        "date": "1/13/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2821550880768421018/-3828192386157708595.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "jzimmerschied19",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "cert_number": "58059189",
+        "auction_seller": "rysua_94",
+        "date": "10/27/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5393036766050732926/-3614271433231950581.jpg",
+        "price": "$15.52",
+        "lot_number": "403950595612",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1701686233903039695/-6971858288611114598.jpg",
+        "lot_number": "115803968295",
+        "date": "5/21/2023",
+        "price": "$50.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "gengarsbest",
+        "grade": "10",
+        "cert_number": "53007670"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8142439336634489997/-4334498490048175518.jpg",
+        "date": "5/26/2024",
+        "lot_number": "364905206176",
+        "auction_seller": "bigrigstcg",
+        "cert_number": "55886145",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$71.00"
+    },
+    {
+        "lot_number": "185732060855",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9157448754777082413/-2146434192731150188.jpg",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "date": "1/20/2023",
+        "auction_type": "Auction",
+        "cert_number": "68768057",
+        "price": "$19.80",
+        "auction_house": "eBay"
+    }
+]

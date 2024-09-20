@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "364168176733",
+        "cert_number": "67256605",
+        "auction_seller": "torriko-collects",
+        "date": "3/9/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5312175932297284051/-5498695039810385331.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$20.80",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "60759913",
+        "auction_seller": "tannah12",
+        "date": "3/28/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$30.20",
+        "auction_house": "eBay",
+        "lot_number": "115733181338",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6350012285968798528/172353554022754626.jpg"
+    },
+    {
+        "cert_number": "54813085",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4931124418600937957/982934558666504066.jpg",
+        "auction_seller": "goats-n-pros",
+        "grade": "6",
+        "lot_number": "234415638007",
+        "auction_type": "Auction",
+        "date": "2/15/2022",
+        "auction_house": "eBay",
+        "price": "$16.01"
+    },
+    {
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8891794082919643720/854593340261426517.jpg",
+        "grade": "8",
+        "lot_number": "156327186565",
+        "date": "8/4/2024",
+        "cert_number": "76499543",
+        "auction_seller": "pokemaniatcg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

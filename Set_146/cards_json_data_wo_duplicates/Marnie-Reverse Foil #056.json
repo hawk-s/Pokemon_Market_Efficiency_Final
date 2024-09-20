@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$26.00",
+        "cert_number": "56212921",
+        "auction_seller": "dcsports87",
+        "lot_number": "125307440154",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "5/16/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1102027772932151102/-5544202135848410944.jpg",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "lot_number": "154751195785",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6033030603191742174/5918745324843431182.jpg",
+        "date": "12/23/2021",
+        "cert_number": "52703928",
+        "auction_type": "Auction",
+        "auction_seller": "pc_sportscards",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/18/2022",
+        "auction_seller": "dptopcards",
+        "lot_number": "175104714265",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7809315015455850099/-645916206141567633.jpg",
+        "auction_house": "eBay",
+        "cert_number": "54385074"
+    },
+    {
+        "cert_number": "57252424",
+        "price": "$1.29",
+        "auction_seller": "isplashco",
+        "date": "3/31/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "155469930267",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3026345704621059085/5017171126632980096.jpg"
+    }
+]

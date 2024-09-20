@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$30.00",
+        "auction_seller": "legendarypokes",
+        "cert_number": "56415897",
+        "grade": "9",
+        "lot_number": "185562456330",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1706227208112703518/7854787604677247923.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/9/2022"
+    },
+    {
+        "price": "$15.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5282810340795126650/-8815931441252201961.jpg",
+        "cert_number": "69078284",
+        "grade": "6",
+        "lot_number": "185801453146",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_seller": "kantowest",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "48565235",
+        "date": "7/1/2021",
+        "auction_seller": "casablanca_comics",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3188920281466054182/-6925353291480257176.jpg",
+        "lot_number": "194216578686",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "casablanca_comics",
+        "date": "6/19/2021",
+        "lot_number": "194198491650",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3002320504438746272/-5676341442255791950.jpg",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "48565234"
+    },
+    {
+        "price": "$42.00",
+        "auction_seller": "casablanca_comics",
+        "lot_number": "384217761793",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1128300744615545890/-6997898514905472518.jpg",
+        "date": "6/19/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "48565234"
+    },
+    {
+        "cert_number": "92492911",
+        "date": "7/19/2024",
+        "lot_number": "365003990054",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1852703405551790747/-877086010741864391.jpg",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-279718873689658431/-2870395108362148348.jpg",
+        "auction_seller": "probstein123",
+        "date": "10/17/2023",
+        "lot_number": "386181853187",
+        "cert_number": "46737339",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

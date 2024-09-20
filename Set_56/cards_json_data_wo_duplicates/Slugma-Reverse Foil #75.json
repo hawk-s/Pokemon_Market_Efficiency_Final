@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "53863793",
+        "grade": "8",
+        "lot_number": "324992476265",
+        "auction_type": "Auction",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2222094666372679247/476706394648739981.jpg",
+        "price": "$28.88"
+    },
+    {
+        "auction_seller": "tacotruckcollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2073805488917374752/7423352073446480550.jpg",
+        "grade": "8",
+        "date": "7/5/2024",
+        "auction_type": "Auction",
+        "lot_number": "196469731895",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "cert_number": "85179458"
+    },
+    {
+        "date": "8/16/2024",
+        "price": "$6.01",
+        "auction_seller": "joswaybr_0",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2247226142445841453/4699827263430071953.jpg",
+        "grade": "8",
+        "lot_number": "285998381754",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "85179458"
+    },
+    {
+        "price": "$20.00",
+        "date": "8/7/2024",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4726195454588510150/1410839681379791341.jpg",
+        "lot_number": "305699680613",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "cert_number": "92859418"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1402527844478284387/-3638046351836391896.jpg",
+        "price": "$65.00",
+        "lot_number": "304715040838",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "cert_number": "66509681",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/5/2022"
+    },
+    {
+        "date": "10/5/2021",
+        "grade": "9",
+        "price": "$32.01",
+        "auction_seller": "probstein123",
+        "lot_number": "373736359756",
+        "auction_type": "Auction",
+        "cert_number": "51346907",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2722215048000687145/-9072040680672021685.jpg",
+        "auction_house": "eBay"
+    }
+]

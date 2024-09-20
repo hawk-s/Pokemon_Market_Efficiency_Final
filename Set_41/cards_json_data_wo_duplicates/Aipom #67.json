@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5723311415299867560/-6282107133883809770.jpg",
+        "cert_number": "61372883",
+        "date": "12/11/2023",
+        "price": "$46.03",
+        "auction_seller": "tca_gaming",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "266513080281",
+        "grade": "10"
+    },
+    {
+        "lot_number": "296379007783",
+        "cert_number": "89493945",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7060929759389947540/-1629046664507637018.jpg",
+        "grade": "8",
+        "price": "$10.00",
+        "auction_seller": "ellewi3",
+        "date": "4/27/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$5.60",
+        "cert_number": "40771352",
+        "lot_number": "142836549172",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2377708738931474378/6394652584303060331.jpg",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "grade": "10"
+    },
+    {
+        "cert_number": "26693757",
+        "lot_number": "122362846345",
+        "auction_type": "Best Offer",
+        "auction_seller": "pokemon_revolution",
+        "date": "7/13/2020",
+        "grade": "9",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1066716090907511856/-3761363092535307401.jpg"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6780019041839238360/-3011798121894179747.jpg",
+        "price": "$11.99",
+        "auction_type": "Buy It Now",
+        "lot_number": "192309247953",
+        "auction_seller": "my_honolulu_blue",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27667870"
+    }
+]

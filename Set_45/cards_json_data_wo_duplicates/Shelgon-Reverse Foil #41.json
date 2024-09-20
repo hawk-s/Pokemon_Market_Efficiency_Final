@@ -1,0 +1,35 @@
+[
+    {
+        "date": "3/27/2023",
+        "lot_number": "134496795849",
+        "price": "$15.50",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5668513800313047675/-1907685597307741809.jpg",
+        "cert_number": "59878249"
+    },
+    {
+        "date": "6/22/2020",
+        "auction_seller": "gicardsshop",
+        "cert_number": "25496711",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6263836654360468064/1407057272430163464.jpg",
+        "grade": "8",
+        "lot_number": "184323020879",
+        "price": "$19.99",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "283565256977",
+        "cert_number": "43350661",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1683196241078400255/-9065755734180507430.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$44.99",
+        "date": "9/7/2019",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "date": "6/22/2024",
+        "lot_number": "186497559385",
+        "price": "$34.09",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3097409964070419832/477439684182776444.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "56562454",
+        "grade": "10",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "lot_number": "225663289402",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4113832611374497364/-3484871086370771914.jpg",
+        "price": "$34.29",
+        "cert_number": "54206921",
+        "date": "7/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "heb162"
+    },
+    {
+        "date": "8/27/2023",
+        "auction_seller": "mei-9402",
+        "price": "$6.46",
+        "grade": "9",
+        "lot_number": "404453627409",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "51921097",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6599994207842094924/3041019901388587401.jpg"
+    }
+]

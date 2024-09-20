@@ -1,0 +1,24 @@
+[
+    {
+        "date": "6/20/2020",
+        "auction_seller": "lambda_driver",
+        "auction_type": "Best Offer",
+        "cert_number": "46396532",
+        "lot_number": "264767863046",
+        "price": "$19.99",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2049163424121636290/-3907846734072020931.jpg",
+        "grade": "10"
+    },
+    {
+        "date": "11/17/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3043237817603685881/1099120542580733045.jpg",
+        "lot_number": "175016915934",
+        "auction_seller": "cuznkevin",
+        "grade": "9",
+        "cert_number": "52399291",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$41.02"
+    }
+]

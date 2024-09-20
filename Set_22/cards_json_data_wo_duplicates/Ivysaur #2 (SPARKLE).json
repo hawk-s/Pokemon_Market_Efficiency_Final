@@ -1,0 +1,68 @@
+[
+    {
+        "date": "12/28/2021",
+        "cert_number": "63837126",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7434704754236472850/548173141828691892.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "363663253469",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$153.50"
+    },
+    {
+        "auction_seller": "coins_n_rarities",
+        "date": "8/10/2023",
+        "lot_number": "314749341588",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7578949891469686549/8892566012306129974.jpg",
+        "cert_number": "49247969",
+        "grade": "10",
+        "price": "$898.00"
+    },
+    {
+        "price": "$416.00",
+        "lot_number": "185228588680",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5676355570029062450/-2933155320708454023.jpg",
+        "auction_seller": "christopherlam20122470",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "12/30/2021",
+        "cert_number": "63182583",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$1,333.00",
+        "auction_seller": "christopherlam20122470",
+        "cert_number": "51985212",
+        "date": "1/10/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "175092507860",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9205174682356450627/2026971586019534163.jpg"
+    },
+    {
+        "cert_number": "44038875",
+        "lot_number": "373900826100",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9048506887576444174/5802670167447997589.jpg",
+        "date": "2/1/2022",
+        "price": "$455.00"
+    },
+    {
+        "cert_number": "53491838",
+        "lot_number": "384555169769",
+        "price": "$393.00",
+        "date": "12/9/2021",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1632438850251092476/7515129990455487020.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

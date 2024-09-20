@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$26.00",
+        "date": "1/12/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8642332391536914133/163630080125272280.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "46647324",
+        "lot_number": "184608944427",
+        "auction_seller": "extremecards_collectibles"
+    },
+    {
+        "grade": "8.5",
+        "cert_number": "47558646",
+        "lot_number": "154480812819",
+        "date": "6/12/2021",
+        "price": "$6.50",
+        "auction_seller": "ramcanyon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6256990911049856086/5272191955130630030.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

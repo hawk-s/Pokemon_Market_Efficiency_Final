@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "date": "4/30/2023",
+        "cert_number": "60754608",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2205231998410733046/-57348258149423488.jpg",
+        "grade": "9",
+        "lot_number": "155514841791",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$59.48"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2842824906769846153/-4672059886780007474.jpg",
+        "grade": "7",
+        "date": "12/13/2021",
+        "lot_number": "313781930515",
+        "cert_number": "53408906",
+        "auction_type": "Auction",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay",
+        "price": "$19.50"
+    },
+    {
+        "price": "$61.20",
+        "lot_number": "115797689603",
+        "auction_seller": "tannah12",
+        "cert_number": "60754608",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-675924771113543330/-57348258149423488.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "5/14/2023",
+        "auction_house": "eBay"
+    }
+]

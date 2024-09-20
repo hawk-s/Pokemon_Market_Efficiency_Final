@@ -1,0 +1,46 @@
+[
+    {
+        "date": "8/6/2023",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "62795543",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-932798617490125366/-8364057018972954614.jpg",
+        "lot_number": "285404049789"
+    },
+    {
+        "price": "$44.92",
+        "cert_number": "70807084",
+        "date": "7/7/2024",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "135122925259",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1942318953985641303/7736891483137883121.jpg"
+    },
+    {
+        "cert_number": "62926235",
+        "lot_number": "285010443878",
+        "auction_seller": "zandgemporium",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6021934095337483334/-4081293959189375239.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/492456250189546714/437230077205091506.jpg",
+        "lot_number": "362768569422",
+        "cert_number": "41778804",
+        "grade": "10",
+        "date": "10/5/2019",
+        "auction_type": "Auction",
+        "auction_seller": "thecardcollector-uk",
+        "auction_house": "eBay",
+        "price": "$9.22"
+    }
+]

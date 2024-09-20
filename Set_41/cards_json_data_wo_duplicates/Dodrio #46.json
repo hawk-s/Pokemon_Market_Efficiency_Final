@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "142836549077",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6985445806238558425/-786058354341183917.jpg",
+        "cert_number": "40771332",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "grade": "10"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1851582935037243574/4407598891528557811.jpg",
+        "date": "3/29/2020",
+        "auction_seller": "kantos_finest",
+        "cert_number": "41319773",
+        "lot_number": "312855682186",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$29.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/669334003445463798/2857237731712312396.jpg",
+        "price": "$1.29",
+        "date": "6/21/2018",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27835595",
+        "lot_number": "362353733468"
+    },
+    {
+        "price": "$10.50",
+        "auction_seller": "okemos16",
+        "lot_number": "254416355089",
+        "date": "11/14/2019",
+        "auction_type": "Auction",
+        "cert_number": "41319773",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8990496889002714796/7299086461383608976.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-366581927373626944/296425727348465819.jpg",
+        "price": "$14.99",
+        "cert_number": "26693800",
+        "auction_type": "Buy It Now",
+        "auction_seller": "pokemon_revolution",
+        "lot_number": "112309170860",
+        "grade": "9",
+        "date": "7/18/2017",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "202377845536",
+        "cert_number": "41011965",
+        "price": "$9.99",
+        "grade": "9",
+        "date": "7/29/2018",
+        "auction_seller": "pokegottacatchem",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8332749162931971074/4521678738769113224.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3342447241326233161/9161951096290994342.jpg",
+        "auction_seller": "sapphire.collectibles",
+        "date": "6/25/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "166828439319",
+        "cert_number": "27835595",
+        "price": "$0.99"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "date": "2/22/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-293697005767462099/-4961909285748934457.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "363724357760",
+        "price": "$14.00",
+        "cert_number": "56478597",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$11.85",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2214632730444162123/3645868752882613344.jpg",
+        "cert_number": "55518527",
+        "auction_seller": "sellers_sportscards",
+        "lot_number": "265514108879",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/30/2022"
+    },
+    {
+        "date": "3/23/2023",
+        "cert_number": "56656724",
+        "auction_seller": "chaka_9110",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4795613220136544171/2600109747028870151.jpg",
+        "price": "$22.00",
+        "lot_number": "285187443609",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "56829122",
+        "grade": "8",
+        "auction_seller": "4eversportscards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5048413594900959037/-912313451389040992.jpg",
+        "date": "4/29/2024",
+        "auction_type": "Auction",
+        "lot_number": "156177442901",
+        "price": "$1.55",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/22/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7674821351696702680/-5356941167379188799.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "373927354514",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "56478598",
+        "price": "$16.50"
+    },
+    {
+        "date": "2/8/2023",
+        "lot_number": "285128851898",
+        "auction_seller": "chaka_9110",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4658449023972954793/2368663318595852691.jpg",
+        "cert_number": "55211846",
+        "price": "$22.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

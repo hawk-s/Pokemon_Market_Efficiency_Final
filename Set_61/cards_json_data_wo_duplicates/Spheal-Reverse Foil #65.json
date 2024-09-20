@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$24.95",
+        "cert_number": "66818351",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5406938468857294369/-6214215330334756595.jpg",
+        "lot_number": "266068241061",
+        "grade": "9",
+        "date": "1/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "bobcatgolfer24"
+    },
+    {
+        "lot_number": "285106858924",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2858582876391557778/1300360052521642507.jpg",
+        "auction_seller": "sonofhercules",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/26/2023",
+        "cert_number": "57200529",
+        "grade": "10",
+        "price": "$48.83"
+    }
+]

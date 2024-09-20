@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$38.00",
+        "date": "7/16/2023",
+        "auction_seller": "jmcomicsandcards",
+        "cert_number": "71857371",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1767980720238320655/5171946640130740181.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "126007291224"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5137421718361790843/9019508156173667202.jpg",
+        "cert_number": "61746384",
+        "grade": "9",
+        "price": "$19.99",
+        "lot_number": "225150639372",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "livealifeulove",
+        "date": "9/12/2022"
+    },
+    {
+        "date": "8/30/2024",
+        "price": "$18.01",
+        "cert_number": "61956893",
+        "auction_seller": "psa",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3961813566435049427/-5226704322265765763.jpg",
+        "lot_number": "305742077123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "305743489414",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6382213968387935590/-3383421971171681581.jpg",
+        "auction_seller": "psa",
+        "price": "$19.38",
+        "cert_number": "61956895",
+        "date": "8/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

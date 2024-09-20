@@ -1,0 +1,57 @@
+[
+    {
+        "date": "4/26/2020",
+        "price": "$21.00",
+        "lot_number": "254571951336",
+        "auction_seller": "tsunagu",
+        "cert_number": "46077481",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5555316906186682485/-366246525678283390.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2637417258436657556/1883758332363116984.jpg",
+        "price": "$4.25",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "28103168",
+        "date": "11/14/2017",
+        "auction_house": "eBay",
+        "lot_number": "382276025169"
+    },
+    {
+        "price": "$55.00",
+        "lot_number": "285010531896",
+        "auction_seller": "zandgemporium",
+        "cert_number": "62926229",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2312428472811855905/-7800171047764394650.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/31/2022"
+    },
+    {
+        "cert_number": "68049249",
+        "date": "3/5/2023",
+        "auction_seller": "ejbgames_pcs_collectibles_etc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3178054519043854637/3928761280785055369.jpg",
+        "price": "$20.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285161021653"
+    },
+    {
+        "grade": "8",
+        "auction_seller": "brads-collectibles41",
+        "auction_house": "eBay",
+        "date": "12/18/2023",
+        "lot_number": "375114269102",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2883809650718512909/-8590040344699285113.jpg",
+        "cert_number": "82165983",
+        "price": "$1.25"
+    }
+]

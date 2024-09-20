@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "pwcc_vault",
+        "cert_number": "43258090",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6822227920671665967/3656107420761205442.jpg",
+        "lot_number": "224457115275",
+        "price": "$199.50",
+        "auction_type": "Auction",
+        "date": "5/18/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "10/5/2020",
+        "auction_seller": "sieds_steins",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8812760148969142500/7188841065775262111.jpg",
+        "lot_number": "203119682046",
+        "price": "$226.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "46418637"
+    },
+    {
+        "date": "1/16/2023",
+        "auction_seller": "bidoveru",
+        "price": "$127.50",
+        "grade": "6",
+        "cert_number": "70188227",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "314310687713",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/814832611193230871/-1564170787331759617.jpg"
+    }
+]

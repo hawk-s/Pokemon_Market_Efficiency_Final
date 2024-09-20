@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "362650364303",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-669102149632521137/-1798356109016174883.jpg",
+        "price": "$17.78",
+        "cert_number": "28995100",
+        "date": "5/25/2019",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1883345149794647509/2257773877395625911.jpg",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "28995100",
+        "price": "$17.00",
+        "grade": "10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/28/2018",
+        "lot_number": "352358629412"
+    },
+    {
+        "cert_number": "28989599",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2196245583578022828/-3927242069874658181.jpg",
+        "lot_number": "383091269714",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "8/16/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$14.96"
+    },
+    {
+        "cert_number": "44418795",
+        "auction_type": "Best Offer",
+        "date": "4/30/2020",
+        "price": "$28.99",
+        "lot_number": "114129943445",
+        "auction_seller": "blowoutcards2",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4332997102162602690/-7489278752870458740.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

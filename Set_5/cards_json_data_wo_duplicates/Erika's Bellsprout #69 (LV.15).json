@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "355256578034",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7326253497537714407/2634185424867437314.jpg",
+        "date": "12/11/2023",
+        "auction_seller": "tcg_stockpile",
+        "cert_number": "65452540",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4873621342191588438/7341169560695093430.jpg",
+        "grade": "8",
+        "date": "9/26/2023",
+        "price": "$5.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "386128877498",
+        "auction_house": "eBay",
+        "cert_number": "56372569"
+    },
+    {
+        "date": "8/27/2023",
+        "auction_seller": "pokemon_30",
+        "price": "$17.19",
+        "lot_number": "175857553627",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5652043802899294162/237606160727496374.jpg",
+        "auction_type": "Auction",
+        "cert_number": "59471908",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

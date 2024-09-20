@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "59661208",
+        "date": "12/11/2022",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1876264841719602699/2268475389921214091.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "334652374909",
+        "price": "$17.99",
+        "auction_seller": "zoozcollectibles"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5250540923519066730/7403971308426286527.jpg",
+        "date": "9/24/2020",
+        "lot_number": "363108707787",
+        "auction_seller": "probstein123",
+        "cert_number": "41222771",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/19/2021",
+        "auction_seller": "sbunney28",
+        "cert_number": "52549839",
+        "grade": "9",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8069047269973760783/-4251475525743752576.jpg",
+        "lot_number": "125048838907",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "273289862182",
+        "cert_number": "40757522",
+        "date": "6/19/2018",
+        "auction_seller": "cardrushinc",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3903111041698131711/590944384498676410.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/5/2018",
+        "auction_seller": "cardrushinc",
+        "cert_number": "28314136",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2046431465212564200/-3502357168588217215.jpg",
+        "lot_number": "292464632282",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-958050389853078890/-1497211575249707965.jpg",
+        "auction_seller": "marro-4916",
+        "grade": "9",
+        "cert_number": "69004486",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "185867589897",
+        "price": "$38.99",
+        "date": "4/30/2023"
+    }
+]

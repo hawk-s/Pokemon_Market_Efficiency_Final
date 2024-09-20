@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "cert_number": "60764508",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1097714845100766659/-6199183761972220759.jpg",
+        "price": "$31.41",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "lot_number": "115727543701"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3270036847861460953/-8968565523212167804.jpg",
+        "cert_number": "72057582",
+        "grade": "8",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "date": "4/2/2023",
+        "auction_house": "eBay",
+        "auction_seller": "jscottyson",
+        "lot_number": "175662521253"
+    },
+    {
+        "price": "$61.00",
+        "lot_number": "256475735479",
+        "date": "4/15/2024",
+        "cert_number": "53712328",
+        "auction_seller": "warner2faulk",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5256701768169899609/7983610487050908188.jpg"
+    },
+    {
+        "date": "4/21/2024",
+        "lot_number": "355626618282",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5220363733899846867/6906760021254387710.jpg",
+        "auction_seller": "thepocketinvestor",
+        "price": "$21.25",
+        "grade": "9",
+        "cert_number": "72181347",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/13/2024",
+        "auction_seller": "thecollectiongalleria",
+        "cert_number": "53704262",
+        "grade": "8",
+        "price": "$5.50",
+        "lot_number": "276582084073",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5903547690391639144/-3790050516363329209.jpg"
+    }
+]

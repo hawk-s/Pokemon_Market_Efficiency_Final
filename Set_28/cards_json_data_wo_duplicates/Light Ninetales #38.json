@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$55.48",
+        "date": "12/27/2022",
+        "cert_number": "58873585",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5126150534237648418/-3020967095264193285.jpg",
+        "lot_number": "325470382675",
+        "auction_seller": "card.galaxy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "5/26/2023",
+        "auction_seller": "4_sharp_corners",
+        "grade": "6",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "lot_number": "385622925777",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5548775109118237765/5569928804432204880.jpg",
+        "auction_house": "eBay",
+        "cert_number": "64343129"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1063610704488955082/3120446497083861971.jpg",
+        "auction_seller": "card-foundry",
+        "price": "$115.97",
+        "cert_number": "49462476",
+        "lot_number": "274958374513",
+        "auction_type": "Auction",
+        "date": "10/3/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "49462475",
+        "auction_seller": "card-foundry",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5622492208029752998/-1158781383249726333.jpg",
+        "price": "$102.65",
+        "date": "12/5/2021",
+        "lot_number": "275041330350",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$59.00",
+        "cert_number": "59257120",
+        "auction_seller": "rocky_mountain_graded_cards",
+        "date": "1/27/2023",
+        "lot_number": "185745585095",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/216219408110428217/-2289112009179051034.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "166372855095",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-374168825283106451/-3470622781774711129.jpg",
+        "cert_number": "74360559",
+        "date": "10/22/2023",
+        "grade": "9",
+        "price": "$14.50",
+        "auction_seller": "gamefreak_enterprises_llc",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/5/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1755716448248733941/2711244421270195996.jpg",
+        "cert_number": "63448861",
+        "auction_seller": "gengardreams",
+        "price": "$57.98",
+        "auction_type": "Auction",
+        "lot_number": "395297157834",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "47495031",
+        "auction_type": "Best Offer",
+        "auction_seller": "apspeeze",
+        "date": "12/4/2020",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7120735918881933978/7941972280837400068.jpg",
+        "price": "$67.50",
+        "lot_number": "293847531706",
+        "auction_house": "eBay"
+    }
+]

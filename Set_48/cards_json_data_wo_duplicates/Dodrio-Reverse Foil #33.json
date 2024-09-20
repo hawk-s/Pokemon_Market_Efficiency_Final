@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "266085302698",
+        "cert_number": "66962445",
+        "date": "1/21/2023",
+        "grade": "9",
+        "price": "$19.16",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8422616755306351528/6590649966603444692.jpg",
+        "auction_seller": "bobcatgolfer24"
+    },
+    {
+        "cert_number": "49764343",
+        "date": "11/7/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7467094265808625770/5839089328945826847.jpg",
+        "lot_number": "324854439996",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "price": "$14.89"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2233536058988757499/-3127389454306125192.jpg",
+        "price": "$9.50",
+        "cert_number": "70857684",
+        "auction_seller": "cardboardkrackshack",
+        "date": "3/4/2023",
+        "grade": "9",
+        "lot_number": "134461354697",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "94265687",
+        "lot_number": "135174406640",
+        "date": "8/11/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-442199805502311627/5929619225000051932.jpg",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$16.94"
+    }
+]

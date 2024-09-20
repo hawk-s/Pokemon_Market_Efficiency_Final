@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "armbro.nebula",
+        "cert_number": "43646437",
+        "lot_number": "264476761757",
+        "price": "$41.00",
+        "date": "9/29/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1295205748180667260/422722674171755683.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "presidiogaming",
+        "cert_number": "43605350",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1977742525106696069/-8448759934193080951.jpg",
+        "lot_number": "352837670912",
+        "price": "$37.00",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "10/13/2022",
+        "lot_number": "334584394046",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8048813834634507677/8425836381518955097.jpg",
+        "auction_seller": "chtor6232",
+        "price": "$129.50",
+        "cert_number": "54053195",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/28/2021",
+        "lot_number": "353460639237",
+        "auction_seller": "pwcc_auctions",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53491859",
+        "price": "$338.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1019353005004595786/5431787591134646686.jpg"
+    },
+    {
+        "lot_number": "154703471334",
+        "cert_number": "43646437",
+        "date": "11/23/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8220942451086918814/723781027140332698.jpg",
+        "auction_type": "Auction",
+        "price": "$305.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "replaythatagain"
+    }
+]

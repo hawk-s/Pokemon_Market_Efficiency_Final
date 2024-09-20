@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "282826588577",
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4512000825141758042/-8008263008361577138.jpg",
+        "date": "2/11/2018",
+        "cert_number": "27743392",
+        "auction_type": "Auction",
+        "auction_seller": "thepokeman",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "292314782251",
+        "auction_seller": "tnolan0816",
+        "cert_number": "27743393",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2288300193511273287/-481491247924220228.jpg",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$0.99"
+    },
+    {
+        "price": "$2.25",
+        "cert_number": "27743393",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7396022584408387360/-481491247924220228.jpg",
+        "lot_number": "292315921711",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/12/2017"
+    }
+]

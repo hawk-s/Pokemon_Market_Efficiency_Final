@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-863026346358327048/7805995869654984723.jpg",
+        "grade": "8",
+        "date": "10/22/2023",
+        "lot_number": "355104811269",
+        "auction_type": "Auction",
+        "auction_seller": "the1-up",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "cert_number": "72542265"
+    },
+    {
+        "cert_number": "71048433",
+        "grade": "8",
+        "lot_number": "394841115424",
+        "auction_seller": "winic_95",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2239080369045055370/-1201840515723539284.jpg",
+        "date": "9/4/2023",
+        "price": "$13.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "69004199",
+        "lot_number": "185823083330",
+        "grade": "8",
+        "auction_seller": "marro-4916",
+        "date": "3/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8090909916720231785/2434026146677478798.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$20.75"
+    }
+]

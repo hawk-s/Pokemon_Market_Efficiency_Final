@@ -1,0 +1,90 @@
+[
+    {
+        "auction_seller": "z00kers",
+        "cert_number": "84667042",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/20/2024",
+        "lot_number": "156204732894",
+        "price": "$12.50",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/633728424911995410/-3125289028942829565.jpg"
+    },
+    {
+        "date": "4/21/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-57430462063753314/4854300021528204245.jpg",
+        "lot_number": "355626748611",
+        "auction_seller": "thepocketinvestor",
+        "auction_type": "Auction",
+        "cert_number": "61176925",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4502129715152642321/2715459917608250955.jpg",
+        "date": "10/4/2021",
+        "cert_number": "49549196",
+        "grade": "10",
+        "auction_seller": "4_sharp_corners",
+        "lot_number": "384408025906",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$102.50"
+    },
+    {
+        "lot_number": "325339013477",
+        "price": "$15.50",
+        "cert_number": "59644842",
+        "date": "9/19/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2130838920561650600/9205369875347963817.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "date": "3/9/2020",
+        "price": "$2.25",
+        "auction_seller": "tsunagu",
+        "lot_number": "254528680265",
+        "cert_number": "45433292",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3644487489587039439/6807530998875134747.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "134739896462",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3114746310013778679/-5296998996082056719.jpg",
+        "cert_number": "78998048",
+        "price": "$35.00",
+        "date": "9/29/2023",
+        "auction_seller": "misteroktobercards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$7.50",
+        "date": "5/26/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7148583132717357916/2859921586846218940.jpg",
+        "auction_seller": "cardboundllc",
+        "grade": "10",
+        "cert_number": "88892886",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "226152587208"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9216747729584994041/-8031781510551455280.jpg",
+        "price": "$29.75",
+        "lot_number": "145209149996",
+        "auction_seller": "new_in_wv",
+        "cert_number": "61176924",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/1/2023"
+    }
+]

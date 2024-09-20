@@ -1,0 +1,46 @@
+[
+    {
+        "date": "12/19/2021",
+        "auction_seller": "sbunney28",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3437817871353580023/1238368082834725331.jpg",
+        "lot_number": "125047217375",
+        "cert_number": "52549785",
+        "grade": "9",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "cert_number": "92037450",
+        "auction_seller": "emcoltt",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4536666289557791642/-8434090222343933899.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/28/2024",
+        "price": "$3.00",
+        "lot_number": "395483746497"
+    },
+    {
+        "date": "10/31/2018",
+        "price": "$15.00",
+        "cert_number": "41476067",
+        "auction_type": "Buy It Now",
+        "lot_number": "173608249126",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6477340237110607102/-462429463875772995.jpg",
+        "grade": "9",
+        "auction_seller": "kampes_cards",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/23/2024",
+        "lot_number": "156262989501",
+        "cert_number": "71755820",
+        "grade": "8",
+        "auction_seller": "ramcanyon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4180314074497252268/438580166379871794.jpg",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

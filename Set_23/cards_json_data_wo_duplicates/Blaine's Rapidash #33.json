@@ -1,0 +1,35 @@
+[
+    {
+        "date": "1/9/2024",
+        "price": "$4.25",
+        "grade": "9",
+        "auction_seller": "marvelous-cards-collectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6831973562753348577/1318744139768614676.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "84158832",
+        "lot_number": "364659511200"
+    },
+    {
+        "cert_number": "69063455",
+        "lot_number": "166347373876",
+        "auction_seller": "fireball44",
+        "grade": "9",
+        "price": "$20.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1737395928587302670/3269280878537958923.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/2/2023"
+    },
+    {
+        "lot_number": "355966076479",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3201861078116154515/583095317736571260.jpg",
+        "cert_number": "91421898",
+        "auction_seller": "tcg_stockpile",
+        "date": "8/25/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    }
+]

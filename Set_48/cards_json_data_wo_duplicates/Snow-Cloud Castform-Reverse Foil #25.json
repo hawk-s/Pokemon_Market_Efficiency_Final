@@ -1,0 +1,68 @@
+[
+    {
+        "date": "1/29/2023",
+        "cert_number": "55726380",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-403646209493280696/1448769094712397424.jpg",
+        "price": "$28.35",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "lot_number": "285116545105",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/6/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9002977807807473191/-8448226226891253464.jpg",
+        "price": "$14.50",
+        "grade": "9",
+        "auction_seller": "juan_7441",
+        "auction_type": "Auction",
+        "lot_number": "335324869682",
+        "auction_house": "eBay",
+        "cert_number": "76212525"
+    },
+    {
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7786805942097697234/-5500775594049073545.jpg",
+        "cert_number": "95201926",
+        "date": "9/2/2024",
+        "grade": "8",
+        "lot_number": "176543495129",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "jscottyson"
+    },
+    {
+        "lot_number": "335029523440",
+        "date": "9/24/2023",
+        "grade": "9",
+        "auction_seller": "juan_7441",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7143294296169465929/5772667971425065616.jpg",
+        "price": "$20.52",
+        "cert_number": "76212526"
+    },
+    {
+        "cert_number": "70208363",
+        "auction_seller": "bidoveru",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8154170109378887251/1987964022351557820.jpg",
+        "price": "$41.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "315213267366",
+        "date": "3/26/2024"
+    },
+    {
+        "price": "$42.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8376676843049299114/-5512954867432066387.jpg",
+        "date": "12/4/2022",
+        "grade": "9",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "66513464",
+        "lot_number": "295348401314"
+    }
+]

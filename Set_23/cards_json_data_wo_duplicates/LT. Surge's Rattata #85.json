@@ -1,0 +1,79 @@
+[
+    {
+        "date": "2/25/2023",
+        "price": "$30.00",
+        "cert_number": "70519329",
+        "lot_number": "364149028323",
+        "auction_seller": "matterandmotiongames",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-837074028287626717/5406513309880579338.jpg"
+    },
+    {
+        "cert_number": "87054735",
+        "date": "4/6/2024",
+        "price": "$28.01",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7193997324223358628/2071938157936953738.jpg",
+        "auction_seller": "unclenickscollection",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "266742200431"
+    },
+    {
+        "cert_number": "88641265",
+        "date": "7/29/2024",
+        "lot_number": "126589013121",
+        "auction_seller": "pokellectorad",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$11.56",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/608834204652834059/-7532153074831828934.jpg"
+    },
+    {
+        "date": "12/18/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-234367798706936625/6041154031528079250.jpg",
+        "price": "$29.00",
+        "cert_number": "57899378",
+        "auction_seller": "firebirder31",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "234814375457",
+        "grade": "10"
+    },
+    {
+        "cert_number": "54474953",
+        "lot_number": "133989132151",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4377512854248696311/7501139643788915070.jpg",
+        "grade": "8",
+        "date": "1/15/2022",
+        "auction_seller": "guerr.eddy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$71.00"
+    },
+    {
+        "lot_number": "224330495115",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-843376476647363478/-5390949140668562161.jpg",
+        "date": "2/3/2021",
+        "auction_seller": "palindrome7323",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "cert_number": "52869141",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "126606114955",
+        "cert_number": "88641265",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8611265552475634853/-7532153074831828934.jpg",
+        "auction_seller": "pokellectorad",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "8/9/2024",
+        "auction_house": "eBay",
+        "price": "$11.47"
+    }
+]

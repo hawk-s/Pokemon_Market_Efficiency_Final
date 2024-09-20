@@ -1,0 +1,35 @@
+[
+    {
+        "date": "5/26/2024",
+        "auction_seller": "shenron-japan",
+        "price": "$31.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1313053656565452587/3454457399000082991.jpg",
+        "lot_number": "355726218305",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "78035956"
+    },
+    {
+        "lot_number": "375529057684",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8308911484497982988/-2249909739252889467.jpg",
+        "price": "$10.50",
+        "cert_number": "91845539",
+        "date": "7/15/2024",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8782899983426759511/1773727298847683043.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "69701194",
+        "lot_number": "364846033281",
+        "auction_type": "Auction",
+        "date": "4/25/2024",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    }
+]

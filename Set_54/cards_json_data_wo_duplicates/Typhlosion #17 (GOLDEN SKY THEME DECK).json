@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "5",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8162504335398130684/3811606882681834547.jpg",
+        "date": "10/8/2023",
+        "price": "$10.00",
+        "cert_number": "77504935",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285495334037"
+    },
+    {
+        "auction_seller": "tyleres121297",
+        "price": "$10.80",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7054390547198223594/-4189093109602832711.jpg",
+        "cert_number": "28238375",
+        "auction_house": "eBay",
+        "date": "8/26/2018",
+        "lot_number": "332771680516"
+    },
+    {
+        "lot_number": "304677302160",
+        "price": "$78.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8034775181569449018/-7572649286442920021.jpg",
+        "date": "11/7/2022",
+        "cert_number": "66965248",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5663729779766294103/-1692747590950105665.jpg",
+        "cert_number": "66509344",
+        "price": "$43.00",
+        "date": "4/29/2024",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "lot_number": "375391592736",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5399914382213591310/4082236879471522161.jpg",
+        "auction_seller": "alpr-754",
+        "cert_number": "69052339",
+        "price": "$37.36",
+        "grade": "10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "295466094291",
+        "date": "1/22/2023"
+    }
+]

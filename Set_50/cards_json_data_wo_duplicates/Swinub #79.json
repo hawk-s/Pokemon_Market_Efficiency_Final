@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "27743849",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7316437469042782302/-2039076008882565015.jpg",
+        "lot_number": "292312309764",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "date": "11/9/2017",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/21/2023",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-31109113143416073/-6670112088785965607.jpg",
+        "cert_number": "60923101",
+        "lot_number": "155398352403",
+        "price": "$13.49",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1528998262085832332/8864923934465150896.jpg",
+        "auction_seller": "butanecards",
+        "cert_number": "67319356",
+        "price": "$31.00",
+        "lot_number": "266369010786",
+        "date": "8/22/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "4",
+        "cert_number": "64076503",
+        "lot_number": "134535520529",
+        "price": "$600.00",
+        "auction_type": "Auction",
+        "date": "4/24/2023",
+        "auction_house": "eBay",
+        "auction_seller": "brda_4235",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5597385135286776694/2572138806769569858.jpg"
+    },
+    {
+        "cert_number": "27306338",
+        "date": "9/26/2017",
+        "price": "$1,400.00",
+        "auction_type": "Best Offer",
+        "lot_number": "192291294752",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1803613719137277491/-3700439607328001263.jpg",
+        "grade": "9",
+        "auction_seller": "kyoto_magikarp",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1565256405041490633/2015428422320066141.jpg",
+        "grade": "7",
+        "auction_seller": "smpratte",
+        "cert_number": "52414415",
+        "date": "2/27/2023",
+        "lot_number": "185772222968",
+        "auction_type": "Auction",
+        "price": "$885.00",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "71836798",
+        "lot_number": "285233838441",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6376025249843110820/7562070597206209393.jpg",
+        "grade": "6",
+        "auction_type": "Auction",
+        "date": "4/23/2023",
+        "auction_house": "eBay",
+        "price": "$660.00"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "cert_number": "43617844",
+        "lot_number": "124095299998",
+        "date": "3/1/2020",
+        "price": "$285.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5678559426190422656/6180136033039365987.jpg",
+        "grade": "1"
+    }
+]

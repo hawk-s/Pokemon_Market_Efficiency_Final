@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5473305846403615243/1283404024577013920.jpg",
+        "cert_number": "44461526",
+        "date": "12/11/2023",
+        "price": "$40.03",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "314967224869",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "date": "3/8/2023",
+        "auction_seller": "tannah12",
+        "price": "$15.07",
+        "cert_number": "59404442",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8954828349610702330/-437736515874639502.jpg",
+        "grade": "8",
+        "lot_number": "155431884433",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/7/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1460544884065256175/6857178012400358414.jpg",
+        "price": "$17.26",
+        "auction_type": "Auction",
+        "auction_seller": "krukcards",
+        "lot_number": "364606676799",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "67258316"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "cert_number": "41643851",
+        "date": "7/16/2024",
+        "price": "$41.00",
+        "auction_house": "eBay",
+        "lot_number": "315511213641",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2715047599840335773/8507975227883209254.jpg",
+        "grade": "10"
+    }
+]

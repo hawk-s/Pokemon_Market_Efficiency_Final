@@ -1,0 +1,90 @@
+[
+    {
+        "price": "$4.99",
+        "date": "9/26/2021",
+        "lot_number": "185057936344",
+        "cert_number": "51773585",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7783549185668435434/-5722554569258526711.jpg",
+        "auction_seller": "popolka312",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/11/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7003062966570716542/-5736394503573995768.jpg",
+        "auction_seller": "tanismtz",
+        "cert_number": "59347894",
+        "grade": "6",
+        "price": "$2.99",
+        "auction_type": "Auction",
+        "lot_number": "165967187740",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6736505095311077233/293005116692119535.jpg",
+        "cert_number": "54813183",
+        "auction_seller": "goats-n-pros",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "234397361996",
+        "auction_house": "eBay",
+        "date": "2/1/2022"
+    },
+    {
+        "lot_number": "275333423449",
+        "date": "6/5/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6761213829764264300/-727935746287079951.jpg",
+        "grade": "9",
+        "auction_seller": "xenxania",
+        "cert_number": "54736370",
+        "price": "$3.75",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/25/2023",
+        "lot_number": "385553018150",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "56829038",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2598217298153599053/-6535486042218636801.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/21/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1740018393563921413/-5671969145958958644.jpg",
+        "cert_number": "54911553",
+        "auction_seller": "apples_card_collection",
+        "auction_type": "Auction",
+        "lot_number": "404156434147",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "date": "6/2/2022",
+        "price": "$13.50",
+        "cert_number": "57874628",
+        "auction_seller": "sellers_sportscards",
+        "auction_type": "Auction",
+        "lot_number": "255553229271",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2790520822974225748/3238641799046452555.jpg"
+    },
+    {
+        "auction_seller": "aprsl_dot_com",
+        "date": "12/20/2021",
+        "price": "$7.16",
+        "lot_number": "175053641501",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3632074916565139282/-992467957547641004.jpg",
+        "grade": "9",
+        "cert_number": "56492050",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

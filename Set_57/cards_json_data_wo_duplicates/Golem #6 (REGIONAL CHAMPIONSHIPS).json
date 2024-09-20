@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "poke-martcollectibles",
+        "lot_number": "275597056330",
+        "date": "1/7/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2272862322109731858/8578514463713477604.jpg",
+        "price": "$27.00",
+        "grade": "9",
+        "cert_number": "68321352",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/8/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3697094518380974639/8440750527555504456.jpg",
+        "grade": "10",
+        "auction_seller": "psa10gem101",
+        "lot_number": "122995075115",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50",
+        "cert_number": "26771478"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "lot_number": "371911932820",
+        "cert_number": "25731168",
+        "grade": "9",
+        "auction_seller": "dacardworld",
+        "date": "4/25/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8406646834082100630/-6136187079249023423.jpg",
+        "auction_house": "eBay",
+        "price": "$16.95"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "67165310",
+        "lot_number": "334751781294",
+        "date": "2/26/2023",
+        "price": "$18.52",
+        "grade": "9",
+        "auction_seller": "juan_7441",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2176581723072769411/8495912335257377982.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "324774994004",
+        "auction_seller": "dualcollectibleinc",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6260804351714813258/6344681360579652168.jpg",
+        "auction_type": "Auction",
+        "date": "9/13/2021",
+        "auction_house": "eBay",
+        "price": "$25.10",
+        "cert_number": "48140735"
+    },
+    {
+        "date": "2/13/2023",
+        "auction_seller": "wcs_investments",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8648822547424585232/8262058340455600897.jpg",
+        "cert_number": "67489592",
+        "lot_number": "354553655537",
+        "price": "$17.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "404822217704",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/56344315303425603/-8924966574448781772.jpg",
+        "cert_number": "54430601",
+        "auction_seller": "jimmythefluff",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$25.31",
+        "auction_house": "eBay",
+        "date": "3/4/2024"
+    },
+    {
+        "grade": "8",
+        "lot_number": "314484179150",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7390327820694531422/-6330763653559795488.jpg",
+        "date": "4/2/2023",
+        "auction_house": "eBay",
+        "price": "$13.09",
+        "auction_seller": "nevergonnaletmewdown",
+        "cert_number": "68714968"
+    },
+    {
+        "date": "1/29/2023",
+        "auction_seller": "goldrush_cards",
+        "lot_number": "234869545849",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-435405037561733721/6130651992924863580.jpg",
+        "price": "$16.29",
+        "auction_type": "Auction",
+        "cert_number": "57041003",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "48964173",
+        "lot_number": "284388957209",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1606570915517446613/-2576664564917745927.jpg",
+        "date": "8/8/2021",
+        "auction_seller": "obscars",
+        "price": "$41.58",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "lot_number": "153983662717",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5514325578229480237/-2562305540160960938.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "44164238",
+        "grade": "9",
+        "date": "6/26/2020",
+        "auction_house": "eBay",
+        "auction_seller": "jerrokeef-0"
+    }
+]

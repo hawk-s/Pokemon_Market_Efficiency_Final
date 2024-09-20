@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$385.00",
+        "cert_number": "78150292",
+        "grade": "10",
+        "lot_number": "175928885697",
+        "auction_seller": "kampes_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5760124399308127623/-8402645375193889818.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/9/2023"
+    },
+    {
+        "price": "$156.36",
+        "date": "4/3/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8975045887622229132/-6560165008167751018.jpg",
+        "cert_number": "65597528",
+        "grade": "9",
+        "lot_number": "234947723769",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "bonfitto31"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5621510203245283107/-2877880891147620821.jpg",
+        "grade": "7",
+        "date": "5/3/2024",
+        "auction_type": "Auction",
+        "cert_number": "70170901",
+        "price": "$100.61",
+        "auction_seller": "slabsharksinc",
+        "auction_house": "eBay",
+        "lot_number": "204763543549"
+    }
+]

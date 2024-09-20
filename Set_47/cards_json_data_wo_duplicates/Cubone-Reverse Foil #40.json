@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "82631841",
+        "auction_seller": "hl-products",
+        "price": "$29.82",
+        "grade": "8",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "lot_number": "335152174009",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1485035429991196609/3718860149481556664.jpg"
+    },
+    {
+        "date": "6/5/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3830886197793342918/-7837888796655492215.jpg",
+        "lot_number": "283565256790",
+        "auction_type": "Best Offer",
+        "price": "$39.99",
+        "grade": "9",
+        "cert_number": "43350548",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/25/2021",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1675510700219665521/-5616884600601316349.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "cert_number": "46647314",
+        "price": "$32.00",
+        "auction_seller": "extremecards_collectibles",
+        "lot_number": "184625942878"
+    },
+    {
+        "date": "12/20/2021",
+        "lot_number": "324931814081",
+        "price": "$29.63",
+        "grade": "9",
+        "cert_number": "53863831",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2584450294095358366/2851993115389631576.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    }
+]

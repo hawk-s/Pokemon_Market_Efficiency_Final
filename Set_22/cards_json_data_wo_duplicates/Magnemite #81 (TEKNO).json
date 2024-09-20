@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "204612432123",
+        "price": "$450.56",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4253983961088016997/-2958800476447807537.jpg",
+        "cert_number": "44419448",
+        "auction_seller": "slabsharksinc",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/19/2024"
+    },
+    {
+        "cert_number": "46353034",
+        "price": "$107.50",
+        "grade": "9",
+        "auction_seller": "bbcexchange2",
+        "auction_type": "Auction",
+        "lot_number": "353200217159",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6947591546175152551/-7176888160929178895.jpg",
+        "date": "9/21/2020"
+    },
+    {
+        "grade": "7",
+        "price": "$93.00",
+        "auction_seller": "coins_n_rarities",
+        "date": "10/19/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/391698046703891179/2357730531738047576.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "313708586521",
+        "cert_number": "63213630"
+    },
+    {
+        "lot_number": "314742460804",
+        "price": "$320.00",
+        "date": "8/6/2023",
+        "cert_number": "54987247",
+        "auction_seller": "coins_n_rarities",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8560160487474597177/-370677827489622115.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$434.96",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5526533733536570922/2859511865762557611.jpg",
+        "auction_type": "Auction",
+        "date": "2/2/2024",
+        "cert_number": "44419448",
+        "auction_seller": "slabsharksinc",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "204630804439"
+    }
+]

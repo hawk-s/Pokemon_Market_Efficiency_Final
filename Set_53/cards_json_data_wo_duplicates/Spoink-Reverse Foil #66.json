@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "43052745",
+        "date": "5/29/2019",
+        "price": "$6.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1105426613345699378/6486226972782129098.jpg",
+        "grade": "9",
+        "lot_number": "273859157686",
+        "auction_seller": "nath-pain",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "511life",
+        "date": "12/30/2020",
+        "auction_type": "Best Offer",
+        "cert_number": "43513438",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6761966457291462213/-5702216797332928814.jpg",
+        "lot_number": "183837544144",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$25.99"
+    },
+    {
+        "auction_seller": "511life",
+        "auction_type": "Buy It Now",
+        "cert_number": "43513438",
+        "grade": "9",
+        "price": "$19.99",
+        "lot_number": "183906151964",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7623671380325209752/-3750777854987765673.jpg",
+        "auction_house": "eBay",
+        "date": "6/6/2020"
+    },
+    {
+        "cert_number": "57846317",
+        "lot_number": "384861310608",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "5/6/2022",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-36871570876642529/1012959980780845661.jpg"
+    },
+    {
+        "date": "11/27/2017",
+        "auction_type": "Best Offer",
+        "auction_seller": "forgottonn0n",
+        "price": "$24.00",
+        "lot_number": "252947555713",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2812540876039252648/-919141951350080646.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27237790"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "7",
+        "price": "$10.50",
+        "date": "12/4/2021",
+        "lot_number": "393734497934",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-618326100715408957/-657728600464863712.jpg",
+        "cert_number": "63545456"
+    },
+    {
+        "cert_number": "74467673",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5473222698400174494/-5065849159600498330.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "365014545216",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/24/2024"
+    },
+    {
+        "date": "1/21/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9191078439969148970/8193138699557077559.jpg",
+        "price": "$18.52",
+        "grade": "9",
+        "cert_number": "68521275",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "auction_house": "eBay",
+        "lot_number": "204215630181"
+    },
+    {
+        "date": "8/11/2024",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1435640800998651038/9158297745464339637.jpg",
+        "lot_number": "135174410624",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "cert_number": "94265709",
+        "auction_house": "eBay",
+        "price": "$12.68"
+    }
+]

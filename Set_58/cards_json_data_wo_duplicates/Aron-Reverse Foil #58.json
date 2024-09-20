@@ -1,0 +1,35 @@
+[
+    {
+        "date": "9/9/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1247725773611208673/5108900647528517806.jpg",
+        "auction_seller": "pokematt_ig",
+        "price": "$51.34",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "115902635345",
+        "grade": "10",
+        "cert_number": "67238395"
+    },
+    {
+        "cert_number": "69969883",
+        "date": "2/2/2023",
+        "grade": "9",
+        "price": "$14.00",
+        "lot_number": "1897",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/-4660865859512399546/images/1.jpg",
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2"
+    },
+    {
+        "date": "9/30/2021",
+        "grade": "8",
+        "price": "$21.50",
+        "auction_seller": "samaka-41",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1997510415983680612/242208452083653038.jpg",
+        "auction_type": "Auction",
+        "cert_number": "51200319",
+        "lot_number": "373731311573"
+    }
+]

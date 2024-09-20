@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "lunacardsau",
+        "lot_number": "156157371829",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8943444972331205583/-2102626378829934069.jpg",
+        "auction_type": "Auction",
+        "cert_number": "43214433",
+        "auction_house": "eBay",
+        "price": "$67.53",
+        "grade": "10",
+        "date": "4/17/2024"
+    },
+    {
+        "lot_number": "115726114921",
+        "auction_seller": "ig.eclipse.tcg",
+        "price": "$11.45",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/16/2023",
+        "cert_number": "67928667",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4714930985680883564/-238256266372801998.jpg"
+    },
+    {
+        "lot_number": "324912660078",
+        "cert_number": "50774583",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8602506304319512822/-6967375112858797822.jpg",
+        "price": "$39.09",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "date": "12/7/2021"
+    }
+]

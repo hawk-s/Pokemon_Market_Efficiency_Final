@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$13.50",
+        "lot_number": "393562733785",
+        "auction_seller": "micwil8413",
+        "cert_number": "49289987",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "9/17/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8068993293361508948/3020156774088342151.jpg"
+    },
+    {
+        "lot_number": "363526684611",
+        "auction_seller": "itz.br39",
+        "date": "9/7/2021",
+        "price": "$27.00",
+        "cert_number": "49289987",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7232217139349886601/7371081980240478328.jpg"
+    },
+    {
+        "date": "8/31/2021",
+        "auction_seller": "itz.br39",
+        "price": "$31.00",
+        "cert_number": "49289987",
+        "auction_house": "eBay",
+        "lot_number": "363518224960",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2236849007797861837/7371081980240478328.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7714839012195145657/4302448540096556873.jpg",
+        "date": "9/11/2021",
+        "cert_number": "49289987",
+        "price": "$46.99",
+        "auction_seller": "bradst_89",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "313662444205"
+    },
+    {
+        "auction_seller": "itz.br39",
+        "date": "9/7/2021",
+        "price": "$36.00",
+        "cert_number": "49289987",
+        "lot_number": "363526685896",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3891176306252830607/7371081980240478328.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "363509797281",
+        "auction_seller": "itz.br39",
+        "date": "8/24/2021",
+        "price": "$27.00",
+        "cert_number": "49289987",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4603342834213197219/7371081980240478328.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "393474225873",
+        "date": "8/6/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-182140868026286424/-6014080896863891296.jpg",
+        "auction_seller": "micwil8413",
+        "cert_number": "49289987",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

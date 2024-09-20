@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "185799049095",
+        "grade": "8",
+        "price": "$5.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8418767548960536527/-1962310544668654738.jpg",
+        "cert_number": "69391105",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/10/2023",
+        "auction_seller": "ballygahan"
+    },
+    {
+        "auction_seller": "warehous5store",
+        "cert_number": "54907928",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9007992537855838267/-973879829376385567.jpg",
+        "lot_number": "134021058784",
+        "price": "$20.77",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/18/2022"
+    },
+    {
+        "date": "6/2/2022",
+        "price": "$13.25",
+        "auction_seller": "sellers_sportscards",
+        "cert_number": "57874625",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "255553235043",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/52004795548798752/-6925565983877758251.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/774135097794607897/8422913362817068466.jpg",
+        "cert_number": "54528102",
+        "auction_seller": "dustlandshop",
+        "lot_number": "225638574846",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "date": "7/2/2023"
+    }
+]

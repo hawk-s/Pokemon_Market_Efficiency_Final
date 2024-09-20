@@ -1,0 +1,24 @@
+[
+    {
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "price": "$16.49",
+        "lot_number": "143471131523",
+        "cert_number": "40849198",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4177910303656984595/4141626777358099604.jpg"
+    },
+    {
+        "price": "$12.00",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352973953409",
+        "cert_number": "40849198",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-919177307500148163/4189879344444206114.jpg",
+        "date": "2/26/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

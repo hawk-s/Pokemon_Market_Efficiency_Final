@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "74869153",
+        "auction_seller": "ebisu-ya",
+        "price": "$49.15",
+        "lot_number": "394733388707",
+        "date": "7/15/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4136050451371767207/-9137826588360951645.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "49182586",
+        "lot_number": "185054411265",
+        "date": "9/23/2021",
+        "auction_seller": "gamesunleashed",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$81.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4817346983251105138/8797227868350780273.jpg"
+    },
+    {
+        "date": "4/25/2023",
+        "lot_number": "134535100677",
+        "price": "$13.00",
+        "auction_seller": "thetcgenius",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6145648331898251742/1615603307900694167.jpg",
+        "cert_number": "55664778"
+    },
+    {
+        "cert_number": "74869153",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4645849381758605898/6844350286867554086.jpg",
+        "auction_seller": "ebisu-ya",
+        "date": "9/24/2023",
+        "lot_number": "394887693770",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "grade": "10"
+    },
+    {
+        "price": "$7.51",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3320465200283250727/1615603307900694167.jpg",
+        "grade": "9",
+        "date": "4/18/2023",
+        "lot_number": "134520392327",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius",
+        "cert_number": "55664778"
+    },
+    {
+        "lot_number": "126392767545",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4872837601321855644/3560079582482735731.jpg",
+        "cert_number": "87437107",
+        "auction_seller": "candgcollectibles",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "3/30/2024",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "date": "1/30/2023",
+        "cert_number": "58873517",
+        "lot_number": "325507195177",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/513360875627696026/3851435248860021922.jpg",
+        "price": "$29.06",
+        "grade": "9",
+        "auction_seller": "card.galaxy",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/27/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1020393117425518533/-3534555121857276812.jpg",
+        "lot_number": "325470400785",
+        "price": "$38.59",
+        "cert_number": "58873516",
+        "auction_seller": "card.galaxy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

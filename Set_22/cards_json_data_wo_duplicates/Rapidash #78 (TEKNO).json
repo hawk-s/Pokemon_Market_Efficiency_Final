@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3068195244052077802/2344173655679650204.jpg",
+        "cert_number": "45330954",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$336.50",
+        "date": "2/23/2021",
+        "lot_number": "383957109199"
+    },
+    {
+        "cert_number": "78150291",
+        "grade": "8",
+        "auction_seller": "kampes_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8436907883688037291/-6834989809167007140.jpg",
+        "price": "$190.50",
+        "auction_type": "Auction",
+        "lot_number": "175928885720",
+        "auction_house": "eBay",
+        "date": "10/9/2023"
+    },
+    {
+        "date": "8/6/2023",
+        "auction_seller": "coins_n_rarities",
+        "price": "$474.69",
+        "cert_number": "54987248",
+        "lot_number": "275973082732",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5703975771264757093/-5925430183349852852.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "44038999",
+        "date": "12/20/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5429952396004169719/7064291051983202685.jpg",
+        "price": "$163.50",
+        "lot_number": "154741582691",
+        "auction_seller": "pure_carnage_1987",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

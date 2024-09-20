@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$15.51",
+        "lot_number": "184432847988",
+        "cert_number": "47163009",
+        "date": "9/14/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3142202676329607395/-3720136709149308790.jpg",
+        "auction_seller": "apmerchant02",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "popculturekingz",
+        "price": "$24.95",
+        "lot_number": "153707952565",
+        "cert_number": "43976977",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/274724952168562464/-3822333188278627319.jpg",
+        "auction_house": "eBay",
+        "date": "6/6/2020"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3694086979157473301/6202994965321965153.jpg",
+        "date": "9/10/2023",
+        "cert_number": "78249890",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285453104499",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/6/2021",
+        "auction_seller": "presspasscollectibles",
+        "auction_type": "Best Offer",
+        "grade": "6",
+        "price": "$19.99",
+        "cert_number": "83750979",
+        "auction_house": "eBay",
+        "lot_number": "142581033373",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5730843280156590485/1711180304145773385.jpg"
+    }
+]

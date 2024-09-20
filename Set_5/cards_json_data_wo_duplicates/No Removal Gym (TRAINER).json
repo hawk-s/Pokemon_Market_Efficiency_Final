@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "232579708464",
+        "cert_number": "27998568",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-116186411411163240/-6537225598972446855.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "geno1959",
+        "date": "12/9/2017",
+        "price": "$4.76",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4513746016237031969/5947451354611840215.jpg",
+        "date": "6/1/2024",
+        "cert_number": "70997262",
+        "lot_number": "204802132784",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_seller": "pearlslabs",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "7/20/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3064761655432328764/5947362229301222540.jpg",
+        "grade": "8",
+        "price": "$5.50",
+        "cert_number": "93684540",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "lot_number": "305669095574"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "big-time-collector",
+        "date": "4/27/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5061828132535615066/6193984224331869295.jpg",
+        "lot_number": "364854351058",
+        "cert_number": "65315468",
+        "grade": "10",
+        "price": "$13.19"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7780289686840747473/4901172641737803304.jpg",
+        "auction_seller": "sknowl2",
+        "cert_number": "44092734",
+        "price": "$5.60",
+        "grade": "9",
+        "lot_number": "324035577284",
+        "date": "1/14/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "226197589757",
+        "price": "$15.50",
+        "grade": "9",
+        "cert_number": "89030268",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7109617205863826171/-6300321931951799356.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "dreamcaveautographs",
+        "auction_house": "eBay",
+        "date": "6/24/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-42093923042212466/-2559911722494439931.jpg",
+        "date": "7/20/2024",
+        "grade": "8",
+        "cert_number": "93684520",
+        "lot_number": "305669095115",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "cert_number": "91607796",
+        "lot_number": "126550013360",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6768535236697184675/1819470608316362039.jpg",
+        "auction_seller": "dcsports87",
+        "price": "$53.00",
+        "date": "7/3/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "354888306529",
+        "auction_seller": "tcg_stockpile",
+        "grade": "9",
+        "cert_number": "65334525",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2626806345534792509/-78111010571322517.jpg",
+        "price": "$12.50",
+        "date": "7/9/2023"
+    },
+    {
+        "cert_number": "65334526",
+        "auction_seller": "tcg_stockpile",
+        "price": "$9.37",
+        "grade": "9",
+        "lot_number": "355275098540",
+        "date": "12/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4533055374110019271/-5737847451829532728.jpg"
+    }
+]

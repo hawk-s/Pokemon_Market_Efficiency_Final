@@ -1,0 +1,90 @@
+[
+    {
+        "date": "8/26/2023",
+        "grade": "8",
+        "cert_number": "49165164",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5783711352937640615/-4875703818041149038.jpg",
+        "lot_number": "225738005101",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "rosas15rob"
+    },
+    {
+        "lot_number": "305724998156",
+        "date": "8/24/2024",
+        "grade": "8",
+        "cert_number": "94859765",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2394417747341540194/-1943283744793786059.jpg",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "auction_seller": "psa"
+    },
+    {
+        "date": "6/23/2024",
+        "cert_number": "71755795",
+        "lot_number": "156263018896",
+        "grade": "8",
+        "price": "$10.00",
+        "auction_seller": "ramcanyon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3116754491992166126/8523258108500923275.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/6/2024",
+        "lot_number": "135033609105",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2416067749425663790/-6704066148002080414.jpg",
+        "grade": "9",
+        "cert_number": "88991253",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius"
+    },
+    {
+        "auction_seller": "wcs_investments",
+        "lot_number": "354511607903",
+        "date": "1/29/2023",
+        "grade": "8",
+        "price": "$18.52",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5087527395286293350/6562269999318852499.jpg",
+        "auction_house": "eBay",
+        "cert_number": "68601682"
+    },
+    {
+        "price": "$30.00",
+        "auction_seller": "gulfcoasthobby",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8771489432089966792/728040208386856741.jpg",
+        "auction_house": "eBay",
+        "date": "11/21/2020",
+        "cert_number": "46519658",
+        "lot_number": "363095625523"
+    },
+    {
+        "auction_seller": "dreamtradingcard2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-132289967602513501/5578626541687683257.jpg",
+        "price": "$5.60",
+        "lot_number": "335431351971",
+        "grade": "9",
+        "cert_number": "77943076",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/17/2024"
+    },
+    {
+        "cert_number": "57846341",
+        "price": "$27.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "5/6/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1686704912009234995/-7470275341908160841.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "363819991398"
+    }
+]

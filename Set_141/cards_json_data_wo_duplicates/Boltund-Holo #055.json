@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "tjparacord",
+        "lot_number": "156184520783",
+        "cert_number": "60429499",
+        "price": "$12.02",
+        "auction_type": "Auction",
+        "date": "5/4/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-332732855014053758/8610021695498619860.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "195809272278",
+        "date": "6/18/2023",
+        "auction_seller": "hothands-tcg",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6317624428696194964/-1150578365033939677.jpg",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "cert_number": "56777989",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/20/2022",
+        "cert_number": "61214196",
+        "lot_number": "374251764773",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6688945966777596167/4454466410906600797.jpg",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6898092366762654085/-5982780855573108839.jpg",
+        "price": "$13.00",
+        "date": "9/13/2022",
+        "lot_number": "385101006434",
+        "cert_number": "57526385",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

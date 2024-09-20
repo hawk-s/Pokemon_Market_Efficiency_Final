@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "44713155",
+        "auction_seller": "habbyshobbies",
+        "lot_number": "383423402962",
+        "date": "2/20/2020",
+        "price": "$5.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8369117383652351558/-5982699102643203268.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "142954844588",
+        "cert_number": "28177847",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1663735517363224311/2429671743224103688.jpg",
+        "date": "10/1/2018",
+        "auction_type": "Buy It Now",
+        "auction_seller": "nerdyboytrader",
+        "price": "$24.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "scottsretro",
+        "cert_number": "66509305",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-192085827660693051/4700935116152980709.jpg",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "134487091178"
+    },
+    {
+        "lot_number": "293529288090",
+        "price": "$45.00",
+        "auction_type": "Buy It Now",
+        "auction_seller": "barnabas1617",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-547479777041631849/-2895687884653324588.jpg",
+        "cert_number": "46048758",
+        "date": "4/1/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

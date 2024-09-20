@@ -1,0 +1,79 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5200701658549939235/-995441008876352076.jpg",
+        "price": "$18.20",
+        "lot_number": "135174406618",
+        "date": "8/11/2024",
+        "grade": "8",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "94265684"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7193528461291740987/7584485710122468444.jpg",
+        "auction_seller": "rookiescollectibles",
+        "date": "3/9/2023",
+        "price": "$10.50",
+        "lot_number": "295548796402",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "67572861"
+    },
+    {
+        "cert_number": "76244637",
+        "price": "$10.50",
+        "grade": "8",
+        "lot_number": "204425592848",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3607197507874294076/-241286914724005979.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "date": "8/20/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "9",
+        "cert_number": "42914777",
+        "price": "$35.12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5203463678430740713/-668665749238432084.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "pixelvendors",
+        "auction_house": "eBay",
+        "date": "9/15/2019",
+        "lot_number": "233336489280"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "cert_number": "70860752",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4313986062754807693/7643592285267213643.jpg",
+        "lot_number": "235066618923",
+        "price": "$17.52",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/5/2023"
+    },
+    {
+        "cert_number": "40911053",
+        "grade": "9",
+        "lot_number": "202429642984",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4355489538509754287/2864606722211972212.jpg",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "9/14/2018",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "cert_number": "49764336",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1811010276489546437/-8927000600742696141.jpg",
+        "grade": "9",
+        "lot_number": "324774957066",
+        "auction_house": "eBay",
+        "date": "9/13/2021",
+        "auction_type": "Auction",
+        "price": "$44.90",
+        "auction_seller": "dualcollectibleinc"
+    }
+]

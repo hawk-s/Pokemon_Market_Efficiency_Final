@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "143570649671",
+        "date": "4/9/2020",
+        "cert_number": "27743545",
+        "price": "$14.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4584332303595118540/-4066913662537555310.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "kodyspokemontcg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27743546",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2849608392486519925/1316312038391048605.jpg",
+        "lot_number": "292336377027",
+        "date": "11/25/2017",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tnolan0816",
+        "price": "$6.94",
+        "grade": "10"
+    },
+    {
+        "price": "$10.50",
+        "cert_number": "27743546",
+        "lot_number": "292315921709",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4870570277922413863/1316312038391048605.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/12/2017"
+    },
+    {
+        "price": "$2.25",
+        "cert_number": "27743546",
+        "lot_number": "292309963134",
+        "date": "11/4/2017",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2033435334238899764/1316312038391048605.jpg"
+    }
+]

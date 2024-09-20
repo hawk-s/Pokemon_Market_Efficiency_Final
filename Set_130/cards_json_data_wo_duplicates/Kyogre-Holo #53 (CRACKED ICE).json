@@ -1,0 +1,46 @@
+[
+    {
+        "date": "10/10/2021",
+        "price": "$43.64",
+        "cert_number": "50611229",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "274970119210",
+        "auction_house": "eBay",
+        "auction_seller": "gemcollectables",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2594123884741536770/-8926264729544391444.jpg"
+    },
+    {
+        "lot_number": "285472623182",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2870749181193638394/-3504259794391817212.jpg",
+        "price": "$7.50",
+        "cert_number": "66270563",
+        "auction_seller": "zandgemporium",
+        "date": "9/24/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/17/2023",
+        "price": "$10.50",
+        "lot_number": "385469024765",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3400185155876494312/7883160468737313862.jpg",
+        "auction_seller": "probstein123",
+        "cert_number": "70845458",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "374540610130",
+        "price": "$31.90",
+        "date": "3/9/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4863853849496505047/7883160468737313862.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "70845458",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

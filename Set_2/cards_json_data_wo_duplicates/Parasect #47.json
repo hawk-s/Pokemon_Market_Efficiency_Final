@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "65334553",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2676394955399448758/5433669291859389356.jpg",
+        "date": "12/16/2023",
+        "price": "$10.50",
+        "grade": "8",
+        "auction_seller": "tcg_stockpile",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "355275098532"
+    },
+    {
+        "auction_seller": "pokepey3",
+        "price": "$5.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-801047680225710702/30084453474151748.jpg",
+        "date": "10/17/2023",
+        "cert_number": "78732424",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "295975723726"
+    },
+    {
+        "date": "5/26/2023",
+        "cert_number": "73883490",
+        "lot_number": "394632750911",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5848111481081831771/7410306851716606550.jpg",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "radela10",
+        "grade": "10"
+    },
+    {
+        "price": "$10.50",
+        "auction_seller": "tsunagu",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2598140995671364237/4029778220112301501.jpg",
+        "grade": "9",
+        "lot_number": "254686840301",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "46077519",
+        "date": "8/18/2020"
+    }
+]

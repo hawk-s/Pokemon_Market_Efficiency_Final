@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "ek_modernw",
+        "lot_number": "154239444405",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1833156473336944369/3614076015477542088.jpg",
+        "auction_type": "Best Offer",
+        "price": "$70.00",
+        "date": "12/29/2020",
+        "auction_house": "eBay",
+        "cert_number": "43141111",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "charizard_trendsetter",
+        "date": "8/20/2020",
+        "price": "$47.00",
+        "lot_number": "193622413795",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4454734415997709377/814725080224938979.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "45849112"
+    },
+    {
+        "lot_number": "234208903493",
+        "price": "$72.00",
+        "date": "10/11/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6398409358888060879/-5960122646826462100.jpg",
+        "auction_seller": "poke_place",
+        "cert_number": "49197003",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "50354070",
+        "auction_seller": "welcome_stranger_collectibles",
+        "date": "11/8/2021",
+        "lot_number": "133917736386",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6967000929760835457/6900106698377005755.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$30.38"
+    },
+    {
+        "auction_seller": "slab-town",
+        "date": "12/3/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7851527004717635868/2531345789265783664.jpg",
+        "lot_number": "324907496245",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53007661"
+    }
+]

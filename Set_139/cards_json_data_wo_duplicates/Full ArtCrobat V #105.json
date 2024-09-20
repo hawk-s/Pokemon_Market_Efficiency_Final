@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2764840986261533256/3513703126673725315.jpg",
+        "cert_number": "78028120",
+        "price": "$13.50",
+        "lot_number": "386868321183",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "3/26/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/851984633013255762/-3841191127392560732.jpg",
+        "date": "8/17/2024",
+        "price": "$6.50",
+        "cert_number": "91933112",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "145937450898",
+        "grade": "10",
+        "auction_seller": "unpackednyc"
+    },
+    {
+        "cert_number": "51678473",
+        "price": "$46.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4659536499425389986/9109278867039153876.jpg",
+        "auction_seller": "kawaii-japanshop",
+        "date": "4/26/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "124683307979",
+        "grade": "10"
+    },
+    {
+        "lot_number": "124657571085",
+        "cert_number": "51678475",
+        "price": "$76.00",
+        "auction_seller": "kawaii-japanshop",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8568656624797732092/4717339518636087528.jpg",
+        "auction_type": "Auction",
+        "date": "4/8/2021",
+        "grade": "10"
+    },
+    {
+        "lot_number": "124558725719",
+        "date": "2/14/2021",
+        "cert_number": "51678477",
+        "auction_seller": "kawaii-japanshop",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1041065293192436213/3116243591315060642.jpg"
+    }
+]

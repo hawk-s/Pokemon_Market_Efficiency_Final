@@ -1,0 +1,101 @@
+[
+    {
+        "cert_number": "56847293",
+        "lot_number": "375461862076",
+        "auction_seller": "dragonfly_collectables",
+        "grade": "8",
+        "price": "$6.91",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4362724404748399047/7006801834034448214.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/14/2024"
+    },
+    {
+        "grade": "9",
+        "auction_seller": "ramcanyon",
+        "price": "$21.50",
+        "auction_house": "eBay",
+        "lot_number": "154431337936",
+        "auction_type": "Auction",
+        "cert_number": "47558615",
+        "date": "5/5/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1637709938311813392/6599537855668385561.jpg"
+    },
+    {
+        "auction_seller": "deadmedic911",
+        "cert_number": "58397831",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8590075546030845778/210100086902371564.jpg",
+        "lot_number": "364170876084",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "53781170",
+        "price": "$26.00",
+        "date": "12/23/2021",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5184299313187025182/5113335409512567035.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "363657776313"
+    },
+    {
+        "auction_seller": "apmerchant02",
+        "date": "9/29/2021",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3461274016459769725/-3026422959228050907.jpg",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "lot_number": "185058634580",
+        "cert_number": "51424476",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1692616944827322852/3670978679697711232.jpg",
+        "cert_number": "56847293",
+        "price": "$10.50",
+        "grade": "8",
+        "auction_seller": "scc_memorabilia",
+        "date": "12/25/2022",
+        "lot_number": "314278518945",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8986884648391686343/1160373719509902012.jpg",
+        "cert_number": "64657893",
+        "auction_type": "Auction",
+        "auction_seller": "echobasecollectables",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "lot_number": "125581630847",
+        "date": "11/6/2022"
+    },
+    {
+        "date": "12/31/2022",
+        "auction_seller": "games_cards_collectibles",
+        "grade": "9",
+        "lot_number": "144872487326",
+        "auction_type": "Auction",
+        "cert_number": "47558615",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4181299720271337954/5752369174581231556.jpg"
+    },
+    {
+        "lot_number": "384601524020",
+        "price": "$26.00",
+        "date": "12/23/2021",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/559663810859493972/4927753452155009281.jpg",
+        "auction_type": "Auction",
+        "cert_number": "53781171",
+        "auction_house": "eBay"
+    }
+]

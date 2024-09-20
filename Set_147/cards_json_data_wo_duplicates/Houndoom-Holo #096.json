@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$6.57",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1689682233505295483/-4489426545368993886.jpg",
+        "date": "4/10/2023",
+        "lot_number": "364200725119",
+        "auction_type": "Auction",
+        "auction_seller": "tntnorthnj",
+        "auction_house": "eBay",
+        "cert_number": "70493284"
+    },
+    {
+        "date": "7/11/2023",
+        "lot_number": "115850577067",
+        "cert_number": "75293408",
+        "auction_seller": "liquidationme",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-124967703769330224/7408253105804463964.jpg",
+        "grade": "10",
+        "price": "$33.00"
+    },
+    {
+        "price": "$7.50",
+        "auction_seller": "highkeynerd",
+        "date": "12/11/2022",
+        "cert_number": "65647584",
+        "lot_number": "144838918350",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1169233307518883278/3610055523954568491.jpg"
+    },
+    {
+        "lot_number": "166743194714",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6513980027493449339/8410181703301297969.jpg",
+        "grade": "9",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "date": "5/10/2024",
+        "cert_number": "88183282",
+        "auction_house": "eBay",
+        "auction_seller": "itemland"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2446224990903090845/-4489426545368993886.jpg",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_seller": "tntnorthnj",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "lot_number": "364175302216",
+        "cert_number": "70493284"
+    }
+]

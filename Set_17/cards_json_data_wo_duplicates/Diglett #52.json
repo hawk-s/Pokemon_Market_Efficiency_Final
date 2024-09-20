@@ -1,0 +1,101 @@
+[
+    {
+        "cert_number": "54630224",
+        "date": "1/13/2022",
+        "auction_seller": "bigcollectibles",
+        "grade": "9",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "265494290464",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8289214962050511392/-7049832539443110597.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5353936615347120290/-3949971424882690588.jpg",
+        "auction_seller": "nismocollection",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/16/2019",
+        "lot_number": "274040476421",
+        "cert_number": "43324833"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1350678239274957509/8374426066252189166.jpg",
+        "price": "$7.02",
+        "cert_number": "71736108",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "3/12/2023",
+        "auction_house": "eBay",
+        "lot_number": "204269236275",
+        "auction_seller": "burbanktcgtrader"
+    },
+    {
+        "cert_number": "74293009",
+        "auction_seller": "poke_paradise",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/53490566774795881/-3133686591135470393.jpg",
+        "lot_number": "186645811305",
+        "grade": "8",
+        "price": "$8.50",
+        "date": "8/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/26/2023",
+        "lot_number": "374640123715",
+        "cert_number": "72168748",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5151155194661279215/4344616377835297506.jpg",
+        "grade": "9",
+        "price": "$5.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/13/2021",
+        "lot_number": "265386999844",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "53041773",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5343584989471038895/2966255348381366493.jpg",
+        "auction_seller": "movietimedvds"
+    },
+    {
+        "auction_seller": "iconic.cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1052585387913245976/8828613183445123839.jpg",
+        "lot_number": "203638055363",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_house": "eBay",
+        "cert_number": "53041773",
+        "date": "10/11/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1333799943768712977/323684510349170564.jpg",
+        "auction_seller": "fireball44",
+        "grade": "9",
+        "cert_number": "69063472",
+        "auction_type": "Auction",
+        "lot_number": "166347308047",
+        "price": "$7.52",
+        "auction_house": "eBay",
+        "date": "10/2/2023"
+    },
+    {
+        "auction_seller": "welcome_stranger_collectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2444367763336719507/293728439511461967.jpg",
+        "price": "$19.03",
+        "cert_number": "52006801",
+        "lot_number": "134046205285",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/14/2022",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "43779084",
+        "date": "7/10/2020",
+        "auction_type": "Buy It Now",
+        "auction_seller": "shizzlemetimbers",
+        "price": "$34.70",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5148119885110594689/442716658338223777.jpg",
+        "lot_number": "113856377902"
+    },
+    {
+        "lot_number": "155457438174",
+        "cert_number": "60759909",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6127292540357262891/-1588043375374502692.jpg",
+        "price": "$74.72",
+        "date": "3/28/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "68783569",
+        "grade": "7",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7349302115044789018/3193713374217572776.jpg",
+        "auction_seller": "ejbgames_pcs_collectibles_etc",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/15/2023",
+        "lot_number": "285138237734"
+    },
+    {
+        "price": "$28.01",
+        "lot_number": "304714014368",
+        "grade": "8",
+        "date": "12/4/2022",
+        "cert_number": "66509118",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3226507075896488937/6365186396901428168.jpg",
+        "auction_house": "eBay"
+    }
+]

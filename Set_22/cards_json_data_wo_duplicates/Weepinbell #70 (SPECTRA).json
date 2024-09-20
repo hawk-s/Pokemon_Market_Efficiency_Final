@@ -1,0 +1,68 @@
+[
+    {
+        "auction_house": "Goldin Auctions",
+        "date": "7/6/2023",
+        "grade": "4",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/8389681089415402212/-4760522058701046539/images/1.jpg",
+        "auction_seller": "Weekly Auction 27 Jun - 6 Jul",
+        "cert_number": "74100629",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "lot_number": "6213"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2582034283143055784/-6666023297553854516.jpg",
+        "cert_number": "41950289",
+        "date": "7/18/2021",
+        "price": "$70.00",
+        "lot_number": "284370395702",
+        "grade": "9",
+        "auction_seller": "stickerbox99",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "41491935",
+        "date": "2/5/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5930245287948220923/2735495701036316436.jpg",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "camilles_things",
+        "lot_number": "153357157835"
+    },
+    {
+        "grade": "4",
+        "price": "$122.50",
+        "auction_seller": "chinset",
+        "cert_number": "74100629",
+        "lot_number": "276449887904",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1066650594600305947/-7848605826762574158.jpg",
+        "date": "5/13/2024"
+    },
+    {
+        "auction_seller": "kentucky_consignments",
+        "price": "$45.00",
+        "cert_number": "91161989",
+        "date": "8/31/2024",
+        "lot_number": "286026735947",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2848316855363377951/-5323993650693506899.jpg"
+    },
+    {
+        "price": "$61.00",
+        "lot_number": "305734802248",
+        "auction_seller": "signsofthetimesvintagecollectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "83137030",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3935301560337878490/-5733897884875751877.jpg",
+        "date": "8/26/2024",
+        "grade": "10"
+    }
+]

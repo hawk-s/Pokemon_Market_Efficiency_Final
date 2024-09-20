@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "elite4master",
+        "date": "12/26/2022",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "125670759996",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2383388867151268335/4224496173664548418.jpg",
+        "cert_number": "65340173"
+    },
+    {
+        "auction_seller": "poke.prof3",
+        "cert_number": "71659082",
+        "date": "3/5/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3823856301413772462/-1515569331713518129.jpg",
+        "lot_number": "225447316446",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/1/2023",
+        "price": "$19.99",
+        "auction_seller": "ve-wacal-pox96p",
+        "cert_number": "67896642",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6360668848661703549/-7765031099946121109.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "204196079150"
+    }
+]

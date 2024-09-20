@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$19.00",
+        "grade": "8",
+        "date": "6/12/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/479498350797293247/1688940793504693096.jpg",
+        "lot_number": "154480780052",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "47558577"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3018831584736068958/3958595899565998763.jpg",
+        "date": "6/28/2023",
+        "grade": "9",
+        "lot_number": "394685231633",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "cert_number": "70458545"
+    },
+    {
+        "date": "6/5/2020",
+        "cert_number": "43350590",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1461731053251372858/5794702796504723883.jpg",
+        "price": "$26.99",
+        "grade": "9",
+        "lot_number": "283565256808",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay"
+    }
+]

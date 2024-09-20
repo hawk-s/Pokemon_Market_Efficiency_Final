@@ -1,0 +1,123 @@
+[
+    {
+        "date": "7/27/2024",
+        "grade": "7",
+        "lot_number": "305681045307",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8877558572685530144/-8044310531820276035.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "93422170",
+        "auction_seller": "psa"
+    },
+    {
+        "date": "12/14/2022",
+        "lot_number": "115637009496",
+        "price": "$31.36",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8498050189999404767/-371682566911862855.jpg",
+        "grade": "9",
+        "cert_number": "43928630",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "abstrakd"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 13 Jun - 22 Jun",
+        "grade": "10",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/3815309888501543544/5416317899105575398/images/1.jpg",
+        "cert_number": "61225624",
+        "lot_number": "5615",
+        "auction_type": "Auction",
+        "price": "$106.00",
+        "date": "6/26/2023"
+    },
+    {
+        "lot_number": "274934328784",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5047767241013268681/1253527219602491196.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "cert_number": "51113396",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "9/17/2021",
+        "price": "$150.00"
+    },
+    {
+        "grade": "5",
+        "price": "$26.00",
+        "auction_seller": "signsofthetimesvintagecollectibles",
+        "lot_number": "305359139568",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "83136985",
+        "date": "1/29/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1214378366294873026/-2720125614204012970.jpg"
+    },
+    {
+        "auction_seller": "casablanca_comics",
+        "lot_number": "384207236013",
+        "date": "6/12/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2788195369157038889/-4780666836189823711.jpg",
+        "price": "$182.50",
+        "auction_type": "Auction",
+        "cert_number": "48565229",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "284370544887",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3205387420268256304/-6629105122498032115.jpg",
+        "cert_number": "42282058",
+        "date": "7/18/2021",
+        "price": "$67.00",
+        "grade": "9",
+        "auction_seller": "stickerbox99",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/21/2022",
+        "lot_number": "385297115426",
+        "price": "$119.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "51113396",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1341890874161805872/6955123060510284525.jpg",
+        "grade": "10",
+        "auction_seller": "primeretro"
+    },
+    {
+        "cert_number": "42282058",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2643160972308928581/-4706629208166102499.jpg",
+        "auction_seller": "wolffy68",
+        "date": "12/31/2018",
+        "lot_number": "323611411660",
+        "grade": "9",
+        "price": "$8.00",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/5/2019",
+        "grade": "8",
+        "price": "$6.00",
+        "cert_number": "41949849",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4110760288537994936/6204030789141624969.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "camilles_things",
+        "lot_number": "153357161605"
+    },
+    {
+        "cert_number": "45358508",
+        "lot_number": "293776564525",
+        "grade": "9",
+        "auction_seller": "dragon_mon_z",
+        "date": "10/18/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/593715732196840469/7486548474636184674.jpg",
+        "auction_type": "Auction",
+        "price": "$36.12",
+        "auction_house": "eBay"
+    }
+]

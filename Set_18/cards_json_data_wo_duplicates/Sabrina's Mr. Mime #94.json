@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$12.00",
+        "lot_number": "266749274776",
+        "date": "4/15/2024",
+        "cert_number": "79461983",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1274281712857828817/7206554049359408494.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "theretrorover"
+    },
+    {
+        "lot_number": "114130060345",
+        "auction_type": "Buy It Now",
+        "date": "6/16/2020",
+        "price": "$44.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6626258070429739061/7917293010946985480.jpg",
+        "auction_seller": "blowoutcards2",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "44418929"
+    },
+    {
+        "cert_number": "51446798",
+        "lot_number": "294530176033",
+        "date": "11/15/2021",
+        "price": "$49.99",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2742878958344372382/-3314505881624977566.jpg"
+    }
+]

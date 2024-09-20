@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "26273264",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2472125573781533456/-3072951849771917918.jpg",
+        "grade": "9",
+        "date": "7/29/2018",
+        "lot_number": "401569886626",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$11.79"
+    },
+    {
+        "lot_number": "186111501794",
+        "price": "$2.25",
+        "auction_seller": "pokemon2016cards",
+        "cert_number": "74829406",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5668578869871820061/-6267939605291961147.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/9/2023"
+    },
+    {
+        "cert_number": "47231549",
+        "lot_number": "134007100333",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/930724734081575204/-6683002233439872073.jpg",
+        "auction_seller": "jennstr_5847",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/1/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3925097604406923077/2394734552999056011.jpg",
+        "price": "$34.99",
+        "grade": "9",
+        "lot_number": "175023681437",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "52621773",
+        "auction_seller": "eastcoastcollectors1",
+        "date": "11/18/2021"
+    },
+    {
+        "date": "1/11/2018",
+        "auction_type": "Buy It Now",
+        "lot_number": "331747647087",
+        "grade": "9",
+        "auction_seller": "dacardworld",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5026125986034879914/-6824746700088184920.jpg",
+        "auction_house": "eBay",
+        "cert_number": "24542927",
+        "price": "$12.95"
+    },
+    {
+        "cert_number": "47231549",
+        "lot_number": "334875180389",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4799291201933302364/-5892534078117939817.jpg",
+        "auction_seller": "gymleaderpaul",
+        "date": "5/23/2023",
+        "price": "$46.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

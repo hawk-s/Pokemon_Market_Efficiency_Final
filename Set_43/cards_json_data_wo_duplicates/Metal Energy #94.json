@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "55132275",
+        "lot_number": "363652103628",
+        "price": "$9.50",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3731846114514069888/2636642786716090324.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/21/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5894329654168419807/2636642786716090324.jpg",
+        "lot_number": "363652105072",
+        "cert_number": "55132275",
+        "grade": "8",
+        "price": "$6.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/21/2021"
+    },
+    {
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "143471125340",
+        "cert_number": "40836784",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4423123249699048930/5908595064130267356.jpg",
+        "price": "$6.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "lot_number": "384294814959",
+        "date": "8/2/2021",
+        "grade": "9",
+        "price": "$19.99",
+        "cert_number": "45611605",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2755155951105711701/-6654124731491498484.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$4.99",
+        "auction_seller": "habbyshobbies",
+        "date": "2/15/2021",
+        "grade": "9",
+        "cert_number": "45611605",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2464962600710210153/-8890969436135435334.jpg",
+        "auction_type": "Auction",
+        "lot_number": "383947649309",
+        "auction_house": "eBay"
+    }
+]

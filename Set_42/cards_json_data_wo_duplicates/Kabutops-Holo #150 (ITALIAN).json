@@ -1,0 +1,24 @@
+[
+    {
+        "date": "10/1/2023",
+        "lot_number": "285485663411",
+        "auction_seller": "zandgemporium",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "72609305",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1183725080118039397/5071004657239182034.jpg",
+        "price": "$102.50"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Apr 25 - May 4",
+        "grade": "6",
+        "price": "$98.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3698167823570495137/1229708032240105318/images/1.jpg",
+        "auction_type": "Auction",
+        "lot_number": "4663",
+        "cert_number": "72609305",
+        "date": "5/4/2023"
+    }
+]

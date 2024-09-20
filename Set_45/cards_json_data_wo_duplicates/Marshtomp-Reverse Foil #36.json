@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "75293744",
+        "lot_number": "4948",
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "price": "$20.00",
+        "grade": "8",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-5535779721639535910/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions"
+    },
+    {
+        "lot_number": "395584180437",
+        "cert_number": "92384549",
+        "price": "$16.00",
+        "date": "8/18/2024",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2670763479524015959/-2284965119515571015.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6613083547445035301/-6063988853242771093.jpg",
+        "grade": "9",
+        "date": "11/29/2021",
+        "auction_seller": "zandgemporium-0",
+        "price": "$39.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "63079434",
+        "lot_number": "284537115578"
+    },
+    {
+        "date": "12/25/2021",
+        "grade": "4",
+        "lot_number": "165239007000",
+        "auction_seller": "donottoscardsandcollectables",
+        "price": "$10.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1489496179727657059/9018648204848043306.jpg",
+        "cert_number": "53201561",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "92384549",
+        "date": "7/11/2024",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6905638252997509/-2284965119515571015.jpg",
+        "lot_number": "395511797076",
+        "auction_type": "Auction",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "auction_seller": "retronomic_meteroid"
+    }
+]

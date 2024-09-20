@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6196539439905974424/-2069335780257154086.jpg",
+        "price": "$10.50",
+        "lot_number": "364116851415",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "66513017",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/27/2023"
+    },
+    {
+        "price": "$7.50",
+        "date": "6/17/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7703614424003969504/-8814568735252295806.jpg",
+        "auction_seller": "cardrushinc",
+        "cert_number": "40768831",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "273282146775",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "cardrushinc",
+        "cert_number": "40768831",
+        "lot_number": "283003620642",
+        "grade": "9",
+        "price": "$8.50",
+        "date": "6/15/2018",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6890476768868719083/-8814568735252295806.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$84.80",
+        "lot_number": "373254975977",
+        "auction_type": "Best Offer",
+        "auction_seller": "esp-pokemon",
+        "date": "10/15/2020",
+        "cert_number": "43141052",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1307131136813536922/-9100311629950468653.jpg"
+    },
+    {
+        "lot_number": "292599612236",
+        "date": "9/19/2020",
+        "auction_seller": "cardrushinc",
+        "cert_number": "40768831",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4293638596166331133/234262672913035218.jpg",
+        "auction_house": "eBay",
+        "price": "$49.95"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "date": "1/22/2023",
+        "auction_seller": "tannah12",
+        "price": "$45.87",
+        "cert_number": "57139703",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4759734610498945499/7101189466970633616.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "155359630136"
+    },
+    {
+        "cert_number": "74980774",
+        "date": "7/14/2023",
+        "auction_seller": "cardboardkrackshack",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7960340382720847145/-6436688285680488213.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "lot_number": "134643202546"
+    },
+    {
+        "auction_seller": "favour_au",
+        "cert_number": "41556655",
+        "date": "12/28/2023",
+        "price": "$14.67",
+        "lot_number": "256351387959",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4444939315896719505/6297639681318174275.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

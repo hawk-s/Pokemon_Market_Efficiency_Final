@@ -1,0 +1,68 @@
+[
+    {
+        "date": "10/1/2023",
+        "grade": "7",
+        "auction_seller": "vispri-21",
+        "price": "$11.12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3579013927417600787/283459411399956876.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "355019188567",
+        "cert_number": "72797435"
+    },
+    {
+        "price": "$75.86",
+        "lot_number": "285329393188",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8413347211977687304/-1648757878023019690.jpg",
+        "cert_number": "70517475",
+        "auction_seller": "obscars",
+        "date": "6/25/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "48332640",
+        "auction_seller": "nvmbr26",
+        "lot_number": "224366617139",
+        "price": "$34.33",
+        "date": "3/8/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2472072836326236723/-8273109921187381926.jpg"
+    },
+    {
+        "auction_seller": "bakerycollectables",
+        "cert_number": "70517475",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3828849654401121025/-3626376712936654708.jpg",
+        "lot_number": "364633805337",
+        "date": "12/28/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$41.90"
+    },
+    {
+        "cert_number": "40760516",
+        "lot_number": "312148277774",
+        "auction_seller": "numismaticsgmc",
+        "auction_type": "Best Offer",
+        "date": "6/22/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7532194646250290648/-448337686396101378.jpg",
+        "price": "$35.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8459904730608472667/5754586398605806357.jpg",
+        "date": "2/29/2024",
+        "lot_number": "166621238651",
+        "cert_number": "70517475",
+        "auction_type": "Auction",
+        "auction_seller": "the-jc-trading",
+        "price": "$39.23",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

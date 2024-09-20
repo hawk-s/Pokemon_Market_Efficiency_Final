@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "77431588",
+        "lot_number": "276476915532",
+        "auction_seller": "zapcollection",
+        "date": "6/3/2024",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7746303403503341796/-1145638229018319311.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "auction_seller": "pokemonpacific",
+        "date": "9/29/2020",
+        "cert_number": "25328843",
+        "auction_type": "Best Offer",
+        "price": "$40.00",
+        "auction_house": "eBay",
+        "lot_number": "392936275178",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6797694026950481908/8603481205229101729.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7791513846117682821/-889288040067898568.jpg",
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "25328843",
+        "lot_number": "402998086396",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/29/2021",
+        "grade": "10",
+        "price": "$81.00"
+    }
+]

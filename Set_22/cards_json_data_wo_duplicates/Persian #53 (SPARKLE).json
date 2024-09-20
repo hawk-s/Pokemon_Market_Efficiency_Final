@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$308.00",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "402998068012",
+        "cert_number": "54579857",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5754752711338249573/-4171310089972825938.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "7/29/2021",
+        "grade": "10"
+    },
+    {
+        "lot_number": "375536505047",
+        "auction_seller": "iank2017",
+        "cert_number": "80337158",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3181878240406332826/-3499028867602253335.jpg",
+        "price": "$276.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/21/2024"
+    },
+    {
+        "lot_number": "373826202077",
+        "price": "$304.00",
+        "cert_number": "63594261",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7758509363352874323/-8905082563683499929.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/21/2021"
+    },
+    {
+        "auction_seller": "killerkards",
+        "price": "$490.00",
+        "lot_number": "254788963083",
+        "cert_number": "43789771",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "date": "1/17/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8011091336861853621/8889519861306249734.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/14/2022",
+        "lot_number": "325453282736",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$495.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/48418981653645452/-8132627520352656966.jpg",
+        "auction_seller": "villentretenmerth_01",
+        "grade": "10",
+        "cert_number": "41491926"
+    },
+    {
+        "price": "$383.00",
+        "auction_seller": "pwcc_auctions",
+        "date": "7/29/2021",
+        "cert_number": "48093051",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5414487577866550303/-7709729430982271174.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "402998068013",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2667255320872739491/-7947418673129560197.jpg",
+        "cert_number": "43789771",
+        "auction_type": "Best Offer",
+        "lot_number": "114165027751",
+        "grade": "9",
+        "auction_seller": "manningcollector",
+        "price": "$64.99",
+        "auction_house": "eBay",
+        "date": "4/8/2020"
+    }
+]

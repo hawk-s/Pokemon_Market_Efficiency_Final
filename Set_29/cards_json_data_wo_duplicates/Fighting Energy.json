@@ -1,0 +1,24 @@
+[
+    {
+        "date": "3/9/2020",
+        "price": "$3.26",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1483504978851870432/-6231344372448137062.jpg",
+        "lot_number": "254528917456",
+        "cert_number": "45433321",
+        "auction_seller": "tsunagu",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/9/2020",
+        "lot_number": "254528673606",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4593828755161790147/6870656252175321928.jpg",
+        "auction_seller": "tsunagu",
+        "price": "$1.54",
+        "cert_number": "45433320",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

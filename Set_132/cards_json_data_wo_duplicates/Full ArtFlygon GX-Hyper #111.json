@@ -1,0 +1,68 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8411221768905472773/1518001778081173205.jpg",
+        "date": "9/17/2023",
+        "price": "$33.60",
+        "lot_number": "134718697274",
+        "cert_number": "68458847",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "305063678401",
+        "date": "8/19/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2727171275091728023/6002988224419740491.jpg",
+        "auction_seller": "dazzling_frost_0",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "70293610"
+    },
+    {
+        "auction_seller": "tokyo_city",
+        "price": "$33.86",
+        "cert_number": "94772056",
+        "date": "8/25/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4178157024093421213/9042445015875377130.jpg",
+        "auction_type": "Auction",
+        "lot_number": "156355151497",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7758987397641152753/-1345021118949999715.jpg",
+        "auction_seller": "psa",
+        "cert_number": "94035006",
+        "price": "$51.95",
+        "date": "8/19/2024",
+        "auction_type": "Auction",
+        "lot_number": "305714526399",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "156367421917",
+        "auction_seller": "tokyo_city",
+        "date": "9/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6918401470522020703/-5808346648515569118.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "95139247",
+        "price": "$48.17"
+    },
+    {
+        "auction_seller": "psa_collector",
+        "price": "$85.00",
+        "auction_type": "Best Offer",
+        "cert_number": "44935176",
+        "lot_number": "333494143827",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8326078022089649585/-6299091738963023400.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "12/20/2020"
+    }
+]

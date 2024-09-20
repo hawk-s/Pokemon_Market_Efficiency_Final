@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$46.02",
+        "cert_number": "64633021",
+        "grade": "9",
+        "lot_number": "195563295131",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/26/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1766397202905703375/-4038812499821868362.jpg",
+        "auction_seller": "vtgmdpicks"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6323969668792207413/-5636347212946532896.jpg",
+        "price": "$57.00",
+        "grade": "9",
+        "lot_number": "363819909470",
+        "auction_seller": "probstein123",
+        "date": "5/6/2022",
+        "auction_type": "Auction",
+        "cert_number": "57846339",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "8",
+        "auction_seller": "ramcanyon",
+        "lot_number": "156249357966",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1831680227896324936/8870439262489277320.jpg",
+        "auction_house": "eBay",
+        "date": "6/16/2024",
+        "cert_number": "71755887"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5429313881537240168/9176948517577264342.jpg",
+        "grade": "9",
+        "lot_number": "155388027613",
+        "price": "$61.19",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokichloecards",
+        "date": "2/12/2023",
+        "cert_number": "69308684"
+    },
+    {
+        "price": "$27.41",
+        "auction_seller": "tannah12",
+        "cert_number": "60759859",
+        "grade": "8",
+        "date": "2/19/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7802216854474391245/-3986040298637086740.jpg",
+        "auction_house": "eBay",
+        "lot_number": "115701694504"
+    },
+    {
+        "price": "$30.04",
+        "date": "2/17/2020",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1332545764003606400/3942214590778757192.jpg",
+        "lot_number": "123866238526",
+        "cert_number": "43739528",
+        "grade": "9",
+        "auction_house": "eBay",
+        "auction_seller": "sad_dragoon"
+    },
+    {
+        "price": "$60.00",
+        "cert_number": "41656775",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6638139339189102521/3936025239937091354.jpg",
+        "auction_seller": "grandlinetoys",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "date": "2/7/2021",
+        "lot_number": "393110359544",
+        "auction_house": "eBay"
+    }
+]

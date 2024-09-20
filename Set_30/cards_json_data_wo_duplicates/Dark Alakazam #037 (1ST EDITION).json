@@ -1,0 +1,101 @@
+[
+    {
+        "auction_seller": "rofjapan",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6761720048803037591/-4304690464490109553.jpg",
+        "grade": "8",
+        "date": "7/18/2024",
+        "price": "$20.50",
+        "lot_number": "126570969272",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "91678512"
+    },
+    {
+        "price": "$125.00",
+        "auction_seller": "rdtarr",
+        "cert_number": "25489985",
+        "auction_type": "Buy It Now",
+        "date": "6/11/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3352636336484633075/6795597801994586426.jpg",
+        "lot_number": "351735303333",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5863916010589512207/-179986353447349250.jpg",
+        "date": "7/23/2020",
+        "price": "$85.00",
+        "auction_type": "Buy It Now",
+        "cert_number": "21733777",
+        "grade": "9",
+        "auction_seller": "eriksone-bay",
+        "lot_number": "153984251187",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "75381086",
+        "date": "8/19/2023",
+        "auction_seller": "ebisu-ya",
+        "grade": "8",
+        "price": "$50.00",
+        "lot_number": "394811963672",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7678872235225306477/104815774714623691.jpg"
+    },
+    {
+        "price": "$122.50",
+        "date": "2/13/2023",
+        "auction_seller": "cardboardclub",
+        "lot_number": "295509080514",
+        "cert_number": "65273257",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4333962413365675442/8210411308547851313.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "55701132",
+        "price": "$43.23",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4753842593275483311/3121801538618791879.jpg",
+        "grade": "9",
+        "lot_number": "203931965217",
+        "auction_type": "Auction",
+        "date": "5/8/2022",
+        "auction_seller": "unicorn_milk",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/13/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4632212662655629287/5603360283697513115.jpg",
+        "grade": "10",
+        "cert_number": "55795112",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "poke.jp-kawaii_shop",
+        "lot_number": "363611139481",
+        "price": "$235.50"
+    },
+    {
+        "lot_number": "394811980814",
+        "date": "8/19/2023",
+        "auction_seller": "ebisu-ya",
+        "grade": "8",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "cert_number": "75381080",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7912044556686956222/3447162549438170389.jpg"
+    },
+    {
+        "price": "$45.00",
+        "lot_number": "314404649529",
+        "auction_seller": "tcgjapanese",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1639129184446750189/5724272505478262459.jpg",
+        "grade": "9",
+        "cert_number": "55795113",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/22/2023"
+    }
+]

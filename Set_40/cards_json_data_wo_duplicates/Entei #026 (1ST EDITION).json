@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "54131551",
+        "lot_number": "286023129346",
+        "auction_seller": "zandgemporium",
+        "date": "9/2/2024",
+        "price": "$41.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1656379052217086669/-6192744221791386958.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "54131551",
+        "date": "8/6/2023",
+        "lot_number": "115876428816",
+        "price": "$64.88",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5938312550982905551/2871020874382005453.jpg",
+        "auction_seller": "abstrakd"
+    },
+    {
+        "price": "$13.01",
+        "auction_seller": "blastoys_collectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4601237430051733375/8094181485179010829.jpg",
+        "lot_number": "355653852586",
+        "grade": "9",
+        "cert_number": "76857587",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/28/2024"
+    },
+    {
+        "price": "$25.43",
+        "auction_seller": "amedeodibiase",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8810022997702258572/-6208151992339765298.jpg",
+        "lot_number": "116200295134",
+        "cert_number": "86519243",
+        "grade": "8",
+        "date": "6/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/26/2024",
+        "auction_seller": "blastoys_collectibles",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3575100882485056214/8094181485179010829.jpg",
+        "cert_number": "76857587",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "lot_number": "355725041289"
+    },
+    {
+        "price": "$30.46",
+        "auction_seller": "downandout33",
+        "cert_number": "48710135",
+        "date": "5/2/2021",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3467913592159464732/-5954792056554855575.jpg",
+        "lot_number": "224433162584",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "69581444",
+        "date": "1/16/2023",
+        "auction_seller": "cardboundllc",
+        "price": "$19.38",
+        "lot_number": "325491892425",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8407365929011283116/6392154209142781406.jpg"
+    },
+    {
+        "auction_seller": "downandout33",
+        "cert_number": "48710135",
+        "lot_number": "224450354583",
+        "date": "5/12/2021",
+        "grade": "9",
+        "price": "$60.82",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7893005762759038142/-5649128919575940712.jpg"
+    }
+]

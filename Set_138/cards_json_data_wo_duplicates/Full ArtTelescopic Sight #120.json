@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$36.40",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3808125103655748953/-6549551267321431030.jpg",
+        "lot_number": "354457796348",
+        "auction_seller": "porkypiefacetcg",
+        "date": "12/21/2022",
+        "cert_number": "58202910",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8654127464641565683/5162769054989337201.jpg",
+        "lot_number": "176300554272",
+        "cert_number": "55729741",
+        "price": "$18.32",
+        "date": "3/31/2024",
+        "auction_seller": "pricey_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5763169007223059568/7033840842655476720.jpg",
+        "lot_number": "166530400782",
+        "cert_number": "55575983",
+        "price": "$29.00",
+        "date": "1/7/2024",
+        "auction_seller": "kanto_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

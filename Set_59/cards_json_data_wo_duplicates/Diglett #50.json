@@ -1,0 +1,24 @@
+[
+    {
+        "cert_number": "68997948",
+        "lot_number": "256079328459",
+        "date": "5/24/2023",
+        "grade": "9",
+        "auction_seller": "robbytinc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8916703126295485417/-5047597102344243432.jpg",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "305618305534",
+        "date": "6/22/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2618915566805393211/-6949530047677724350.jpg",
+        "price": "$2.00",
+        "grade": "3",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "cert_number": "91299487"
+    }
+]

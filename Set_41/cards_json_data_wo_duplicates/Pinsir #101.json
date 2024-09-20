@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "112309115979",
+        "auction_type": "Buy It Now",
+        "auction_seller": "pokemon_revolution",
+        "price": "$19.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2280305734733195328/-6534747311768390494.jpg",
+        "date": "8/6/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "26693775"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "352726792882",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1417044451496061320/8507680205386204034.jpg",
+        "price": "$13.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/30/2019",
+        "grade": "10",
+        "cert_number": "40771234"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "date": "8/2/2021",
+        "cert_number": "48971188",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "384294814906",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7783585142136203940/-130409486606061650.jpg"
+    },
+    {
+        "lot_number": "112867389688",
+        "date": "3/20/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7818412601364529880/-1251575000012273491.jpg",
+        "cert_number": "27835591",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "date": "6/6/2018",
+        "lot_number": "142811259420",
+        "auction_seller": "literaryscholar",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7871727135246152478/3022668555730262401.jpg",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "40771234"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2038583012232049608/692139615074711409.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$11.99",
+        "lot_number": "112567373764",
+        "cert_number": "27667897",
+        "auction_seller": "my_honolulu_blue",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/14/2022",
+        "price": "$15.48",
+        "lot_number": "155295589707",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7375504165229819002/-329134439639215155.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "56612849",
+        "auction_house": "eBay"
+    }
+]

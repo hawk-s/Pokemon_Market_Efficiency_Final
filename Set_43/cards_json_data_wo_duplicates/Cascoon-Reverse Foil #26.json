@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "5",
+        "date": "1/14/2021",
+        "lot_number": "363248847882",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3394237267151701635/5073417419782748817.jpg",
+        "price": "$13.50",
+        "auction_seller": "probstein123",
+        "cert_number": "43976994",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "Weekly Auction Apr 25 - May 4",
+        "price": "$26.00",
+        "grade": "8",
+        "cert_number": "71339202",
+        "lot_number": "4674",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3698167823570495137/-8196472301854302649/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "5/4/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2041545063522947811/-7998925927071163173.jpg",
+        "date": "3/29/2024",
+        "auction_seller": "poke_paradise",
+        "lot_number": "186351827245",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "cert_number": "74061521"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6258167182204096044/5429410421288243061.jpg",
+        "auction_seller": "dragontrainer.drew",
+        "cert_number": "57396654",
+        "date": "3/18/2023",
+        "auction_type": "Auction",
+        "price": "$41.01",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "165977995605"
+    }
+]

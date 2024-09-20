@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$20.78",
+        "lot_number": "375534200086",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6086833468759325033/1624605084546859728.jpg",
+        "date": "7/15/2024",
+        "auction_seller": "vintagetcg11",
+        "grade": "9",
+        "cert_number": "91947946",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "cert_number": "72609165",
+        "grade": "4",
+        "lot_number": "4087",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/-7516705949605699111/images/1.jpg",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "date": "4/20/2023"
+    },
+    {
+        "auction_seller": "pokemoncj1994",
+        "lot_number": "134406163318",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3744616023119714534/2537609030697825846.jpg",
+        "price": "$19.54",
+        "cert_number": "68280052",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/14/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7867837312246995037/7782257867296580825.jpg",
+        "price": "$17.61",
+        "lot_number": "134458728067",
+        "date": "2/25/2023",
+        "cert_number": "66914323",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "prospectsincorperated",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "gulfcoasthobby",
+        "lot_number": "363098650709",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6215371064442820952/-3907407793411449626.jpg",
+        "date": "11/28/2020",
+        "price": "$24.00",
+        "auction_house": "eBay",
+        "cert_number": "46519657"
+    }
+]

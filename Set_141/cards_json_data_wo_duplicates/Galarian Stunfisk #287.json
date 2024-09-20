@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4669544007885848626/8910156534584651644.jpg",
+        "auction_seller": "brewsbreaks",
+        "cert_number": "62917351",
+        "auction_type": "Auction",
+        "price": "$12.02",
+        "lot_number": "285014985945",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/31/2022"
+    },
+    {
+        "lot_number": "386868106515",
+        "auction_seller": "probstein123",
+        "cert_number": "62732601",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2062645457349091439/-2069098650915130258.jpg",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "date": "3/26/2024"
+    },
+    {
+        "cert_number": "61332382",
+        "lot_number": "394507408376",
+        "price": "$24.73",
+        "date": "3/18/2023",
+        "auction_seller": "rme_16_9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6605403608201095848/555968319160654172.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "133900664031",
+        "price": "$10.50",
+        "cert_number": "55377463",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/656936875316296364/-7420445462047947758.jpg",
+        "date": "10/18/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3162912694391512869/-7260234883575601604.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "cert_number": "62732602",
+        "auction_house": "eBay",
+        "date": "3/26/2024",
+        "lot_number": "375319258525"
+    }
+]

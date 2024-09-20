@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "362255635362",
+        "date": "3/7/2018",
+        "cert_number": "28533723",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/637302996036704392/-4056658389234482016.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50"
+    },
+    {
+        "date": "7/4/2023",
+        "cert_number": "65990571",
+        "lot_number": "275922342722",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7391640173336314957/-2918158084825596093.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3567244402598393967/7746841980336095825.jpg",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/21/2024",
+        "cert_number": "89955530",
+        "lot_number": "126578265978"
+    },
+    {
+        "price": "$7.50",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "401822051797",
+        "auction_type": "Auction",
+        "cert_number": "43420503",
+        "auction_house": "eBay",
+        "date": "7/30/2019",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3670103450388424238/-8717589288734051880.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1239516989426965680/-2453791133622050435.jpg",
+        "lot_number": "324500257232",
+        "date": "3/6/2021",
+        "price": "$48.00",
+        "auction_seller": "superciuchy4u",
+        "cert_number": "41459516",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$26.00",
+        "cert_number": "62303574",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6356222181929381559/-1606657062994495403.jpg",
+        "auction_seller": "tcgchampion",
+        "date": "3/30/2023",
+        "lot_number": "354672253680",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

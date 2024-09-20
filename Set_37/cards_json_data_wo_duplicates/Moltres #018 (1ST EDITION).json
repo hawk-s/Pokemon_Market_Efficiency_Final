@@ -1,0 +1,57 @@
+[
+    {
+        "date": "1/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8073367840932011235/-2329331749617999622.jpg",
+        "auction_seller": "rb7cards",
+        "cert_number": "78575220",
+        "price": "$98.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "126251607001"
+    },
+    {
+        "auction_seller": "teamxiong",
+        "lot_number": "256457182413",
+        "price": "$53.00",
+        "cert_number": "87110881",
+        "date": "3/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4439813487038613147/5107242278109142514.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "multiversecardmart",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6839556554036996920/1848131608123306825.jpg",
+        "price": "$118.00",
+        "date": "6/6/2024",
+        "auction_type": "Auction",
+        "cert_number": "91549712",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "305592923021"
+    },
+    {
+        "price": "$59.00",
+        "auction_seller": "psa",
+        "cert_number": "94034997",
+        "lot_number": "305714526363",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7213476523083499992/-5165818749498283269.jpg",
+        "date": "8/19/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "225492008958",
+        "date": "4/3/2023",
+        "auction_seller": "emcoo5092",
+        "grade": "8",
+        "price": "$28.27",
+        "cert_number": "69542244",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8575475624760078101/5712629810478858562.jpg",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$15.50",
+        "date": "9/19/2017",
+        "cert_number": "27637175",
+        "auction_seller": "my_honolulu_blue",
+        "lot_number": "192304941343",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-5816223292337392440/-4914023134312324740.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7042432541671185138/-4221616996401430409.jpg",
+        "auction_seller": "mandalorianbabysitter",
+        "date": "9/5/2023",
+        "cert_number": "73487398",
+        "lot_number": "364446912601",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "cert_number": "44461523",
+        "price": "$34.99",
+        "auction_type": "Best Offer",
+        "grade": "10",
+        "lot_number": "283761597097",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8417617266723625852/-7599353872643550104.jpg",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "date": "5/15/2020"
+    },
+    {
+        "lot_number": "364154093259",
+        "auction_seller": "mandalorianbabysitter",
+        "grade": "8",
+        "date": "2/27/2023",
+        "cert_number": "69928811",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1358127075343192252/-3982372780564223482.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "286013731492",
+        "auction_seller": "zandgemporium",
+        "price": "$31.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/947639250674312786/-5811893978114379537.jpg",
+        "cert_number": "43969452",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "grade": "10"
+    },
+    {
+        "lot_number": "315511174440",
+        "auction_seller": "bidoveru",
+        "price": "$79.00",
+        "cert_number": "41643848",
+        "date": "7/16/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7322244514091040063/-554309724057487490.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/9/2020",
+        "lot_number": "324061178252",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1778006589718367466/3136935460088893288.jpg",
+        "price": "$14.50",
+        "cert_number": "45009066",
+        "auction_seller": "poketrader007",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

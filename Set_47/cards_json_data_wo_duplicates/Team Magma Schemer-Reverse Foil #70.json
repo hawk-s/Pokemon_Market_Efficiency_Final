@@ -1,0 +1,35 @@
+[
+    {
+        "date": "6/5/2020",
+        "auction_type": "Best Offer",
+        "price": "$24.99",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/212270102642729394/-6877769399416316722.jpg",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "lot_number": "283446223116",
+        "cert_number": "42734603"
+    },
+    {
+        "cert_number": "47558581",
+        "lot_number": "154480788847",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1106967658500939552/6082208425937545482.jpg",
+        "grade": "8",
+        "date": "6/12/2021",
+        "price": "$14.50",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$12.00",
+        "cert_number": "71339317",
+        "grade": "6",
+        "lot_number": "4807",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/6840051497477776429/images/1.jpg",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "5/11/2023"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5839141480125023950/-8695389159920678830.jpg",
+        "cert_number": "87395717",
+        "lot_number": "315469104637",
+        "price": "$20.50",
+        "auction_seller": "ausha-5830",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "6/29/2024"
+    },
+    {
+        "auction_seller": "j.ice02",
+        "date": "2/19/2023",
+        "grade": "9",
+        "cert_number": "68987558",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4575539578211917534/-1839902515178212247.jpg",
+        "price": "$8.00",
+        "auction_house": "eBay",
+        "lot_number": "354581319191"
+    },
+    {
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "price": "$20.00",
+        "lot_number": "4635",
+        "cert_number": "75257757",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-3156676498165208340/images/1.jpg",
+        "grade": "10"
+    },
+    {
+        "date": "8/5/2024",
+        "cert_number": "70822214",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4976267536044172602/4795146873993939704.jpg",
+        "grade": "9",
+        "lot_number": "326216172254",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "rockinmx3"
+    }
+]

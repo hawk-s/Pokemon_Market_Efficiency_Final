@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$38.91",
+        "auction_seller": "card-foundry",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3122376913114920907/-7916645387050842677.jpg",
+        "lot_number": "274921295975",
+        "cert_number": "48603026",
+        "date": "9/5/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "73240464",
+        "date": "7/16/2023",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "auction_house": "eBay",
+        "lot_number": "285364736515",
+        "price": "$18.19",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8935391744794989551/2288796137366882920.jpg"
+    },
+    {
+        "date": "7/7/2023",
+        "cert_number": "74980730",
+        "auction_seller": "cardboardkrackshack",
+        "grade": "9",
+        "price": "$20.50",
+        "lot_number": "134633235713",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4162729204726041704/-2581323408701707994.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2599838933036343147/-1204953347042690694.jpg",
+        "price": "$18.27",
+        "lot_number": "285842986152",
+        "cert_number": "73240464",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/12/2024"
+    },
+    {
+        "cert_number": "53781165",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4239200037033434855/-8470064454315687943.jpg",
+        "auction_seller": "probstein123",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/24/2021",
+        "lot_number": "363658747987"
+    }
+]

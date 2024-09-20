@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "pokeman2000",
+        "cert_number": "47624422",
+        "price": "$69.99",
+        "date": "10/11/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5485033714744935292/6107024572882167897.jpg",
+        "lot_number": "334169494322",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "43629307",
+        "price": "$12.05",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4406761800627019687/4618193902457051247.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "133274813353",
+        "date": "12/24/2019",
+        "grade": "10",
+        "auction_seller": "japan-daisuki"
+    },
+    {
+        "cert_number": "79454512",
+        "lot_number": "314878991619",
+        "date": "10/15/2023",
+        "auction_seller": "skullys_trading_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1807186623733965563/-1189533473828226978.jpg",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

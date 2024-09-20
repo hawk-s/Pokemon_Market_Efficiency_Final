@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "card-foundry",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4113541474262865035/-688557349479899559.jpg",
+        "date": "9/5/2021",
+        "grade": "9",
+        "cert_number": "48603028",
+        "price": "$37.43",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "274921295958"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1242695353067123918/-7069192881555989445.jpg",
+        "lot_number": "253058405812",
+        "auction_type": "Buy It Now",
+        "grade": "9",
+        "date": "2/6/2018",
+        "price": "$9.00",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "cert_number": "27237789"
+    },
+    {
+        "lot_number": "185058629538",
+        "cert_number": "51424493",
+        "auction_seller": "apmerchant02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7540581577607485359/-2732618085029529177.jpg",
+        "grade": "9",
+        "date": "9/29/2021",
+        "price": "$34.69",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

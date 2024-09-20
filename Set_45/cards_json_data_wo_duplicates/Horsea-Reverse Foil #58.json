@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "394685243354",
+        "date": "6/28/2023",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4999867402081817730/1215391141372516302.jpg",
+        "auction_house": "eBay",
+        "cert_number": "68867782"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "cert_number": "70860366",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3518727256856255374/-3775658850001591896.jpg",
+        "date": "5/20/2023",
+        "lot_number": "235003778945",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "202674133649",
+        "cert_number": "40911683",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8218578368063783504/3924551895835035301.jpg",
+        "grade": "6",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "date": "5/15/2019",
+        "price": "$3.99",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "303320859843",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4977776871795443743/5698404053742177051.jpg",
+        "cert_number": "44180345",
+        "grade": "9",
+        "price": "$8.25",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "sonofhercules2",
+        "date": "10/20/2019"
+    }
+]

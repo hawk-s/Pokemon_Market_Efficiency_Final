@@ -1,0 +1,46 @@
+[
+    {
+        "date": "4/6/2024",
+        "price": "$9.51",
+        "cert_number": "87054736",
+        "auction_seller": "unclenickscollection",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4033825720855155064/-7304901833148490639.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "266742207239",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3795934273987725433/4254804556086340824.jpg",
+        "date": "12/22/2023",
+        "auction_seller": "marvelous-cards-collectibles",
+        "lot_number": "364629987662",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "68681744"
+    },
+    {
+        "lot_number": "135016206551",
+        "cert_number": "88121200",
+        "date": "4/19/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6261320837734434040/9121955349399091219.jpg",
+        "auction_seller": "traskman17",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$19.91"
+    },
+    {
+        "auction_seller": "bibo_9218",
+        "lot_number": "394862968750",
+        "date": "9/7/2023",
+        "price": "$32.47",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1981784927131708677/1092912965472776861.jpg",
+        "cert_number": "62908918",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

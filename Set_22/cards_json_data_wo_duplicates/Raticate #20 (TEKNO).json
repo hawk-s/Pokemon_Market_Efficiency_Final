@@ -1,0 +1,35 @@
+[
+    {
+        "date": "11/2/2022",
+        "price": "$381.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8912613028003859486/8890340657496070551.jpg",
+        "cert_number": "45109288",
+        "lot_number": "325397295217",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "villentretenmerth_01",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "card_crazy11",
+        "date": "6/7/2024",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4246552710909239501/6202865152714521254.jpg",
+        "lot_number": "166794196643",
+        "price": "$75.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "74616972"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5394236152214390723/3465621422332681056.jpg",
+        "auction_seller": "card_crazy11",
+        "lot_number": "166552416895",
+        "cert_number": "45109288",
+        "date": "1/23/2024",
+        "price": "$273.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

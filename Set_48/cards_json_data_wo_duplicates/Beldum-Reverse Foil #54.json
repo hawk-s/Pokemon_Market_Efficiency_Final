@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "285175780317",
+        "cert_number": "57468558",
+        "date": "3/19/2023",
+        "auction_seller": "zandgemporium",
+        "price": "$18.52",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4827745242639787825/7257060968675489017.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3659238517938378408/-2680414698387324923.jpg",
+        "auction_seller": "chosenpricecollectibles",
+        "price": "$15.00",
+        "cert_number": "57468558",
+        "date": "8/17/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "315649026274"
+    },
+    {
+        "lot_number": "204215649965",
+        "cert_number": "68521318",
+        "date": "1/21/2023",
+        "price": "$18.52",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4665052093077304949/-665096139486534496.jpg"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "date": "1/16/2023",
+        "auction_seller": "bidoveru",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7803784611958104805/-4668265497007757758.jpg",
+        "grade": "9",
+        "cert_number": "70188222",
+        "price": "$190.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "314310813244"
+    },
+    {
+        "lot_number": "314331571366",
+        "auction_seller": "bidoveru",
+        "price": "$107.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7936533821884229680/-4668265497007757758.jpg",
+        "grade": "9",
+        "cert_number": "70188222",
+        "auction_type": "Auction",
+        "date": "1/24/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "auction_seller": "hiddengemscardshop",
+        "date": "5/19/2024",
+        "cert_number": "91127580",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1816051795646646991/5827326103658073405.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$87.00",
+        "lot_number": "386990507537"
+    },
+    {
+        "cert_number": "63594258",
+        "auction_seller": "probstein123",
+        "price": "$299.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1926091976914853740/-4601341662362067139.jpg",
+        "grade": "10",
+        "lot_number": "384597327130",
+        "date": "12/21/2021"
+    },
+    {
+        "lot_number": "325505840221",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8004882663592523127/7622479622661582016.jpg",
+        "date": "1/27/2023",
+        "cert_number": "55847079",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$355.00",
+        "auction_seller": "villentretenmerth_01",
+        "grade": "10"
+    },
+    {
+        "date": "5/24/2024",
+        "cert_number": "84143804",
+        "auction_seller": "enze_gem-mt",
+        "lot_number": "256514140535",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5074733218761507608/6722241840700928470.jpg",
+        "price": "$16.50"
+    },
+    {
+        "date": "1/18/2024",
+        "price": "$256.00",
+        "auction_seller": "card_crazy11",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/388830282536796082/-1615212754673084764.jpg",
+        "cert_number": "43258088",
+        "auction_type": "Auction",
+        "lot_number": "166545323820",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "5/17/2021",
+        "cert_number": "44038899",
+        "auction_seller": "pure_carnage_1987",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1525239074312661653/5193970047320408261.jpg",
+        "price": "$390.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "154443041369"
+    },
+    {
+        "auction_type": "Best Offer",
+        "date": "9/9/2020",
+        "grade": "8",
+        "lot_number": "224092447589",
+        "price": "$80.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2883927052243240202/7055227911935033426.jpg",
+        "auction_house": "eBay",
+        "cert_number": "45899897",
+        "auction_seller": "thecardgurutcg"
+    }
+]

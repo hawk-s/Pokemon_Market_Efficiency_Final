@@ -1,0 +1,68 @@
+[
+    {
+        "date": "8/17/2023",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3756660497476499229/-3130596042879672835.jpg",
+        "cert_number": "62226197",
+        "auction_seller": "probstein123",
+        "lot_number": "374870411239",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/21/2023",
+        "lot_number": "165943130750",
+        "price": "$20.00",
+        "auction_seller": "tbraysbu35",
+        "cert_number": "61712558",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9153538921693226234/8349752189107190351.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$13.50",
+        "auction_seller": "ztcards_5",
+        "lot_number": "204206112327",
+        "grade": "9",
+        "date": "1/12/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7921190013878633058/-5882871169747733506.jpg",
+        "cert_number": "60424716",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "11/7/2022",
+        "cert_number": "60471914",
+        "grade": "9",
+        "price": "$6.50",
+        "lot_number": "403963291370",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6018025225455042082/-1598998905749756907.jpg",
+        "auction_seller": "arizona_tcg"
+    },
+    {
+        "date": "1/19/2023",
+        "price": "$16.75",
+        "cert_number": "60723847",
+        "auction_seller": "dscollectiblesllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3834413922380796305/6587978589124705998.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "394420848696"
+    },
+    {
+        "date": "12/20/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2593079889924316202/209593014387520890.jpg",
+        "auction_seller": "anthonyaigner45",
+        "price": "$14.50",
+        "cert_number": "62520090",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "304735882274"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "48326974",
+        "price": "$99.99",
+        "auction_seller": "amtsupply",
+        "date": "4/10/2021",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9053516429756949098/-8471939687094603527.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "294095935295"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1197657032249829734/-3938626403497456023.jpg",
+        "cert_number": "77504786",
+        "auction_seller": "zandgemporium",
+        "lot_number": "285494914573",
+        "grade": "9",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/8/2023"
+    },
+    {
+        "cert_number": "89299693",
+        "lot_number": "135045239165",
+        "price": "$13.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1029551264177935448/-7859892866323732071.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thetcgenius",
+        "date": "5/13/2024"
+    },
+    {
+        "lot_number": "284537125087",
+        "cert_number": "63149023",
+        "price": "$119.50",
+        "date": "11/29/2021",
+        "auction_seller": "zandgemporium-0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7881608007147659738/-408224271992138492.jpg",
+        "grade": "10"
+    }
+]

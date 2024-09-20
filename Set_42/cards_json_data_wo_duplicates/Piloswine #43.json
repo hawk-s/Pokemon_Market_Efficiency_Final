@@ -1,0 +1,123 @@
+[
+    {
+        "cert_number": "62345147",
+        "auction_seller": "pokematt_ig",
+        "date": "1/23/2023",
+        "lot_number": "115669314649",
+        "price": "$30.53",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1179374943708754835/2753955488700784980.jpg"
+    },
+    {
+        "lot_number": "353307727851",
+        "auction_type": "Best Offer",
+        "auction_seller": "thepocketinvestor",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5803012630263566764/-1373016427174809181.jpg",
+        "grade": "9",
+        "price": "$59.99",
+        "auction_house": "eBay",
+        "date": "12/11/2020",
+        "cert_number": "43851500"
+    },
+    {
+        "auction_type": "Best Offer",
+        "cert_number": "45344274",
+        "auction_seller": "harrys_collectables",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6624046541970919692/4817094549654497882.jpg",
+        "lot_number": "124392043695",
+        "date": "10/18/2020",
+        "price": "$38.74",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$52.18",
+        "auction_seller": "huhu-3310",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5177810203987118091/3075827355088684582.jpg",
+        "cert_number": "48987675",
+        "lot_number": "363561808481",
+        "auction_type": "Auction",
+        "date": "10/3/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/1/2020",
+        "price": "$61.00",
+        "cert_number": "45290640",
+        "auction_seller": "topqualitythreads",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3356160338859065810/-1009229717380267992.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "264950214903"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5875302354284803122/-2878538704481761162.jpg",
+        "cert_number": "44461573",
+        "date": "12/11/2023",
+        "price": "$61.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "lot_number": "314967224847"
+    },
+    {
+        "lot_number": "223944625743",
+        "cert_number": "45290640",
+        "auction_type": "Buy It Now",
+        "date": "4/16/2020",
+        "auction_seller": "conshap",
+        "price": "$28.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3981157834897533081/-4826411708745096695.jpg"
+    },
+    {
+        "price": "$60.00",
+        "lot_number": "224322858186",
+        "cert_number": "45009055",
+        "auction_type": "Best Offer",
+        "auction_seller": "hir5666",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6743206939690529653/-7137383516255309203.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/2/2021"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "lot_number": "315479397934",
+        "price": "$26.00",
+        "cert_number": "41643812",
+        "date": "7/9/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7449486165366694361/-2089273899367391306.jpg"
+    },
+    {
+        "date": "3/5/2021",
+        "cert_number": "45290640",
+        "auction_type": "Best Offer",
+        "auction_seller": "jamesells27",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5558629333580963802/-1779709864739748047.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "164689759517",
+        "price": "$89.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1474757228431892196/3075827355088684582.jpg",
+        "auction_seller": "huhu-3310",
+        "price": "$42.25",
+        "cert_number": "48987675",
+        "auction_type": "Auction",
+        "lot_number": "363566650348",
+        "date": "10/9/2021",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

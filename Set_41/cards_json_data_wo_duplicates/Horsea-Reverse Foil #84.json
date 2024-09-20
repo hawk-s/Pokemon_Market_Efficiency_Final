@@ -1,0 +1,79 @@
+[
+    {
+        "grade": "7",
+        "cert_number": "40771489",
+        "date": "6/6/2018",
+        "auction_seller": "literaryscholar",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "142811260042",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8860600712293842145/7854941596613039341.jpg",
+        "price": "$0.99"
+    },
+    {
+        "grade": "5",
+        "price": "$15.00",
+        "lot_number": "234829288951",
+        "date": "12/28/2022",
+        "auction_seller": "marthpc",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7186589829155301246/4920865493793968806.jpg",
+        "cert_number": "64634415",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/16/2023",
+        "lot_number": "285100684730",
+        "price": "$15.50",
+        "grade": "8",
+        "auction_seller": "zandgemporium",
+        "cert_number": "66986350",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6009243435131054229/-6346305411410107855.jpg"
+    },
+    {
+        "grade": "5",
+        "price": "$9.50",
+        "date": "7/16/2023",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1259047888122525729/2543597883592510844.jpg",
+        "lot_number": "285367103264",
+        "auction_type": "Auction",
+        "cert_number": "64634415",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/27/2023",
+        "lot_number": "325579978858",
+        "cert_number": "49398682",
+        "price": "$27.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4532330750810529207/-4846204567998648596.jpg",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "price": "$23.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2766037711681125606/5991430324717793099.jpg",
+        "auction_type": "Buy It Now",
+        "lot_number": "283464147733",
+        "grade": "9",
+        "cert_number": "43083651",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "date": "1/17/2020"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8301764537472521247/-6646037323123396595.jpg",
+        "auction_seller": "brjor-50",
+        "cert_number": "47806859",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "lot_number": "324251163600",
+        "date": "8/13/2020",
+        "auction_house": "eBay"
+    }
+]

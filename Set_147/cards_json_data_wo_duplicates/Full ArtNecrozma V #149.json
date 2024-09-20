@@ -1,0 +1,90 @@
+[
+    {
+        "auction_seller": "kingstonticketsandcards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4135281306014446798/4082305651500189399.jpg",
+        "price": "$3.25",
+        "date": "12/4/2023",
+        "cert_number": "78198170",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "176052475640",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "cards2consignment",
+        "cert_number": "88106672",
+        "date": "4/15/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9150011396572476161/1982027422783275355.jpg",
+        "price": "$19.30",
+        "auction_type": "Auction",
+        "lot_number": "166686817852",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/5/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8819401117920482161/2106005950870121556.jpg",
+        "lot_number": "315256855227",
+        "auction_seller": "procopio_cards",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "85460094",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5211280547654882351/-1584517787122108005.jpg",
+        "date": "5/27/2024",
+        "price": "$21.00",
+        "cert_number": "88064693",
+        "auction_seller": "quickconsign",
+        "grade": "10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "276473690432"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1901107750761038454/2948413982781125228.jpg",
+        "price": "$19.50",
+        "auction_seller": "sportfinatic77",
+        "date": "8/29/2024",
+        "cert_number": "95126766",
+        "lot_number": "335540869736",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$15.65",
+        "lot_number": "195542193554",
+        "grade": "9",
+        "auction_house": "eBay",
+        "date": "1/9/2023",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1466396825194751981/-3946767043494096375.jpg",
+        "auction_seller": "imtasia",
+        "cert_number": "62598349"
+    },
+    {
+        "price": "$14.03",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3662467541288212930/4227036125386587201.jpg",
+        "lot_number": "195542200418",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "1/9/2023",
+        "cert_number": "62598349",
+        "auction_house": "eBay",
+        "auction_seller": "imtasia"
+    },
+    {
+        "cert_number": "77425571",
+        "price": "$20.00",
+        "lot_number": "266410063300",
+        "auction_seller": "linagesportscard",
+        "date": "9/18/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4930610521298625557/5602084218744680362.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "wcs_investments",
+        "price": "$177.50",
+        "cert_number": "67580630",
+        "lot_number": "354759746717",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/14/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8750107204849358825/2145342211034253279.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "d2_pokeshop",
+        "grade": "7",
+        "date": "3/8/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/372118801155547438/8434671188082812152.jpg",
+        "lot_number": "404182677091",
+        "price": "$20.50",
+        "cert_number": "56416121",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

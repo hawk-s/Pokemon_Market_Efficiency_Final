@@ -1,0 +1,90 @@
+[
+    {
+        "date": "3/19/2023",
+        "auction_seller": "arkcollectibles",
+        "cert_number": "68642110",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$29.02",
+        "lot_number": "256009530244",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4957501999981710076/-8260070098945184520.jpg"
+    },
+    {
+        "lot_number": "324820621151",
+        "price": "$97.11",
+        "cert_number": "49744102",
+        "auction_seller": "dualcollectibleinc",
+        "date": "10/18/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8149212570419656691/-3411438045534031443.jpg",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3531324084424980988/-4416539853532340960.jpg",
+        "cert_number": "68516136",
+        "lot_number": "266223393013",
+        "auction_type": "Auction",
+        "date": "4/24/2023",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "price": "$66.00"
+    },
+    {
+        "auction_seller": "greentreesportscards",
+        "date": "7/14/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4646873419014272140/8888326451249621988.jpg",
+        "grade": "9",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "324711010219",
+        "cert_number": "48078895"
+    },
+    {
+        "auction_seller": "poke-martcollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8442045408381317690/3570703368315789370.jpg",
+        "cert_number": "68321366",
+        "price": "$23.01",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275558932362",
+        "date": "12/6/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5313741355530254235/8217788175275859058.jpg",
+        "price": "$93.00",
+        "lot_number": "404158321006",
+        "cert_number": "68793025",
+        "date": "2/19/2023",
+        "auction_type": "Auction",
+        "auction_seller": "viccad_97",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$25.34",
+        "auction_seller": "tannah12",
+        "cert_number": "59536823",
+        "lot_number": "155465080563",
+        "date": "3/29/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1005537748997553835/-3228183843356093390.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "41461996",
+        "lot_number": "124339142635",
+        "auction_type": "Best Offer",
+        "price": "$110.00",
+        "date": "2/27/2021",
+        "auction_seller": "daelum",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3355397473194987870/3296650205201062011.jpg",
+        "grade": "10"
+    }
+]

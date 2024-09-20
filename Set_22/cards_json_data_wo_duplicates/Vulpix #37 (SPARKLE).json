@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "pwcc_vault",
+        "cert_number": "44038894",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5068652089471002626/8534063632868399561.jpg",
+        "lot_number": "224457114621",
+        "price": "$177.50",
+        "grade": "8",
+        "auction_type": "Auction",
+        "date": "5/18/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "265068680947",
+        "grade": "5",
+        "date": "3/5/2021",
+        "auction_seller": "cardboardpreservationsociety",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4976657809222917678/-4681494654360959350.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "43437989",
+        "price": "$150.00"
+    },
+    {
+        "auction_seller": "card_crazy11",
+        "price": "$189.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4598627427808108095/-1213696743626256933.jpg",
+        "lot_number": "166687088924",
+        "date": "4/9/2024",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70962366"
+    },
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3772118231840868997/-7627290553295479501.jpg",
+        "lot_number": "223749122445",
+        "auction_type": "Buy It Now",
+        "price": "$50.00",
+        "date": "5/14/2020",
+        "auction_house": "eBay",
+        "cert_number": "43437989",
+        "auction_seller": "thecardgurutcg"
+    },
+    {
+        "grade": "5",
+        "cert_number": "84986666",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3900403496613626171/-5994826525472577886.jpg",
+        "auction_seller": "signsofthetimesvintagecollectibles",
+        "lot_number": "305359124299",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "1/29/2024",
+        "price": "$117.50"
+    }
+]

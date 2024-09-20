@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$49.59",
+        "cert_number": "54131538",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8438136157847809228/-671177460914374137.jpg",
+        "lot_number": "115632811868",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "abstrakd",
+        "date": "12/13/2022"
+    },
+    {
+        "lot_number": "256508353521",
+        "auction_seller": "teamxiong",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2675882964855347740/4931770872656270099.jpg",
+        "date": "5/19/2024",
+        "cert_number": "88929405",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "305733225382",
+        "auction_seller": "mytcgshopsd",
+        "cert_number": "93091019",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/20/2024",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5052196983549034245/137291812629113645.jpg"
+    }
+]

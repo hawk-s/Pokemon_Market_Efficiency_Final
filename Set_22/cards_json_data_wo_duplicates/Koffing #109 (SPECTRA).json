@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "presidiogaming",
+        "cert_number": "43605336",
+        "price": "$34.95",
+        "lot_number": "352837661480",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4209835794770147213/8091721742200766846.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8663811252778200778/6385863659689333770.jpg",
+        "lot_number": "353200217148",
+        "cert_number": "46353025",
+        "price": "$86.00",
+        "auction_seller": "bbcexchange2",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "9/21/2020"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8833593499435854606/2343553510986299210.jpg",
+        "cert_number": "71982064",
+        "lot_number": "256190363381",
+        "price": "$68.00",
+        "auction_seller": "09mansfield",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/6/2023",
+        "auction_seller": "coins_n_rarities",
+        "cert_number": "47825790",
+        "lot_number": "275973063600",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7149987983353017527/6184221932318338858.jpg",
+        "auction_type": "Auction",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

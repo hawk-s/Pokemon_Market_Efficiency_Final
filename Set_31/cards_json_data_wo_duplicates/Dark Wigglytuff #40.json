@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3692955774350924665/1740992942834365598.jpg",
+        "price": "$6.41",
+        "date": "8/14/2023",
+        "auction_seller": "robbytinc",
+        "auction_type": "Auction",
+        "lot_number": "256173659666",
+        "auction_house": "eBay",
+        "cert_number": "76457843"
+    },
+    {
+        "price": "$11.00",
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "grade": "8",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-1404603512755154582/images/1.jpg",
+        "auction_type": "Auction",
+        "lot_number": "4971",
+        "auction_house": "Goldin Auctions",
+        "cert_number": "75258439"
+    },
+    {
+        "cert_number": "49625677",
+        "auction_seller": "robk0215",
+        "date": "11/2/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2212033504741502825/-3287055755077570390.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "174988295398"
+    },
+    {
+        "auction_seller": "robk0215",
+        "cert_number": "49625675",
+        "date": "9/27/2021",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4208599562189553160/735318145631450612.jpg",
+        "auction_house": "eBay",
+        "lot_number": "174945831337"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3051494529344271872/6008293993833085738.jpg",
+        "price": "$49.90",
+        "auction_seller": "robk0215",
+        "date": "10/13/2021",
+        "lot_number": "174966323501",
+        "cert_number": "49625676",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6201337077885796158/1479218119011553920.jpg",
+        "auction_seller": "forbidden_forest_collectibles",
+        "price": "$14.50",
+        "cert_number": "49625676",
+        "auction_type": "Auction",
+        "lot_number": "364837696634",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

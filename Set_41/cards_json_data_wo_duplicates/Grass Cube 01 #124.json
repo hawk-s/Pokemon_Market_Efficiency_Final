@@ -1,0 +1,68 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5202928851259124431/5314578408840621459.jpg",
+        "price": "$15.50",
+        "cert_number": "55228571",
+        "date": "11/29/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "294567057021",
+        "grade": "10",
+        "auction_seller": "gen1_john"
+    },
+    {
+        "lot_number": "382490993853",
+        "price": "$1.29",
+        "date": "6/21/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6543534658921935969/-1762903546696406107.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "27835615",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "55228571",
+        "date": "10/30/2021",
+        "auction_seller": "mhogie",
+        "auction_type": "Auction",
+        "price": "$31.01",
+        "lot_number": "165139302612",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8767591233606546991/7783288972448524896.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "142836549227",
+        "cert_number": "40771362",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3294467234617042183/8920296289115985833.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "btinvestmentgroup",
+        "price": "$39.99",
+        "date": "1/17/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8343844882698638882/-4013603021916430282.jpg",
+        "auction_type": "Auction",
+        "cert_number": "55228571",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "154788075108"
+    },
+    {
+        "lot_number": "166828434036",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/647779799145503011/3354055721101562343.jpg",
+        "auction_seller": "sapphire.collectibles",
+        "date": "6/25/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "27835615",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    }
+]

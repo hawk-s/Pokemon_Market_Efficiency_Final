@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "cooltrainerryan",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3023044311447249958/6862132810106123141.jpg",
+        "price": "$23.99",
+        "date": "4/18/2020",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "cert_number": "43083643",
+        "lot_number": "283464147730",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7141334348696538338/3646543678002450293.jpg",
+        "lot_number": "166212964497",
+        "grade": "8",
+        "cert_number": "69625743",
+        "date": "7/17/2023",
+        "auction_type": "Auction",
+        "auction_seller": "jebr4566",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "lot_number": "154233022616",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1549890494304180724/-4164416166167041453.jpg",
+        "auction_type": "Best Offer",
+        "auction_seller": "trentb36",
+        "cert_number": "40771488",
+        "grade": "9",
+        "price": "$44.00",
+        "auction_house": "eBay",
+        "date": "3/28/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6854658657464181323/7614321815621282076.jpg",
+        "cert_number": "40771488",
+        "grade": "9",
+        "lot_number": "142836549120",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "price": "$0.99"
+    },
+    {
+        "cert_number": "28185027",
+        "lot_number": "292407818443",
+        "date": "1/20/2018",
+        "price": "$8.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5988975963541822464/8745463692626839082.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6704065007881094709/8745463692626839082.jpg",
+        "cert_number": "28185026",
+        "price": "$8.99",
+        "lot_number": "292392022658",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/6/2018"
+    },
+    {
+        "cert_number": "28185026",
+        "date": "1/13/2018",
+        "lot_number": "292398515332",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6533507449895133794/8745463692626839082.jpg",
+        "price": "$10.00",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

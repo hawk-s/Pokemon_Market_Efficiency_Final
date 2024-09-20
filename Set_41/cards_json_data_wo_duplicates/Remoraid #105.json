@@ -1,0 +1,68 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "price": "$11.99",
+        "lot_number": "192309247952",
+        "auction_seller": "my_honolulu_blue",
+        "cert_number": "27667899",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2812157851336455077/4413782007183119941.jpg",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27835596",
+        "lot_number": "382490997595",
+        "date": "6/21/2018",
+        "price": "$2.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7274906017571178160/-2097139472735650484.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "27835596",
+        "auction_seller": "sapphire.collectibles",
+        "lot_number": "166828431640",
+        "date": "6/25/2024",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6915259950528732440/-8730529483861705364.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7895798504552421527/1383089452533481032.jpg",
+        "date": "6/6/2018",
+        "cert_number": "40771241",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "lot_number": "142811259508",
+        "price": "$0.99"
+    },
+    {
+        "cert_number": "48971153",
+        "auction_seller": "habbyshobbies",
+        "lot_number": "384377814269",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/13/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4158279076683388066/-459449015686479088.jpg",
+        "price": "$32.00",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4922995162337207649/7355758665941973215.jpg",
+        "price": "$14.99",
+        "cert_number": "40771241",
+        "auction_type": "Best Offer",
+        "lot_number": "302904287268",
+        "grade": "8",
+        "date": "7/29/2020",
+        "auction_house": "eBay",
+        "auction_seller": "cabalcoffers"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "286024779207",
+        "auction_seller": "luckyluke177",
+        "grade": "8",
+        "cert_number": "69701311",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2306054680818205115/9047626292123072823.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$1.25",
+        "date": "9/3/2024"
+    },
+    {
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2323669239425432079/-6684430011358438913.jpg",
+        "cert_number": "45431401",
+        "auction_seller": "pokeota",
+        "auction_type": "Auction",
+        "date": "1/24/2022",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "353864651826"
+    },
+    {
+        "lot_number": "143684799304",
+        "auction_seller": "fujiyama-market",
+        "cert_number": "45431400",
+        "price": "$65.55",
+        "auction_type": "Best Offer",
+        "date": "11/19/2020",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1326425305932157433/-705052160259523584.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$3.25",
+        "lot_number": "353755951979",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5924563734931002113/-2736970163333483217.jpg",
+        "date": "11/9/2021",
+        "cert_number": "45431399",
+        "auction_seller": "pokeota",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

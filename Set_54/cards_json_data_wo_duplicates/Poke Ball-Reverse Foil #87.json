@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "rock_mountain_tcg",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-524277897917898117/6006422934509895821.jpg",
+        "lot_number": "313623984537",
+        "cert_number": "48322499",
+        "grade": "9",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/9/2021"
+    },
+    {
+        "cert_number": "48322498",
+        "date": "9/27/2021",
+        "price": "$27.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2249519841891252929/1797070277285513748.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "the1-up",
+        "auction_house": "eBay",
+        "lot_number": "353682231197"
+    },
+    {
+        "price": "$30.00",
+        "lot_number": "303605884082",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5193203550957733281/-3489426062990153641.jpg",
+        "cert_number": "43362885",
+        "date": "6/30/2020",
+        "grade": "9",
+        "auction_house": "eBay",
+        "auction_seller": "firststop_pokeshop"
+    },
+    {
+        "price": "$20.37",
+        "lot_number": "186030710683",
+        "cert_number": "74727495",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4764144414014333691/-7954359920051894161.jpg",
+        "auction_seller": "pokemonpackers",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/21/2023"
+    },
+    {
+        "date": "8/4/2023",
+        "cert_number": "74727495",
+        "grade": "9",
+        "lot_number": "186010464091",
+        "auction_seller": "pokemonpackers",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4976244302133335193/-7954359920051894161.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$26.58"
+    },
+    {
+        "cert_number": "68390517",
+        "grade": "8",
+        "lot_number": "266013254427",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4811730592176835393/-9111545721713377903.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$29.95",
+        "auction_seller": "bobcatgolfer24",
+        "date": "12/5/2022"
+    },
+    {
+        "date": "6/30/2024",
+        "lot_number": "235621381936",
+        "auction_seller": "goldrush_cards",
+        "grade": "9",
+        "price": "$34.83",
+        "auction_type": "Auction",
+        "cert_number": "61965974",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8654248355004839695/-5847155313442967777.jpg"
+    }
+]

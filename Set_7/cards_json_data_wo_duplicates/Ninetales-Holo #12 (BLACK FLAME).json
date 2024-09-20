@@ -1,0 +1,57 @@
+[
+    {
+        "grade": "7",
+        "auction_seller": "cb-hobby",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8329628703951393357/-5524484056724503734.jpg",
+        "lot_number": "235512928872",
+        "price": "$46.00",
+        "cert_number": "75729114",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/16/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2013131646039890030/-5141146700702547081.jpg",
+        "auction_seller": "psa",
+        "cert_number": "85427031",
+        "grade": "9",
+        "date": "7/17/2024",
+        "auction_type": "Auction",
+        "lot_number": "305663992824",
+        "auction_house": "eBay",
+        "price": "$249.99"
+    },
+    {
+        "auction_seller": "g7772133-2",
+        "date": "6/2/2024",
+        "cert_number": "88710744",
+        "grade": "8",
+        "price": "$75.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7625656567597428368/5211644125509447421.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "235581874581"
+    },
+    {
+        "grade": "5",
+        "auction_seller": "realcollector09",
+        "lot_number": "355624155535",
+        "date": "4/18/2024",
+        "price": "$8.33",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-781343892528944295/6937335680549832703.jpg",
+        "cert_number": "82060142"
+    },
+    {
+        "cert_number": "94755744",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8019914253938524305/6517147417622142981.jpg",
+        "grade": "6",
+        "lot_number": "305728734305",
+        "auction_type": "Auction",
+        "price": "$63.00",
+        "auction_house": "eBay",
+        "date": "8/26/2024",
+        "auction_seller": "psa"
+    }
+]

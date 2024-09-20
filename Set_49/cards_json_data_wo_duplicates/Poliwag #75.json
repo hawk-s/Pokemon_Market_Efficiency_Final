@@ -1,0 +1,24 @@
+[
+    {
+        "date": "11/13/2017",
+        "price": "$20.00",
+        "auction_type": "Best Offer",
+        "lot_number": "292293827738",
+        "cert_number": "27743595",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/717196503847710740/3586459062804899025.jpg",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$59.00",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5379600070010770971/3586459062804899025.jpg",
+        "cert_number": "27743595",
+        "lot_number": "292315924722",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/12/2017"
+    }
+]

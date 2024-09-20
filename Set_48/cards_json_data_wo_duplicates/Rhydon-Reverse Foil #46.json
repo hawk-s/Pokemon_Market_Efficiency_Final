@@ -1,0 +1,79 @@
+[
+    {
+        "date": "12/15/2022",
+        "cert_number": "60713006",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7785794436847185170/-5095399552077373481.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.51",
+        "lot_number": "385280961431"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2950228617571641051/4744876843545355643.jpg",
+        "lot_number": "324854436911",
+        "cert_number": "49764353",
+        "date": "11/8/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc",
+        "price": "$14.89"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4017783652658183381/3490085185192911808.jpg",
+        "price": "$20.47",
+        "date": "8/11/2024",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "cert_number": "94265696",
+        "lot_number": "135174406636",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "68521319",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4705629424444932223/5497278102164544239.jpg",
+        "lot_number": "204182153708",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "winglescards",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "date": "12/17/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1447834353490210537/2593019182425317468.jpg",
+        "auction_seller": "bidoveru",
+        "price": "$17.01",
+        "cert_number": "70208369",
+        "date": "3/25/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "315213112849",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "354981329029",
+        "price": "$10.50",
+        "grade": "8",
+        "cert_number": "76246314",
+        "auction_seller": "makollectibles",
+        "date": "8/22/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8348625817231261371/-5159754589903615781.jpg"
+    },
+    {
+        "price": "$78.00",
+        "date": "12/20/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-573750647281585613/127036165189178684.jpg",
+        "cert_number": "47585894",
+        "lot_number": "284565056501",
+        "auction_seller": "zandgemporium-0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

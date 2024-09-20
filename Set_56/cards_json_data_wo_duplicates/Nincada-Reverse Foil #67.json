@@ -1,0 +1,79 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7378476731429806000/-3730736891860357756.jpg",
+        "cert_number": "90837475",
+        "date": "7/2/2024",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "lot_number": "375503521349"
+    },
+    {
+        "lot_number": "305699680545",
+        "cert_number": "92859396",
+        "price": "$10.50",
+        "date": "8/7/2024",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4390449553599743431/65174820851481407.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "lot_number": "315649026285",
+        "auction_seller": "chosenpricecollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1006626067978336123/-8476639941972824765.jpg",
+        "price": "$17.00",
+        "date": "8/17/2024",
+        "cert_number": "74467646",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/25/2021",
+        "auction_seller": "sbunney28",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1270576463641467747/1753447255078441636.jpg",
+        "grade": "9",
+        "price": "$19.99",
+        "cert_number": "52549864",
+        "lot_number": "125059416425",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "394382262808",
+        "date": "12/21/2022",
+        "grade": "6",
+        "cert_number": "48329024",
+        "auction_seller": "ml_us_hj4nsiv",
+        "price": "$2.27",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3576252817388652598/-1319630356728968016.jpg"
+    },
+    {
+        "date": "3/28/2019",
+        "lot_number": "192867720122",
+        "cert_number": "40757189",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4343784437344021728/-8126827648735030077.jpg",
+        "grade": "9",
+        "price": "$7.28",
+        "auction_seller": "mvpcardworld888",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5384504872616491970/-5980984160860092490.jpg",
+        "auction_seller": "tacotruckcollectibles",
+        "price": "$10.50",
+        "lot_number": "196542331734",
+        "grade": "9",
+        "cert_number": "85179464",
+        "auction_type": "Auction",
+        "date": "8/12/2024",
+        "auction_house": "eBay"
+    }
+]

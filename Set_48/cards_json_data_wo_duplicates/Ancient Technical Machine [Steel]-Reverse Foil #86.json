@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "94265719",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7216451899590934106/-1552331130952037335.jpg",
+        "lot_number": "135174406690",
+        "date": "8/11/2024",
+        "grade": "8",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$16.94"
+    },
+    {
+        "lot_number": "373536767596",
+        "price": "$34.01",
+        "auction_seller": "canocollectables",
+        "cert_number": "47330684",
+        "date": "4/16/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6908760102706867308/6449871006415190931.jpg"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "lot_number": "315213259174",
+        "price": "$15.50",
+        "cert_number": "70208393",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1168480634750485127/-232665760684076432.jpg",
+        "date": "3/26/2024"
+    },
+    {
+        "date": "1/2/2022",
+        "lot_number": "234347742270",
+        "auction_seller": "comc_consignment",
+        "cert_number": "51346940",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4989584837231537634/-5357026264698695381.jpg",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

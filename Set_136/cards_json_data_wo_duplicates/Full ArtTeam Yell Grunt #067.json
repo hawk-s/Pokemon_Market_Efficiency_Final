@@ -1,0 +1,90 @@
+[
+    {
+        "date": "9/5/2023",
+        "auction_seller": "probstein123",
+        "lot_number": "386039826505",
+        "price": "$23.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-325107515300935608/8625096605369693190.jpg",
+        "auction_type": "Auction",
+        "cert_number": "63009391",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5968114705239018202/4513109794209993218.jpg",
+        "cert_number": "78449176",
+        "price": "$21.50",
+        "auction_seller": "bmpokemon",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/13/2023",
+        "grade": "10",
+        "lot_number": "404533918369"
+    },
+    {
+        "cert_number": "85256292",
+        "auction_seller": "lunacardsau",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1721886979311663219/-7798292686056325839.jpg",
+        "price": "$24.32",
+        "lot_number": "156157391996",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/17/2024"
+    },
+    {
+        "date": "8/1/2020",
+        "lot_number": "124214114109",
+        "auction_type": "Best Offer",
+        "price": "$58.00",
+        "cert_number": "45631698",
+        "auction_seller": "prestomil0",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2363661722599500689/-1185119236769339813.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5043552802318717261/5974966927420107658.jpg",
+        "auction_seller": "cinnaminhbun",
+        "lot_number": "126098078179",
+        "auction_type": "Auction",
+        "cert_number": "75009658",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "9/25/2023",
+        "price": "$18.00"
+    },
+    {
+        "lot_number": "304230839295",
+        "auction_seller": "jamiga9",
+        "cert_number": "48075621",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$26.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8158429461155550772/-1119550635772208637.jpg",
+        "grade": "10",
+        "date": "11/27/2021"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2095728169855070976/1548458682563934308.jpg",
+        "auction_seller": "kawaii-japanshop",
+        "cert_number": "45910511",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "lot_number": "124154138336",
+        "grade": "10",
+        "date": "4/20/2020"
+    },
+    {
+        "lot_number": "135042567843",
+        "cert_number": "78672697",
+        "price": "$23.14",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5686777834775105977/6512934685007619731.jpg",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/12/2024",
+        "grade": "10"
+    }
+]

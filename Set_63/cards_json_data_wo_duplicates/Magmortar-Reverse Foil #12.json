@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "42838941",
+        "date": "4/18/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6732765822464922934/4070294222377183044.jpg",
+        "grade": "9",
+        "lot_number": "133388721743",
+        "auction_seller": "ha.tr76",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$8.49"
+    },
+    {
+        "cert_number": "49197022",
+        "price": "$16.50",
+        "grade": "9",
+        "auction_seller": "poke_place",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/11/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/740797984993408999/8129176915705605436.jpg",
+        "lot_number": "234210630998"
+    },
+    {
+        "price": "$31.75",
+        "lot_number": "234242000730",
+        "cert_number": "49197022",
+        "grade": "9",
+        "auction_seller": "poke_place",
+        "auction_type": "Auction",
+        "date": "10/28/2021",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2856851886538857588/8129176915705605436.jpg"
+    }
+]

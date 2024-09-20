@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4952950655471852482/1505982678282504215.jpg",
+        "grade": "8",
+        "price": "$5.00",
+        "date": "1/15/2022",
+        "lot_number": "334291425739",
+        "auction_seller": "chtor6232",
+        "cert_number": "49448113",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6297620860259700555/-448381979254243445.jpg",
+        "auction_seller": "venusaur_island",
+        "price": "$32.80",
+        "lot_number": "256391636439",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "61489805",
+        "grade": "10",
+        "date": "2/1/2024"
+    },
+    {
+        "lot_number": "292311164096",
+        "price": "$4.25",
+        "cert_number": "27743761",
+        "date": "11/8/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2091335247042677528/-182962680548908415.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$30.00",
+        "lot_number": "124261450546",
+        "cert_number": "46642172",
+        "grade": "10",
+        "auction_seller": "card_secret",
+        "date": "7/26/2020",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5815247497073573971/-5161069174657153376.jpg"
+    },
+    {
+        "price": "$38.70",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8689659055534238454/6587985530521419475.jpg",
+        "auction_seller": "welcome_stranger_collectibles",
+        "cert_number": "52011204",
+        "lot_number": "134107165899",
+        "auction_type": "Auction",
+        "date": "5/16/2022",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

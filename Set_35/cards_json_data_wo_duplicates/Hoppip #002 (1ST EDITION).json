@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "353279088151",
+        "auction_seller": "pwcc_auctions",
+        "price": "$12.05",
+        "grade": "8",
+        "cert_number": "46135726",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3713785100461393330/612034610556666076.jpg",
+        "date": "11/26/2020"
+    },
+    {
+        "auction_seller": "zandgemporium",
+        "cert_number": "68608448",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5502584202951354365/7923744734419657688.jpg",
+        "price": "$29.00",
+        "lot_number": "285133041232",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/12/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3980190670122965394/-5621594910679117871.jpg",
+        "cert_number": "72697334",
+        "date": "5/27/2023",
+        "lot_number": "235016552745",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "savage_collectables",
+        "grade": "10",
+        "price": "$17.83"
+    },
+    {
+        "date": "8/6/2023",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4657612969575129950/-7898917302641961173.jpg",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "lot_number": "285404152775",
+        "cert_number": "61162647",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "date": "1/30/2023",
+        "lot_number": "285115130462",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8944391761677550234/7923744734419657688.jpg",
+        "auction_seller": "zandgemporium",
+        "cert_number": "68608448",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

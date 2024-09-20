@@ -1,0 +1,79 @@
+[
+    {
+        "date": "12/1/2021",
+        "auction_seller": "deckslap",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6209707371061407341/2062699071036753281.jpg",
+        "cert_number": "27737476",
+        "price": "$19.99",
+        "lot_number": "194528982614",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/2/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5013733308419401666/8922702170741046690.jpg",
+        "auction_type": "Buy It Now",
+        "lot_number": "253242997854",
+        "price": "$14.00",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27979759"
+    },
+    {
+        "lot_number": "292337571353",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/1256804298171162518/2217071999061323240.jpg",
+        "auction_type": "Auction",
+        "date": "11/26/2017",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "price": "$5.01",
+        "grade": "10",
+        "cert_number": "27737477"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "date": "5/22/2023",
+        "grade": "9",
+        "cert_number": "70859481",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6036503887280757148/1995267950364885655.jpg",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "lot_number": "256070559719"
+    },
+    {
+        "price": "$10.50",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-43732883540796407/4868941348365301402.jpg",
+        "cert_number": "27737479",
+        "auction_type": "Auction",
+        "lot_number": "292290269601",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/21/2017"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/673090558259513125/4868941348365301402.jpg",
+        "price": "$10.50",
+        "cert_number": "27737479",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/26/2017",
+        "lot_number": "292296321140"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "27737476",
+        "price": "$56.00",
+        "date": "1/28/2021",
+        "auction_type": "Auction",
+        "lot_number": "143921024716",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4639240820275156151/6465885330806135069.jpg",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "date": "12/11/2023",
+        "lot_number": "314967224870",
+        "cert_number": "43083614",
+        "price": "$182.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/529052668515741172/-922552922120561135.jpg",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "price": "$10.50",
+        "auction_seller": "bigskyrare",
+        "cert_number": "94370437",
+        "grade": "6",
+        "lot_number": "126606824062",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/9/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6635457958405189607/788543109654601306.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5259330782846697819/-6516784049140545695.jpg",
+        "date": "6/6/2018",
+        "lot_number": "142811259986",
+        "grade": "9",
+        "cert_number": "40771451",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4763862262437677804/5093030883882463767.jpg",
+        "date": "2/16/2020",
+        "price": "$10.50",
+        "cert_number": "42343192",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "184165592679",
+        "auction_house": "eBay",
+        "auction_seller": "svc051"
+    }
+]

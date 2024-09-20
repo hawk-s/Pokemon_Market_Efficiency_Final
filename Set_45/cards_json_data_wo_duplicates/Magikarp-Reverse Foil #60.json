@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "goldrush_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3488812441275395466/-7660004445430701951.jpg",
+        "date": "12/29/2021",
+        "grade": "8",
+        "price": "$38.97",
+        "cert_number": "48194286",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "234340412352"
+    },
+    {
+        "date": "6/30/2024",
+        "lot_number": "305634546834",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3862707492387637529/6256278345517729299.jpg",
+        "grade": "6",
+        "cert_number": "79076758",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "lot_number": "155393854207",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4862252623786607511/4147614726027100823.jpg",
+        "auction_seller": "mc671",
+        "cert_number": "58302991",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/12/2023"
+    },
+    {
+        "auction_seller": "dapper-tradesmith",
+        "grade": "8",
+        "date": "7/10/2023",
+        "lot_number": "204384783995",
+        "price": "$11.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1794710271931242515/4184109398032961432.jpg",
+        "auction_type": "Auction",
+        "cert_number": "73340917",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "12/31/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7326450271694684422/7653455005315634186.jpg",
+        "cert_number": "60236593",
+        "lot_number": "255294117716",
+        "grade": "6",
+        "auction_seller": "sellers_sportscards",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "275084892332",
+        "date": "1/13/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3461381596682570820/6704926911094336267.jpg",
+        "cert_number": "52657145",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$37.80",
+        "auction_house": "eBay",
+        "auction_seller": "sonofhercules"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6445589033359814153/-426711600118797786.jpg",
+        "lot_number": "283633195682",
+        "auction_type": "Buy It Now",
+        "cert_number": "43350680",
+        "date": "3/6/2020",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$79.99"
+    }
+]

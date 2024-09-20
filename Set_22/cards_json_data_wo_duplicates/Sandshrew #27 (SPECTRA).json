@@ -1,0 +1,57 @@
+[
+    {
+        "date": "8/5/2021",
+        "lot_number": "274884459148",
+        "auction_seller": "coins_n_rarities",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6573137334532441510/-749650015575292042.jpg",
+        "grade": "9",
+        "price": "$47.00",
+        "auction_type": "Auction",
+        "cert_number": "49247992",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6075090667107394221/8955198277349368801.jpg",
+        "lot_number": "274934331413",
+        "price": "$152.50",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "cert_number": "51113398",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "9/17/2021"
+    },
+    {
+        "cert_number": "54477308",
+        "lot_number": "265499673579",
+        "date": "1/20/2022",
+        "price": "$34.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8426589833453103701/-6201446844786760469.jpg",
+        "grade": "6",
+        "auction_seller": "dazilla18",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "186082327994",
+        "auction_seller": "big_deal_bargains",
+        "grade": "8",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2700209579559667332/-6028669470133335303.jpg",
+        "cert_number": "77759730",
+        "auction_house": "eBay",
+        "date": "9/25/2023"
+    },
+    {
+        "price": "$199.99",
+        "auction_seller": "surfcitycards",
+        "cert_number": "53303436",
+        "date": "11/9/2021",
+        "lot_number": "373776991266",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1149905211073374017/7604778443873600311.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

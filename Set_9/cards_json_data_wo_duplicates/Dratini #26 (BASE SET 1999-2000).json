@@ -1,0 +1,68 @@
+[
+    {
+        "date": "6/18/2023",
+        "cert_number": "74559056",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2977220896923422262/7325345762643813283.jpg",
+        "auction_seller": "richezone",
+        "lot_number": "334907275077",
+        "price": "$7.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "74708129",
+        "auction_seller": "jakrob_14",
+        "price": "$21.45",
+        "grade": "9",
+        "lot_number": "225638745165",
+        "auction_type": "Auction",
+        "date": "6/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1103077931029127613/2805319919305680928.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/16/2023",
+        "cert_number": "68668811",
+        "auction_seller": "yimleej",
+        "lot_number": "394413030067",
+        "price": "$16.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6156998380044586160/2466302829916198934.jpg"
+    },
+    {
+        "lot_number": "226228839822",
+        "cert_number": "92947582",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6235138104130925842/-5169195115054922442.jpg",
+        "auction_seller": "jakrob_14",
+        "date": "7/12/2024",
+        "price": "$50.41",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "73922218",
+        "price": "$56.82",
+        "lot_number": "186497559388",
+        "date": "6/22/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4488686806283097664/539658207590451577.jpg",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "date": "6/28/2023",
+        "lot_number": "225635395955",
+        "price": "$26.76",
+        "auction_seller": "jakrob_14",
+        "grade": "9",
+        "cert_number": "74708112",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5408180068997105633/8394074388593067165.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "wastle",
+        "auction_type": "Best Offer",
+        "date": "3/27/2020",
+        "cert_number": "41910904",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/920260504508701413/1217841477164027530.jpg",
+        "price": "$36.00",
+        "auction_house": "eBay",
+        "lot_number": "183826958982",
+        "grade": "10"
+    },
+    {
+        "date": "12/31/2022",
+        "lot_number": "144872499782",
+        "auction_seller": "games_cards_collectibles",
+        "cert_number": "53697448",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6784521544686110884/-1473848469398406027.jpg",
+        "price": "$32.00"
+    },
+    {
+        "date": "12/12/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1778447541851811285/1975614977465461140.jpg",
+        "cert_number": "68934637",
+        "auction_seller": "goats-n-pros",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "334653475036",
+        "price": "$16.50"
+    },
+    {
+        "lot_number": "235718532100",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7422673524107792638/-1647485963464874013.jpg",
+        "date": "9/2/2024",
+        "grade": "8",
+        "auction_seller": "elixercarddeals",
+        "cert_number": "80098558",
+        "auction_type": "Auction",
+        "price": "$4.01",
+        "auction_house": "eBay"
+    }
+]

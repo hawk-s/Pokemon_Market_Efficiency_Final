@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$15.50",
+        "lot_number": "394216355949",
+        "grade": "8",
+        "cert_number": "59204458",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7388149093189320711/1441276060738596419.jpg",
+        "date": "9/3/2022"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "date": "12/19/2023",
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8075048829983059948/834927286725032736.jpg",
+        "lot_number": "315024749187",
+        "cert_number": "68640566",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

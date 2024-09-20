@@ -1,0 +1,46 @@
+[
+    {
+        "date": "1/12/2022",
+        "auction_seller": "shinjuku-donquixote",
+        "price": "$17.52",
+        "cert_number": "63307822",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8992058823368492914/-9098076331033128563.jpg",
+        "lot_number": "284585638976",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6856694882132483607/-2383217648033243732.jpg",
+        "date": "12/12/2021",
+        "auction_seller": "shinjuku-donquixote",
+        "cert_number": "63320650",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "284559370356"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1353304904903700070/5681133275052717678.jpg",
+        "auction_seller": "sellers_sportscards",
+        "price": "$20.50",
+        "cert_number": "73465071",
+        "lot_number": "256056771770",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/4/2023",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6133487023798142371/305373164650042582.jpg",
+        "cert_number": "46615159",
+        "price": "$16.60",
+        "auction_seller": "kawaii-japanshop",
+        "lot_number": "124296802390",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/18/2020"
+    }
+]

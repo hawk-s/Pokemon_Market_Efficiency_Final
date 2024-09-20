@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$25.45",
+        "auction_seller": "poke-zard",
+        "lot_number": "405001587217",
+        "date": "6/3/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "61964298",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1084882913044409289/-8300352887295144411.jpg"
+    },
+    {
+        "lot_number": "186487393934",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4825743368952472381/661098293049721606.jpg",
+        "price": "$12.67",
+        "auction_seller": "tommmercha0",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/17/2024",
+        "cert_number": "61964298"
+    },
+    {
+        "date": "9/14/2021",
+        "price": "$34.62",
+        "auction_seller": "venusaur_island",
+        "cert_number": "48545115",
+        "lot_number": "255131619525",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5407516339472425714/234373732223677669.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "384346546128",
+        "auction_seller": "habbyshobbies",
+        "cert_number": "48545115",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/30/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6813578334339496205/-6166813659926322920.jpg"
+    }
+]

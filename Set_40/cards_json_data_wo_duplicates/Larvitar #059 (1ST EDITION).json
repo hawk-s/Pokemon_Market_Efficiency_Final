@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$42.00",
+        "date": "1/14/2024",
+        "lot_number": "256368367439",
+        "auction_seller": "teamxiong",
+        "cert_number": "83487480",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6468712027767805449/6264820004282257966.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "124863896768",
+        "grade": "10",
+        "auction_seller": "card_secret",
+        "price": "$76.00",
+        "auction_type": "Auction",
+        "cert_number": "55729955",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7335898996935206708/-1886993269651904316.jpg",
+        "date": "8/30/2021"
+    }
+]

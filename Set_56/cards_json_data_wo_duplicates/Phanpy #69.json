@@ -1,0 +1,24 @@
+[
+    {
+        "lot_number": "256251685979",
+        "cert_number": "76457872",
+        "price": "$3.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6218839639650864590/-2044758289254027015.jpg",
+        "grade": "6",
+        "auction_seller": "robbytinc",
+        "date": "10/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "76457872",
+        "lot_number": "256263625280",
+        "date": "10/27/2023",
+        "grade": "6",
+        "price": "$5.50",
+        "auction_seller": "robbytinc",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5077121542711378215/-2044758289254027015.jpg",
+        "auction_house": "eBay"
+    }
+]

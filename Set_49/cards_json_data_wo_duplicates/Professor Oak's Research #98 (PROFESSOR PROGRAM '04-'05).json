@@ -1,0 +1,46 @@
+[
+    {
+        "date": "9/11/2022",
+        "grade": "9",
+        "auction_seller": "ccgcrazy",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "cert_number": "54318438",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8724012451854877778/-7139625455348640986.jpg",
+        "lot_number": "115514538533"
+    },
+    {
+        "date": "9/2/2020",
+        "auction_type": "Best Offer",
+        "auction_seller": "pokedavey",
+        "price": "$400.00",
+        "lot_number": "224038594431",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "45449234",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2783936456376877846/5476463428646681833.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-386879799544378778/-4468626051633430863.jpg",
+        "cert_number": "53628268",
+        "date": "7/1/2023",
+        "grade": "9",
+        "lot_number": "374777081253",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pluscollectiblesva"
+    },
+    {
+        "lot_number": "285218245603",
+        "grade": "8",
+        "price": "$44.63",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3364525568842222002/5623354176373873427.jpg",
+        "auction_type": "Auction",
+        "date": "4/23/2023",
+        "auction_house": "eBay",
+        "auction_seller": "chibicollectablesuk",
+        "cert_number": "71989143"
+    }
+]

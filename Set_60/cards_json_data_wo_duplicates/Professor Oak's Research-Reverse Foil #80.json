@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "cardrushinc",
+        "auction_type": "Best Offer",
+        "date": "12/28/2020",
+        "grade": "9",
+        "cert_number": "40774406",
+        "lot_number": "292606377747",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7123971010799519319/8031084866871766035.jpg",
+        "auction_house": "eBay",
+        "price": "$29.95"
+    },
+    {
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "cert_number": "68760651",
+        "price": "$37.00",
+        "auction_type": "Auction",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/1525135574751867858/images/1.jpg",
+        "auction_house": "Goldin Auctions",
+        "lot_number": "4892",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3386476020069795388/-4602944846392674118.jpg",
+        "auction_seller": "cardrushinc",
+        "lot_number": "283012844613",
+        "cert_number": "40774404",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "grade": "10",
+        "price": "$16.50"
+    }
+]

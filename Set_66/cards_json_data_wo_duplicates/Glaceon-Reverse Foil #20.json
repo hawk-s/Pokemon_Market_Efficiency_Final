@@ -1,0 +1,90 @@
+[
+    {
+        "grade": "8",
+        "price": "$18.52",
+        "date": "3/13/2023",
+        "cert_number": "53408901",
+        "auction_type": "Auction",
+        "lot_number": "314446750661",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/556649503437961460/1434487226319486810.jpg"
+    },
+    {
+        "date": "4/16/2024",
+        "cert_number": "66669747",
+        "price": "$15.50",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7850907841763152047/1482234604987521729.jpg",
+        "lot_number": "386916285871"
+    },
+    {
+        "price": "$28.11",
+        "date": "3/27/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5215159403333585019/1434487226319486810.jpg",
+        "cert_number": "53408901",
+        "lot_number": "314474077697",
+        "auction_type": "Auction",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6368050855426865228/-3829167870326925634.jpg",
+        "price": "$10.50",
+        "auction_seller": "gyarados_girl",
+        "cert_number": "41163326",
+        "lot_number": "264113730306",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/8/2019"
+    },
+    {
+        "cert_number": "53408899",
+        "grade": "7",
+        "date": "12/13/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9134104376279161738/3041387132243404960.jpg",
+        "lot_number": "313781930569",
+        "price": "$16.12",
+        "auction_type": "Auction",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "5/14/2024",
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7633644012809028913/-1234499874643893830.jpg",
+        "grade": "8",
+        "lot_number": "386984881730",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "cert_number": "66669748",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "314342546935",
+        "date": "1/30/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7091267487848234633/4565908552584682003.jpg",
+        "grade": "8",
+        "cert_number": "53408900",
+        "price": "$19.52",
+        "auction_type": "Auction",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "364872337532",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-198391772186128696/1482234604987521729.jpg",
+        "price": "$10.50",
+        "cert_number": "66669747",
+        "grade": "8",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "5/10/2024",
+        "auction_house": "eBay"
+    }
+]

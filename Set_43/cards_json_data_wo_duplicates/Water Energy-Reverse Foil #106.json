@@ -1,0 +1,24 @@
+[
+    {
+        "cert_number": "75030810",
+        "lot_number": "5495",
+        "grade": "7",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/-6230984594301797841/images/1.jpg",
+        "price": "$6.00",
+        "date": "6/15/2023",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun"
+    },
+    {
+        "date": "8/5/2024",
+        "price": "$35.86",
+        "auction_seller": "washa-1803",
+        "cert_number": "71322185",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1232537240365965992/8176266094630218779.jpg",
+        "lot_number": "405131589009",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

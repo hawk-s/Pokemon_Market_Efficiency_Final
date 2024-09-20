@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$16.32",
+        "lot_number": "355029295082",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3769077876636725339/-947465803837876253.jpg",
+        "auction_seller": "vispri-21",
+        "grade": "10",
+        "cert_number": "70511706",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/9/2023"
+    },
+    {
+        "date": "12/31/2022",
+        "auction_seller": "canocollect",
+        "cert_number": "56582841",
+        "price": "$5.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "404071354790",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7390044949414413618/4149947740911558472.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7620091956780103591/-8857113780538091914.jpg",
+        "date": "2/19/2023",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "auction_seller": "uphills78",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "64092703",
+        "lot_number": "374509549917"
+    }
+]

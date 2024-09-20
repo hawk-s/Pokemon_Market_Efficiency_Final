@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "73922231",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3930248107608778002/-4974540233920338269.jpg",
+        "price": "$46.07",
+        "lot_number": "186501521459",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/6/2024",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4094763004499244757/2768331818055518297.jpg",
+        "price": "$58.00",
+        "cert_number": "51897887",
+        "lot_number": "265372147888",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/31/2021",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "kevinertia",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1839300870086971180/-7662385769164555481.jpg",
+        "cert_number": "51897887",
+        "lot_number": "185629545323",
+        "price": "$22.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/31/2022"
+    }
+]

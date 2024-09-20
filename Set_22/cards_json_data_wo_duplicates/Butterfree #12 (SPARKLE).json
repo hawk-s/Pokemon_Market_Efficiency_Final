@@ -1,0 +1,46 @@
+[
+    {
+        "date": "11/2/2022",
+        "lot_number": "325397488769",
+        "auction_type": "Auction",
+        "cert_number": "55847031",
+        "auction_house": "eBay",
+        "auction_seller": "villentretenmerth_01",
+        "grade": "10",
+        "price": "$522.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7494105665585965803/3897523247578735920.jpg"
+    },
+    {
+        "price": "$227.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2352512561917512064/5975064707433630853.jpg",
+        "cert_number": "63252992",
+        "date": "10/5/2021",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "384416335996",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$184.50",
+        "cert_number": "55847030",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4439320446066024124/3907519610268423761.jpg",
+        "auction_seller": "coins_n_rarities",
+        "grade": "8",
+        "date": "8/10/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275979430418"
+    },
+    {
+        "price": "$133.50",
+        "lot_number": "374576348905",
+        "grade": "8",
+        "date": "3/29/2023",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2219822585057437341/8499279932508287475.jpg",
+        "auction_house": "eBay",
+        "cert_number": "62965364"
+    }
+]

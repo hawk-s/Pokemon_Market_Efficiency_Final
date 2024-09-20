@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$625.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8495739436714351267/-6729062184795347050.jpg",
+        "auction_type": "Best Offer",
+        "auction_seller": "gotta.catch.em.all.collectibles",
+        "lot_number": "164286840572",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/21/2020",
+        "cert_number": "45330964"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1773225948796110792/-6586104693165638988.jpg",
+        "price": "$122.50",
+        "date": "2/20/2020",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "372952339140",
+        "grade": "10",
+        "cert_number": "45330964"
+    },
+    {
+        "price": "$125.00",
+        "lot_number": "223741311867",
+        "date": "5/12/2020",
+        "auction_type": "Buy It Now",
+        "grade": "9",
+        "cert_number": "43437911",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7238401035970744114/-2511792265070008960.jpg",
+        "auction_seller": "thecardgurutcg"
+    },
+    {
+        "date": "1/23/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-758528462006010525/-6586104693165638988.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$192.50",
+        "lot_number": "372912544839",
+        "grade": "10",
+        "cert_number": "45330964"
+    }
+]

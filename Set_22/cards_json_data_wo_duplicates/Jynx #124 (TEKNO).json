@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "zandgemporium",
+        "lot_number": "286023055138",
+        "date": "9/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5200121055563070042/-4215293842100392232.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$521.00",
+        "grade": "10",
+        "cert_number": "75463716"
+    },
+    {
+        "grade": "8",
+        "price": "$232.50",
+        "auction_seller": "cubonejones1833",
+        "lot_number": "405046198532",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7326723352678128068/6302914138459339739.jpg",
+        "cert_number": "67786608",
+        "auction_house": "eBay",
+        "date": "6/28/2024"
+    },
+    {
+        "date": "7/15/2020",
+        "auction_type": "Best Offer",
+        "price": "$200.00",
+        "lot_number": "143447108050",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4526895830215196357/-2337008446411460700.jpg",
+        "grade": "9",
+        "auction_house": "eBay",
+        "auction_seller": "amerlegends",
+        "cert_number": "44419491"
+    }
+]

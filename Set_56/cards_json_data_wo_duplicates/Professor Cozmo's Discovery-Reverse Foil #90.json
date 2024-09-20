@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/19/2021",
+        "auction_seller": "sbunney28",
+        "cert_number": "52549833",
+        "lot_number": "125048674492",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2775584530596094412/-7672905040104835554.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$99.00"
+    },
+    {
+        "date": "5/9/2019",
+        "auction_seller": "numismaticsgmc",
+        "cert_number": "41585155",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4175006673020458396/-4720393667484912325.jpg",
+        "price": "$10.54",
+        "auction_type": "Auction",
+        "lot_number": "273830755842",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "numismaticsgmc",
+        "cert_number": "41585155",
+        "lot_number": "273679216178",
+        "date": "2/6/2019",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2929750108104214000/-6276211465615458558.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$7.59"
+    },
+    {
+        "price": "$13.67",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1972498180176480601/-6712416304200636282.jpg",
+        "date": "11/8/2021",
+        "lot_number": "324854343783",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "48140666",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8651478381439736495/-8704788577755479684.jpg",
+        "lot_number": "144044895779",
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "cert_number": "41585155",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$81.00"
+    }
+]

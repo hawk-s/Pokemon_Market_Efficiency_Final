@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "4050",
+        "grade": "9",
+        "price": "$22.00",
+        "cert_number": "70364608",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1844555533433401664/-5179026472960449459/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction Apr 11 - Apr 20",
+        "date": "4/20/2023"
+    },
+    {
+        "cert_number": "51466061",
+        "date": "7/17/2023",
+        "grade": "9",
+        "price": "$46.00",
+        "lot_number": "314701190615",
+        "auction_type": "Auction",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4171876634521028070/-6651135068286765110.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4467800653336430455/-8760779119867197121.jpg",
+        "auction_seller": "wastle",
+        "auction_type": "Best Offer",
+        "date": "3/27/2020",
+        "cert_number": "41910892",
+        "grade": "9",
+        "price": "$22.00",
+        "auction_house": "eBay",
+        "lot_number": "183826959092"
+    },
+    {
+        "lot_number": "126401779169",
+        "cert_number": "69007469",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "date": "4/4/2024",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-709988662943788024/4796396175140359465.jpg"
+    },
+    {
+        "price": "$160.50",
+        "cert_number": "61163222",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3917084272901344312/-5386703631160800264.jpg",
+        "auction_type": "Auction",
+        "date": "4/24/2023",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "lot_number": "266223393004"
+    }
+]

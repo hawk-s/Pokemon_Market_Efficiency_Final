@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$179.50",
+        "cert_number": "63594257",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "363631056090",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5704847621230480578/-6430131422507365417.jpg",
+        "date": "11/30/2021"
+    },
+    {
+        "price": "$61.00",
+        "cert_number": "45330989",
+        "auction_seller": "probstein123",
+        "lot_number": "372912544838",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8031421346959642178/1104691664029794335.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/23/2020",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "402998067780",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6961608993271077057/8521130530648006208.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/29/2021",
+        "grade": "10",
+        "price": "$336.00",
+        "cert_number": "54579854"
+    },
+    {
+        "grade": "5",
+        "cert_number": "57974629",
+        "auction_seller": "tcgchampion",
+        "price": "$76.00",
+        "lot_number": "354273049751",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/143750721682913401/-3958530488227384879.jpg",
+        "date": "9/18/2022"
+    },
+    {
+        "cert_number": "45330989",
+        "lot_number": "324778687031",
+        "auction_seller": "carter_kidd2019",
+        "price": "$426.11",
+        "auction_type": "Auction",
+        "date": "9/13/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-561821117123360063/-4818210190953951029.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

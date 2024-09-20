@@ -1,0 +1,68 @@
+[
+    {
+        "date": "1/25/2021",
+        "auction_seller": "pocket_monsters_for_sale",
+        "lot_number": "363090851352",
+        "price": "$99.99",
+        "auction_type": "Best Offer",
+        "cert_number": "45743104",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1217939333723798144/-6290932895301504900.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/27/2023",
+        "auction_seller": "parkerspokemon",
+        "lot_number": "314473953650",
+        "price": "$81.27",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4557741837582756728/5927691944422033261.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "66903491",
+        "grade": "10"
+    },
+    {
+        "date": "4/18/2019",
+        "auction_seller": "psa10gem101",
+        "cert_number": "43079907",
+        "lot_number": "123732376673",
+        "price": "$19.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2600363144808324697/8443236733582082901.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/9/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8034786129323018198/-6688827419046511643.jpg",
+        "price": "$13.50",
+        "cert_number": "45411176",
+        "auction_seller": "tsunagu",
+        "lot_number": "254528388596",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$45.00",
+        "cert_number": "73354878",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/917189555333220266/6460019795257428048.jpg",
+        "date": "7/16/2024",
+        "auction_seller": "hexikyu_japan",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364993842787"
+    },
+    {
+        "lot_number": "363084662507",
+        "auction_seller": "pocket_monsters_for_sale",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2852567328661434695/205001855553817189.jpg",
+        "auction_type": "Best Offer",
+        "date": "8/29/2020",
+        "grade": "9",
+        "price": "$35.00",
+        "auction_house": "eBay",
+        "cert_number": "45675330"
+    }
+]

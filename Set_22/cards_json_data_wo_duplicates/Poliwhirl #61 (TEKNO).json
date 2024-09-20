@@ -1,0 +1,46 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8429661850228714459/-2447128897491414788.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$120.00",
+        "date": "4/4/2020",
+        "grade": "9",
+        "auction_seller": "conshap",
+        "cert_number": "45927194",
+        "lot_number": "223944614342",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "2/5/2023",
+        "auction_seller": "projectmiu",
+        "cert_number": "70252625",
+        "lot_number": "266105097769",
+        "auction_type": "Auction",
+        "price": "$885.00",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5131341763613803034/-4890568742921235415.jpg",
+        "grade": "10"
+    },
+    {
+        "price": "$234.21",
+        "auction_seller": "coins_n_rarities",
+        "date": "8/10/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1314662181354052536/-5495659640838853062.jpg",
+        "grade": "9",
+        "cert_number": "45927194",
+        "lot_number": "275979403578",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "justwantagooddeal",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8985371986063625982/8658279643270905940.jpg",
+        "price": "$895.00",
+        "grade": "9",
+        "cert_number": "45927194",
+        "auction_house": "eBay",
+        "lot_number": "143825172527",
+        "date": "11/11/2020"
+    }
+]

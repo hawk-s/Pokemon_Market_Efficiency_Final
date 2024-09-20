@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "slab10stradingcards",
+        "lot_number": "203788391093",
+        "cert_number": "53691486",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6900565028528684341/6009985553112745822.jpg",
+        "grade": "9",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/16/2022"
+    },
+    {
+        "cert_number": "54889405",
+        "lot_number": "185259354262",
+        "auction_seller": "bucsandnolesfaninatl",
+        "price": "$6.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7984700914111030888/-7301474622219284206.jpg",
+        "auction_house": "eBay",
+        "date": "1/29/2022"
+    },
+    {
+        "lot_number": "275094211587",
+        "price": "$9.50",
+        "cert_number": "54014267",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2069052364134889744/-3867783555926759182.jpg",
+        "auction_seller": "jacanddan_collectibles",
+        "date": "1/21/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

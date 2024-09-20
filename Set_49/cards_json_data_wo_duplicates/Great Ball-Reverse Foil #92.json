@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$15.00",
+        "cert_number": "27074873",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4352062608994287710/4339719733183164386.jpg",
+        "date": "8/27/2017",
+        "auction_seller": "kevinh703",
+        "auction_type": "Auction",
+        "lot_number": "182725848812",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "285776308466",
+        "cert_number": "42257292",
+        "date": "3/31/2024",
+        "price": "$46.91",
+        "auction_seller": "sakuracache",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2324889046859219502/-8808739730092674228.jpg"
+    },
+    {
+        "date": "1/25/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7338148082943026035/6620285471476140335.jpg",
+        "lot_number": "274651642248",
+        "cert_number": "51843803",
+        "grade": "9",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_seller": "austiobrie-28",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "86158043",
+        "lot_number": "375350420863",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7323080059863856910/4117920197964861721.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "4/11/2024",
+        "auction_house": "eBay",
+        "price": "$12.89"
+    },
+    {
+        "lot_number": "154604189186",
+        "date": "9/16/2021",
+        "auction_seller": "cardscomicsandmore4u",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5595637596864372676/6186823460099913516.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "51049936",
+        "price": "$32.00"
+    },
+    {
+        "cert_number": "26830002",
+        "lot_number": "162473453071",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6455682966762892242/-2623198516032079694.jpg",
+        "auction_seller": "powerpad1",
+        "auction_type": "Auction",
+        "date": "4/23/2017",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    }
+]

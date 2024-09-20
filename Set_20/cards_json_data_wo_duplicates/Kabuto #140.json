@@ -1,0 +1,46 @@
+[
+    {
+        "date": "9/8/2023",
+        "lot_number": "195968229454",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5448798398901189996/-8884182929595443658.jpg",
+        "price": "$18.72",
+        "cert_number": "62882683",
+        "grade": "9",
+        "auction_seller": "gcbtradingcards",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/27/2023",
+        "cert_number": "61169385",
+        "price": "$9.02",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "285439177109",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1222732646372621695/2479362701296652405.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4865857814335363268/1777038648982486795.jpg",
+        "date": "9/2/2024",
+        "cert_number": "94064976",
+        "price": "$34.00",
+        "auction_seller": "steja_81",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "365087254716",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/73663178384950574/-1729553230445084358.jpg",
+        "cert_number": "65214901",
+        "auction_seller": "tcg_stockpile",
+        "lot_number": "355275130159",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

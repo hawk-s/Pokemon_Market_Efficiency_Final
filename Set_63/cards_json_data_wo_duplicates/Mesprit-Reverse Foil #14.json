@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "price": "$15.07",
+        "cert_number": "60764646",
+        "lot_number": "115738782192",
+        "date": "3/29/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5996299033705384448/4349840788849867326.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1134202623711496724/-1866386568968071998.jpg",
+        "price": "$39.99",
+        "cert_number": "55684528",
+        "grade": "9",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "294762419124",
+        "date": "1/30/2022"
+    },
+    {
+        "auction_seller": "rdtarr",
+        "auction_type": "Best Offer",
+        "lot_number": "353381884563",
+        "date": "3/18/2021",
+        "grade": "9",
+        "cert_number": "46742674",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7285265890042875191/-4170509334291260637.jpg",
+        "auction_house": "eBay",
+        "price": "$89.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6779809347789377727/7912404588714501855.jpg",
+        "cert_number": "49197010",
+        "date": "4/29/2023",
+        "lot_number": "334843554185",
+        "price": "$24.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "gem_mint_collections",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/28/2024",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5439365509187148291/6918945820901399660.jpg",
+        "cert_number": "76069371",
+        "auction_seller": "thesubcentersales",
+        "price": "$12.62",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "166562213802"
+    },
+    {
+        "cert_number": "72010545",
+        "lot_number": "134628954717",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5128257721844158425/6359686326430576102.jpg",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "date": "6/30/2023",
+        "auction_house": "eBay",
+        "auction_seller": "brosia"
+    }
+]

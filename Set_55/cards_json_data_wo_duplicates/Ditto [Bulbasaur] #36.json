@@ -1,0 +1,101 @@
+[
+    {
+        "grade": "7",
+        "price": "$13.00",
+        "date": "12/30/2023",
+        "lot_number": "204590517476",
+        "cert_number": "78813716",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5459925128886993042/-6429092000287809451.jpg",
+        "auction_seller": "thesweets34",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "375431074376",
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2517413409676618154/-7853564550322409927.jpg",
+        "date": "5/21/2024",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70828428"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6397476454601760392/8108700158110897824.jpg",
+        "cert_number": "55266351",
+        "auction_seller": "card_secret",
+        "grade": "9",
+        "date": "8/4/2024",
+        "auction_type": "Auction",
+        "lot_number": "126592963549",
+        "auction_house": "eBay",
+        "price": "$33.00"
+    },
+    {
+        "date": "2/19/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3716760212176303747/-722881663628868817.jpg",
+        "lot_number": "254871605257",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "boilerupactuary",
+        "cert_number": "45823966"
+    },
+    {
+        "lot_number": "184261800633",
+        "auction_type": "Best Offer",
+        "date": "5/1/2020",
+        "auction_house": "eBay",
+        "price": "$100.00",
+        "auction_seller": "antiochcollectables",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4660872371591018879/5948066032897495518.jpg",
+        "cert_number": "43201581",
+        "grade": "10"
+    },
+    {
+        "lot_number": "234806211440",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7392123103445923676/-7932901435538621096.jpg",
+        "date": "12/9/2022",
+        "auction_seller": "goats-n-pros",
+        "cert_number": "68934615",
+        "grade": "9",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "94092374",
+        "date": "8/30/2024",
+        "price": "$24.21",
+        "lot_number": "204954298403",
+        "grade": "6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2796106410922177492/-2790710565825037910.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "slabsharksinc",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "59662196",
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1592149375487385524/-7025915354007480542.jpg",
+        "auction_seller": "kirkeengen",
+        "date": "5/24/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "134572029349",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "124441627156",
+        "auction_type": "Best Offer",
+        "auction_seller": "danimak88",
+        "cert_number": "43539631",
+        "grade": "9",
+        "price": "$75.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-215694149939534467/-6894501442644872206.jpg",
+        "auction_house": "eBay",
+        "date": "12/24/2020"
+    }
+]

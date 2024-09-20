@@ -1,0 +1,24 @@
+[
+    {
+        "auction_type": "Buy It Now",
+        "date": "7/21/2020",
+        "lot_number": "392870425672",
+        "auction_seller": "elodie.62",
+        "price": "$5,148.21",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6802036286379576785/-4213314410905221414.jpg",
+        "cert_number": "46391511",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "cabanscards123",
+        "cert_number": "46391510",
+        "auction_type": "Best Offer",
+        "price": "$1,349.99",
+        "date": "11/2/2020",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5065729089570551268/-7194354297083973330.jpg",
+        "lot_number": "193632288845"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "55886204",
+        "date": "4/9/2023",
+        "lot_number": "374593693690",
+        "price": "$10.02",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8388116650501871252/-6544379758916480381.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$36.85",
+        "cert_number": "56958481",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7423918724008020470/-4307009668543274947.jpg",
+        "date": "12/15/2022",
+        "auction_seller": "sonofhercules",
+        "auction_type": "Auction",
+        "lot_number": "285058901234",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "hexmaniacchris",
+        "lot_number": "355099016113",
+        "cert_number": "77392867",
+        "price": "$20.00",
+        "date": "10/21/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5838470079417288690/-19837895428026061.jpg",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "4/21/2024",
+        "cert_number": "86405353",
+        "auction_seller": "vacamann",
+        "grade": "9",
+        "price": "$9.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2144906638167011502/75259696833786010.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "296363046373"
+    },
+    {
+        "auction_seller": "tannah12",
+        "cert_number": "60759939",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6158168787335162026/3137391062307652991.jpg",
+        "grade": "9",
+        "price": "$20.98",
+        "lot_number": "155472048602",
+        "date": "4/2/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$15.00",
+        "lot_number": "303611773264",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7167727299511196991/632419273950348798.jpg",
+        "cert_number": "46052029",
+        "date": "7/31/2020",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "eugeningra-6"
+    },
+    {
+        "cert_number": "56958481",
+        "lot_number": "285008377654",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2547673268738578707/9089939619886183332.jpg",
+        "price": "$29.62",
+        "auction_seller": "sonofhercules",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/3/2022",
+        "grade": "10"
+    }
+]

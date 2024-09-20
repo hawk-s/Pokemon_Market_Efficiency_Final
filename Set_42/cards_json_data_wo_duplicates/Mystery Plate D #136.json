@@ -1,0 +1,35 @@
+[
+    {
+        "date": "5/14/2022",
+        "auction_seller": "gemmint-10",
+        "price": "$30.55",
+        "lot_number": "354048339463",
+        "cert_number": "56120814",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-225043020431828761/9167129043068302561.jpg",
+        "grade": "10"
+    },
+    {
+        "price": "$16.76",
+        "cert_number": "62345220",
+        "auction_seller": "pokematt_ig",
+        "lot_number": "115669314655",
+        "date": "1/23/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1744637741399972225/-8157216445287316895.jpg",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "cert_number": "41643905",
+        "lot_number": "315550401981",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-902465203238791193/1612327523908356112.jpg",
+        "date": "7/30/2024",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

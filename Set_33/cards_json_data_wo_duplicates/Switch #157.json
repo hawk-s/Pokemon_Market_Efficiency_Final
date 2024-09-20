@@ -1,0 +1,90 @@
+[
+    {
+        "date": "10/4/2021",
+        "auction_seller": "rainydaycards",
+        "lot_number": "174951387566",
+        "grade": "8",
+        "price": "$1.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3664833148788037743/-8525165349524522151.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "50461286"
+    },
+    {
+        "lot_number": "364372140422",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5635871779564502354/7725234426713903018.jpg",
+        "auction_seller": "probstein123",
+        "price": "$20.50",
+        "cert_number": "75936957",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/1/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6689918419788207211/5917886989823908693.jpg",
+        "date": "12/12/2023",
+        "lot_number": "256331526806",
+        "grade": "9",
+        "cert_number": "54082752",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "frenzy_collectors",
+        "price": "$29.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3542060486895889763/3735017197201932401.jpg",
+        "auction_seller": "wezzer_collectables",
+        "cert_number": "71821407",
+        "lot_number": "126066051252",
+        "date": "9/1/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$18.64",
+        "grade": "10"
+    },
+    {
+        "date": "1/4/2024",
+        "cert_number": "54082751",
+        "lot_number": "256357773028",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "frenzy_collectors",
+        "grade": "10",
+        "price": "$29.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2984243532746239183/8506005257382482217.jpg"
+    },
+    {
+        "price": "$12.82",
+        "cert_number": "58205784",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2954041340810239428/-1249139917732773188.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokedreammarket",
+        "date": "7/6/2024",
+        "lot_number": "186502950633"
+    },
+    {
+        "date": "9/25/2019",
+        "lot_number": "143382902415",
+        "price": "$2.25",
+        "cert_number": "43232585",
+        "auction_seller": "pwcc_auctions",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8387680182404349928/6892936223666504941.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "142541622902",
+        "date": "10/23/2017",
+        "price": "$5.00",
+        "cert_number": "27616014",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/8885139596866107269/-3284438355600589898.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$24.95",
+        "auction_seller": "jnbcards",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "cert_number": "28758775",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2322016726445266672/-4085936366770179860.jpg",
+        "date": "8/17/2019",
+        "auction_house": "eBay",
+        "lot_number": "113779870605"
+    },
+    {
+        "price": "$26.73",
+        "grade": "8",
+        "cert_number": "50774582",
+        "date": "10/18/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2573883670421157754/8998734625200561294.jpg",
+        "lot_number": "324820604211",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "date": "4/24/2019",
+        "price": "$9.38",
+        "grade": "9",
+        "cert_number": "28758775",
+        "auction_type": "Auction",
+        "lot_number": "143215138662",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1464039211559948238/7379556209709371350.jpg"
+    }
+]

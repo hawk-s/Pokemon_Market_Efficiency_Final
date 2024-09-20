@@ -1,0 +1,79 @@
+[
+    {
+        "lot_number": "255124460760",
+        "date": "9/11/2021",
+        "cert_number": "58092882",
+        "auction_seller": "tsunagu",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7190571629456267451/-2217694049666164644.jpg"
+    },
+    {
+        "lot_number": "234869597715",
+        "cert_number": "57041045",
+        "date": "1/29/2023",
+        "auction_seller": "goldrush_cards",
+        "price": "$33.61",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2656535174743317482/-726737346543637236.jpg"
+    },
+    {
+        "cert_number": "63456038",
+        "price": "$41.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6820079185665908501/-2013725170697554292.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "384654674424",
+        "date": "1/11/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/28/2023",
+        "price": "$34.13",
+        "cert_number": "63035805",
+        "auction_type": "Auction",
+        "lot_number": "275908314365",
+        "auction_seller": "epicdiscoverys",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/727920283566330653/-6075193510560514175.jpg",
+        "grade": "10"
+    },
+    {
+        "price": "$39.66",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2800805245736236200/6671859015020460749.jpg",
+        "auction_seller": "goldrush_cards",
+        "date": "1/20/2023",
+        "lot_number": "234861349597",
+        "auction_type": "Auction",
+        "cert_number": "57041044",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "63041410",
+        "lot_number": "384780677949",
+        "grade": "10",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "date": "3/22/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3213218715500094683/5777799487411800300.jpg"
+    },
+    {
+        "cert_number": "57041043",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7842648706422137478/-1437593846724373034.jpg",
+        "date": "1/1/2023",
+        "auction_seller": "goldrush_cards",
+        "price": "$26.82",
+        "lot_number": "234834372800",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

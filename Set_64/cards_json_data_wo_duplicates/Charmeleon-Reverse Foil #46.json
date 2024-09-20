@@ -1,0 +1,24 @@
+[
+    {
+        "date": "12/12/2022",
+        "grade": "7",
+        "price": "$9.50",
+        "lot_number": "334653475044",
+        "auction_seller": "goats-n-pros",
+        "cert_number": "68934683",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6392258318598578597/-5518028833553898431.jpg"
+    },
+    {
+        "date": "12/14/2022",
+        "price": "$52.00",
+        "cert_number": "68593369",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7768627879621802763/8989682603287942440.jpg",
+        "lot_number": "314255973456",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    }
+]

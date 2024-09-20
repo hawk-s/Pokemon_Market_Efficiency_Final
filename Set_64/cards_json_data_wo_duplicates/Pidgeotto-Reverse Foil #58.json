@@ -1,0 +1,24 @@
+[
+    {
+        "cert_number": "63912008",
+        "lot_number": "364331363707",
+        "price": "$15.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7030311386645600384/-663473052279829268.jpg",
+        "date": "7/9/2023",
+        "auction_seller": "rayquaza4eva"
+    },
+    {
+        "lot_number": "364441757595",
+        "price": "$1.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3484134523307535268/-6978249511287076592.jpg",
+        "grade": "9",
+        "date": "9/1/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "63912008",
+        "auction_seller": "rayquaza4eva"
+    }
+]

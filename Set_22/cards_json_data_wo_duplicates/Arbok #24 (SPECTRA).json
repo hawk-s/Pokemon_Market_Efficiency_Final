@@ -1,0 +1,90 @@
+[
+    {
+        "date": "7/27/2024",
+        "auction_seller": "psa",
+        "lot_number": "305681045362",
+        "grade": "8",
+        "cert_number": "93422171",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8976663643661205763/1472514127449205520.jpg"
+    },
+    {
+        "cert_number": "48565230",
+        "date": "6/17/2021",
+        "auction_seller": "casablanca_comics",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9081530896097585324/8622431780419465418.jpg",
+        "grade": "9",
+        "lot_number": "194195343737",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$199.99",
+        "date": "4/9/2021",
+        "lot_number": "393231498082",
+        "cert_number": "47301688",
+        "auction_seller": "surfcitycards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1213958842293231326/-4430288329206522101.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "72344454",
+        "date": "5/22/2023",
+        "grade": "8",
+        "lot_number": "295700546167",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "nspshop",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3183858974058393058/7894726018681342546.jpg",
+        "price": "$18.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4358095858385301837/5758468482296263530.jpg",
+        "auction_seller": "presidiogaming",
+        "price": "$34.95",
+        "lot_number": "352837633530",
+        "cert_number": "43605421",
+        "date": "11/5/2019",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "5/6/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3402637867205077425/1395844237260533860.jpg",
+        "grade": "8",
+        "lot_number": "375401226191",
+        "auction_seller": "probstein123",
+        "cert_number": "83136992",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "auction_seller": "killerkards",
+        "lot_number": "254620725808",
+        "auction_type": "Best Offer",
+        "date": "11/2/2020",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$66.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4964807430494632227/6931084879258560763.jpg",
+        "cert_number": "45358510"
+    },
+    {
+        "price": "$28.89",
+        "lot_number": "226180860443",
+        "grade": "9",
+        "auction_seller": "dr.collec_50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-530157882369310148/2269145059547930485.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "56415814",
+        "date": "6/24/2024"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$6.25",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9051307553187607383/-540635434802824043.jpg",
+        "cert_number": "55518623",
+        "lot_number": "265512783112",
+        "auction_seller": "sellers_sportscards",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/29/2022"
+    },
+    {
+        "cert_number": "56478640",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5921941715594116147/-2744934571455274711.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "363723292279",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$12.53",
+        "date": "2/18/2022"
+    },
+    {
+        "lot_number": "145715347656",
+        "date": "4/16/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-180018752082663783/731070772709366499.jpg",
+        "cert_number": "57612954",
+        "auction_seller": "zippernipper",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$13.07",
+        "grade": "10"
+    }
+]

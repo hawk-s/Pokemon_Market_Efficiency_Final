@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "hoodyscollectibles",
+        "lot_number": "144976127071",
+        "date": "3/14/2023",
+        "cert_number": "68767403",
+        "price": "$46.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7290118243368978177/-5473589330260798695.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "57250745",
+        "price": "$6.50",
+        "lot_number": "175707181204",
+        "auction_type": "Auction",
+        "auction_seller": "pcbtcgs",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4792349107675821547/2960262097158001035.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "5/5/2023"
+    },
+    {
+        "date": "12/19/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1236142239350514474/-5133739462300063660.jpg",
+        "lot_number": "313798518199",
+        "cert_number": "53764805",
+        "price": "$35.00",
+        "auction_seller": "aydenstreasurechest",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/27/2024",
+        "cert_number": "60473564",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6374298358787415476/-1671182171407926033.jpg",
+        "auction_seller": "metallica-pikachu",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "176198484566",
+        "grade": "10",
+        "price": "$66.00"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5552069875942749227/-6988085811633132068.jpg",
+        "cert_number": "55932566",
+        "date": "3/18/2022",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "363759218646"
+    }
+]

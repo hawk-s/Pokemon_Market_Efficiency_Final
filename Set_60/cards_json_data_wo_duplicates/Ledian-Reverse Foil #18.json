@@ -1,0 +1,101 @@
+[
+    {
+        "lot_number": "185964067682",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8085854900317067713/7940899704930760496.jpg",
+        "price": "$45.00",
+        "auction_seller": "poke_paradise",
+        "cert_number": "47033304",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/9/2023"
+    },
+    {
+        "cert_number": "40935174",
+        "date": "1/29/2021",
+        "price": "$76.00",
+        "lot_number": "164660616621",
+        "auction_seller": "guildwars2mesmer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/909711821495382468/-2516872910267434036.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "66512939",
+        "lot_number": "374470156516",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9126507197909072298/4597790879705187859.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "price": "$51.00",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "1/27/2023"
+    },
+    {
+        "cert_number": "40935174",
+        "auction_type": "Best Offer",
+        "auction_seller": "mackavn",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5446316127375442434/8175546780260367719.jpg",
+        "price": "$400.00",
+        "date": "3/31/2021",
+        "auction_house": "eBay",
+        "lot_number": "174703998068",
+        "grade": "10"
+    },
+    {
+        "lot_number": "235177600527",
+        "date": "9/11/2023",
+        "grade": "9",
+        "price": "$15.52",
+        "cert_number": "70268246",
+        "auction_seller": "ericz9933",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1622799808558306714/-811952748790543748.jpg"
+    },
+    {
+        "date": "4/28/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7904361696786048931/-1316248881979574173.jpg",
+        "price": "$61.00",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "144012089863",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "45442483"
+    },
+    {
+        "date": "10/30/2020",
+        "auction_seller": "cardrushinc",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3661303483428580795/-324692401909700184.jpg",
+        "cert_number": "40769154",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$49.95",
+        "lot_number": "273282360066"
+    },
+    {
+        "cert_number": "68792986",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2885370631282369489/-2115562909563676944.jpg",
+        "auction_seller": "probstein123",
+        "lot_number": "385417273020",
+        "auction_type": "Auction",
+        "price": "$57.51",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "2/22/2023"
+    },
+    {
+        "price": "$4.85",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-1824237584187336454/-3860344334446130304.jpg",
+        "date": "11/24/2017",
+        "auction_seller": "sullivance1988",
+        "lot_number": "263330458160",
+        "grade": "9",
+        "cert_number": "26748669",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

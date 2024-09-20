@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "warehous5store",
+        "lot_number": "133971239993",
+        "price": "$10.50",
+        "date": "12/29/2021",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1257993442867156690/4342454180496830909.jpg",
+        "cert_number": "54150487"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "price": "$7.16",
+        "date": "12/7/2023",
+        "grade": "9",
+        "lot_number": "335135112894",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "54982644",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3608391449848737373/-4679036134089826424.jpg"
+    },
+    {
+        "price": "$7.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8290560970293275931/6599356303455669002.jpg",
+        "lot_number": "386149700942",
+        "auction_seller": "probstein123",
+        "cert_number": "54982501",
+        "date": "10/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

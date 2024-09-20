@@ -1,0 +1,134 @@
+[
+    {
+        "date": "12/12/2021",
+        "price": "$43.00",
+        "lot_number": "284551067431",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3634791906128957641/8132985935798940168.jpg",
+        "auction_seller": "thepokeman",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27503253"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2487019597995412211/264489338438161911.jpg",
+        "cert_number": "27503254",
+        "auction_seller": "okemos16",
+        "price": "$10.00",
+        "date": "11/14/2019",
+        "lot_number": "254416335106",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "292315924717",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-1045294907852095255/-4493290497323844426.jpg",
+        "price": "$0.99",
+        "cert_number": "27503257",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/12/2017"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-5838603708399018306/7944255967177885339.jpg",
+        "cert_number": "27503257",
+        "date": "9/19/2017",
+        "price": "$9.99",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "292251652564"
+    },
+    {
+        "auction_seller": "hitsquad70",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5717551948766600024/5661186417423682280.jpg",
+        "date": "12/11/2021",
+        "cert_number": "52158712",
+        "price": "$41.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "284549243869",
+        "grade": "10"
+    },
+    {
+        "cert_number": "59536865",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2954953197973969216/7214559884992422795.jpg",
+        "auction_seller": "cardsandgamingau",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "386206217436",
+        "date": "10/28/2023",
+        "auction_house": "eBay",
+        "price": "$9.81"
+    },
+    {
+        "date": "11/20/2017",
+        "price": "$4.99",
+        "cert_number": "27503257",
+        "lot_number": "292329904875",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4607448522524233539/7944255967177885339.jpg"
+    },
+    {
+        "date": "11/1/2017",
+        "price": "$7.82",
+        "lot_number": "292303470208",
+        "cert_number": "27503257",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/7635654989473290911/-4493290497323844426.jpg"
+    },
+    {
+        "date": "11/13/2017",
+        "price": "$15.00",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4208854995789516250/7944255967177885339.jpg",
+        "lot_number": "292218660586",
+        "auction_type": "Best Offer",
+        "cert_number": "27503257",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4045781349383107619/-4493290497323844426.jpg",
+        "date": "11/27/2017",
+        "cert_number": "27503257",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tnolan0816",
+        "price": "$5.24",
+        "grade": "10",
+        "lot_number": "292341758086"
+    },
+    {
+        "date": "6/16/2019",
+        "auction_type": "Buy It Now",
+        "cert_number": "42070122",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_house": "eBay",
+        "auction_seller": "blowoutcards2",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1883934686071911047/-9136650594597749474.jpg",
+        "lot_number": "192826277424"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/805592352002053350/-7187121083508388000.jpg",
+        "cert_number": "27503254",
+        "lot_number": "142691771686",
+        "auction_seller": "pokedad_gym",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/20/2018",
+        "grade": "10"
+    }
+]

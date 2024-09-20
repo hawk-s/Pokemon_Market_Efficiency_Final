@@ -1,0 +1,35 @@
+[
+    {
+        "date": "7/24/2021",
+        "grade": "8",
+        "auction_seller": "ramcanyon",
+        "auction_type": "Auction",
+        "lot_number": "154534743467",
+        "auction_house": "eBay",
+        "cert_number": "47558532",
+        "price": "$0.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3268029576683252446/5023031460146725400.jpg"
+    },
+    {
+        "auction_seller": "unbeatableseller2001",
+        "grade": "8",
+        "date": "10/28/2022",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "lot_number": "165735560604",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8421891334540245066/-4425234701761464640.jpg",
+        "cert_number": "55508172"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5102402716239514238/-3401265830360110502.jpg",
+        "price": "$17.00",
+        "auction_seller": "m2302p",
+        "grade": "8",
+        "lot_number": "166079424126",
+        "auction_type": "Auction",
+        "date": "5/14/2023",
+        "auction_house": "eBay",
+        "cert_number": "55508172"
+    }
+]

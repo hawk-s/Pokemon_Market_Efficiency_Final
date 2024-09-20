@@ -1,0 +1,79 @@
+[
+    {
+        "date": "12/1/2021",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7410906371315562964/-4728247238220871850.jpg",
+        "auction_type": "Auction",
+        "cert_number": "49625765",
+        "lot_number": "294572133491",
+        "auction_house": "eBay",
+        "auction_seller": "gen1_john",
+        "price": "$16.50"
+    },
+    {
+        "auction_seller": "robk0215",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4093532230855330995/7163321851256479768.jpg",
+        "lot_number": "174986890526",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "11/1/2021",
+        "cert_number": "49625765",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "auction_seller": "robk0215",
+        "date": "10/15/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5846632186186708264/-6293661311869506815.jpg",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "cert_number": "49625768",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "174969097340"
+    },
+    {
+        "date": "7/7/2023",
+        "lot_number": "394714913742",
+        "price": "$15.50",
+        "grade": "9",
+        "cert_number": "73883532",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6891513408147053125/7411452874494058296.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "radela10"
+    },
+    {
+        "date": "1/27/2024",
+        "cert_number": "65442121",
+        "price": "$26.00",
+        "auction_type": "Auction",
+        "lot_number": "335216811961",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1858424318749314984/-3958088571801565772.jpg"
+    },
+    {
+        "auction_seller": "robk0215",
+        "date": "11/10/2021",
+        "price": "$61.00",
+        "lot_number": "175005648277",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6898206080543153345/-3282174687036712362.jpg",
+        "cert_number": "49625767",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "troll.aus",
+        "lot_number": "155444795239",
+        "date": "3/19/2023",
+        "cert_number": "70372785",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2983949550381733369/3782759962865686143.jpg",
+        "auction_house": "eBay",
+        "price": "$22.72",
+        "grade": "10"
+    }
+]

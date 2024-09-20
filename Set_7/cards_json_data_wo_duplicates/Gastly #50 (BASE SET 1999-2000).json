@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "93850417",
+        "price": "$20.47",
+        "date": "8/2/2024",
+        "grade": "9",
+        "auction_seller": "fayeyork23",
+        "lot_number": "156323359728",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8154856936256105704/5261807381811164250.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3011643272201307664/-8947751447102115396.jpg",
+        "auction_seller": "tripleplayvintagestore",
+        "date": "9/12/2021",
+        "price": "$46.00",
+        "auction_type": "Auction",
+        "cert_number": "53092997",
+        "lot_number": "133865407121",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "285494158359",
+        "auction_seller": "zandgemporium",
+        "cert_number": "78147175",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7419528443477687858/-1931020948478919430.jpg",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/8/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5446502037252487897/2638347763675532025.jpg",
+        "price": "$15.00",
+        "cert_number": "78147210",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "lot_number": "285494238996",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/8/2023"
+    },
+    {
+        "price": "$53.31",
+        "lot_number": "405190815874",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1043503301690518086/6397919509842159615.jpg",
+        "date": "9/2/2024",
+        "auction_seller": "jimmythefluff",
+        "cert_number": "54430534",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/11/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1566978625294225281/1304819419865390473.jpg",
+        "auction_seller": "tziekscards",
+        "cert_number": "71255575",
+        "grade": "10",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "195641940464"
+    },
+    {
+        "date": "6/23/2024",
+        "price": "$9.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4330473247788651690/-7668244947593355036.jpg",
+        "auction_seller": "poke_1st_edition",
+        "lot_number": "285913505209",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "91866975",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/307638012803329248/4806146747326653175.jpg",
+        "date": "3/17/2023",
+        "cert_number": "71255574",
+        "auction_seller": "tziekscards",
+        "price": "$35.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "195652390122"
+    }
+]

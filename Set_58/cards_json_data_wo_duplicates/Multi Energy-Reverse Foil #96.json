@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4532169225849005411/8708567290070609348.jpg",
+        "lot_number": "254395364711",
+        "cert_number": "42559413",
+        "auction_seller": "danny.vazqu",
+        "auction_type": "Auction",
+        "date": "10/27/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7729501898990020297/-6111461134747290382.jpg",
+        "grade": "8",
+        "auction_seller": "leoliv4",
+        "price": "$35.00",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "cert_number": "47757444",
+        "lot_number": "115215888237",
+        "date": "1/30/2022"
+    },
+    {
+        "lot_number": "333276544836",
+        "auction_type": "Buy It Now",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_seller": "northcountrycards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7540797433087574263/3669829681409879664.jpg",
+        "cert_number": "26748671",
+        "auction_house": "eBay",
+        "date": "11/28/2019"
+    }
+]

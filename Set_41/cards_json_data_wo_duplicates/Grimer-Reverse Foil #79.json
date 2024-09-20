@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "robk0215",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6936347339192038734/-1122515333413105083.jpg",
+        "date": "9/10/2021",
+        "cert_number": "49874157",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "lot_number": "174921298882",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "price": "$18.26",
+        "cert_number": "67260357",
+        "date": "12/28/2022",
+        "auction_type": "Auction",
+        "lot_number": "385305926937",
+        "auction_seller": "krukcards",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7602297622794665469/-9005235003087605383.jpg"
+    },
+    {
+        "lot_number": "166209296283",
+        "cert_number": "69625732",
+        "grade": "8",
+        "price": "$18.52",
+        "date": "7/17/2023",
+        "auction_type": "Auction",
+        "auction_seller": "jebr4566",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7033502544266607343/-6109039295324068623.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "40771492",
+        "lot_number": "142836549036",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1567336840966017268/-1779854758521689439.jpg",
+        "grade": "9",
+        "price": "$2.28",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018"
+    }
+]

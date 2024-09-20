@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$69.85",
+        "cert_number": "28279085",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8185439672625336152/-5059423639553001650.jpg",
+        "lot_number": "124614235726",
+        "auction_seller": "gezowen16",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "3/12/2021"
+    },
+    {
+        "auction_seller": "tannah10s",
+        "price": "$99.31",
+        "cert_number": "60967394",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4074847032696488389/-4032210852714593897.jpg",
+        "lot_number": "115876862600",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/9/2023",
+        "grade": "10"
+    },
+    {
+        "cert_number": "86471920",
+        "price": "$4.25",
+        "auction_seller": "saiko_collectibles",
+        "grade": "9",
+        "date": "7/7/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-671163619630282405/3341233092990356958.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "405067920776"
+    }
+]

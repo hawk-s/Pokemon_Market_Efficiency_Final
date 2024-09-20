@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "rc_cards",
+        "date": "1/17/2022",
+        "price": "$20.50",
+        "lot_number": "255324450079",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/268120246286734270/2566956041954756933.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "57542388"
+    },
+    {
+        "date": "1/28/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4923236286680024141/1773249725116760981.jpg",
+        "cert_number": "54775811",
+        "lot_number": "125112486325",
+        "price": "$15.50",
+        "auction_seller": "itsalhill",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "375313674859",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6943835091243645920/6843504191461657683.jpg",
+        "auction_seller": "probstein123",
+        "cert_number": "62732434",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "date": "3/26/2024"
+    },
+    {
+        "price": "$14.19",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1782011418913058134/7100362165909630353.jpg",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "61598600",
+        "lot_number": "235143997453"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7163826094911317597/-41195529861648327.jpg",
+        "date": "12/13/2021",
+        "auction_seller": "kardboardkid95",
+        "cert_number": "53517679",
+        "auction_type": "Auction",
+        "lot_number": "203742686445",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    }
+]

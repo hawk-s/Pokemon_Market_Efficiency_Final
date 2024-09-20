@@ -1,0 +1,68 @@
+[
+    {
+        "date": "5/17/2019",
+        "lot_number": "192912627802",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/265533172756729385/329682343430456309.jpg",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "price": "$3.99",
+        "auction_house": "eBay",
+        "cert_number": "41078857"
+    },
+    {
+        "auction_seller": "sports.connection",
+        "date": "12/31/2021",
+        "lot_number": "175081717306",
+        "grade": "9",
+        "cert_number": "47585929",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3666075007190339391/5259046734864695268.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4343582800963483062/3843742875447636471.jpg",
+        "date": "11/8/2021",
+        "lot_number": "324854436920",
+        "cert_number": "49764366",
+        "grade": "9",
+        "price": "$13.26",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "dualcollectibleinc"
+    },
+    {
+        "lot_number": "135174406610",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8749906266393215962/6597587903915216357.jpg",
+        "price": "$14.75",
+        "date": "8/11/2024",
+        "grade": "8",
+        "cert_number": "94265716",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "comc_consignment",
+        "lot_number": "256069492180",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4638194172690797498/5213644401051721.jpg",
+        "grade": "8",
+        "date": "5/20/2023",
+        "price": "$10.52",
+        "cert_number": "70860808",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "8",
+        "auction_seller": "Weekly Auction May 2 - May 11",
+        "cert_number": "71339208",
+        "price": "$14.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-100688859706532911/1356138674403339284/images/1.jpg",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "5/11/2023",
+        "lot_number": "4813"
+    }
+]

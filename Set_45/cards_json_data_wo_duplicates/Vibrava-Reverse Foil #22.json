@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "60759974",
+        "grade": "7",
+        "date": "2/20/2023",
+        "price": "$15.42",
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6127617074402765267/-8757351639027779089.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "155400213986"
+    },
+    {
+        "auction_seller": "thepokejungle",
+        "date": "7/29/2024",
+        "cert_number": "62881972",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6005640978159818042/8479854769352109804.jpg",
+        "lot_number": "186582210316",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$10.99"
+    },
+    {
+        "auction_type": "Best Offer",
+        "date": "5/30/2020",
+        "price": "$24.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7546486370711301705/-5081621404428213968.jpg",
+        "grade": "9",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay",
+        "cert_number": "43350642",
+        "lot_number": "283565256969"
+    },
+    {
+        "auction_seller": "habbyshobbies",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-858114134313877667/8932355227834586674.jpg",
+        "lot_number": "383220981389",
+        "auction_type": "Auction",
+        "cert_number": "44306540",
+        "date": "10/24/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "143580842840",
+        "cert_number": "41412217",
+        "grade": "8",
+        "auction_seller": "pokedad_gym",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1973287797583146657/8566147142990729792.jpg",
+        "price": "$9.98",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "4/20/2020"
+    }
+]

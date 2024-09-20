@@ -1,0 +1,24 @@
+[
+    {
+        "date": "7/13/2023",
+        "cert_number": "61156443",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4074081035610583863/-8320496509876288247.jpg",
+        "grade": "9",
+        "price": "$4.42",
+        "lot_number": "285354841602",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "sonofhercules"
+    },
+    {
+        "cert_number": "82878870",
+        "grade": "7",
+        "auction_seller": "zandgemporium",
+        "date": "12/31/2023",
+        "lot_number": "285619958882",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3414972787494138281/-8727376076807293250.jpg",
+        "price": "$10.07",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

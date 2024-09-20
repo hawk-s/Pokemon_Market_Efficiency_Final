@@ -1,0 +1,35 @@
+[
+    {
+        "date": "10/10/2021",
+        "cert_number": "47785562",
+        "auction_seller": "pokichloe",
+        "lot_number": "255161887777",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3566491551873944707/-5688714646688879831.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$34.09"
+    },
+    {
+        "cert_number": "43630275",
+        "date": "2/11/2020",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3980834222164522897/6128572905959975670.jpg",
+        "auction_seller": "i_love_shoes15",
+        "lot_number": "123968081109",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$29.99"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5747419844113247124/2887443201924428656.jpg",
+        "date": "12/18/2018",
+        "grade": "9",
+        "lot_number": "192755576411",
+        "price": "$7.99",
+        "auction_seller": "pokegottacatchem",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "40910983"
+    }
+]

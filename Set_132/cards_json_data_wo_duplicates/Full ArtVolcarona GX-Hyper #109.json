@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "284575025232",
+        "price": "$18.51",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6402954256579195048/6694689527587017385.jpg",
+        "auction_seller": "shinjuku-donquixote",
+        "cert_number": "63321474",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/27/2021"
+    },
+    {
+        "lot_number": "334600320938",
+        "cert_number": "59659904",
+        "date": "10/29/2022",
+        "price": "$31.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8897160895602922536/-4466373457201884328.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles",
+        "grade": "10"
+    },
+    {
+        "lot_number": "303540185863",
+        "auction_seller": "jamiga9",
+        "auction_type": "Best Offer",
+        "date": "8/11/2020",
+        "price": "$75.00",
+        "auction_house": "eBay",
+        "cert_number": "44791519",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6779174648102749915/1059722943850110419.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "284563480837",
+        "auction_seller": "shinjuku-donquixote",
+        "price": "$15.50",
+        "cert_number": "63321474",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5748533788044081728/6694689527587017385.jpg",
+        "grade": "9",
+        "date": "12/15/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

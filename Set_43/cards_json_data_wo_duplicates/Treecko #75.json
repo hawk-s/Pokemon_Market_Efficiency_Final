@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "27737291",
+        "price": "$7.50",
+        "lot_number": "292341631635",
+        "date": "11/27/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-950570373293611114/-5284375955501537701.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8616698149646835551/-5156666625406247606.jpg",
+        "auction_seller": "pwcc_auctions",
+        "date": "9/29/2020",
+        "lot_number": "143744442252",
+        "cert_number": "44503757",
+        "price": "$56.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "9",
+        "cert_number": "65442160",
+        "lot_number": "315240243488",
+        "price": "$11.50",
+        "date": "3/28/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/93444063973173865/-7899494432811704961.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "procopio_cards"
+    },
+    {
+        "lot_number": "285819968135",
+        "cert_number": "75890695",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/828431355264911078/-4511804585938560356.jpg",
+        "grade": "9",
+        "date": "4/29/2024",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "thesacredg"
+    },
+    {
+        "price": "$30.00",
+        "date": "6/17/2020",
+        "auction_seller": "poketomspokemon",
+        "auction_type": "Buy It Now",
+        "cert_number": "44503757",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8385001398746453615/1340423223137372088.jpg",
+        "lot_number": "283776514941",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$100.59",
+        "date": "2/11/2021",
+        "auction_type": "Best Offer",
+        "cert_number": "44503757",
+        "lot_number": "324450130799",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2128837987910531856/-8304464128415710067.jpg",
+        "auction_seller": "caseyray123",
+        "grade": "10"
+    }
+]

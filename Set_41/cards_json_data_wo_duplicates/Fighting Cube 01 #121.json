@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "293767639041",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7531524060310396295/-7530489651496885183.jpg",
+        "grade": "9",
+        "price": "$19.99",
+        "cert_number": "27835612",
+        "auction_house": "eBay",
+        "date": "11/29/2020",
+        "auction_seller": "cabalcoffers"
+    },
+    {
+        "cert_number": "40771406",
+        "price": "$2.25",
+        "date": "6/6/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6458092640987237075/7509268090132081005.jpg",
+        "lot_number": "142811259498",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$2.25",
+        "date": "6/21/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5989812006332050286/-2309654821391337222.jpg",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "lot_number": "372335573283",
+        "cert_number": "27835612",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

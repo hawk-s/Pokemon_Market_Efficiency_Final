@@ -1,0 +1,68 @@
+[
+    {
+        "cert_number": "80283614",
+        "price": "$15.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8451712360353580220/-3162764465753493291.jpg",
+        "auction_seller": "4_sharp_corners",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/29/2024",
+        "lot_number": "266621095849"
+    },
+    {
+        "price": "$36.01",
+        "lot_number": "325339006993",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4161032056247625885/-9182795143097784234.jpg",
+        "cert_number": "58906061",
+        "date": "9/19/2022",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "old-skool-pokemon"
+    },
+    {
+        "date": "5/26/2024",
+        "price": "$26.00",
+        "auction_seller": "cardboundllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3933849266835026360/-4810882304139893895.jpg",
+        "auction_type": "Auction",
+        "cert_number": "88892851",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "326132320068"
+    },
+    {
+        "cert_number": "88892852",
+        "auction_seller": "cardboundllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4537923434999879992/8881110023033573432.jpg",
+        "lot_number": "326198954644",
+        "price": "$41.00",
+        "date": "7/22/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5977241260754457783/-4098971633501919592.jpg",
+        "price": "$9.50",
+        "date": "7/2/2024",
+        "lot_number": "387106668425",
+        "cert_number": "90817127",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2430539704812138994/1022867947898493177.jpg",
+        "auction_house": "eBay",
+        "date": "12/18/2023",
+        "price": "$54.00",
+        "auction_type": "Auction",
+        "lot_number": "176093585604",
+        "cert_number": "73868674",
+        "grade": "10",
+        "auction_seller": "ronsoscards"
+    }
+]

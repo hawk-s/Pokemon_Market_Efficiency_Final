@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$26.00",
+        "date": "4/30/2020",
+        "grade": "8",
+        "cert_number": "27696121",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "353055640204",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2808235377765756004/-449230583878236135.jpg"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "lot_number": "314342741360",
+        "cert_number": "68698531",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5516863170605384893/2209657745526733039.jpg",
+        "date": "1/31/2023",
+        "grade": "9",
+        "price": "$53.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "333330237165",
+        "date": "9/22/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4137988703353573718/-2691521000746258669.jpg",
+        "grade": "9",
+        "price": "$6.50",
+        "cert_number": "43524828",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "real_lyfe_snorlax"
+    }
+]

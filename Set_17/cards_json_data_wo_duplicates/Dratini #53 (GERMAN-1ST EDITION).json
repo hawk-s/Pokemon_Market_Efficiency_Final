@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1401726713980045910/-947146665381488347.jpg",
+        "price": "$54.22",
+        "date": "4/14/2024",
+        "auction_seller": "schigglypuff",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "87974904",
+        "lot_number": "116131830090",
+        "grade": "10"
+    },
+    {
+        "price": "$93.42",
+        "date": "8/18/2024",
+        "lot_number": "135184648983",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6767028456344839898/-5492917627729802174.jpg",
+        "grade": "10",
+        "cert_number": "71209059"
+    },
+    {
+        "price": "$21.96",
+        "cert_number": "66954133",
+        "auction_seller": "vispri-21",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8922610374121035873/-5013211740198945139.jpg",
+        "date": "5/3/2023",
+        "lot_number": "354718838787",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "vispri-21",
+        "lot_number": "355494967991",
+        "grade": "8",
+        "cert_number": "69239564",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4493015521148468356/-593940139471778989.jpg",
+        "price": "$22.41",
+        "date": "3/8/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$34.41",
+        "lot_number": "135174406643",
+        "date": "8/11/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6139940823018640846/6651455440397784938.jpg",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "cert_number": "94265590",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$42.00",
+        "lot_number": "334066637431",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1049823065955460856/-6587959593505934376.jpg",
+        "date": "7/13/2021",
+        "auction_type": "Auction",
+        "cert_number": "49290063",
+        "auction_seller": "rymman1000",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "46748159",
+        "price": "$20.00",
+        "date": "12/14/2020",
+        "lot_number": "303802868317",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2872276592324654745/5946473597877158246.jpg",
+        "auction_seller": "jonawa298",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/23/2024",
+        "price": "$35.36",
+        "cert_number": "73922268",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1332892610736460127/-705462539795597581.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "186498886020",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "date": "1/19/2023",
+        "cert_number": "60814465",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2208098085611026057/-8563532440872714452.jpg",
+        "price": "$15.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "lot_number": "385346780471",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3288782123583153172/8727019271825939007.jpg",
+        "cert_number": "62677850",
+        "date": "10/29/2022",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "295292981300",
+        "price": "$29.99"
+    }
+]

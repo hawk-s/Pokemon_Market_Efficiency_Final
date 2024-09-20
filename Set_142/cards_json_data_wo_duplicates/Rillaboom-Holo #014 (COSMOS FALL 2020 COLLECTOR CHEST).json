@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "145749276347",
+        "cert_number": "89121838",
+        "auction_seller": "ottopostt",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/4/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1492364137153978670/-5786417375149516406.jpg",
+        "price": "$1.25"
+    },
+    {
+        "cert_number": "56212910",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/967550489742591744/154143851369322360.jpg",
+        "price": "$15.50",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "lot_number": "125307440185",
+        "date": "5/16/2022",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/30/2024",
+        "lot_number": "226208336966",
+        "grade": "10",
+        "cert_number": "91411455",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "flying_boat",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2441654654211579374/1016469447617042947.jpg"
+    }
+]

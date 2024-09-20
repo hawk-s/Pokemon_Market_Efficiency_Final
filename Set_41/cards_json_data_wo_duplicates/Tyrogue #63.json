@@ -1,0 +1,35 @@
+[
+    {
+        "grade": "8",
+        "cert_number": "40771349",
+        "auction_seller": "literaryscholar",
+        "date": "6/24/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "142836549241",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-127335998468382246/-7570169910495131762.jpg",
+        "price": "$0.99"
+    },
+    {
+        "auction_seller": "poke_paradise",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4898126562301452146/-3015573588744146225.jpg",
+        "lot_number": "183973067534",
+        "price": "$24.99",
+        "cert_number": "28817977",
+        "date": "10/8/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "letocards",
+        "cert_number": "51389896",
+        "date": "9/12/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7017123519476254675/3609873826116603101.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00",
+        "grade": "10",
+        "lot_number": "124884860435"
+    }
+]

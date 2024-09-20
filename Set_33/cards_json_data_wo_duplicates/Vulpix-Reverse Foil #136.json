@@ -1,0 +1,134 @@
+[
+    {
+        "auction_seller": "Weekly Auction Jan 24 - Feb 2",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3336379787297231391/-4326704819902115570/images/1.jpg",
+        "date": "2/2/2023",
+        "grade": "8",
+        "cert_number": "69969927",
+        "auction_type": "Auction",
+        "price": "$24.00",
+        "auction_house": "Goldin Auctions",
+        "lot_number": "1965"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "lot_number": "5576",
+        "grade": "8",
+        "date": "6/15/2023",
+        "cert_number": "74865394",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/-5635439635828868482/images/1.jpg"
+    },
+    {
+        "lot_number": "4991",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-4704971439757394172/images/1.jpg",
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "price": "$16.00",
+        "grade": "6",
+        "cert_number": "74934620",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions"
+    },
+    {
+        "lot_number": "283040798405",
+        "auction_type": "Buy It Now",
+        "grade": "9",
+        "cert_number": "41019034",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6338295167837285782/4700781883925944174.jpg",
+        "date": "9/29/2019",
+        "auction_house": "eBay",
+        "auction_seller": "cardhouse_eu",
+        "price": "$17.99"
+    },
+    {
+        "lot_number": "184852424961",
+        "cert_number": "46852839",
+        "grade": "9",
+        "price": "$36.57",
+        "auction_seller": "jennyz1214892009",
+        "date": "5/31/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8894787317161853397/-3529928672025568469.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "26807893",
+        "lot_number": "122419395187",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "price": "$10.00",
+        "date": "12/3/2017",
+        "auction_seller": "liarspoker10",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4883694436157067901/7366496841117700613.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "1/31/2022",
+        "cert_number": "55658774",
+        "grade": "9",
+        "lot_number": "294762985898",
+        "price": "$50.20",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/630403099869904883/5564611252064637844.jpg"
+    },
+    {
+        "date": "12/19/2022",
+        "cert_number": "68503244",
+        "grade": "7",
+        "lot_number": "385293162844",
+        "auction_seller": "bravepuppygalleries",
+        "price": "$6.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-79381747485964139/-8684772872843404103.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "6/8/2019",
+        "price": "$10.50",
+        "cert_number": "43029892",
+        "lot_number": "273872374739",
+        "grade": "9",
+        "auction_seller": "jacanddan_collectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2511929472406350463/-5396634698381311486.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/21690085804587601/-1158877091571277798.jpg",
+        "price": "$45.00",
+        "cert_number": "41037955",
+        "auction_seller": "gradedpower",
+        "auction_type": "Best Offer",
+        "lot_number": "223086547750",
+        "date": "2/6/2019",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "grade": "8",
+        "price": "$24.99",
+        "auction_type": "Auction",
+        "cert_number": "90988639",
+        "auction_house": "eBay",
+        "lot_number": "126626376158",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2933484459883629203/7435399016781606111.jpg",
+        "auction_seller": "cardboardlegendsgaming",
+        "date": "8/22/2024"
+    },
+    {
+        "lot_number": "233434259899",
+        "cert_number": "45070238",
+        "auction_type": "Buy It Now",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/385114241676518854/-1426494882385324981.jpg",
+        "grade": "9",
+        "price": "$54.88",
+        "auction_house": "eBay",
+        "date": "6/6/2020",
+        "auction_seller": "compusmartpr"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/795856535734357929/2919724958591645287.jpg",
+        "cert_number": "42704164",
+        "lot_number": "163714223496",
+        "auction_type": "Best Offer",
+        "grade": "8",
+        "date": "7/11/2019",
+        "auction_seller": "colddinosaur",
+        "price": "$35.00",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "25731289",
+        "auction_seller": "pachinkoplanet",
+        "auction_type": "Best Offer",
+        "lot_number": "254213221776",
+        "grade": "9",
+        "price": "$90.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6779043521141302699/-1823564462609627146.jpg",
+        "auction_house": "eBay",
+        "date": "11/27/2020"
+    },
+    {
+        "cert_number": "25731290",
+        "auction_type": "Best Offer",
+        "price": "$250.00",
+        "grade": "9",
+        "date": "12/10/2020",
+        "auction_house": "eBay",
+        "lot_number": "274396451847",
+        "auction_seller": "tcgkid",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8503366313550716005/5189342945064455065.jpg"
+    }
+]

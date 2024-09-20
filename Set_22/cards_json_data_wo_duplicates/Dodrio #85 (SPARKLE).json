@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$382.00",
+        "auction_seller": "pwcc_vault",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/997321154105062755/1683473517865309865.jpg",
+        "grade": "9",
+        "date": "7/19/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "44038922",
+        "lot_number": "224531071452"
+    },
+    {
+        "lot_number": "314749353223",
+        "auction_seller": "coins_n_rarities",
+        "date": "8/10/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6453447531657900693/-7386627741342264579.jpg",
+        "grade": "9",
+        "price": "$371.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "54987260"
+    },
+    {
+        "date": "2/14/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5231496864793634883/3867966667974356464.jpg",
+        "cert_number": "44718803",
+        "lot_number": "362908173419",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "thecardcollector-uk",
+        "auction_house": "eBay",
+        "price": "$20.08"
+    }
+]

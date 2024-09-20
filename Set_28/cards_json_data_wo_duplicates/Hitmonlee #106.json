@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "144406329904",
+        "auction_seller": "iluna9",
+        "cert_number": "54621626",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-304411216140830000/1336364015799908175.jpg",
+        "auction_type": "Auction",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "date": "2/20/2022"
+    },
+    {
+        "date": "12/27/2022",
+        "lot_number": "325470432901",
+        "auction_seller": "card.galaxy",
+        "price": "$43.42",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1407818597240608085/-2283262534489557175.jpg",
+        "cert_number": "58873575",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/6/2023",
+        "price": "$10.50",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8179723155687590126/3046553683440865244.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "61169485",
+        "auction_house": "eBay",
+        "lot_number": "285404122818"
+    },
+    {
+        "date": "7/6/2023",
+        "cert_number": "75189453",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3546778001413112407/5471789091037604015.jpg",
+        "grade": "8",
+        "price": "$2.30",
+        "auction_seller": "teammathryn",
+        "auction_type": "Auction",
+        "lot_number": "195834056180",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "296530163246",
+        "grade": "7",
+        "auction_seller": "mdbcards",
+        "price": "$15.00",
+        "date": "7/4/2024",
+        "cert_number": "73365409",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2466625592260284027/97925455421936412.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3546892316975879081/-5274697318727904198.jpg",
+        "auction_seller": "japan-higasi-116",
+        "cert_number": "45415928",
+        "date": "1/24/2021",
+        "grade": "8",
+        "price": "$34.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "233862481010"
+    }
+]

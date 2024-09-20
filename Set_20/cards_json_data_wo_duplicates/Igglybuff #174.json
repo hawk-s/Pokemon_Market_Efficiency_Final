@@ -1,0 +1,79 @@
+[
+    {
+        "grade": "4",
+        "auction_seller": "giants-jets6",
+        "lot_number": "284573593099",
+        "date": "12/26/2021",
+        "price": "$6.50",
+        "auction_type": "Auction",
+        "cert_number": "54157387",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/67704783632469545/820422526835011537.jpg"
+    },
+    {
+        "price": "$11.00",
+        "lot_number": "405013139713",
+        "date": "6/12/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6303253848300891589/72409068791337962.jpg",
+        "auction_seller": "nizaiahtcg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "cert_number": "87049004",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "texianresale",
+        "lot_number": "143961652834",
+        "cert_number": "47967250",
+        "date": "3/9/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8488094621141544837/-6803559262042152069.jpg",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/17/2023",
+        "cert_number": "69356963",
+        "lot_number": "364176556864",
+        "auction_seller": "probstein123",
+        "price": "$56.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8197540613358013566/344128030560805170.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "405034039492",
+        "date": "6/22/2024",
+        "auction_seller": "nizaiahtcg",
+        "grade": "8",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3853125751613530875/72409068791337962.jpg",
+        "auction_type": "Auction",
+        "cert_number": "87049004",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$173.84",
+        "auction_type": "Best Offer",
+        "cert_number": "44002043",
+        "date": "10/19/2020",
+        "lot_number": "114467299926",
+        "auction_seller": "toppsaholic",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-338355025594991154/-2897601096098178596.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/2/2020",
+        "lot_number": "373064689214",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6668813648883394920/5901096294679040072.jpg",
+        "price": "$20.46",
+        "auction_seller": "probstein123",
+        "cert_number": "44002043",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

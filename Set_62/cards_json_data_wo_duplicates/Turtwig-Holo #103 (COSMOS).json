@@ -1,0 +1,112 @@
+[
+    {
+        "date": "6/23/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7226084306091766940/-4261584663939473109.jpg",
+        "price": "$65.00",
+        "grade": "9",
+        "cert_number": "82153567",
+        "auction_type": "Auction",
+        "lot_number": "305620153862",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "date": "8/19/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-173347397034258181/-946158344799507543.jpg",
+        "grade": "8",
+        "lot_number": "334985660294",
+        "auction_seller": "juan_7441",
+        "price": "$29.00",
+        "auction_type": "Auction",
+        "cert_number": "57028639",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "166790327722",
+        "cert_number": "76634302",
+        "grade": "8",
+        "price": "$27.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8700592431674853958/5117587510981786738.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/5/2024",
+        "auction_seller": "itemland"
+    },
+    {
+        "date": "3/27/2023",
+        "price": "$9.50",
+        "cert_number": "66466613",
+        "auction_seller": "habbyshobbies",
+        "lot_number": "385483483541",
+        "grade": "6",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3535043933023431350/8858303290321718813.jpg"
+    },
+    {
+        "price": "$55.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4307622749223134693/-2166319665584885506.jpg",
+        "lot_number": "373465033073",
+        "grade": "6",
+        "cert_number": "45953703",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/23/2021"
+    },
+    {
+        "auction_seller": "upperecheloncollectibles",
+        "price": "$27.99",
+        "date": "7/24/2020",
+        "auction_type": "Best Offer",
+        "cert_number": "45751431",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2462166743488763865/-2656895092450536643.jpg",
+        "auction_house": "eBay",
+        "lot_number": "233639979025"
+    },
+    {
+        "cert_number": "44357901",
+        "date": "5/6/2020",
+        "auction_type": "Best Offer",
+        "auction_seller": "collectiblecards1",
+        "lot_number": "174228128817",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$17.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6559042707164685752/-204277991343236788.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-978387123958098103/2368791842288521432.jpg",
+        "auction_seller": "cardboardcrackfb",
+        "cert_number": "45751431",
+        "date": "5/2/2021",
+        "grade": "9",
+        "lot_number": "154428439388",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$102.50"
+    },
+    {
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7897125007612021921/4261236938906969258.jpg",
+        "cert_number": "45953704",
+        "auction_seller": "hype-movement",
+        "auction_type": "Auction",
+        "date": "7/1/2020",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "lot_number": "383604000023"
+    },
+    {
+        "auction_seller": "cardboardcrackfb",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6042948470034351682/-4921255383630690441.jpg",
+        "lot_number": "154401137691",
+        "price": "$79.00",
+        "cert_number": "45953702",
+        "grade": "8",
+        "date": "4/10/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

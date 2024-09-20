@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "312695704380",
+        "cert_number": "41937185",
+        "auction_seller": "heavily_played_cards",
+        "auction_type": "Auction",
+        "price": "$13.38",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2789908476921832882/-4770477346648873352.jpg",
+        "date": "7/19/2019"
+    },
+    {
+        "cert_number": "27696250",
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/151642201291868722/-7103960993583384524.jpg",
+        "lot_number": "352890869246",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$4.00"
+    },
+    {
+        "cert_number": "28455411",
+        "price": "$8.99",
+        "lot_number": "292390971158",
+        "date": "1/5/2018",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7002492834318423355/-6393075010094191121.jpg"
+    },
+    {
+        "lot_number": "292382088006",
+        "cert_number": "28455411",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4141361834361075515/-6393075010094191121.jpg",
+        "date": "12/30/2017",
+        "auction_type": "Auction",
+        "price": "$12.99",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "362513478783",
+        "price": "$6.38",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2820449406196484743/-5680411068112991334.jpg",
+        "cert_number": "41170856",
+        "date": "12/26/2018",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7474596907774897778/-4849604731007187137.jpg",
+        "auction_seller": "bidoveru",
+        "cert_number": "28721439",
+        "lot_number": "313444296397",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "3/12/2021"
+    },
+    {
+        "lot_number": "364971059737",
+        "cert_number": "67319336",
+        "price": "$14.50",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "7/3/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6783402649369864947/7459193955892698157.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "112759149765",
+        "auction_type": "Best Offer",
+        "auction_seller": "pokemon_revolution",
+        "cert_number": "28392182",
+        "price": "$19.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/966562950234425389/-4274749231085705538.jpg",
+        "date": "5/19/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

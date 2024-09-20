@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "scc_consignments",
+        "lot_number": "305308278575",
+        "price": "$15.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5997040554479511125/3160603390391475127.jpg",
+        "cert_number": "74722917",
+        "auction_type": "Auction",
+        "date": "12/18/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "28840438",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8120456736610705920/3719077534106319374.jpg",
+        "auction_type": "Auction",
+        "date": "8/28/2020",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "lot_number": "353173963858"
+    },
+    {
+        "lot_number": "234830812492",
+        "price": "$20.00",
+        "date": "12/29/2022",
+        "auction_seller": "anghall_96",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2611091561845361819/8289401948406991349.jpg",
+        "cert_number": "41441255",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/11/2020",
+        "auction_seller": "cardrushinc",
+        "auction_type": "Best Offer",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9211772804365891466/-686306427893451935.jpg",
+        "lot_number": "273303152453",
+        "auction_house": "eBay",
+        "price": "$29.95",
+        "cert_number": "40774570"
+    }
+]

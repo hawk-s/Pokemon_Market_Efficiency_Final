@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "155634727074",
+        "cert_number": "73313769",
+        "price": "$16.00",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/5/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2175991854867474465/-849595569754814484.jpg",
+        "auction_seller": "davydfrmlv"
+    },
+    {
+        "date": "9/10/2023",
+        "auction_seller": "pozjokergames",
+        "cert_number": "73018775",
+        "lot_number": "175884466972",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8549953449108704613/-8045276403463844369.jpg",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1999879846121815602/-1515200230561960910.jpg",
+        "cert_number": "65627926",
+        "date": "3/22/2023",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "lot_number": "374567681233",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$32.00"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "lot_number": "5393",
+        "grade": "8",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun",
+        "date": "6/15/2023",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/6181035983686261277/images/1.jpg",
+        "cert_number": "75030716"
+    }
+]

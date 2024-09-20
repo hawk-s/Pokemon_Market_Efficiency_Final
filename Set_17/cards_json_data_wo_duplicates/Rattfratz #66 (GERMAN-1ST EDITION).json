@@ -1,0 +1,57 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1341625084504182693/-2259257765521706123.jpg",
+        "date": "8/11/2024",
+        "grade": "9",
+        "cert_number": "94265603",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "lot_number": "135174406572",
+        "auction_house": "eBay",
+        "price": "$30.58"
+    },
+    {
+        "date": "8/18/2024",
+        "lot_number": "135184649021",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8451170646145024635/9064413910205266081.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$83.53",
+        "cert_number": "71209072"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2856743286810836184/984015708827942230.jpg",
+        "auction_seller": "vispri-21",
+        "grade": "8",
+        "lot_number": "355631337713",
+        "date": "4/29/2024",
+        "auction_type": "Auction",
+        "cert_number": "70511581",
+        "auction_house": "eBay",
+        "price": "$16.55"
+    },
+    {
+        "price": "$11.00",
+        "auction_seller": "Weekly Auction 13 Jun - 22 Jun",
+        "cert_number": "75596509",
+        "grade": "8",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/3815309888501543544/7116899174869130696/images/1.jpg",
+        "lot_number": "5632",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "date": "6/26/2023"
+    },
+    {
+        "cert_number": "94265602",
+        "date": "8/11/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6804081937480274922/-6306666379158173120.jpg",
+        "price": "$55.71",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "lot_number": "135174405933",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

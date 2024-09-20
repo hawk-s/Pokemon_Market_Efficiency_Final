@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$15.60",
+        "lot_number": "285392935828",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8537213459758320282/1797291921443867525.jpg",
+        "auction_seller": "zandgemporium",
+        "date": "7/30/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "61163543"
+    },
+    {
+        "auction_seller": "bds1973",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8810098679995203478/8115675420246405261.jpg",
+        "cert_number": "94627725",
+        "price": "$5.99",
+        "grade": "8",
+        "date": "8/14/2024",
+        "auction_type": "Auction",
+        "lot_number": "204926877426",
+        "auction_house": "eBay"
+    },
+    {
+        "lot_number": "386945244841",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7675483032575176703/5966704732901876195.jpg",
+        "cert_number": "87793113",
+        "grade": "9",
+        "date": "4/27/2024",
+        "auction_seller": "tcgcommoditymarket_1014",
+        "auction_type": "Auction",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "date": "10/19/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3918422832656642359/-1421937494268729768.jpg",
+        "auction_seller": "tannah12",
+        "grade": "8",
+        "auction_type": "Auction",
+        "price": "$21.42",
+        "auction_house": "eBay",
+        "cert_number": "57118610",
+        "lot_number": "155204826846"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "cert_number": "26278463",
+        "lot_number": "142763817885",
+        "price": "$5.00",
+        "date": "4/29/2018",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5773591719660431650/7010132111741116376.jpg"
+    },
+    {
+        "price": "$5.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7568406319619730530/-2750143075085230091.jpg",
+        "auction_seller": "nestton",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "date": "9/23/2019",
+        "lot_number": "333329260713",
+        "cert_number": "43401845"
+    },
+    {
+        "cert_number": "52945287",
+        "auction_seller": "arctic_cards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4970210401861390225/2707435332288974201.jpg",
+        "grade": "9",
+        "lot_number": "324839901196",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "date": "10/26/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "ronbut_56",
+        "lot_number": "392556772607",
+        "price": "$9.99",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/1/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-351312659597199488/-7288680058940327368.jpg",
+        "cert_number": "43401845"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6008585839033881185/-5540652629616654431.jpg",
+        "auction_seller": "darkikal",
+        "auction_type": "Auction",
+        "lot_number": "133939832106",
+        "date": "11/26/2021",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "55401893",
+        "price": "$150.00"
+    },
+    {
+        "auction_seller": "bucky.70",
+        "lot_number": "394301972804",
+        "cert_number": "43136432",
+        "price": "$29.80",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7277406380288979697/-4141183900042619582.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "10/31/2022"
+    },
+    {
+        "lot_number": "395527303156",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2512026860975915769/-7670850351101363040.jpg",
+        "auction_seller": "mbohn623",
+        "date": "7/18/2024",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "77953938",
+        "auction_house": "eBay",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6242861301811241009/2418930139335275376.jpg",
+        "cert_number": "51699841",
+        "lot_number": "294530126064",
+        "price": "$49.99",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/14/2021"
+    },
+    {
+        "lot_number": "364682664158",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6027881185046792892/6972131593596177594.jpg",
+        "cert_number": "84979934",
+        "price": "$8.50",
+        "auction_seller": "marvelous-cards-collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/22/2024"
+    },
+    {
+        "price": "$34.99",
+        "auction_type": "Buy It Now",
+        "date": "11/2/2019",
+        "cert_number": "27888201",
+        "lot_number": "113156513849",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4458837950598563685/-1395967053325991386.jpg",
+        "auction_seller": "blowoutcards2",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

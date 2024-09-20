@@ -1,0 +1,90 @@
+[
+    {
+        "grade": "5",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1930593590264998803/-5654993457108631059.jpg",
+        "price": "$13.01",
+        "auction_seller": "frieillb",
+        "cert_number": "50596492",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "234288815472",
+        "date": "11/28/2021"
+    },
+    {
+        "price": "$9.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9085848970741327485/1599577861004186124.jpg",
+        "cert_number": "28455632",
+        "lot_number": "292390091525",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/6/2018"
+    },
+    {
+        "auction_seller": "pjaamma",
+        "cert_number": "42701191",
+        "price": "$11.50",
+        "lot_number": "163802911860",
+        "auction_type": "Auction",
+        "date": "8/11/2019",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1037192115602142931/1454845069374643227.jpg"
+    },
+    {
+        "auction_type": "Best Offer",
+        "lot_number": "112308113055",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7920255313115398009/6143388685519592911.jpg",
+        "price": "$16.99",
+        "auction_seller": "pokemon_revolution",
+        "grade": "9",
+        "cert_number": "26510561",
+        "auction_house": "eBay",
+        "date": "6/29/2020"
+    },
+    {
+        "price": "$9.50",
+        "date": "1/19/2018",
+        "lot_number": "292406548570",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1559764035726906298/1599577861004186124.jpg",
+        "cert_number": "28455632",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/11/2019",
+        "cert_number": "42701191",
+        "auction_type": "Buy It Now",
+        "auction_seller": "hurl-dall",
+        "price": "$19.95",
+        "lot_number": "143356227350",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2680387410956508562/-6879057563057068954.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "292417382005",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2081567035942973891/1599577861004186124.jpg",
+        "date": "1/27/2018",
+        "cert_number": "28455632",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7722820006953750024/-6599162969256215245.jpg",
+        "lot_number": "142910592791",
+        "auction_seller": "pwcc_auctions",
+        "price": "$5.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "8/29/2018",
+        "auction_house": "eBay",
+        "cert_number": "26983641"
+    }
+]

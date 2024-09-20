@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "warehous5store",
+        "date": "12/20/2021",
+        "lot_number": "133963485474",
+        "price": "$10.50",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2851277655617605855/2955972014422657637.jpg",
+        "auction_house": "eBay",
+        "cert_number": "53933812"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5123339396334313973/-5691786557297900188.jpg",
+        "cert_number": "55525626",
+        "lot_number": "384741012137",
+        "auction_seller": "probstein123",
+        "date": "2/25/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$16.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8621966990170082849/-7983705228197351013.jpg",
+        "date": "8/10/2021",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "50302864",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "373665665737"
+    }
+]

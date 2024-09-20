@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$26.00",
+        "auction_seller": "sellers_sportscards",
+        "grade": "9",
+        "cert_number": "53496950",
+        "date": "11/20/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "265403220191",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1565415843682706972/-433786061204364376.jpg"
+    },
+    {
+        "auction_seller": "topgunvintage",
+        "lot_number": "265353867657",
+        "date": "10/17/2021",
+        "grade": "9",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7279935101369919189/-1807065869406545148.jpg",
+        "cert_number": "45953626"
+    },
+    {
+        "date": "4/7/2024",
+        "grade": "7",
+        "lot_number": "364819285920",
+        "auction_seller": "bestcardsmarket",
+        "price": "$6.07",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5021861017399822314/-260615015674860465.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "79917359"
+    },
+    {
+        "lot_number": "373465032641",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1117200529227393356/-8927776083210530890.jpg",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "price": "$23.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/23/2021",
+        "cert_number": "45953626"
+    },
+    {
+        "lot_number": "354490409795",
+        "cert_number": "60712152",
+        "price": "$20.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1447107748434845054/-682285038197997938.jpg",
+        "grade": "9",
+        "date": "1/8/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "wrmofka_75"
+    }
+]

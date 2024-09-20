@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "tannah12",
+        "grade": "9",
+        "cert_number": "60764540",
+        "price": "$18.07",
+        "date": "4/18/2023",
+        "auction_house": "eBay",
+        "lot_number": "155498612899",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3530193177591697629/5492332345635435257.jpg",
+        "auction_type": "Auction"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2199061405453771293/7366843737363698853.jpg",
+        "lot_number": "234911063981",
+        "cert_number": "68510449",
+        "price": "$142.50",
+        "auction_seller": "poke_place",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/7/2023",
+        "grade": "10"
+    }
+]

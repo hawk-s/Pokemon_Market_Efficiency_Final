@@ -1,0 +1,57 @@
+[
+    {
+        "date": "5/26/2024",
+        "lot_number": "226152587172",
+        "auction_seller": "cardboundllc",
+        "cert_number": "88892877",
+        "price": "$47.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7919524118895447318/6656076802934719926.jpg"
+    },
+    {
+        "lot_number": "314664930607",
+        "price": "$10.50",
+        "auction_seller": "kantos_finest",
+        "cert_number": "61176726",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5351407903598344835/-1251599357632568977.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "6/30/2023",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$9.50",
+        "lot_number": "387115363082",
+        "date": "7/2/2024",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "90817121",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8235422140400596751/-6767588155166272068.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "itsnotaphasemomcollectibles",
+        "date": "1/21/2024",
+        "cert_number": "61176721",
+        "price": "$5.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5208235364063918652/-6390121696614623861.jpg",
+        "grade": "9",
+        "lot_number": "256371344172",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "61176720",
+        "price": "$16.00",
+        "date": "5/23/2023",
+        "lot_number": "314594285270",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-109370259811264806/133770065149202223.jpg",
+        "grade": "9",
+        "auction_seller": "kantos_finest",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

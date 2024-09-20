@@ -1,0 +1,46 @@
+[
+    {
+        "date": "10/22/2022",
+        "cert_number": "53732855",
+        "lot_number": "175450503840",
+        "auction_seller": "bravepuppygalleries",
+        "grade": "9",
+        "price": "$19.55",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1425761848145234195/7535298511099242415.jpg"
+    },
+    {
+        "price": "$26.00",
+        "cert_number": "53732855",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5173411528827848983/-8242709452379975337.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "rodney7956",
+        "lot_number": "305495180367",
+        "auction_house": "eBay",
+        "date": "4/10/2024"
+    },
+    {
+        "auction_seller": "bbcardstor",
+        "cert_number": "68588041",
+        "grade": "9",
+        "lot_number": "364061494554",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5054207685922797354/7031071630104082538.jpg",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "date": "12/5/2022"
+    },
+    {
+        "lot_number": "285150788988",
+        "auction_seller": "zandgemporium",
+        "date": "2/26/2023",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1333711462715979836/-2173431471713586703.jpg",
+        "price": "$17.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57468403"
+    }
+]

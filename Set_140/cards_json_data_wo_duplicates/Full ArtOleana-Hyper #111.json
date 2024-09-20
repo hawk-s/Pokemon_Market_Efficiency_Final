@@ -1,0 +1,57 @@
+[
+    {
+        "lot_number": "124317686823",
+        "price": "$28.00",
+        "date": "9/4/2020",
+        "auction_seller": "kawaii-japanshop",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/266808219440717453/-1737829073985207451.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "46617319"
+    },
+    {
+        "cert_number": "76718067",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9150876952242654997/-1379054324605106125.jpg",
+        "price": "$23.50",
+        "date": "4/30/2024",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "auction_seller": "woopyboi",
+        "lot_number": "364855555502",
+        "grade": "10"
+    },
+    {
+        "price": "$26.00",
+        "lot_number": "256003862675",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6823594925083549416/8555754575150909599.jpg",
+        "auction_seller": "pokeblt",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/15/2023",
+        "grade": "10",
+        "cert_number": "46948618"
+    },
+    {
+        "auction_seller": "shinjuku-donquixote",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5501990203099434687/-4413017020871173556.jpg",
+        "auction_type": "Auction",
+        "price": "$21.49",
+        "date": "1/23/2022",
+        "auction_house": "eBay",
+        "cert_number": "63478165",
+        "lot_number": "284612994962"
+    },
+    {
+        "lot_number": "324730725134",
+        "date": "8/4/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2945783522649439121/-6098317675491426637.jpg",
+        "grade": "6",
+        "auction_seller": "japan-quality-samurai",
+        "cert_number": "53850105",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

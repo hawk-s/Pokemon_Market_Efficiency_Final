@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "73922289",
+        "price": "$23.99",
+        "date": "6/22/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-19633109582335628/-1647846326606358574.jpg",
+        "lot_number": "186497559406",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2012322285091114115/2686907662373472126.jpg",
+        "date": "2/21/2023",
+        "price": "$24.55",
+        "auction_seller": "tannah12",
+        "lot_number": "155398337149",
+        "grade": "9",
+        "cert_number": "60923075",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "27743818",
+        "date": "11/5/2017",
+        "lot_number": "292310988600",
+        "price": "$5.50",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-7884523654648145545/-2422365612684666369.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7912479191792909878/-7677063972704285599.jpg",
+        "cert_number": "67319366",
+        "price": "$15.50",
+        "date": "9/12/2023",
+        "auction_type": "Auction",
+        "lot_number": "386098764440",
+        "auction_seller": "kozzycakes_11",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8780390204413689883/-4509500335799084229.jpg",
+        "date": "10/1/2023",
+        "lot_number": "355055033084",
+        "grade": "8",
+        "auction_seller": "tcg_stockpile",
+        "price": "$6.50",
+        "cert_number": "65214860",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "27743818",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-699001530238863786/-777162852625481227.jpg",
+        "price": "$4.24",
+        "date": "11/24/2017",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tnolan0816",
+        "lot_number": "292337991760",
+        "grade": "10"
+    },
+    {
+        "price": "$13.16",
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5490050229313531336/-418898694813671460.jpg",
+        "date": "6/27/2019",
+        "cert_number": "41288435",
+        "auction_type": "Auction",
+        "lot_number": "401788898695",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "12/25/2018",
+        "price": "$9.99",
+        "lot_number": "183593353308",
+        "cert_number": "41288435",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2418758315158845597/3506957445810573801.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "delar-mat",
+        "grade": "10"
+    }
+]

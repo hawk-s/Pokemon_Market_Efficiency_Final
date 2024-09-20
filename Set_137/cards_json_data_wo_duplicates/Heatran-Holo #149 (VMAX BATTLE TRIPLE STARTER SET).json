@@ -1,0 +1,46 @@
+[
+    {
+        "date": "5/16/2023",
+        "cert_number": "68637669",
+        "price": "$13.55",
+        "auction_seller": "probstein123",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-99147753212236773/8021607560522200728.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "385600751930"
+    },
+    {
+        "cert_number": "55968510",
+        "price": "$26.00",
+        "auction_seller": "japan-higasi-116",
+        "date": "8/24/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3936048805555792951/-272940700762873640.jpg",
+        "lot_number": "234138252612",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "256448290246",
+        "cert_number": "62049147",
+        "auction_seller": "pokehobbydad",
+        "price": "$25.32",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "3/21/2024",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5532113411024166912/-5864784171809983461.jpg"
+    },
+    {
+        "date": "2/13/2023",
+        "auction_seller": "cardboundllc",
+        "cert_number": "70620916",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4809908147811280397/3734603788949815953.jpg",
+        "auction_house": "eBay",
+        "price": "$12.50",
+        "grade": "10",
+        "lot_number": "325524772370"
+    }
+]

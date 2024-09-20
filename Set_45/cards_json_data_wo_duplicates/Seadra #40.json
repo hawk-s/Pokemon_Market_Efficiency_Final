@@ -1,0 +1,24 @@
+[
+    {
+        "cert_number": "53724464",
+        "price": "$12.00",
+        "auction_seller": "grappe_44",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7128692965727513561/1924815989144035133.jpg",
+        "grade": "8",
+        "date": "1/10/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "313816735977"
+    },
+    {
+        "lot_number": "203564100905",
+        "date": "8/20/2021",
+        "auction_seller": "yendorcards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2202180911744264384/-7382003787579262472.jpg",
+        "auction_type": "Auction",
+        "price": "$56.02",
+        "cert_number": "44001861",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

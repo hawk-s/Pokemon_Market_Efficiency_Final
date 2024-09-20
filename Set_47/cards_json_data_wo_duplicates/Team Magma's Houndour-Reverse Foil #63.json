@@ -1,0 +1,46 @@
+[
+    {
+        "date": "12/20/2021",
+        "lot_number": "324931786698",
+        "auction_seller": "dualcollectibleinc",
+        "price": "$25.73",
+        "grade": "9",
+        "cert_number": "50775178",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1007797560079432725/-404242438291484001.jpg"
+    },
+    {
+        "lot_number": "285619958641",
+        "auction_seller": "zandgemporium",
+        "grade": "8",
+        "date": "12/31/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3357331172830097445/459358763638185288.jpg",
+        "price": "$10.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "82878883"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3862312263454967658/-3713889496234072100.jpg",
+        "cert_number": "43350571",
+        "lot_number": "283565257017",
+        "auction_type": "Best Offer",
+        "date": "5/30/2020",
+        "price": "$26.99",
+        "grade": "9",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2924696298576696610/1419596830247181239.jpg",
+        "cert_number": "94859695",
+        "date": "8/24/2024",
+        "price": "$15.50",
+        "grade": "8",
+        "lot_number": "305724997721",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    }
+]

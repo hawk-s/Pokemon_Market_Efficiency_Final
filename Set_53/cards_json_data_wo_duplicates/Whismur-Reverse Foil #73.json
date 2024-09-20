@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$105.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1405064636366310664/267445366598382518.jpg",
+        "auction_seller": "tres_iii",
+        "cert_number": "53160317",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "404717112224",
+        "grade": "10"
+    },
+    {
+        "date": "7/11/2021",
+        "cert_number": "47558659",
+        "lot_number": "154518710917",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3626860832212640395/5303868049078122814.jpg",
+        "grade": "9",
+        "auction_seller": "ramcanyon",
+        "price": "$40.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1795099897103613871/-962824634489209108.jpg",
+        "auction_type": "Buy It Now",
+        "date": "3/30/2018",
+        "grade": "8",
+        "lot_number": "112870898735",
+        "auction_seller": "my_honolulu_blue",
+        "cert_number": "28589133",
+        "price": "$3.99",
+        "auction_house": "eBay"
+    }
+]

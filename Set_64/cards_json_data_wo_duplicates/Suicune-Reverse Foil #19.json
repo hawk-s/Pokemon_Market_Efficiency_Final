@@ -1,0 +1,35 @@
+[
+    {
+        "date": "12/14/2022",
+        "grade": "7",
+        "cert_number": "68593355",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3872748459234553000/8972237166844226237.jpg",
+        "auction_seller": "tca_gaming",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$20.52",
+        "lot_number": "314259982746"
+    },
+    {
+        "price": "$20.64",
+        "auction_seller": "pokemonworldwide",
+        "lot_number": "144984552969",
+        "date": "3/19/2023",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8718280163159303009/-6962849732691752113.jpg",
+        "cert_number": "70546394"
+    },
+    {
+        "auction_seller": "japan-international-trade",
+        "price": "$10.50",
+        "cert_number": "44644581",
+        "date": "3/1/2020",
+        "lot_number": "124091889636",
+        "grade": "8",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3983915024016720781/1238197221522929951.jpg",
+        "auction_house": "eBay"
+    }
+]

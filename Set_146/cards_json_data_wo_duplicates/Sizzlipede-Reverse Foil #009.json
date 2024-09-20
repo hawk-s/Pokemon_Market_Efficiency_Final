@@ -1,0 +1,24 @@
+[
+    {
+        "lot_number": "234315696748",
+        "auction_seller": "comc_consignment",
+        "date": "12/12/2021",
+        "cert_number": "51769697",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2177838490313731845/-3978682751523456359.jpg",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$4.25",
+        "lot_number": "256314316294",
+        "date": "12/7/2023",
+        "auction_seller": "comc_consignment",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/285724584242813927/18171958114844306.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "57706379"
+    }
+]

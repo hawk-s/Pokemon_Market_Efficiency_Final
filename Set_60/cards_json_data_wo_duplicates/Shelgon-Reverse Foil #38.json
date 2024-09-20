@@ -1,0 +1,79 @@
+[
+    {
+        "auction_seller": "cybersmith7",
+        "cert_number": "49196992",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2181350759128733350/-2006483851853968323.jpg",
+        "lot_number": "165067735864",
+        "grade": "9",
+        "price": "$53.00",
+        "date": "9/20/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1051835499590249873/1718076493754732250.jpg",
+        "lot_number": "403948702868",
+        "grade": "7",
+        "auction_seller": "rysua_94",
+        "price": "$15.52",
+        "date": "10/26/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "58067764"
+    },
+    {
+        "cert_number": "43959775",
+        "lot_number": "283804645946",
+        "auction_type": "Best Offer",
+        "auction_seller": "phatcollectables",
+        "date": "6/30/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4946329831759798095/2817133992197805202.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$29.99"
+    },
+    {
+        "cert_number": "68760657",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-165675093497552306/-5040682036431387992/images/1.jpg",
+        "lot_number": "3456",
+        "price": "$53.00",
+        "auction_seller": "Weekly Auction Mar 21 - Mar 30",
+        "date": "3/30/2023",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "grade": "10"
+    },
+    {
+        "cert_number": "84334033",
+        "date": "4/20/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4728581594835220422/-6957068806528980687.jpg",
+        "price": "$15.50",
+        "grade": "9",
+        "lot_number": "266771127622",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "pokedad.store"
+    },
+    {
+        "cert_number": "43959775",
+        "date": "1/29/2021",
+        "price": "$90.00",
+        "auction_house": "eBay",
+        "lot_number": "164660636025",
+        "auction_seller": "guildwars2mesmer",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5616123288646422874/-12449475835768082.jpg",
+        "grade": "10"
+    },
+    {
+        "date": "10/10/2020",
+        "cert_number": "43959775",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8056008338662608626/-3032166490773596401.jpg",
+        "auction_seller": "phatcollectables",
+        "price": "$75.00",
+        "auction_house": "eBay",
+        "lot_number": "283984442885",
+        "grade": "10"
+    }
+]

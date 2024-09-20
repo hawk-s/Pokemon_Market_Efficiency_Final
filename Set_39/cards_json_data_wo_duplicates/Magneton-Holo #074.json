@@ -1,0 +1,101 @@
+[
+    {
+        "date": "2/13/2023",
+        "auction_seller": "zandgemporium",
+        "price": "$69.00",
+        "grade": "9",
+        "lot_number": "285131544700",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6177193588808710088/3023148103848101386.jpg",
+        "cert_number": "68374332"
+    },
+    {
+        "price": "$69.99",
+        "auction_seller": "eemeliw",
+        "auction_type": "Buy It Now",
+        "date": "9/9/2017",
+        "cert_number": "26950737",
+        "lot_number": "322651324117",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/3719726609231817736/-5129133090125759812.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "4/21/2024",
+        "lot_number": "285811056508",
+        "auction_seller": "zandgemporium",
+        "price": "$41.00",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "60236732",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1358443427673223350/5603898063284759609.jpg"
+    },
+    {
+        "lot_number": "185961726441",
+        "price": "$124.82",
+        "cert_number": "63877584",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8923003794986784512/2176905525213015451.jpg",
+        "auction_seller": "amles2605",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "7/9/2023"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1567152311979704506/-7643593714186393011/images/1.jpg",
+        "price": "$16.00",
+        "date": "12/28/2022",
+        "cert_number": "70015013",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": " 2022 Banksy, Rare Autographs, Comics & Video Game",
+        "lot_number": "973"
+    },
+    {
+        "price": "$125.00",
+        "lot_number": "405184425598",
+        "date": "8/27/2024",
+        "auction_seller": "bangkok_vault_s",
+        "cert_number": "94078787",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6982410796655415016/-698702427065418995.jpg"
+    },
+    {
+        "cert_number": "53155373",
+        "auction_seller": "tsunagu",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6092466895367621634/787070185005123463.jpg",
+        "auction_type": "Auction",
+        "lot_number": "255212832772",
+        "auction_house": "eBay",
+        "price": "$158.50",
+        "grade": "10",
+        "date": "11/12/2021"
+    },
+    {
+        "grade": "7",
+        "auction_type": "Best Offer",
+        "lot_number": "203192883030",
+        "cert_number": "47780462",
+        "price": "$59.99",
+        "auction_seller": "blackbelt171",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4994574949007394465/7787292830844703477.jpg",
+        "auction_house": "eBay",
+        "date": "12/11/2020"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2276481272258253714/-1495593985539583063.jpg",
+        "cert_number": "69431438",
+        "date": "4/9/2024",
+        "lot_number": "196319086583",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "cooperscardscollectibles",
+        "price": "$91.00",
+        "grade": "10"
+    }
+]

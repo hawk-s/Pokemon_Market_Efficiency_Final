@@ -1,0 +1,68 @@
+[
+    {
+        "date": "7/29/2023",
+        "auction_seller": "moderndaymerchants",
+        "lot_number": "285394214100",
+        "price": "$8.84",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-240916844760587311/-4447024374357766419.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "73796031"
+    },
+    {
+        "date": "9/11/2023",
+        "auction_seller": "junkdrawercards2",
+        "cert_number": "77284102",
+        "grade": "8",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7540127947286816099/4533142346860093823.jpg",
+        "auction_house": "eBay",
+        "lot_number": "314798012578",
+        "price": "$1.25"
+    },
+    {
+        "date": "11/2/2022",
+        "price": "$15.02",
+        "lot_number": "185634599467",
+        "cert_number": "62280992",
+        "auction_seller": "bentleygardens",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3705968188780866830/-592362022374543256.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "93613460",
+        "date": "8/28/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-525417647644268724/-7811057869249224969.jpg",
+        "lot_number": "166926536791",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "mvpconsignments"
+    },
+    {
+        "lot_number": "305017193724",
+        "auction_seller": "waxhub1313",
+        "price": "$13.50",
+        "date": "7/17/2023",
+        "auction_type": "Auction",
+        "cert_number": "62265122",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3314784674270210540/-979521442883255188.jpg"
+    },
+    {
+        "price": "$4.99",
+        "date": "8/28/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2922816354527101410/8399565910397534002.jpg",
+        "cert_number": "93613487",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "166926536782",
+        "auction_seller": "mvpconsignments"
+    }
+]

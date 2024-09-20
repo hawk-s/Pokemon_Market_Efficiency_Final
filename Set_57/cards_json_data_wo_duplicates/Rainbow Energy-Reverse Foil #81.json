@@ -1,0 +1,57 @@
+[
+    {
+        "date": "2/5/2023",
+        "cert_number": "67247130",
+        "lot_number": "295497600415",
+        "grade": "9",
+        "price": "$22.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2805411109379628541/3981047804503684557.jpg",
+        "auction_seller": "arghas-76",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "cert_number": "66669501",
+        "lot_number": "364832443594",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3780109266290712198/2744496794123903049.jpg",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "auction_house": "eBay",
+        "date": "4/16/2024"
+    },
+    {
+        "price": "$40.31",
+        "grade": "9",
+        "date": "6/9/2024",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6491976143757562193/-2264399688557177963.jpg",
+        "lot_number": "285889594524",
+        "auction_house": "eBay",
+        "cert_number": "79380289",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "date": "6/23/2024",
+        "grade": "8",
+        "lot_number": "285908308094",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8162497753874830061/2269813602044506916.jpg",
+        "auction_type": "Auction",
+        "price": "$26.52",
+        "cert_number": "79380288",
+        "auction_house": "eBay",
+        "auction_seller": "lakegamestore"
+    },
+    {
+        "auction_type": "Best Offer",
+        "cert_number": "43362891",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5486502413096735373/-7232893738960254986.jpg",
+        "date": "9/4/2020",
+        "grade": "9",
+        "lot_number": "303605880596",
+        "price": "$24.00",
+        "auction_house": "eBay",
+        "auction_seller": "firststop_pokeshop"
+    }
+]

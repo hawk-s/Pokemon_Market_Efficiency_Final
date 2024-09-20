@@ -1,0 +1,90 @@
+[
+    {
+        "cert_number": "42098605",
+        "grade": "9",
+        "auction_seller": "cpq93",
+        "lot_number": "184322504791",
+        "price": "$40.00",
+        "date": "6/9/2020",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7836740040392488960/934660828691717198.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "68280054",
+        "auction_seller": "pokemoncj1994",
+        "date": "2/20/2023",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/482028793362355127/-1115361570820852463.jpg",
+        "lot_number": "134448943626",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "price": "$31.20"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5377048764453462733/-3365413893166507531.jpg",
+        "grade": "7",
+        "auction_seller": "zandgemporium",
+        "cert_number": "82929768",
+        "date": "8/4/2024",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "lot_number": "285980319676",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3952227233050219571/-7600728864038131850.jpg",
+        "auction_seller": "statsreset",
+        "auction_type": "Buy It Now",
+        "grade": "8",
+        "cert_number": "44129702",
+        "auction_house": "eBay",
+        "price": "$22.06",
+        "lot_number": "124139608492",
+        "date": "4/15/2020"
+    },
+    {
+        "lot_number": "155829699820",
+        "price": "$27.01",
+        "cert_number": "69698244",
+        "grade": "8",
+        "date": "10/22/2023",
+        "auction_seller": "ramcanyon",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8582526235949067735/-7289500355698342436.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "9",
+        "lot_number": "364378786353",
+        "auction_type": "Auction",
+        "price": "$17.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4628993616636724379/6485763371217520068.jpg",
+        "cert_number": "48393868",
+        "auction_house": "eBay",
+        "date": "8/3/2023",
+        "auction_seller": "rayquaza4eva"
+    },
+    {
+        "price": "$114.65",
+        "lot_number": "285814776730",
+        "cert_number": "71009612",
+        "auction_seller": "chibicollectablesuk",
+        "auction_type": "Auction",
+        "date": "4/28/2024",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/919153119840692703/-4476449046605745688.jpg"
+    },
+    {
+        "price": "$27.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5026648629741344937/7406140934003355077.jpg",
+        "grade": "8",
+        "auction_type": "Auction",
+        "lot_number": "266019430885",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "cert_number": "64690046",
+        "date": "12/13/2022"
+    }
+]

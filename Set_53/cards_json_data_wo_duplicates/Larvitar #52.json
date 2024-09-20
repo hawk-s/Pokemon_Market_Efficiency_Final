@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$11.00",
+        "cert_number": "28949682",
+        "auction_type": "Best Offer",
+        "date": "4/12/2018",
+        "lot_number": "263583749321",
+        "auction_seller": "forgottonn0n",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1022740927283391214/1240881146444902549.jpg",
+        "grade": "10"
+    },
+    {
+        "lot_number": "134103668090",
+        "auction_seller": "welcome_stranger_collectibles",
+        "date": "5/9/2022",
+        "cert_number": "52011187",
+        "price": "$18.49",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5884334608250872295/-7600043816337211190.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8638824491831248503/8176089759838145383.jpg",
+        "lot_number": "285779367964",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "date": "3/31/2024",
+        "price": "$8.50",
+        "auction_type": "Auction",
+        "cert_number": "56502226",
+        "auction_house": "eBay"
+    }
+]

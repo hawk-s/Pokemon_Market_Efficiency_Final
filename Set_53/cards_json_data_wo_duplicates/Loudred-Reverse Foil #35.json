@@ -1,0 +1,35 @@
+[
+    {
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2163941256866945355/-2973379522781255145.jpg",
+        "grade": "8",
+        "lot_number": "374531612678",
+        "date": "3/4/2023",
+        "auction_seller": "cardboardempires",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "64657882"
+    },
+    {
+        "lot_number": "202952789221",
+        "price": "$20.00",
+        "auction_seller": "2015.sitav",
+        "auction_type": "Best Offer",
+        "date": "5/30/2020",
+        "cert_number": "28427014",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2452092180196175856/3235535473749038472.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6407574134224588351/4634719763619858825.jpg",
+        "lot_number": "154570933067",
+        "cert_number": "47558637",
+        "auction_seller": "ramcanyon",
+        "price": "$112.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "8/23/2021",
+        "grade": "10"
+    }
+]

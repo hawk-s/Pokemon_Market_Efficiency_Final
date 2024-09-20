@@ -1,0 +1,46 @@
+[
+    {
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "price": "$20.00",
+        "cert_number": "75294575",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-3980552941619240458/images/1.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "lot_number": "4946"
+    },
+    {
+        "date": "3/29/2024",
+        "price": "$40.42",
+        "auction_seller": "elveness1439x",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8034836984755327312/45328035807075953.jpg",
+        "grade": "9",
+        "lot_number": "176299997697",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "87513728"
+    },
+    {
+        "date": "9/5/2020",
+        "auction_seller": "nsixtyj05h",
+        "cert_number": "47143982",
+        "lot_number": "133503668459",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3194776271387894083/5249528440683788568.jpg",
+        "price": "$25.00",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8049651847154518815/-1466914705944592563.jpg",
+        "auction_type": "Best Offer",
+        "date": "5/30/2020",
+        "price": "$24.99",
+        "lot_number": "283565256929",
+        "grade": "9",
+        "cert_number": "43350618",
+        "auction_seller": "cooltrainerryan",
+        "auction_house": "eBay"
+    }
+]

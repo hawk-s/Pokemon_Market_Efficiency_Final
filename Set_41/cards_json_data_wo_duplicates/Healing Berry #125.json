@@ -1,0 +1,68 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3161455475905966865/4481739611306500708.jpg",
+        "price": "$1.29",
+        "date": "6/21/2018",
+        "cert_number": "27835616",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "362353708714"
+    },
+    {
+        "price": "$14.99",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/918226763003459126/3133850807488311116.jpg",
+        "lot_number": "292771885110",
+        "cert_number": "27835616",
+        "grade": "9",
+        "date": "7/29/2020",
+        "auction_house": "eBay",
+        "auction_seller": "cabalcoffers"
+    },
+    {
+        "auction_seller": "letocards",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2485799204032924579/258936368342647789.jpg",
+        "date": "9/12/2021",
+        "cert_number": "51389894",
+        "price": "$20.02",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "124884862403"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "price": "$11.99",
+        "cert_number": "27667903",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2489606241632427036/-449395017210085944.jpg",
+        "auction_seller": "my_honolulu_blue",
+        "lot_number": "192309247950",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "26693808",
+        "auction_type": "Best Offer",
+        "lot_number": "112309208044",
+        "auction_seller": "pokemon_revolution",
+        "date": "7/13/2020",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5456563473653299707/2396960514141264592.jpg",
+        "price": "$12.99",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5759598429376762934/-3133539242590672526.jpg",
+        "lot_number": "142836549202",
+        "cert_number": "40771363",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "price": "$0.99"
+    }
+]

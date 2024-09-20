@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "393609435654",
+        "date": "10/10/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5111931596964284565/-121008484743890640.jpg",
+        "price": "$6.81",
+        "grade": "9",
+        "auction_seller": "matsad0",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "49031567"
+    },
+    {
+        "auction_seller": "poke-martcollectibles",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2423081892955944308/-5760989258139093451.jpg",
+        "cert_number": "49167397",
+        "date": "12/28/2022",
+        "grade": "9",
+        "price": "$13.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "275585395758"
+    },
+    {
+        "price": "$15.50",
+        "auction_seller": "qceshop",
+        "cert_number": "45152968",
+        "date": "7/10/2023",
+        "grade": "9",
+        "lot_number": "166207448844",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2373440703245037229/8244289355012722528.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_house": "Goldin Auctions",
+        "lot_number": "5609",
+        "grade": "7",
+        "date": "6/1/2023",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-6608454649298971802/-8008183405605586017/images/1.jpg",
+        "cert_number": "74551641",
+        "auction_seller": "Weekly Auction May 23 - Jun 1",
+        "auction_type": "Auction",
+        "price": "$8.00"
+    }
+]

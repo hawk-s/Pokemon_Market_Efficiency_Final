@@ -1,0 +1,46 @@
+[
+    {
+        "price": "$29.15",
+        "auction_seller": "pokematt_ig",
+        "cert_number": "62345218",
+        "date": "1/23/2023",
+        "auction_type": "Auction",
+        "lot_number": "115669314651",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6074298903877681859/6048661965792051123.jpg"
+    },
+    {
+        "lot_number": "176417435542",
+        "cert_number": "87051432",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "jscottyson",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3190911365296227/2251578928406928488.jpg",
+        "date": "6/17/2024"
+    },
+    {
+        "lot_number": "315550317813",
+        "auction_seller": "bidoveru",
+        "date": "7/30/2024",
+        "cert_number": "41643898",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1617402826727170079/3632683734811438751.jpg",
+        "price": "$24.94",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5005774552422380642/2403740666602359987.jpg",
+        "auction_type": "Buy It Now",
+        "price": "$24.99",
+        "lot_number": "122827829894",
+        "auction_seller": "pokemon_revolution",
+        "date": "12/29/2018",
+        "auction_house": "eBay",
+        "cert_number": "27955202",
+        "grade": "10"
+    }
+]

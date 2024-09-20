@@ -1,0 +1,101 @@
+[
+    {
+        "lot_number": "384861075303",
+        "cert_number": "57846363",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6744544178541338375/-8575326271291588941.jpg",
+        "price": "$43.00",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "date": "5/6/2022",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$199.00",
+        "auction_seller": "myers3329",
+        "auction_type": "Best Offer",
+        "lot_number": "293876936017",
+        "cert_number": "41469336",
+        "date": "2/1/2021",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2081061943175581500/-4297460800911364117.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "78084972",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4599169927857810270/5518566642533830246.jpg",
+        "grade": "9",
+        "price": "$75.00",
+        "lot_number": "405192821964",
+        "date": "8/31/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "wizzycollectstcg"
+    },
+    {
+        "price": "$73.40",
+        "date": "1/27/2022",
+        "cert_number": "52550548",
+        "grade": "9",
+        "lot_number": "284608613832",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "sonofhercules",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3106622402686029768/-6664788609353193268.jpg"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7683271493558492915/845176328961845337.jpg",
+        "price": "$14.61",
+        "auction_seller": "comc_consignment",
+        "lot_number": "256069490810",
+        "grade": "8",
+        "date": "5/20/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "70860800"
+    },
+    {
+        "date": "1/30/2024",
+        "price": "$20.00",
+        "auction_seller": "green_mountain_gems",
+        "cert_number": "74845803",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2922832533372910182/-8095394054966177907.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "235400184686"
+    },
+    {
+        "lot_number": "385498492207",
+        "date": "3/31/2023",
+        "grade": "9",
+        "price": "$23.50",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/111631843513547575/8432702602324455863.jpg",
+        "auction_house": "eBay",
+        "cert_number": "70845404"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8848949967571296072/-559644277613488523.jpg",
+        "cert_number": "91352444",
+        "grade": "7",
+        "date": "7/2/2024",
+        "price": "$10.00",
+        "auction_seller": "probstein123",
+        "lot_number": "375503509474",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2661971340293575191/293462464999154040.jpg",
+        "date": "7/8/2023",
+        "cert_number": "67605826",
+        "grade": "9",
+        "price": "$36.00",
+        "auction_seller": "unloaded_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "256126903882"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "auction_seller": "trujst_29",
+        "date": "10/27/2023",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4705338040083316799/237792161367745442.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "225826552539",
+        "price": "$18.50",
+        "cert_number": "77385229"
+    },
+    {
+        "lot_number": "285235531809",
+        "auction_seller": "zandgemporium",
+        "cert_number": "61169634",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3636368200280967157/-7069448701321855641.jpg",
+        "auction_type": "Auction",
+        "date": "4/23/2023",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

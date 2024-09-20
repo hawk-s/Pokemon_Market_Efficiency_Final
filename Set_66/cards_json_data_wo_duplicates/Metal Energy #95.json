@@ -1,0 +1,24 @@
+[
+    {
+        "price": "$9.50",
+        "date": "2/11/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/120346767525211289/4488239994521646167.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "thepokeman",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27743388",
+        "lot_number": "282826588579"
+    },
+    {
+        "auction_seller": "tnolan0816",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/2632108724376285382/-7378707459192666920.jpg",
+        "lot_number": "292314782234",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27743388",
+        "price": "$0.99"
+    }
+]

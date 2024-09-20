@@ -1,0 +1,35 @@
+[
+    {
+        "date": "9/8/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4158442360798234058/2258705324373124761.jpg",
+        "lot_number": "335011620062",
+        "price": "$57.00",
+        "cert_number": "67189759",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "zoozcollectibles",
+        "grade": "10"
+    },
+    {
+        "lot_number": "255212845058",
+        "auction_seller": "tsunagu",
+        "price": "$51.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3932378657103704071/5069224493656275611.jpg",
+        "auction_type": "Auction",
+        "cert_number": "53837536",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/12/2021"
+    },
+    {
+        "date": "12/27/2022",
+        "cert_number": "58873562",
+        "price": "$53.07",
+        "auction_seller": "card.galaxy",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3267855452534602098/-4472852982820698024.jpg",
+        "lot_number": "325470403176",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

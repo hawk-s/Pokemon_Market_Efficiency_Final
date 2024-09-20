@@ -1,0 +1,57 @@
+[
+    {
+        "auction_seller": "launderj1988",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-68113016003943555/-3472837025518247453.jpg",
+        "grade": "9",
+        "cert_number": "53214455",
+        "price": "$19.99",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "125037146798",
+        "date": "12/14/2021"
+    },
+    {
+        "date": "1/31/2022",
+        "auction_seller": "welcome_stranger_collectibles",
+        "cert_number": "52010973",
+        "lot_number": "134003863376",
+        "price": "$56.66",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8553621696084777396/7609876572647680314.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "price": "$11.99",
+        "lot_number": "112567373756",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4770418121509159454/-5328336710986318985.jpg",
+        "auction_seller": "my_honolulu_blue",
+        "cert_number": "27667886",
+        "date": "9/18/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/6/2018",
+        "cert_number": "40771239",
+        "price": "$11.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6106768588418510078/-324756842555970516.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "lot_number": "142811259372",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "jeannietate1954",
+        "price": "$8.99",
+        "lot_number": "253414260321",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3466308422193302090/-9222227605649598087.jpg",
+        "auction_type": "Auction",
+        "date": "2/13/2018",
+        "auction_house": "eBay",
+        "cert_number": "26693787"
+    }
+]

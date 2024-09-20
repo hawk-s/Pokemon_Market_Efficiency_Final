@@ -1,0 +1,46 @@
+[
+    {
+        "grade": "7",
+        "date": "5/22/2021",
+        "lot_number": "154453716712",
+        "price": "$18.05",
+        "auction_seller": "ramcanyon",
+        "cert_number": "47558576",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4733654563115128341/-393920984372419622.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "lot_number": "315243185075",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4593174350324112770/-2619526013113396978.jpg",
+        "grade": "9",
+        "date": "4/2/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.19",
+        "cert_number": "70208457"
+    },
+    {
+        "date": "11/20/2017",
+        "cert_number": "26704926",
+        "price": "$14.99",
+        "auction_seller": "psa10gem101",
+        "auction_type": "Auction",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-2983026790130594195/3503611394321215751.jpg",
+        "auction_house": "eBay",
+        "lot_number": "122807115228",
+        "grade": "10"
+    },
+    {
+        "price": "$8.77",
+        "lot_number": "303477572730",
+        "date": "2/14/2020",
+        "auction_seller": "alexta_9416",
+        "cert_number": "44005585",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6770947115478536673/8374092310621839628.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

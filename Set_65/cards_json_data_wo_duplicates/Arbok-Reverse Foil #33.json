@@ -1,0 +1,46 @@
+[
+    {
+        "date": "3/24/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/72637025441957008/-6452981261970823537.jpg",
+        "cert_number": "85383921",
+        "lot_number": "315223791433",
+        "grade": "8",
+        "price": "$11.97",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "nevergonnaletmewdown"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1503961502466300076/-564736748134285966.jpg",
+        "price": "$82.42",
+        "auction_type": "Auction",
+        "date": "3/8/2024",
+        "lot_number": "276345484289",
+        "cert_number": "62815872",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10"
+    },
+    {
+        "price": "$18.52",
+        "lot_number": "295348511777",
+        "date": "12/4/2022",
+        "grade": "9",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3656854104161928518/3854520781291439572.jpg",
+        "cert_number": "66513433"
+    },
+    {
+        "date": "8/16/2024",
+        "lot_number": "166909495029",
+        "cert_number": "93746150",
+        "price": "$156.50",
+        "auction_seller": "itemland",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4833385698915269414/-7102187598547303108.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

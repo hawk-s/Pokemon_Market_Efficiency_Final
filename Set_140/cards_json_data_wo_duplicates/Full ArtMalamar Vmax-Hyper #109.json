@@ -1,0 +1,68 @@
+[
+    {
+        "lot_number": "224412055913",
+        "price": "$56.29",
+        "cert_number": "47608655",
+        "auction_seller": "gradedpokestop",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3671795635688000513/368428615768871059.jpg",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "4/11/2021"
+    },
+    {
+        "cert_number": "86430719",
+        "auction_seller": "disneyscott15",
+        "price": "$16.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1331088867467586294/562245099714313018.jpg",
+        "auction_house": "eBay",
+        "date": "3/3/2024",
+        "auction_type": "Auction",
+        "lot_number": "186320357529",
+        "grade": "10"
+    },
+    {
+        "price": "$24.60",
+        "lot_number": "124284630114",
+        "cert_number": "46617336",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2238296628263384506/-7181635649606467595.jpg",
+        "auction_seller": "kawaii-japanshop",
+        "auction_type": "Auction",
+        "date": "8/9/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "8/30/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5497648233581775205/-5880569160036881598.jpg",
+        "lot_number": "124311285817",
+        "auction_seller": "kawaii-japanshop",
+        "auction_type": "Auction",
+        "price": "$24.50",
+        "auction_house": "eBay",
+        "cert_number": "46617334",
+        "grade": "10"
+    },
+    {
+        "price": "$24.80",
+        "auction_seller": "tannah12",
+        "cert_number": "54659232",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "155279256473",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8006044435433335834/-4912084016005268822.jpg",
+        "date": "12/5/2022"
+    },
+    {
+        "lot_number": "124299492780",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7522195141922486292/8275109190711411962.jpg",
+        "date": "8/20/2020",
+        "auction_seller": "kawaii-japanshop",
+        "cert_number": "46617333",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$18.50"
+    }
+]

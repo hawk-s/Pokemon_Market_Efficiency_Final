@@ -1,0 +1,90 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/683177625181192988/8254562811361591030.jpg",
+        "cert_number": "44231835",
+        "date": "12/4/2023",
+        "lot_number": "305288303217",
+        "price": "$77.00",
+        "auction_seller": "mpar2512",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "1/1/2023",
+        "auction_seller": "goldrush_cards",
+        "cert_number": "59085370",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5020558612742461965/-4674786595213381506.jpg",
+        "lot_number": "234830631853",
+        "grade": "9",
+        "price": "$26.85",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$11.00",
+        "lot_number": "5426",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/8037660963730240279/images/1.jpg",
+        "grade": "8",
+        "date": "6/15/2023",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun",
+        "cert_number": "75030707"
+    },
+    {
+        "date": "1/30/2023",
+        "lot_number": "314342541028",
+        "price": "$74.00",
+        "auction_type": "Auction",
+        "cert_number": "51465999",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7190592379733314492/9084596538500893040.jpg"
+    },
+    {
+        "price": "$26.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7256695600244372279/1761626481238688826.jpg",
+        "lot_number": "314701183199",
+        "date": "7/17/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "drews.gaming.galaxy",
+        "auction_house": "eBay",
+        "cert_number": "51466000"
+    },
+    {
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "lot_number": "401996947030",
+        "cert_number": "27696335",
+        "price": "$27.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8088846654796432648/-4859899832552417217.jpg"
+    },
+    {
+        "lot_number": "175411926538",
+        "date": "9/16/2022",
+        "cert_number": "61273413",
+        "auction_seller": "deri_7720",
+        "price": "$152.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6690705163230239268/-6703073741978380104.jpg"
+    },
+    {
+        "auction_seller": "collectorsworld-va",
+        "lot_number": "182951098083",
+        "date": "12/17/2017",
+        "cert_number": "28478642",
+        "price": "$5.50",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5306101347612026080/1461553368694800632.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

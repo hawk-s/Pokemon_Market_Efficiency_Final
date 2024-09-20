@@ -1,0 +1,35 @@
+[
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7646075189945485588/-7396567615471928737.jpg",
+        "cert_number": "53803286",
+        "date": "2/19/2022",
+        "grade": "9",
+        "price": "$14.02",
+        "auction_type": "Auction",
+        "lot_number": "175154581723",
+        "auction_house": "eBay",
+        "auction_seller": "one-with-the-force"
+    },
+    {
+        "auction_seller": "robk0215",
+        "date": "11/11/2021",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2195593634804234367/-8060528837611180146.jpg",
+        "grade": "10",
+        "cert_number": "49959078",
+        "lot_number": "175007125681"
+    },
+    {
+        "cert_number": "40851090",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1021886511663690474/-1855611248134293535.jpg",
+        "date": "12/23/2019",
+        "auction_seller": "pwcc_auctions",
+        "price": "$26.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "143471122756"
+    }
+]

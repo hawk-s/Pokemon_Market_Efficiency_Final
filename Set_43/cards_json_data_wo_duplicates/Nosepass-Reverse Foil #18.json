@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "60759854",
+        "auction_seller": "tannah12",
+        "price": "$20.06",
+        "grade": "8",
+        "date": "2/19/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8390273006741696682/-9156030601974946323.jpg",
+        "lot_number": "115701658446",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "auction_house": "Goldin Auctions",
+        "lot_number": "4675",
+        "date": "5/4/2023",
+        "auction_seller": "Weekly Auction Apr 25 - May 4",
+        "cert_number": "71339316",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-3698167823570495137/-6181101396116257377/images/1.jpg"
+    },
+    {
+        "grade": "6",
+        "date": "7/13/2024",
+        "lot_number": "156294255692",
+        "auction_seller": "ramcanyon",
+        "cert_number": "71755791",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8173972779292052202/47697355748826724.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "auction_seller": "bravepuppygalleries",
+        "date": "2/19/2023",
+        "grade": "9",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "cert_number": "53957102",
+        "lot_number": "385410311463",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7280793798230593222/3551839036889862989.jpg"
+    },
+    {
+        "cert_number": "75293743",
+        "date": "5/18/2023",
+        "auction_seller": "Weekly Auction May 9 - May 18",
+        "price": "$20.00",
+        "grade": "8",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-385697730062783888/-1861211961930005018/images/1.jpg",
+        "lot_number": "4941",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/16/2023",
+        "grade": "8",
+        "auction_seller": "tcg_stockpile",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6683955628828496562/2107472306397783435.jpg",
+        "price": "$8.02",
+        "auction_type": "Auction",
+        "lot_number": "355275098533",
+        "auction_house": "eBay",
+        "cert_number": "65334555"
+    },
+    {
+        "price": "$7.50",
+        "date": "7/15/2024",
+        "grade": "9",
+        "auction_seller": "dcsports87",
+        "auction_type": "Auction",
+        "cert_number": "91845537",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7801750119867379894/3064388116310601055.jpg",
+        "lot_number": "375529057686"
+    },
+    {
+        "cert_number": "47888993",
+        "auction_seller": "pwcc_auctions",
+        "price": "$26.00",
+        "lot_number": "144043788567",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "5/29/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/152822026286053118/5044569502502033623.jpg"
+    },
+    {
+        "cert_number": "87172688",
+        "price": "$4.99",
+        "auction_seller": "voodoos_cards",
+        "grade": "8",
+        "auction_type": "Auction",
+        "lot_number": "395487470717",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4863201638466093019/-7092728920631415504.jpg",
+        "auction_house": "eBay",
+        "date": "6/29/2024"
+    },
+    {
+        "price": "$10.00",
+        "cert_number": "28103164",
+        "lot_number": "382276011665",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/4757313815082352345/1006322605838101804.jpg",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "date": "11/14/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

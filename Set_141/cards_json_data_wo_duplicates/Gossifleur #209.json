@@ -1,0 +1,35 @@
+[
+    {
+        "date": "8/26/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7425464882240673221/567414889223337938.jpg",
+        "cert_number": "61598602",
+        "lot_number": "235139034550",
+        "auction_seller": "amt_memorabilia",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$15.01"
+    },
+    {
+        "auction_seller": "tjparacord",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8007634467349524778/4195791900617288005.jpg",
+        "lot_number": "156184520767",
+        "price": "$14.00",
+        "auction_type": "Auction",
+        "date": "5/4/2024",
+        "cert_number": "59845308",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$10.50",
+        "auction_seller": "greatlakeshobby",
+        "cert_number": "59562279",
+        "lot_number": "175576576708",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6867152277481959836/2652698166235008416.jpg",
+        "date": "1/23/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

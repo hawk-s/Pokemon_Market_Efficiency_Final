@@ -1,0 +1,46 @@
+[
+    {
+        "auction_seller": "psa_power",
+        "lot_number": "325497826473",
+        "price": "$19.78",
+        "date": "1/20/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7421183817675935769/9018381419947496850.jpg",
+        "auction_type": "Auction",
+        "cert_number": "55729703",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5045286052980686764/4760586638577953835.jpg",
+        "lot_number": "363964183154",
+        "auction_seller": "probstein123",
+        "date": "9/8/2022",
+        "price": "$20.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "60665231"
+    },
+    {
+        "date": "8/6/2023",
+        "cert_number": "74612143",
+        "grade": "9",
+        "lot_number": "385845110911",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/302853117924460200/6363294166268974960.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.77",
+        "auction_seller": "mukengames"
+    },
+    {
+        "cert_number": "60665229",
+        "price": "$15.50",
+        "lot_number": "363964238588",
+        "auction_seller": "probstein123",
+        "date": "9/8/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3235979083814823861/-1130050520191090639.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

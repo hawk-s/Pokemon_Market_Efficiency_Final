@@ -1,0 +1,79 @@
+[
+    {
+        "cert_number": "46737337",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1424653469941566560/-3207079420920407641.jpg",
+        "auction_seller": "probstein123",
+        "date": "10/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "386181806085",
+        "price": "$71.00"
+    },
+    {
+        "date": "2/14/2019",
+        "cert_number": "41949851",
+        "auction_seller": "japcars-7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2813967507254336867/4382544655746419202.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "401703265898",
+        "grade": "10",
+        "price": "$10.01"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3312475963627380521/-1528015562656066791.jpg",
+        "lot_number": "274934327796",
+        "cert_number": "51113395",
+        "auction_seller": "jacanddan_collectibles",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "9/17/2021",
+        "price": "$150.00"
+    },
+    {
+        "price": "$29.67",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-4923078930462467657/3735686213334296418.jpg",
+        "lot_number": "402609425361",
+        "auction_seller": "rysua_94",
+        "grade": "8",
+        "cert_number": "47096898",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/20/2020"
+    },
+    {
+        "date": "6/17/2021",
+        "auction_seller": "casablanca_comics",
+        "lot_number": "194195349765",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7918464818392993024/4242123779956620383.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$73.00",
+        "cert_number": "48565227"
+    },
+    {
+        "grade": "8.5",
+        "auction_seller": "casablanca_comics",
+        "date": "6/19/2021",
+        "cert_number": "48565226",
+        "lot_number": "194199743684",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1217486591498073580/-9193863884131800454.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$18.50"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4273007689418033503/6579293004087736736.jpg",
+        "date": "12/21/2022",
+        "price": "$99.99",
+        "cert_number": "51113395",
+        "grade": "10",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "385297013561",
+        "auction_seller": "primeretro"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "cert_number": "47660327",
+        "auction_seller": "obscars",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8010281120247436629/3371447496210658041.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$42.75",
+        "lot_number": "284219410366",
+        "date": "3/28/2021"
+    },
+    {
+        "auction_type": "Best Offer",
+        "cert_number": "41773535",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6527975752977944252/-2708460754336259786.jpg",
+        "lot_number": "114621655731",
+        "auction_seller": "chopin_1810_1849",
+        "price": "$136.72",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "1/13/2021"
+    },
+    {
+        "auction_seller": "omegacollectiblesllc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7903746440890173841/799349488030843267.jpg",
+        "price": "$15.50",
+        "grade": "9",
+        "lot_number": "186043210318",
+        "auction_type": "Auction",
+        "date": "8/28/2023",
+        "auction_house": "eBay",
+        "cert_number": "70369567"
+    },
+    {
+        "cert_number": "57142839",
+        "price": "$16.66",
+        "auction_seller": "shinjuku-donquixote",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2654359750473640120/-5832019750355271716.jpg",
+        "lot_number": "284612989417",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/29/2022"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8420572727713545517/-4956728677320403995.jpg",
+        "lot_number": "285007762572",
+        "cert_number": "61055772",
+        "auction_seller": "zandgemporium",
+        "price": "$37.76",
+        "auction_type": "Auction",
+        "date": "10/30/2022",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

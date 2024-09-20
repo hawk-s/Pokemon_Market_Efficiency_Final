@@ -1,0 +1,57 @@
+[
+    {
+        "price": "$13.50",
+        "auction_seller": "gamesunleashed",
+        "lot_number": "185290651208",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-9166932216305643300/-8586347535726411361.jpg",
+        "auction_type": "Auction",
+        "cert_number": "54920889",
+        "auction_house": "eBay",
+        "date": "2/18/2022"
+    },
+    {
+        "lot_number": "363618746252",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7802823692094093557/-6547351014775467022.jpg",
+        "cert_number": "52957267",
+        "grade": "9",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "price": "$13.02",
+        "date": "11/19/2021",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$7.50",
+        "auction_seller": "0898matt",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2679882553242139941/4104371284270826680.jpg",
+        "cert_number": "27989003",
+        "lot_number": "202814214232",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "11/10/2019"
+    },
+    {
+        "date": "6/5/2020",
+        "cert_number": "26510507",
+        "auction_type": "Best Offer",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8659114166155180383/-3219079048487716530.jpg",
+        "auction_seller": "pokemon_revolution",
+        "price": "$19.99",
+        "lot_number": "123685646774",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "27989004",
+        "lot_number": "402743229837",
+        "auction_seller": "repriseinc",
+        "date": "3/18/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6495008092500480192/4572931377635608738.jpg",
+        "price": "$51.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

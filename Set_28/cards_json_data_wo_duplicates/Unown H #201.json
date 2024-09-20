@@ -1,0 +1,24 @@
+[
+    {
+        "date": "1/30/2023",
+        "lot_number": "325507169413",
+        "cert_number": "58873459",
+        "grade": "9",
+        "auction_seller": "card.galaxy",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1872215221528866180/-1655074867625133940.jpg",
+        "price": "$16.95"
+    },
+    {
+        "cert_number": "61169478",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7928839478302458104/7367943333058060366.jpg",
+        "date": "7/30/2023",
+        "grade": "9",
+        "price": "$15.52",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "285389768170"
+    }
+]

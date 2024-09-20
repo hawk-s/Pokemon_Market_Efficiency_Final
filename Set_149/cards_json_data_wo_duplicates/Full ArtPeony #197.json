@@ -1,0 +1,101 @@
+[
+    {
+        "date": "6/19/2023",
+        "price": "$28.01",
+        "cert_number": "66414301",
+        "lot_number": "394674732382",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "auction_seller": "taysm-9722",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1502650311934760790/8615796990212720631.jpg"
+    },
+    {
+        "auction_seller": "elite4master",
+        "price": "$7.50",
+        "date": "12/26/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2457791447351557714/9151911732200900253.jpg",
+        "cert_number": "65340182",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "125670763751"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6343208906484420562/1185266452190876121.jpg",
+        "price": "$20.00",
+        "auction_seller": "probstein123",
+        "lot_number": "365066082765",
+        "auction_type": "Auction",
+        "cert_number": "94351080",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "8/22/2024"
+    },
+    {
+        "date": "5/24/2024",
+        "lot_number": "315364610079",
+        "auction_seller": "galactic_tcg",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6243504695434911899/6447777399060243814.jpg",
+        "cert_number": "71884991",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$11.79"
+    },
+    {
+        "date": "7/28/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2479091970351775858/-1340925526719643065.jpg",
+        "price": "$3.25",
+        "auction_seller": "cardsofhearts",
+        "grade": "9",
+        "cert_number": "68950918",
+        "lot_number": "395546392219",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "75680229",
+        "auction_seller": "jorluc-39",
+        "price": "$2.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8845290451054175000/-8403253814686073616.jpg",
+        "lot_number": "404759520501",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "1/31/2024"
+    },
+    {
+        "auction_seller": "elite4master",
+        "price": "$10.02",
+        "grade": "9",
+        "lot_number": "125634091721",
+        "cert_number": "65340184",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-402637039831648206/-5084838750382826548.jpg",
+        "date": "12/5/2022"
+    },
+    {
+        "date": "2/25/2023",
+        "price": "$30.00",
+        "cert_number": "70925062",
+        "auction_seller": "jdubb_6",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/466814797986350706/2479815427531570043.jpg",
+        "lot_number": "225430037354",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "taylors_trade",
+        "lot_number": "175607378334",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5589119709675852791/-7497475025795957931.jpg",
+        "grade": "8",
+        "price": "$5.00",
+        "cert_number": "69504035",
+        "date": "2/17/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

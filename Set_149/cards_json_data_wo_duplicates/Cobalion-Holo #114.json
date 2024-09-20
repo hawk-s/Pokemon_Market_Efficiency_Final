@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "aprsl_dot_com",
+        "date": "4/9/2023",
+        "lot_number": "175670233783",
+        "price": "$5.50",
+        "cert_number": "71992845",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7577385544722796938/-68415346239289643.jpg",
+        "grade": "10"
+    },
+    {
+        "date": "2/18/2023",
+        "auction_seller": "mountainhousesc",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8652398394914725739/-791954798825854217.jpg",
+        "price": "$20.50",
+        "lot_number": "314387880207",
+        "cert_number": "70718372",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$12.00",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-1567152311979704506/-746608170124126308/images/1.jpg",
+        "grade": "8",
+        "cert_number": "68330373",
+        "date": "12/28/2022",
+        "auction_type": "Auction",
+        "auction_house": "Goldin Auctions",
+        "auction_seller": " 2022 Banksy, Rare Autographs, Comics & Video Game",
+        "lot_number": "1262"
+    }
+]

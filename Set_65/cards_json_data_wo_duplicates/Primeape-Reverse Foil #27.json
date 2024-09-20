@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "48223452",
+        "auction_seller": "zapycards",
+        "grade": "8",
+        "date": "8/1/2021",
+        "lot_number": "294298417581",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$19.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8266151706533737149/8019221485486385239.jpg"
+    },
+    {
+        "date": "3/11/2023",
+        "price": "$71.00",
+        "cert_number": "68510450",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6856433665619860551/6554072638226938163.jpg",
+        "auction_seller": "poke_place",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "234915933671"
+    },
+    {
+        "cert_number": "44294643",
+        "auction_seller": "bigeri_ses13",
+        "auction_type": "Best Offer",
+        "date": "10/18/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7996542128946357150/6355321847454809715.jpg",
+        "price": "$19.99",
+        "auction_house": "eBay",
+        "grade": "10",
+        "lot_number": "383194538863"
+    }
+]

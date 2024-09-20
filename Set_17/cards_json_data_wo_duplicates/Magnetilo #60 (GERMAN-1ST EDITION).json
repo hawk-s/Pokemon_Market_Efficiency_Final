@@ -1,0 +1,35 @@
+[
+    {
+        "cert_number": "66954100",
+        "auction_seller": "vispri-21",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5546463526091729427/-9134610023644198630.jpg",
+        "grade": "9",
+        "price": "$27.16",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "lot_number": "354618691240"
+    },
+    {
+        "date": "8/11/2024",
+        "cert_number": "94265594",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2660905021336592301/3116966439479314081.jpg",
+        "price": "$31.13",
+        "grade": "9",
+        "lot_number": "135174406555",
+        "auction_seller": "slapauction",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "8/18/2024",
+        "grade": "9",
+        "auction_seller": "slapauction",
+        "price": "$30.23",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "135184647181",
+        "cert_number": "71209066",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4236668195110511398/6638255605904013040.jpg"
+    }
+]

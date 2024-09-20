@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "christi130886",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2958011289063794185/-7072165858087161113.jpg",
+        "lot_number": "175799337686",
+        "price": "$14.75",
+        "cert_number": "56012459",
+        "grade": "3",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "7/9/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1588792179256372222/-8579759457032850143.jpg",
+        "date": "11/8/2021",
+        "lot_number": "234265107261",
+        "price": "$18.58",
+        "auction_seller": "californiatradingcards",
+        "auction_type": "Auction",
+        "cert_number": "49007947",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "285630522586",
+        "grade": "7",
+        "price": "$8.05",
+        "auction_seller": "zandgemporium",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1021485557072215731/-481655768513444534.jpg",
+        "date": "1/7/2024",
+        "auction_type": "Auction",
+        "cert_number": "83714851",
+        "auction_house": "eBay"
+    }
+]

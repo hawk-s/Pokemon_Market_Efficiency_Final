@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "63079427",
+        "lot_number": "284537114152",
+        "grade": "9",
+        "date": "11/29/2021",
+        "auction_seller": "zandgemporium-0",
+        "price": "$17.02",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6549979892714453381/-6683290989126145448.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/9166827960727106395/3840614750987190601.jpg",
+        "date": "1/21/2023",
+        "price": "$14.95",
+        "cert_number": "66962325",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "bobcatgolfer24",
+        "lot_number": "266085232341"
+    },
+    {
+        "price": "$7.50",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1228047833499463358/-5175852910937618578.jpg",
+        "cert_number": "94859696",
+        "date": "8/24/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa",
+        "lot_number": "305724997647"
+    },
+    {
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3865265948846490650/-1059471425197160333.jpg",
+        "auction_seller": "rainydaycards",
+        "date": "7/12/2024",
+        "lot_number": "176457500396",
+        "cert_number": "66691469",
+        "price": "$9.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    }
+]

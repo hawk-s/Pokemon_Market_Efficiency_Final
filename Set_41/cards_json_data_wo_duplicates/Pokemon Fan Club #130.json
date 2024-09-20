@@ -1,0 +1,68 @@
+[
+    {
+        "price": "$55.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/279143079511654318/5646563998098070068.jpg",
+        "date": "9/8/2021",
+        "lot_number": "274929942058",
+        "auction_seller": "coins_n_rarities",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "49039146"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6659044828985994233/-3253463090081528323.jpg",
+        "auction_seller": "zandgemporium",
+        "cert_number": "61489627",
+        "auction_type": "Auction",
+        "date": "4/23/2023",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$33.00",
+        "lot_number": "285233828478"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-1118971315221623912/-1016051612359151521.jpg",
+        "lot_number": "122794258564",
+        "cert_number": "27937427",
+        "auction_type": "Buy It Now",
+        "auction_seller": "pokemon_revolution",
+        "price": "$19.99",
+        "date": "3/27/2018",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "3/20/2018",
+        "lot_number": "192481640211",
+        "price": "$11.99",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "cert_number": "27835619",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7713534444400022080/1145417381832756150.jpg"
+    },
+    {
+        "cert_number": "49039147",
+        "lot_number": "274919267928",
+        "date": "8/31/2021",
+        "auction_seller": "coins_n_rarities",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1884925659179985367/-3690265321712437774.jpg",
+        "price": "$36.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "6/6/2018",
+        "grade": "9",
+        "lot_number": "142811260008",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5717603392295157797/-5028109055126178151.jpg",
+        "cert_number": "40771222",
+        "price": "$0.99"
+    }
+]

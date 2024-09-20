@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "27743666",
+        "auction_seller": "tnolan0816",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/8667459223167775651/-5618976746092537140.jpg",
+        "lot_number": "292317668528",
+        "price": "$5.50",
+        "auction_type": "Auction",
+        "date": "11/11/2017",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "lot_number": "254233152862",
+        "date": "5/25/2019",
+        "auction_seller": "starlightcove",
+        "cert_number": "28572840",
+        "price": "$11.50",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5763990585785623715/-1171959316830832891.jpg"
+    },
+    {
+        "cert_number": "27743666",
+        "auction_seller": "tnolan0816",
+        "date": "11/24/2017",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-6237709129147528852/-5618976746092537140.jpg",
+        "auction_type": "Auction",
+        "lot_number": "292337991358",
+        "price": "$22.50",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-710858875820928946/5077127540661228371.jpg",
+        "price": "$19.00",
+        "lot_number": "323241328386",
+        "cert_number": "28572840",
+        "auction_seller": "poketrader007",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "date": "5/11/2018"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "cert_number": "88970505",
+        "lot_number": "176321909609",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "trevs_kingdom",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3566726706903305890/-4610700245868673979.jpg",
+        "price": "$17.25",
+        "date": "4/13/2024"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/282251227648717245/-5818042268396246516.jpg",
+        "cert_number": "71077934",
+        "grade": "9",
+        "price": "$31.00",
+        "auction_seller": "dedizzle24",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "355091617749",
+        "date": "10/16/2023"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8229249358830134494/4899641710479920334.jpg",
+        "price": "$49.00",
+        "cert_number": "46674797",
+        "auction_seller": "corrdog666",
+        "grade": "9",
+        "lot_number": "203264058255",
+        "date": "2/10/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "71077934",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8727438383575879107/-6739460465240766143.jpg",
+        "auction_seller": "bestcardsmarket",
+        "date": "3/31/2023",
+        "grade": "9",
+        "price": "$46.00",
+        "auction_type": "Auction",
+        "lot_number": "364192874657",
+        "auction_house": "eBay"
+    }
+]

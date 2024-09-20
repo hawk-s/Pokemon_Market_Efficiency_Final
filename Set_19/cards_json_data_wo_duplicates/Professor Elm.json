@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "293854244161",
+        "price": "$55.74",
+        "date": "12/5/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4615043354678943965/4023511751029564924.jpg",
+        "auction_seller": "dragon_mon_z",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27885943"
+    },
+    {
+        "auction_seller": "rofjapan",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3167417190665248265/-5921151994753665155.jpg",
+        "cert_number": "64841414",
+        "date": "12/8/2022",
+        "grade": "6",
+        "lot_number": "125641244684",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$0.99"
+    },
+    {
+        "cert_number": "59257553",
+        "price": "$15.00",
+        "date": "5/22/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6454254793510605132/4043552445873474755.jpg",
+        "auction_seller": "rocky_mountain_graded_cards",
+        "grade": "9",
+        "lot_number": "185898609805",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "cert_number": "61169442",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7394456648586169956/-4830931909534033879.jpg",
+        "lot_number": "375079248475",
+        "grade": "8",
+        "auction_seller": "richarsantor_0",
+        "price": "$1.04",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "12/5/2023"
+    }
+]

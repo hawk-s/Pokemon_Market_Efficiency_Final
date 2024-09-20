@@ -1,0 +1,35 @@
+[
+    {
+        "auction_seller": "drews.gaming.galaxy",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2209766882598126929/4150325369949404833.jpg",
+        "cert_number": "51466060",
+        "price": "$16.52",
+        "date": "7/17/2023",
+        "grade": "9",
+        "auction_type": "Auction",
+        "lot_number": "314701177162",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$30.00",
+        "date": "6/2/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/3787702348129755168/-1106592490549269741.jpg",
+        "auction_type": "Best Offer",
+        "auction_seller": "pokegem10",
+        "lot_number": "223714281802",
+        "grade": "9",
+        "cert_number": "43699329",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "4",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4798695610160687530/-9063828380487407219.jpg",
+        "auction_seller": "dadu-uk-general-sales-poke",
+        "lot_number": "186494103979",
+        "price": "$12.03",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "6/14/2024",
+        "cert_number": "78742424"
+    }
+]

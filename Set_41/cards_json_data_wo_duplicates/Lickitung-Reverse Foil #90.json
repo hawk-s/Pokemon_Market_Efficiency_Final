@@ -1,0 +1,68 @@
+[
+    {
+        "grade": "9",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/9112433815551563463/-4260364319594416703.jpg",
+        "date": "8/27/2017",
+        "auction_seller": "kevinh703",
+        "price": "$2.82",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "27476632",
+        "lot_number": "182725848813"
+    },
+    {
+        "lot_number": "322869512663",
+        "price": "$8.99",
+        "cert_number": "24858055",
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/-4959360361533012957/1108207956835381348.jpg",
+        "auction_seller": "pelozas",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "11/12/2017"
+    },
+    {
+        "date": "8/19/2020",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7175944040214761816/3981852226544621088.jpg",
+        "auction_type": "Best Offer",
+        "cert_number": "24858055",
+        "grade": "9",
+        "price": "$14.00",
+        "lot_number": "153928809276",
+        "auction_seller": "smaegames",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2557646304035699689/-717438267639804602.jpg",
+        "price": "$46.86",
+        "date": "12/11/2023",
+        "cert_number": "41354972",
+        "grade": "9",
+        "lot_number": "314967224875",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming"
+    },
+    {
+        "date": "8/29/2021",
+        "grade": "6",
+        "auction_seller": "card_secret",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6774637269556600159/-6104508122261860292.jpg",
+        "price": "$31.00",
+        "auction_type": "Auction",
+        "lot_number": "114941889897",
+        "auction_house": "eBay",
+        "cert_number": "50453626"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4531223848347519887/-7483552679308661607.jpg",
+        "auction_seller": "thetcgenius",
+        "lot_number": "135015838515",
+        "price": "$131.50",
+        "auction_type": "Auction",
+        "date": "4/22/2024",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "88447000"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "cert_number": "56440024",
+        "date": "5/4/2022",
+        "price": "$26.27",
+        "grade": "8",
+        "auction_seller": "pokemon_sphere",
+        "lot_number": "325171808915",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5840969279940761814/-5779142174343845352.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_seller": "bidoveru",
+        "cert_number": "70208463",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5857973030522548783/-39553019577114368.jpg",
+        "price": "$21.50",
+        "auction_type": "Auction",
+        "date": "4/8/2024",
+        "lot_number": "315245201646",
+        "auction_house": "eBay"
+    },
+    {
+        "auction_type": "Buy It Now",
+        "auction_seller": "pokemon_revolution",
+        "grade": "9",
+        "price": "$19.99",
+        "lot_number": "112759190327",
+        "auction_house": "eBay",
+        "date": "5/4/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1668701604264304089/-7006019310687202775.jpg",
+        "cert_number": "28392158"
+    },
+    {
+        "auction_seller": "mind*games",
+        "grade": "9",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5853215240760508726/-3628274328792113031.jpg",
+        "auction_type": "Auction",
+        "date": "5/20/2024",
+        "lot_number": "186443276437",
+        "price": "$29.99",
+        "cert_number": "89949028"
+    },
+    {
+        "price": "$143.75",
+        "auction_type": "Best Offer",
+        "auction_seller": "daelum",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7492990186590957171/3308536540293959684.jpg",
+        "lot_number": "124339086192",
+        "cert_number": "41461935",
+        "date": "9/16/2020",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d9nvuahg4xykp.cloudfront.net/5669972359992900685/-6867022063491303963.jpg",
+        "auction_seller": "jimetics",
+        "auction_type": "Buy It Now",
+        "date": "12/3/2017",
+        "price": "$29.00",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "27763297",
+        "lot_number": "162764147539"
+    },
+    {
+        "date": "6/12/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4191898972128125207/6062044052623907114.jpg",
+        "price": "$15.00",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "90978835",
+        "auction_seller": "arizona_tcg",
+        "lot_number": "405017873076"
+    },
+    {
+        "auction_seller": "charizardtcg",
+        "date": "11/2/2021",
+        "cert_number": "48022814",
+        "price": "$460.55",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6498926389778064364/6900966822847617490.jpg",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "lot_number": "393650236388",
+        "grade": "10"
+    },
+    {
+        "lot_number": "285445383933",
+        "price": "$38.77",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3214299607516903028/-151223571545647308.jpg",
+        "auction_seller": "zandgemporium",
+        "grade": "9",
+        "date": "9/4/2023",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "63149598"
+    },
+    {
+        "cert_number": "67489525",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7306953045617425214/4857974800934247259.jpg",
+        "auction_seller": "wcs_investments",
+        "date": "1/29/2023",
+        "lot_number": "354511607907",
+        "grade": "8",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$23.52"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "date": "1/31/2022",
+        "price": "$39.99",
+        "cert_number": "55658751",
+        "grade": "9",
+        "lot_number": "294763014629",
+        "auction_seller": "amtsupply",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7011460326966156585/-4773866499570357393.jpg"
+    },
+    {
+        "price": "$50.99",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/7089128775417140906/4098290868528816769.jpg",
+        "auction_type": "Buy It Now",
+        "auction_seller": "pokemon_revolution",
+        "cert_number": "27739661",
+        "lot_number": "122688290681",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "grade": "10"
+    },
+    {
+        "lot_number": "314971115869",
+        "cert_number": "43083519",
+        "auction_type": "Auction",
+        "price": "$113.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4458970853341833614/-7246518675003075209.jpg",
+        "auction_house": "eBay",
+        "auction_seller": "tca_gaming",
+        "grade": "10",
+        "date": "12/5/2023"
+    },
+    {
+        "price": "$14.83",
+        "auction_seller": "djbrluton",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/297595486222756240/-5398876206375850718.jpg",
+        "grade": "8",
+        "date": "8/18/2024",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "91827598",
+        "lot_number": "126619047145"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2203632798930849881/6119614299818403567.jpg",
+        "price": "$122.50",
+        "auction_seller": "pwcc_auctions",
+        "date": "5/30/2021",
+        "cert_number": "41044040",
+        "lot_number": "402857342925",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "price": "$13.00",
+        "cert_number": "42688038",
+        "lot_number": "143257690687",
+        "date": "5/28/2019",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3391018546234297256/4115403919213662706.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$26.01",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3267636957218596034/-5816811875841297539.jpg",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_seller": "bibscollectibles",
+        "auction_house": "eBay",
+        "date": "2/12/2023",
+        "cert_number": "66318812",
+        "lot_number": "225399353198"
+    }
+]

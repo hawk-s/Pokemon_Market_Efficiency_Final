@@ -1,0 +1,57 @@
+[
+    {
+        "date": "12/31/2021",
+        "auction_seller": "slab10stradingcards",
+        "lot_number": "203765654522",
+        "cert_number": "53691448",
+        "price": "$34.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1894974181714841164/3930442792872010793.jpg"
+    },
+    {
+        "auction_seller": "onepizza",
+        "price": "$10.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1199952114667594742/8268764182779060614.jpg",
+        "date": "9/20/2022",
+        "cert_number": "57386463",
+        "grade": "9",
+        "lot_number": "255718727990",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6919819315193550376/4382845253175224536.jpg",
+        "auction_seller": "comc_consignment",
+        "grade": "8",
+        "date": "5/10/2022",
+        "lot_number": "234530744795",
+        "price": "$10.52",
+        "cert_number": "56488527",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2606094267376517366/1214684286536816417.jpg",
+        "auction_seller": "sellers_sportscards",
+        "price": "$9.01",
+        "grade": "9",
+        "lot_number": "265514116141",
+        "auction_type": "Auction",
+        "cert_number": "55518608",
+        "auction_house": "eBay",
+        "date": "1/30/2022"
+    },
+    {
+        "auction_seller": "onepizza",
+        "price": "$9.50",
+        "cert_number": "57386463",
+        "grade": "9",
+        "lot_number": "255783419147",
+        "date": "10/26/2022",
+        "auction_house": "eBay",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5575605019501664299/8268764182779060614.jpg"
+    }
+]

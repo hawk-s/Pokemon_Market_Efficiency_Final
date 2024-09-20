@@ -1,0 +1,68 @@
+[
+    {
+        "date": "6/23/2024",
+        "auction_seller": "mirmex",
+        "price": "$108.96",
+        "lot_number": "285903739761",
+        "auction_type": "Auction",
+        "cert_number": "88836145",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8557221840589647748/-3523308703818732990.jpg"
+    },
+    {
+        "cert_number": "69542238",
+        "date": "4/3/2023",
+        "auction_seller": "emcoo5092",
+        "grade": "8",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6999597675003243865/5028779696235081755.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$29.34",
+        "lot_number": "225492008953"
+    },
+    {
+        "cert_number": "69542239",
+        "auction_seller": "ahassl_10",
+        "date": "3/19/2023",
+        "lot_number": "354631870940",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$28.51",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8112928840035374389/-953123648259206099.jpg"
+    },
+    {
+        "lot_number": "313612998940",
+        "cert_number": "49152700",
+        "auction_seller": "coins_n_rarities",
+        "price": "$105.38",
+        "date": "7/30/2021",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5340566830547954056/-6734568594907294299.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "69542239",
+        "lot_number": "235000907581",
+        "auction_seller": "andri_emman",
+        "grade": "9",
+        "auction_house": "eBay",
+        "price": "$61.82",
+        "auction_type": "Auction",
+        "date": "5/11/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8147863605992748726/-4736793749803042040.jpg"
+    },
+    {
+        "auction_seller": "psa",
+        "lot_number": "305714526443",
+        "cert_number": "94034998",
+        "date": "8/19/2024",
+        "price": "$142.50",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1689959528139887161/-4854541574238841126.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

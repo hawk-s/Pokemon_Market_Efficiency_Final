@@ -1,0 +1,68 @@
+[
+    {
+        "auction_seller": "devpay_10",
+        "lot_number": "394228891655",
+        "cert_number": "62102450",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5464496799699206201/-2924321933356640464.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "9/12/2022",
+        "grade": "10",
+        "price": "$18.00"
+    },
+    {
+        "date": "12/10/2023",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2818130230677197804/-2818366256490318276.jpg",
+        "auction_seller": "zandgemporium",
+        "cert_number": "82602531",
+        "lot_number": "285586745081",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$22.72",
+        "grade": "10"
+    },
+    {
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6375177147948311469/6865836602006399715.jpg",
+        "lot_number": "373821947296",
+        "auction_seller": "hana_collections",
+        "cert_number": "63345502",
+        "date": "12/15/2021",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "price": "$33.00"
+    },
+    {
+        "cert_number": "61731557",
+        "date": "3/29/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2879155758692938691/-7119694635359481046.jpg",
+        "auction_seller": "probstein123",
+        "price": "$23.00",
+        "auction_type": "Auction",
+        "lot_number": "386875185230",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "9/11/2022",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5126746890188771450/6852375696126871621.jpg",
+        "price": "$42.47",
+        "lot_number": "275447340370",
+        "auction_seller": "wonderland_retro",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "cert_number": "57688374"
+    },
+    {
+        "date": "12/9/2020",
+        "lot_number": "124478056834",
+        "auction_type": "Best Offer",
+        "cert_number": "47381648",
+        "auction_seller": "prestomil0",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-468633379185376286/4571366345812076786.jpg",
+        "price": "$100.00",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

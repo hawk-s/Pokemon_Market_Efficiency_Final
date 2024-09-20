@@ -1,0 +1,35 @@
+[
+    {
+        "lot_number": "142691795270",
+        "cert_number": "27743399",
+        "price": "$2.76",
+        "auction_seller": "pokedad_gym",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "2/20/2018",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-5581684719236591607/-7098388532616477538.jpg"
+    },
+    {
+        "price": "$4.99",
+        "auction_seller": "tnolan0816",
+        "cert_number": "27743402",
+        "lot_number": "292373667146",
+        "date": "12/21/2017",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1663055861034353808/1949817220301985625.jpg",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "price": "$4.99",
+        "cert_number": "27743400",
+        "lot_number": "292373665347",
+        "date": "12/21/2017",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-7955906700279468055/5129625898149554845.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "tnolan0816",
+        "auction_house": "eBay",
+        "grade": "10"
+    }
+]

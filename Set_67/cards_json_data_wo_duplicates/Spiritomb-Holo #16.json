@@ -1,0 +1,79 @@
+[
+    {
+        "price": "$13.50",
+        "date": "7/1/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/5090452327649013646/-2214462290195513375.jpg",
+        "grade": "9",
+        "auction_seller": "patrondub",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "cert_number": "72254943",
+        "lot_number": "335456660499"
+    },
+    {
+        "auction_seller": "pwcc_auctions",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4400122497735030097/7714574668000908332.jpg",
+        "lot_number": "353241780018",
+        "cert_number": "45862098",
+        "date": "10/28/2020",
+        "grade": "9",
+        "price": "$53.00",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "date": "3/24/2024",
+        "cert_number": "85329384",
+        "grade": "7",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/1678829059542231403/1714130578107301954.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "315223689369",
+        "price": "$6.93",
+        "auction_seller": "nevergonnaletmewdown"
+    },
+    {
+        "cert_number": "62353504",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8588009935058357036/2211006335627352434.jpg",
+        "date": "9/1/2024",
+        "grade": "9",
+        "price": "$20.50",
+        "lot_number": "305745041498",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "auction_seller": "psa"
+    },
+    {
+        "lot_number": "115731194778",
+        "auction_seller": "tannah12",
+        "price": "$73.36",
+        "date": "3/22/2023",
+        "cert_number": "60754629",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/4818338562285746262/6370595992594784115.jpg",
+        "auction_house": "eBay"
+    },
+    {
+        "grade": "5",
+        "date": "8/24/2023",
+        "auction_seller": "unseenmetals",
+        "price": "$5.50",
+        "cert_number": "55871505",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "385981196878",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/100963749547900359/2943574838756318521.jpg"
+    },
+    {
+        "cert_number": "70160077",
+        "date": "3/15/2023",
+        "auction_seller": "nostalgiahigh02",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "price": "$24.52",
+        "lot_number": "185805584665",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6525437613356798818/-423458636893162992.jpg"
+    }
+]

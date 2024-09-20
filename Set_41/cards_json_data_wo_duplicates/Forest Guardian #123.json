@@ -1,0 +1,35 @@
+[
+    {
+        "date": "3/20/2018",
+        "lot_number": "112867389697",
+        "cert_number": "27835614",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8300460296321878802/2690268449270663918.jpg",
+        "price": "$20.50",
+        "auction_seller": "my_honolulu_blue",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "cert_number": "58746143",
+        "lot_number": "375103795020",
+        "price": "$16.05",
+        "date": "12/14/2023",
+        "auction_seller": "probstein123",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-6588920741020442853/3102789619712157034.jpg"
+    },
+    {
+        "lot_number": "142836549284",
+        "cert_number": "40771361",
+        "price": "$6.50",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-3104216492057527771/3746351538067411271.jpg",
+        "auction_type": "Auction",
+        "auction_seller": "literaryscholar",
+        "auction_house": "eBay",
+        "date": "6/24/2018",
+        "grade": "10"
+    }
+]

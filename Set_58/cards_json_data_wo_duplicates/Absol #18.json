@@ -1,0 +1,68 @@
+[
+    {
+        "auction_house": "Goldin Auctions",
+        "grade": "8",
+        "image_url": "https://s3-us-west-2.amazonaws.com/cu-apr/auctions/-7090891332997569783/7428502033335465811/images/1.jpg",
+        "lot_number": "5401",
+        "date": "6/15/2023",
+        "auction_type": "Auction",
+        "price": "$8.00",
+        "auction_seller": "Weekly Auction 6 Jun - 15 Jun",
+        "cert_number": "75596326"
+    },
+    {
+        "cert_number": "49290033",
+        "auction_seller": "irviocho_0",
+        "price": "$41.00",
+        "grade": "9",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-8786944008117503157/1458580818927998374.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "154728428503",
+        "date": "12/8/2021"
+    },
+    {
+        "price": "$13.61",
+        "lot_number": "285528057964",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-813175958184109992/-5514789037420670016.jpg",
+        "date": "10/30/2023",
+        "cert_number": "70372761",
+        "auction_seller": "pikapopcollectibles",
+        "grade": "9",
+        "auction_type": "Auction",
+        "auction_house": "eBay"
+    },
+    {
+        "price": "$19.84",
+        "date": "7/8/2024",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2901062812465371131/-5311328454281925081.jpg",
+        "lot_number": "186502950634",
+        "grade": "9",
+        "auction_type": "Auction",
+        "cert_number": "73922274",
+        "auction_house": "eBay",
+        "auction_seller": "pokedreammarket"
+    },
+    {
+        "auction_seller": "tannah12",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/8754146549995460404/-3388067140538087983.jpg",
+        "cert_number": "59536748",
+        "price": "$17.45",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "3/20/2023",
+        "auction_house": "eBay",
+        "lot_number": "115727508279"
+    },
+    {
+        "grade": "10",
+        "lot_number": "196001966407",
+        "price": "$39.88",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/70705900176265044/2236021084218687195.jpg",
+        "auction_seller": "ecology1990",
+        "cert_number": "43240272",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "date": "10/4/2023"
+    }
+]

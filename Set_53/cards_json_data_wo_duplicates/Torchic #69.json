@@ -1,0 +1,46 @@
+[
+    {
+        "lot_number": "364096919585",
+        "price": "$10.50",
+        "auction_seller": "matterandmotiongames",
+        "grade": "9",
+        "auction_type": "Auction",
+        "date": "1/9/2023",
+        "cert_number": "69284006",
+        "auction_house": "eBay",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2036365808651345303/-256346663488285965.jpg"
+    },
+    {
+        "date": "12/19/2022",
+        "price": "$30.00",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/-2095967805164719086/7060552814258884518.jpg",
+        "auction_seller": "matterandmotiongames",
+        "lot_number": "364079393539",
+        "cert_number": "68219478",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "grade": "10"
+    },
+    {
+        "date": "2/20/2023",
+        "lot_number": "234897372503",
+        "grade": "9",
+        "auction_type": "Auction",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/6081599948488202808/-539640557304691980.jpg",
+        "cert_number": "69284006",
+        "price": "$3.99",
+        "auction_house": "eBay",
+        "auction_seller": "zombielandog"
+    },
+    {
+        "date": "12/14/2022",
+        "price": "$30.00",
+        "auction_seller": "matterandmotiongames",
+        "image_url": "https://d1w8cc2yygc27j.cloudfront.net/2950034417983423061/-2284041405446781762.jpg",
+        "auction_type": "Auction",
+        "auction_house": "eBay",
+        "lot_number": "364073981073",
+        "grade": "10",
+        "cert_number": "68219479"
+    }
+]
