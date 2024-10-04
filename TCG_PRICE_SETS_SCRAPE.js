@@ -1,3 +1,5 @@
+// FUNCTION GETTING THE HTMLS OF THE (FULL) TCGPLAYER SETS PRICE GUIDES
+
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
