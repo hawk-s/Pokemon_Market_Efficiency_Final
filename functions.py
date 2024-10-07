@@ -319,7 +319,7 @@ def scrape_tcgplayer(url, output_filename):
         consolidated_html = ""
 
         page_number = 1
-        while page_number <= 4:
+        while page_number <= 6:
             # Construct the URL for the current page
             page_url = f"{url}?p={page_number}"
             driver.get(page_url)
