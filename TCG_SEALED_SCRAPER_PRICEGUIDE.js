@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
 
-async function downloadHtmlAfterTableLoad(jsonFile, outputFolder = 'tcg_price_guide_sealed_htmls_full', timeout = 20000) {
+async function downloadHtmlAfterTableLoad(jsonFile, outputFolder = 'TCG_PRICE_GUIDES_SEALED_FINAL', timeout = 20000) {
     try {
         // Load URLs from JSON file
         const urls = JSON.parse(fs.readFileSync(jsonFile, 'utf8'));
@@ -85,4 +85,4 @@ async function downloadHtmlAfterTableLoad(jsonFile, outputFolder = 'tcg_price_gu
 }
 
 // Example usage:
-downloadHtmlAfterTableLoad('links_tcgp_sets.json');
+downloadHtmlAfterTableLoad('links_tcgp_sets_cleaned_merged_FINAL.json');
