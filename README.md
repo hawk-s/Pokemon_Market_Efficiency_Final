@@ -5,7 +5,7 @@ The *Time Series analysis (excluding K&V EI)* can be accessed under the followin
 https://colab.research.google.com/drive/1PDfv8NHqm7FNcvbhrpqjH35eKXWMD8wz?usp=sharing
 
 
-The *Cross-Sectional analysis* can be replicated by running the file 'analysis_correct_final_copied_15.7.25.ipynb' in the 'CROSS_SECTION_ANALYSIS' folder.
+The *Cross-Sectional analysis* can be replicated by running the file 'ANALYSIS_MAIN.ipynb' in the 'CROSS_SECTION_ANALYSIS' folder.
 
 
 The second part of the *Time Series analysis - K&V EIs* can be replicated by running the respective '.ipynb' files in the  'TIME_SERIES_ANALYSIS' folder.
